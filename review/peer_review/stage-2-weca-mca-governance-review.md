@@ -37,7 +37,7 @@ Status: simulated due-diligence review. This is not WECA/MCA approval, assurance
 
 ## Decision
 
-Simulation sign-off with conditions for WECA/MCA evidence classification. Simulation no-go for any conclusion that WECA/MCA approval, support, objection, consent or no-role status is established.
+Simulation sign-off with conditions for WECA/MCA evidence classification. Simulation no-go for any conclusion that WECA/MCA approval, rejection, support, objection, consent, sponsorship, funding, transferred WPL function or no-role status is established.
 
 ## Evidence Inspected
 
@@ -60,9 +60,9 @@ Simulation sign-off with conditions for WECA/MCA evidence classification. Simula
 
 - JLTP4, Bus Strategy and BSIP material provide strategic and funding-policy context for demand management and WPL-type tools.
 - WECA assurance framework material is relevant where WECA/MCA funding streams or assurance gates are engaged.
-- No formal WECA/MCA approval, support, objection, consent or funding decision for a Bristol WPL is evidenced.
+- No formal WECA/MCA approval, rejection, support, objection, consent, sponsorship, funding decision, transferred WPL function or no-role status for a Bristol WPL is evidenced.
 - `SRC-LEG-0010` creates a current-law mapping task because the extracted amendment source changes the 2017 Order, including omission of Part 3 transport in the extracted text. It does not by itself settle WPL functions.
-- WECA/MCA constitution material is now acquired and supports function/procedure/delegation mapping only. It does not prove a Bristol WPL approval, support, objection, consent requirement or no-role conclusion.
+- WECA/MCA constitution material is now acquired and supports function/procedure/delegation mapping only. It does not prove a Bristol WPL approval, rejection, support, objection, consent requirement, transferred WPL function or no-role conclusion.
 - `SRC-LEG-0015` has been marked as a negative-control source because it concerns charges for works in maintainable highways, not WPL powers.
 - Current revised WECA Order article pages confirm the Part 3 transport omission note after SI 2026/519. This is a mapping input, not a WPL role conclusion.
 

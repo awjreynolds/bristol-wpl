@@ -54,7 +54,7 @@ This note defines controlled role options for WECA/MCA in the Bristol WPL simula
 
 ## Current Working Treatment
 
-The simulation may cite WECA/MCA as strategic and assurance context only. It must not state that WECA/MCA has approved, rejected, consented to, sponsored or has no role in a Bristol WPL.
+The simulation may cite WECA/MCA as strategic and conditional funding/assurance context only. It must not state that WECA/MCA has approved, rejected, consented to, sponsored, funded, objected to, has a transferred WPL function or has no role in a Bristol WPL.
 
 ## Evidence Needed To Close P0
 

@@ -15,15 +15,17 @@ Officer review and distribution copies must be editable DOCX/XLSX/HTML or contro
 
 Stage 0 bootstrap and Stage 1 source acquisition/simulated assurance are complete with conditions.
 
-Current controlled gate report:
+Current controlled gate reports:
 
-- `review/stage_gate_reports/stage-1-source-acquisition-and-simulated-assurance-report.md`
+- `review/stage_gate_reports/stage-2b-current-law-role-map-report.md`
+- `review/stage_gate_reports/stage-2a-governance-evidence-refinement-report.md`
+- `review/stage_gate_reports/stage-2-legal-governance-technical-baseline-report.md`
 
 Current evidence state:
 
-- `evidence/source_register.csv` contains 67 rows.
-- 49 sources are downloaded and extracted.
-- 17 sources remain seeded but not downloaded.
+- `evidence/source_register.csv` contains 92 rows.
+- 75 sources are downloaded and extracted.
+- 16 sources remain seeded but not downloaded.
 - 1 source acquisition failed (`SRC-ACADEMIC-0001`).
 - `evidence/extraction_manifest.csv` is the current extraction state.
 - `evidence/extraction_log.csv` is the append-only extraction audit log.
@@ -36,7 +38,7 @@ Open P0 blockers include:
 
 - Bristol licensing authority, order-maker and delegation route.
 - WECA/MCA current-law role.
-- Secretary of State confirmation route classification.
+- DfT engagement evidence and classification, noting that the Secretary of State confirmation route is now controlled for an initial England WPL order.
 - Authoritative WPL boundary and parking inventory.
 - DPIA/lawful-basis pack and enforcement operating procedure.
 - ASR/OAR/ASST, model cards, model outputs and uncertainty controls.

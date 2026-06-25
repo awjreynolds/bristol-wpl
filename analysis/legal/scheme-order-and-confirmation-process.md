@@ -41,7 +41,7 @@ What is the controlled route for making and confirming an initial Bristol WPL or
 
 ## Current Law
 
-`SRC-LEG-0003` states that a licensing scheme under the relevant Part shall not come into force unless the order making it has been submitted to and confirmed by the appropriate national authority, subject to exceptions specified in regulations. `SRC-LEG-0011` regulation 3 gives a narrow RPI-only variation exemption.
+`SRC-LEG-0003` states that a licensing scheme under the relevant Part shall not come into force unless the order making it has been submitted to and confirmed by the appropriate national authority, subject to exceptions specified in regulations. `SRC-LEG-0020` identifies the Secretary of State as the appropriate national authority for licensing schemes relating only to England. `SRC-LEG-0011` regulation 3 gives a narrow RPI-only variation exemption.
 
 ## Analysis
 
@@ -53,11 +53,11 @@ For simulation control, the order route is:
 4. Consider consultation outcomes conscientiously.
 5. Approve final order for submission through the confirmed route.
 6. Submit to the appropriate national authority for confirmation.
-7. Treat confirmation as a formal decision, not DfT engagement.
+7. Treat confirmation as a formal Secretary of State decision, not DfT engagement.
 
 ## Uncertainty
 
-Promoter/order-maker and submitter remain P0 open. Current DfT expectations are not acquired as a formal procedure source.
+Promoter/order-maker and submitter remain P0 open. Current DfT expectations are not acquired as a formal procedure source. The DfT/Secretary of State distinction itself is now a controlled P1 route rule under Stage 2B.
 
 ## Scheme Consequence
 
@@ -72,7 +72,7 @@ The statutory dossier checklist can be built, but no statutory submission simula
 
 ## Decision
 
-Treat Secretary of State confirmation as required for an initial England order unless specific current-law evidence displaces it.
+Treat Secretary of State confirmation as required for an initial England order unless specific current-law evidence displaces it. Do not treat informal DfT engagement as confirmation.
 
 ## Professional Reviewer
 

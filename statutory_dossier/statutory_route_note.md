@@ -37,7 +37,7 @@ Status: Stage 2 technical baseline. This is not legal advice and is not a statut
 
 ## Working Route
 
-For simulation drafting only, an initial Bristol Workplace Parking Levy is treated as a Transport Act 2000 workplace parking licensing scheme. `SRC-LEG-0003` supports the proposition that a licensing scheme order must be submitted to and confirmed by the appropriate national authority before coming into force, subject to specified regulatory exceptions. `SRC-LEG-0011` supports one narrow exception for a variation order whose sole purpose is altering licence charges in line with RPI; that exception is not available for an initial Bristol order.
+For simulation drafting only, an initial Bristol Workplace Parking Levy is treated as a Transport Act 2000 workplace parking licensing scheme. `SRC-LEG-0003` supports the proposition that a licensing scheme order must be submitted to and confirmed by the appropriate national authority before coming into force, subject to specified regulatory exceptions. `SRC-LEG-0020` identifies the Secretary of State as the appropriate national authority for licensing schemes relating only to England. `SRC-LEG-0011` supports one narrow exception for a variation order whose sole purpose is altering licence charges in line with RPI; that exception is not available for an initial Bristol order.
 
 The current baseline is therefore:
 
@@ -46,14 +46,14 @@ The current baseline is therefore:
 3. consult at a formative stage;
 4. consider responses and amend where justified;
 5. approve the final order through the correct local governance route;
-6. submit the order for Secretary of State/appropriate national authority confirmation;
+6. submit the order for Secretary of State confirmation;
 7. bring the order into force only after formal confirmation and any required modifications.
 
 ## Route Distinctions
 
 | Route | Working Treatment | Status |
 | --- | --- | --- |
-| Initial Bristol order | Treat Secretary of State confirmation as required unless current law establishes otherwise. | working control, but promoter/submission route P0 open |
+| Initial Bristol order | Treat Secretary of State confirmation as required unless current law establishes otherwise. | controlled route rule, but promoter/submission route P0 open |
 | Ordinary variation | Treat confirmation as required unless a specific exception applies. | P1 review required |
 | RPI-only variation | Narrow 2009 Regulations exemption; not for an initial scheme. | controlled prohibition |
 | Revocation | Distinct route requiring separate review. | P1 review required |
@@ -65,13 +65,14 @@ The current baseline is therefore:
 | --- | --- | --- |
 | `SRC-LEG-0001` | Explains WPL licensing concept, local/joint schemes and workplace parking definition. | Explanatory note, not a substitute for current consolidated law. |
 | `SRC-LEG-0003` | Confirms section 184 confirmation control. | Does not identify Bristol promoter or WECA/MCA role. |
+| `SRC-LEG-0020` | Confirms Secretary of State as appropriate national authority for England-only schemes. | Does not identify Bristol promoter or submitter. |
 | `SRC-LEG-0011` | Confirms RPI-only variation exception and enforcement controls. | Does not remove initial-order confirmation. |
 | `SRC-BCC-0004`, `SRC-BCC-0022` | Evidence September 2024 Stage One/OBC development approval. | Do not approve implementation, consultation launch, FBC, boundary, charge, threshold or exemptions. |
 | `SRC-LEG-0009`, `SRC-LEG-0010` | Evidence WECA Order and 2026 amendment trigger. | Do not by themselves settle WPL role without consolidated function mapping. |
 
 ## DfT / Secretary Of State Distinction
 
-DfT engagement may help prepare a dossier, but engagement is not statutory confirmation. Every interaction must be classified as one of:
+DfT engagement may help prepare a dossier, but engagement is not statutory confirmation. This is now a controlled Stage 2B route rule rather than a P0 route ambiguity. Every interaction must be classified as one of:
 
 - informal officer engagement;
 - policy expectation;
@@ -85,10 +86,11 @@ No source may be described as approval or confirmation unless it identifies the 
 
 - Confirm Bristol City Council competence and delegation route as WPL licensing authority/order-maker.
 - Confirm whether current devolution/WECA/MCA law creates transferred, concurrent, consent, assurance or funding-dependency roles.
-- Confirm who submits the initial order for Secretary of State/appropriate national authority confirmation.
+- Confirm who submits the initial order for Secretary of State confirmation.
 
 ## P1 Questions
 
+- Acquire and classify current DfT procedural expectations.
 - Confirm revocation route and any confirmation or consultation requirements.
 - Complete scheme order contents matrix.
 - Complete consultation, inquiry, exemptions/discounts, enforcement, data, equality, subsidy/procurement and environmental-law issue notes.

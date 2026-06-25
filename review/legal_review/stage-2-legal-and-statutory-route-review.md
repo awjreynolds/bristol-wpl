@@ -39,7 +39,7 @@ Status: simulated due-diligence review. This is not legal advice, statutory conf
 
 Simulation sign-off for a **technical legal-route baseline only**.
 
-The review supports using the following controlled working position for continued evidence, source-note, spatial/data, appraisal-specification and governance work: an initial Bristol WPL should be treated as a Transport Act 2000 workplace parking licensing scheme order requiring Secretary of State/appropriate national authority confirmation before coming into force.
+The review supports using the following controlled working position for continued evidence, source-note, spatial/data, appraisal-specification and governance work: an initial Bristol WPL should be treated as a Transport Act 2000 workplace parking licensing scheme order requiring Secretary of State/appropriate national authority confirmation before coming into force. Stage 2B further records this distinction in `analysis/legal/stage-2b-current-law-role-map.md`.
 
 The review does not support preferred scheme design sign-off, statutory consultation launch, OBC recommendation, FBC readiness, operations readiness or statutory submission readiness.
 
@@ -57,7 +57,7 @@ The review does not support preferred scheme design sign-off, statutory consulta
 
 1. Section 184 confirmation can be treated as a working control for an initial England WPL order; it should no longer be framed as wholly unresolved.
 2. The 2009 Regulations RPI-only confirmation exemption is narrow and must not be applied to an initial Bristol scheme.
-3. DfT engagement must be recorded separately from Secretary of State confirmation.
+3. DfT engagement must be recorded separately from Secretary of State confirmation. Stage 2B narrows this from a P0 confusion risk to a controlled P1 evidence-management rule.
 4. Bristol September 2024 evidence supports Stage One/OBC development and Stage 1 procurement/contract authority only.
 5. WECA/MCA evidence supports strategic/funding/assurance context only; current-law role remains unresolved.
 6. Schedule 12 and the 2003 Regulations require stronger net-proceeds, accounting, plan and programme controls before any OBC/FBC or statutory submission readiness claim.

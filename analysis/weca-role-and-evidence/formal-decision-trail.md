@@ -37,7 +37,7 @@ Status: Stage 2 technical baseline. Simulation only; not WECA/MCA approval, lega
 
 ## Stage 2 Finding
 
-No inspected repo-local source evidences formal WECA/MCA approval, consent, objection, funding approval or statutory-route decision for a Bristol Workplace Parking Levy. Current evidence supports strategic policy context and possible assurance/funding interfaces only.
+No inspected repo-local source evidences formal WECA/MCA approval, rejection, consent, sponsorship, objection, funding approval, transferred WPL function, no-role status or statutory-route decision for a Bristol Workplace Parking Levy. Current evidence supports strategic policy context and possible assurance/funding interfaces only.
 
 ## Evidence Classifications
 
@@ -50,13 +50,13 @@ No inspected repo-local source evidences formal WECA/MCA approval, consent, obje
 | `SRC-WECA-0007` | current assurance relevance only | July 2025 assurance framework gives SOBC/OBC/FBC, publication, funding and powers/consents controls where MCA funding is used. | Does not approve WPL licensing, consent or statutory route. |
 | `SRC-LEG-0009` | current-law source trigger | West of England Combined Authority Order 2017 source is present. | Extracted text is not enough to settle WPL functions. |
 | `SRC-LEG-0010` | current-law source trigger | 2026 amendment source includes omission of Part 3 transport and changes to funding/mayoral functions. | Requires consolidated function map and constitution review. |
-| `SRC-WECA-0011` to `SRC-WECA-0013` | constitution source material | WECA/MCA constitution page and Parts A/B are acquired for transport, funding, procedure and delegation mapping. | Does not evidence Bristol WPL approval, consent, support, objection or no-role status. |
+| `SRC-WECA-0011` to `SRC-WECA-0013` | constitution source material | WECA/MCA constitution page and Parts A/B are acquired for transport, funding, procedure and delegation mapping. | Does not evidence Bristol WPL approval, rejection, consent, support, objection, transferred function or no-role status. |
 | `SRC-WECA-0014` to `SRC-WECA-0016` | public transport and committee-route context | WECA transport and committee pages support public narrative and governance-route mapping. | Not WPL-specific approval or statutory authority. |
 | `SRC-LEG-0014` | current-law source trigger | Whole 2026 consequential regulations confirm the West of England amendments sit within wider strategic-authority reforms. | Requires consolidated function map; not WPL-specific approval. |
 | `SRC-LEG-0016` | current-law source trigger | 2026 Act section 2 identifies transport and local infrastructure as a strategic-authority area of competence. | Does not by itself identify WPL order-maker, consent or no-role status. |
 | `SRC-LEG-0022`, `SRC-LEG-0023` | current revised WECA Order article pages | Article pages carry the current Part 3 omission note after SI 2026/519. | Requires function-map reconciliation; not WPL-specific approval. |
 | `SRC-LEG-0015` | negative-control source | Schedule 9 concerns charges for works in maintainable highways. | Not a WPL power source and must not be used as WPL authority. |
-| Bristol WPL papers | Bristol decision context | Bristol has the active public WPL development trail. | Does not prove WECA/MCA approval, support, objection or no role. |
+| Bristol WPL papers | Bristol decision context | Bristol has the active public WPL development trail. | Does not prove WECA/MCA approval, support, objection, funding, consent or no role. |
 
 ## Not Established
 
@@ -65,6 +65,7 @@ No inspected repo-local source evidences formal WECA/MCA approval, consent, obje
 - Formal WECA/MCA support.
 - Formal WECA/MCA objection.
 - WECA/MCA statutory consent requirement.
+- WECA/MCA transferred or concurrent WPL function.
 - WECA/MCA no-role conclusion.
 - Current-law transferred or concurrent WPL function conclusion.
 
@@ -77,4 +78,4 @@ No inspected repo-local source evidences formal WECA/MCA approval, consent, obje
 
 ## Control
 
-Strategic alignment must not be converted into formal support. Silence must not be converted into opposition. Assurance-framework relevance must not be converted into licensing consent or statutory approval.
+Strategic alignment must not be converted into formal support. Silence must not be converted into opposition or no-role status. Assurance-framework relevance must not be converted into licensing consent or statutory approval.

@@ -38,7 +38,7 @@ Status: Stage 2 technical baseline. Simulation only; not a live submission check
 | dossier_item_id | item | required evidence | current status | blocker |
 | --- | --- | --- | --- | --- |
 | DFT-CD-001 | Promoter, order-maker and submitter route | Bristol constitution, WECA/MCA role map, legal route note | open | P0 |
-| DFT-CD-002 | Confirmation route note | Transport Act section 184, 2009 Regulations exception analysis, Secretary of State route | working | P1 |
+| DFT-CD-002 | Confirmation route note | Transport Act section 184, section 198, 2009 Regulations exception analysis, Secretary of State route | controlled route rule | P1 for DfT procedural expectations |
 | DFT-CD-003 | Scheme order working draft | Clause matrix for area, times, charges, duration, licences, exemptions, enforcement, variation and revocation | placeholder | P1 |
 | DFT-CD-004 | Boundary schedule and maps | Legal boundary description, GIS files, split-premises controls | absent | P0 at Stage 4 |
 | DFT-CD-005 | Parking-base evidence | Premises/occupier/provider inventory and survey method | absent | P0 at Stage 4 |

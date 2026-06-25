@@ -39,7 +39,7 @@ Classify each DfT contact as `informal engagement`, `policy expectation`, `proce
 
 | question_id | question | classification sought | why it matters | evidence base |
 | --- | --- | --- | --- | --- |
-| DFT-Q-001 | For an initial England WPL licensing scheme order, what current submission route and dossier format does DfT expect before Secretary of State confirmation? | procedural requirement / policy expectation | Confirms working route without treating engagement as confirmation. | `SRC-LEG-0003`, `SRC-LEG-0011` |
+| DFT-Q-001 | For an initial England WPL licensing scheme order, what current submission route and dossier format does DfT expect before Secretary of State confirmation? | procedural requirement / policy expectation | Confirms current procedural expectations without treating engagement as confirmation. | `SRC-LEG-0003`, `SRC-LEG-0020`, `SRC-LEG-0011`, `analysis/legal/stage-2b-current-law-role-map.md` |
 | DFT-Q-002 | What business-case format is expected for a WPL order submission: DfT five-case OBC/FBC, local authority business case, or bespoke confirmation dossier? | policy expectation | Prevents misaligned OBC/FBC structure. | `SRC-DFT-0001` |
 | DFT-Q-003 | What evidence is expected on scheme order content, including area, times, charges, duration, thresholds, exemptions, vehicle classes, licences, enforcement, variation and revocation? | procedural requirement | Drives scheme-order contents matrix. | `SRC-LEG-0002`, `SRC-LEG-0011`, `SRC-LEG-0013` |
 | DFT-Q-004 | What mapping and boundary evidence is expected, including split premises and cross-boundary parking arrangements? | policy expectation | Links legal certainty to GIS work. | master prompt Stage 4 |
@@ -50,7 +50,7 @@ Classify each DfT contact as `informal engagement`, `policy expectation`, `proce
 | DFT-Q-009 | What enforcement, PCN, representations, appeals, recovery and service evidence is expected? | procedural requirement | Drives operations readiness. | `SRC-LEG-0011` |
 | DFT-Q-010 | What data-protection, privacy, information-law and cyber evidence is expected for employer, premises, licensing and enforcement data? | policy expectation | Drives DPIA and public-release controls. | master prompt Stage 18 |
 | DFT-Q-011 | How should material changes after consultation be handled, and what changes would trigger reconsultation or revised submission? | policy expectation | Controls design refinement. | master prompt Stage 8 |
-| DFT-Q-012 | What role, if any, does DfT expect WECA/MCA to have in assurance, funding, consultation or statutory submission for a Bristol scheme? | policy expectation | Tests WECA/MCA interface without inferring legal consent. | `SRC-WECA-0006`, `SRC-LEG-0009`, `SRC-LEG-0010` |
+| DFT-Q-012 | What role, if any, does DfT expect WECA/MCA to have in assurance, funding, consultation or statutory submission for a Bristol scheme? | policy expectation | Tests WECA/MCA interface without inferring legal consent or no-role status. | `SRC-WECA-0006`, `SRC-WECA-0007`, `SRC-WECA-0011` to `SRC-WECA-0016`, `SRC-LEG-0014`, `SRC-LEG-0016`, `SRC-LEG-0022`, `SRC-LEG-0023` |
 | DFT-Q-013 | What confirmation timetable, inquiry possibility, modification process and post-confirmation conditions should be planned? | procedural requirement | Controls programme and risk. | `SRC-LEG-0003` |
 
 ## Use Control
