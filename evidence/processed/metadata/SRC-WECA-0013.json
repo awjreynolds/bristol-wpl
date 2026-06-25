@@ -1,0 +1,12 @@
+{
+  "characters": 198314,
+  "extracted_date": "2026-06-25",
+  "method": "pdftotext-layout",
+  "output_path": "evidence/processed/text/SRC-WECA-0013.txt",
+  "sha256": "914cdc865a5e8ecc914b5746cc7efdd7541ec832071cc5aa834613036ae294f4",
+  "source_id": "SRC-WECA-0013",
+  "source_path": "evidence/raw/west-of-england-mca/src-weca-0013_part-b-constitution-2026-revision.pdf",
+  "source_status": "downloaded",
+  "title": "Part B Constitution - 2026 Revision",
+  "url": "https://westofengland-ca.moderngov.co.uk/documents/s11374/Part%20B%20-%202026%20Revision.pdf"
+}

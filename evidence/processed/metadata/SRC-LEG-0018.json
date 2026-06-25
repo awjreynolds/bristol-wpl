@@ -1,0 +1,12 @@
+{
+  "characters": 13339,
+  "extracted_date": "2026-06-25",
+  "method": "html-standard-library",
+  "output_path": "evidence/processed/text/SRC-LEG-0018.txt",
+  "sha256": "3e212ea0547c342395698380a14a6a4f92b068fa3a8144b2f69bdd8d1c4d1ac1",
+  "source_id": "SRC-LEG-0018",
+  "source_path": "evidence/raw/legislation/src-leg-0018_transport-act-2000-section-179-licensing-schemes-local-traffic-authorities.html",
+  "source_status": "downloaded",
+  "title": "Transport Act 2000 section 179 licensing schemes made by local traffic authorities",
+  "url": "https://www.legislation.gov.uk/ukpga/2000/38/section/179"
+}

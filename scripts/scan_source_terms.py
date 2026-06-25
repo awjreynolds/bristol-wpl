@@ -51,7 +51,7 @@ def write_csv(rows: list[dict[str, str]]) -> None:
     columns = ["source_id", "title", "status", "text_path", "characters"] + [key for key, _ in TERMS]
     CSV_OUT.parent.mkdir(parents=True, exist_ok=True)
     with CSV_OUT.open("w", newline="", encoding="utf-8") as handle:
-        writer = csv.DictWriter(handle, fieldnames=columns)
+        writer = csv.DictWriter(handle, fieldnames=columns, lineterminator="\n")
         writer.writeheader()
         writer.writerows(rows)
 

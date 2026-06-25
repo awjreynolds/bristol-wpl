@@ -44,10 +44,10 @@ Status: Stage 2 technical baseline. Simulation only; not WECA/MCA approval or le
 | Formal support established | no | none found | Do not use. |
 | Formal objection established | no | none found | Do not use. |
 | Adopted strategic alignment only | yes | `SRC-WECA-0001`, `SRC-WECA-0003`, `SRC-WECA-0004` | WECA/MCA adopted strategies discuss demand management and WPL-type mechanisms as possible policy/funding tools. |
-| Assurance relevance only | yes, conditional | `SRC-WECA-0006` | WECA/MCA assurance framework may be relevant if the scheme or funded transport package uses WECA/MCA funding streams. |
+| Assurance relevance only | yes, conditional | `SRC-WECA-0006`, `SRC-WECA-0007` | WECA/MCA assurance framework may be relevant if the scheme or funded transport package uses WECA/MCA funding streams. |
 | Officer/technical collaboration indicated | not established for WPL | no formal WPL collaboration record acquired | Do not use except as a gap. |
 | No evidence found | yes for formal approval/support/objection/consent | source scans and Stage 1 reviews | No formal WECA/MCA approval, support, objection, consent or funding decision has been found in repo evidence. |
-| Statutory role unresolved | yes | `SRC-LEG-0009`, `SRC-LEG-0010` | Current-law WECA/MCA role is unresolved and must be mapped before route conclusion. |
+| Statutory role unresolved | yes | `SRC-WECA-0011` to `SRC-WECA-0016`, `SRC-LEG-0009`, `SRC-LEG-0010`, `SRC-LEG-0014`, `SRC-LEG-0016`, `SRC-LEG-0022`, `SRC-LEG-0023` | Current-law WECA/MCA role is unresolved; constitution, committee-route and legislation sources are acquired but must be mapped before route conclusion. |
 
 ## Prohibited Wording
 

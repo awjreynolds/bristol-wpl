@@ -1,0 +1,12 @@
+{
+  "characters": 3886,
+  "extracted_date": "2026-06-25",
+  "method": "pdftotext-layout",
+  "output_path": "evidence/processed/text/SRC-BCC-0033.txt",
+  "sha256": "ee8f3238dd4db87484fd31b5924f32cb77abec741e33191a3ca86547f5554c98",
+  "source_id": "SRC-BCC-0033",
+  "source_path": "evidence/raw/bristol-city-council/src-bcc-0033_part-3-1-full-council-functions-may-2024.pdf",
+  "source_status": "downloaded",
+  "title": "Part 3.1 - Full Council Functions",
+  "url": "https://democracy.bristol.gov.uk/documents/s125433/Part%203.1%20-%20Full%20Council%20Functions%20-%20May%202024.pdf"
+}

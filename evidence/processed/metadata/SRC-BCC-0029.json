@@ -1,0 +1,12 @@
+{
+  "characters": 73382,
+  "extracted_date": "2026-06-25",
+  "method": "pdftotext-layout",
+  "output_path": "evidence/processed/text/SRC-BCC-0029.txt",
+  "sha256": "0376766267747a33131d95c4593073f45cc18e16141432b8257accd9a73bce59",
+  "source_id": "SRC-BCC-0029",
+  "source_path": "evidence/raw/bristol-city-council/src-bcc-0029_part-3-2-terms-of-reference-of-committees-november-2025.pdf",
+  "source_status": "downloaded",
+  "title": "Part 3.2 - Terms of Reference of Committees",
+  "url": "https://democracy.bristol.gov.uk/documents/s125434/Part%203.2%20-%20Terms%20of%20Reference%20of%20Committees%20-%20November%202025.pdf"
+}

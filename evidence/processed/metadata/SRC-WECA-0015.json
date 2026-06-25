@@ -1,0 +1,12 @@
+{
+  "characters": 4612,
+  "extracted_date": "2026-06-25",
+  "method": "html-standard-library",
+  "output_path": "evidence/processed/text/SRC-WECA-0015.txt",
+  "sha256": "161157444d2fff6d2aa303fd87431fb34ca2146ab6cd499bc14b921b1c943a0d",
+  "source_id": "SRC-WECA-0015",
+  "source_path": "evidence/raw/west-of-england-mca/src-weca-0015_combined-authority-committee-details.html",
+  "source_status": "downloaded",
+  "title": "Combined Authority Committee details",
+  "url": "https://westofengland-ca.moderngov.co.uk/mgCommitteeDetails.aspx?ID=141"
+}

@@ -41,7 +41,9 @@ Who must approve the OBC, consultation, FBC, scheme order, submission, procureme
 
 ## Current Law And Governance Evidence
 
-`SRC-BCC-0004` and `SRC-BCC-0022` evidence September 2024 Transport and Connectivity Committee approval for Stage One Development and OBC work, CAZ-funded development costs and Stage 1 procurement/contract authority. The decision trail does not evidence approval of implementation, statutory consultation, FBC, preferred scheme, final order, submission or implementation.
+`SRC-BCC-0004` and `SRC-BCC-0022` evidence September 2024 Transport and Connectivity Committee approval for Stage One Development and OBC work, CAZ-funded development costs and Stage 1 procurement/contract authority. `SRC-BCC-0035` and `SRC-BCC-0036` close the May 2025 decision-record gap and confirm the WPL item was an information update that committee noted. `SRC-BCC-0023` to `SRC-BCC-0026` do the same for October 2025 and March 2026. The decision trail does not evidence approval of implementation, statutory consultation, FBC, preferred scheme, final order, submission or implementation.
+
+Current Bristol constitution sources are acquired in `SRC-BCC-0028` to `SRC-BCC-0034`, with the Growth and Regeneration officer scheme in `SRC-BCC-0031`. They support mapping of Transport and Connectivity Committee remit, key-decision procedure, Full Council reserved functions, access-to-information/forward-plan controls and officer delegation principles.
 
 ## Analysis
 
@@ -59,7 +61,7 @@ The decision map must distinguish:
 
 ## Uncertainty
 
-The current Bristol constitution and delegation scheme are not acquired. The WECA/MCA role is not closed.
+The current Bristol constitution and delegation scheme are acquired but not yet mapped to a final WPL order-making and submission route. The WECA/MCA role is not closed.
 
 ## Scheme Consequence
 
@@ -67,15 +69,15 @@ No future approval route can be asserted. The OBC/FBC templates must keep decisi
 
 ## Evidence Required
 
-- Bristol constitution/delegation scheme.
-- Committee terms of reference.
-- Key-decision thresholds.
-- Any Full Council, executive, committee or officer delegation requirement.
+- Legal mapping of acquired Bristol constitution/delegation scheme sources to the Transport Act WPL function.
+- Committee terms of reference and Full Council reserved-function check.
+- Key-decision thresholds and forward-plan requirements.
+- Any Full Council, executive, committee or officer delegation requirement for order making and statutory submission.
 - WECA/MCA governance map if any role applies.
 
 ## Decision
 
-Keep decision-route map open at P0 until constitutions are acquired and reviewed.
+Keep decision-route map open at P0 until acquired constitutions are reviewed against the WPL statutory function and WECA/MCA role.
 
 ## Professional Reviewer
 

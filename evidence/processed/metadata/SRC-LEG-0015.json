@@ -1,0 +1,12 @@
+{
+  "characters": 11944,
+  "extracted_date": "2026-06-25",
+  "method": "html-standard-library",
+  "output_path": "evidence/processed/text/SRC-LEG-0015.txt",
+  "sha256": "9fa9a5a70ceb8d3c6d21aa654996e9634b8a09df0929be123815e40a02611c61",
+  "source_id": "SRC-LEG-0015",
+  "source_path": "evidence/raw/legislation/src-leg-0015_english-devolution-community-empowerment-act-2026-schedule-9.html",
+  "source_status": "downloaded",
+  "title": "English Devolution and Community Empowerment Act 2026 Schedule 9",
+  "url": "https://www.legislation.gov.uk/ukpga/2026/23/schedule/9/enacted"
+}

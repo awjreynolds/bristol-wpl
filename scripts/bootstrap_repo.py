@@ -459,7 +459,7 @@ def write_csv(
     if path.exists() and not overwrite:
         return
     with path.open("w", newline="", encoding="utf-8") as handle:
-        writer = csv.DictWriter(handle, fieldnames=columns)
+        writer = csv.DictWriter(handle, fieldnames=columns, lineterminator="\n")
         writer.writeheader()
         for row in rows or []:
             writer.writerow({col: row.get(col, "") for col in columns})

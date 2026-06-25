@@ -1,0 +1,12 @@
+{
+  "characters": 59638,
+  "extracted_date": "2026-06-25",
+  "method": "html-standard-library",
+  "output_path": "evidence/processed/text/SRC-LEG-0014.txt",
+  "sha256": "9caca4522435638fe134ebb6e34974585b697595d38a9ac5771fa47d338dca2c",
+  "source_id": "SRC-LEG-0014",
+  "source_path": "evidence/raw/legislation/src-leg-0014_english-devolution-community-empowerment-consequential-regulations-2026-whole-instrument.html",
+  "source_status": "downloaded",
+  "title": "English Devolution and Community Empowerment Act 2026 consequential regulations whole instrument",
+  "url": "https://www.legislation.gov.uk/uksi/2026/519/made"
+}

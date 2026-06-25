@@ -1,0 +1,12 @@
+{
+  "characters": 5363,
+  "extracted_date": "2026-06-25",
+  "method": "html-standard-library",
+  "output_path": "evidence/processed/text/SRC-WECA-0014.txt",
+  "sha256": "59ba1cf1c3c1e70fbd8fb5e35bca56f55137454107b8906f09ad25934d360d45",
+  "source_id": "SRC-WECA-0014",
+  "source_path": "evidence/raw/west-of-england-mca/src-weca-0014_weca-transport-page.html",
+  "source_status": "downloaded",
+  "title": "Transport page",
+  "url": "https://www.westofengland-ca.gov.uk/what-we-do/transport/"
+}

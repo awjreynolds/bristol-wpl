@@ -1,0 +1,12 @@
+{
+  "characters": 7454,
+  "extracted_date": "2026-06-25",
+  "method": "html-standard-library",
+  "output_path": "evidence/processed/text/SRC-LEG-0016.txt",
+  "sha256": "9f0b50e5e611ce4014ef358240a2eabf4760508a0b7791e3862a74965326ebe7",
+  "source_id": "SRC-LEG-0016",
+  "source_path": "evidence/raw/legislation/src-leg-0016_english-devolution-community-empowerment-act-2026-section-2.html",
+  "source_status": "downloaded",
+  "title": "English Devolution and Community Empowerment Act 2026 section 2",
+  "url": "https://www.legislation.gov.uk/ukpga/2026/23/section/2/enacted"
+}

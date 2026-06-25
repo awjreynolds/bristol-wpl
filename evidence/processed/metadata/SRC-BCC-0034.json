@@ -1,0 +1,12 @@
+{
+  "characters": 16465,
+  "extracted_date": "2026-06-25",
+  "method": "pdftotext-layout",
+  "output_path": "evidence/processed/text/SRC-BCC-0034.txt",
+  "sha256": "76f242507cbd4eaa9c9d3dfff8517ef9dd829528f8aa36dac6f0fadeb5acb181",
+  "source_id": "SRC-BCC-0034",
+  "source_path": "evidence/raw/bristol-city-council/src-bcc-0034_part-4-2-access-to-information-procedure-rules-may-2024.pdf",
+  "source_status": "downloaded",
+  "title": "Part 4.2 - Access to Information Procedure Rules",
+  "url": "https://democracy.bristol.gov.uk/documents/s125439/Part%204.2%20-%20Access%20to%20information%20procedure%20rules%20-%20May2024.pdf"
+}

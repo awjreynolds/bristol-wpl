@@ -1,0 +1,12 @@
+{
+  "characters": 34963,
+  "extracted_date": "2026-06-25",
+  "method": "pdftotext-layout",
+  "output_path": "evidence/processed/text/SRC-BCC-0032.txt",
+  "sha256": "d995abe937a4e09f2992263345f9477d7a8ce2aca50db3de81d176b3193ec512",
+  "source_id": "SRC-BCC-0032",
+  "source_path": "evidence/raw/bristol-city-council/src-bcc-0032_part-2-articles-of-the-constitution-june-2024.pdf",
+  "source_status": "downloaded",
+  "title": "Part 2 - Articles of the Constitution",
+  "url": "https://democracy.bristol.gov.uk/documents/s125432/Part%202%20-%20Articles%20-%20June%202024.pdf"
+}

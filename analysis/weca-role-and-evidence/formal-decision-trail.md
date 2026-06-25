@@ -47,8 +47,15 @@ No inspected repo-local source evidences formal WECA/MCA approval, consent, obje
 | `SRC-WECA-0003` | bus/funding policy context | Bus strategy material links congestion charging/WPL-type funding to public transport outcomes. | Not a formal WPL approval. |
 | `SRC-WECA-0004` | future demand-management option | BSIP material lists demand-management measures such as WPL as a policy option. | Not a Bristol scheme decision. |
 | `SRC-WECA-0006` | assurance relevance only | Local Growth Assurance Framework is relevant if WECA/MCA funding streams or assurance routes are engaged. | Does not approve WPL licensing, consent or statutory route. |
+| `SRC-WECA-0007` | current assurance relevance only | July 2025 assurance framework gives SOBC/OBC/FBC, publication, funding and powers/consents controls where MCA funding is used. | Does not approve WPL licensing, consent or statutory route. |
 | `SRC-LEG-0009` | current-law source trigger | West of England Combined Authority Order 2017 source is present. | Extracted text is not enough to settle WPL functions. |
 | `SRC-LEG-0010` | current-law source trigger | 2026 amendment source includes omission of Part 3 transport and changes to funding/mayoral functions. | Requires consolidated function map and constitution review. |
+| `SRC-WECA-0011` to `SRC-WECA-0013` | constitution source material | WECA/MCA constitution page and Parts A/B are acquired for transport, funding, procedure and delegation mapping. | Does not evidence Bristol WPL approval, consent, support, objection or no-role status. |
+| `SRC-WECA-0014` to `SRC-WECA-0016` | public transport and committee-route context | WECA transport and committee pages support public narrative and governance-route mapping. | Not WPL-specific approval or statutory authority. |
+| `SRC-LEG-0014` | current-law source trigger | Whole 2026 consequential regulations confirm the West of England amendments sit within wider strategic-authority reforms. | Requires consolidated function map; not WPL-specific approval. |
+| `SRC-LEG-0016` | current-law source trigger | 2026 Act section 2 identifies transport and local infrastructure as a strategic-authority area of competence. | Does not by itself identify WPL order-maker, consent or no-role status. |
+| `SRC-LEG-0022`, `SRC-LEG-0023` | current revised WECA Order article pages | Article pages carry the current Part 3 omission note after SI 2026/519. | Requires function-map reconciliation; not WPL-specific approval. |
+| `SRC-LEG-0015` | negative-control source | Schedule 9 concerns charges for works in maintainable highways. | Not a WPL power source and must not be used as WPL authority. |
 | Bristol WPL papers | Bristol decision context | Bristol has the active public WPL development trail. | Does not prove WECA/MCA approval, support, objection or no role. |
 
 ## Not Established
@@ -63,10 +70,9 @@ No inspected repo-local source evidences formal WECA/MCA approval, consent, obje
 
 ## Stage 2 Searches Required
 
-- Current WECA/MCA constitution and delegations.
-- Consolidated current devolution and transport function instruments.
+- Map acquired WECA/MCA constitution and delegation sources against current devolution and transport function instruments.
 - WECA/MCA meeting records for WPL, workplace parking levy, demand management, road user charging, Bristol transport package, CAZ repayment, CRSTS interface and mass transit.
-- Current Bristol constitution and decision route.
+- Map acquired Bristol constitution and decision-route sources against the WPL statutory function.
 - Any formal WECA/MCA consultation response or assurance decision on a Bristol WPL.
 
 ## Control

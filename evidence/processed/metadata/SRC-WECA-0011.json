@@ -1,0 +1,12 @@
+{
+  "characters": 4200,
+  "extracted_date": "2026-06-25",
+  "method": "html-standard-library",
+  "output_path": "evidence/processed/text/SRC-WECA-0011.txt",
+  "sha256": "30b7c9eab7507319cf5e7b727cef0cf87ba2b4672ee49e6ea89cac9306126184",
+  "source_id": "SRC-WECA-0011",
+  "source_path": "evidence/raw/west-of-england-mca/src-weca-0011_west-of-england-combined-authority-constitution-page.html",
+  "source_status": "downloaded",
+  "title": "West of England Combined Authority Constitution page",
+  "url": "https://www.westofengland-ca.gov.uk/about-us/democracy-funding-transparency/constitution/"
+}

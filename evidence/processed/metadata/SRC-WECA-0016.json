@@ -1,0 +1,12 @@
+{
+  "characters": 3263,
+  "extracted_date": "2026-06-25",
+  "method": "html-standard-library",
+  "output_path": "evidence/processed/text/SRC-WECA-0016.txt",
+  "sha256": "6adaeb70294fd03f60cc87776e45ecfc505aa87e3cd2c84c122e58ed71a2688a",
+  "source_id": "SRC-WECA-0016",
+  "source_path": "evidence/raw/west-of-england-mca/src-weca-0016_joint-committee-details.html",
+  "source_status": "downloaded",
+  "title": "Joint Committee details",
+  "url": "https://westofengland-ca.moderngov.co.uk/mgCommitteeDetails.aspx?ID=142"
+}

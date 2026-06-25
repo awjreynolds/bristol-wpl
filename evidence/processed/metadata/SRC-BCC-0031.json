@@ -1,0 +1,12 @@
+{
+  "characters": 88705,
+  "extracted_date": "2026-06-25",
+  "method": "pdftotext-layout",
+  "output_path": "evidence/processed/text/SRC-BCC-0031.txt",
+  "sha256": "527f89ce9b199a9ec552999d1d2ca0a2d5d8988060657ffcddb7ce4f571450dd",
+  "source_id": "SRC-BCC-0031",
+  "source_path": "evidence/raw/bristol-city-council/src-bcc-0031_officer-scheme-of-delegation-growth-and-regeneration.pdf",
+  "source_status": "downloaded",
+  "title": "Officer Scheme of Delegation - Growth and Regeneration",
+  "url": "https://www.bristol.gov.uk/files/documents/7693-scheme-of-delegation-growth-and-regeneration"
+}

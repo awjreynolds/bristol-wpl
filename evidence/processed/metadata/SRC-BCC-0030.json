@@ -1,0 +1,12 @@
+{
+  "characters": 28545,
+  "extracted_date": "2026-06-25",
+  "method": "pdftotext-layout",
+  "output_path": "evidence/processed/text/SRC-BCC-0030.txt",
+  "sha256": "fb980700ba5696561fea6a361a8ee716b2dbe6ebed9ef6736f11434873db3c2f",
+  "source_id": "SRC-BCC-0030",
+  "source_path": "evidence/raw/bristol-city-council/src-bcc-0030_part-3-4-delegations-to-officers-january-2026.pdf",
+  "source_status": "downloaded",
+  "title": "Part 3.4 - Delegations to Officers",
+  "url": "https://democracy.bristol.gov.uk/documents/s125436/Part%203.4%20-%20Delegations%20to%20Officers%20-%20January%202026.pdf"
+}

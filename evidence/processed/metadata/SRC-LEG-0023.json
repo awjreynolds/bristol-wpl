@@ -1,0 +1,12 @@
+{
+  "characters": 8415,
+  "extracted_date": "2026-06-25",
+  "method": "html-standard-library",
+  "output_path": "evidence/processed/text/SRC-LEG-0023.txt",
+  "sha256": "12fba6435a178ba6684c8b5e738d44da633568a5bf301055f4672303bda3257d",
+  "source_id": "SRC-LEG-0023",
+  "source_path": "evidence/raw/legislation/src-leg-0023_weca-order-2017-article-8-current.html",
+  "source_status": "downloaded",
+  "title": "West of England Combined Authority Order 2017 article 8 current revised text",
+  "url": "https://www.legislation.gov.uk/uksi/2017/126/article/8"
+}

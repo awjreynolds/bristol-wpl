@@ -2,9 +2,9 @@
 
 Generated from extracted text under `evidence/processed/text`. Counts are triage aids, not substantive findings.
 
-- Extracted sources scanned: 49
-- Sources with WPL references: 38
-- Sources with WECA/Combined Authority references: 18
+- Extracted sources scanned: 75
+- Sources with WPL references: 41
+- Sources with WECA/Combined Authority references: 34
 
 ## Highest WPL Coverage
 
@@ -30,18 +30,18 @@ Generated from extracted text under `evidence/processed/text`. Counts are triage
 
 | source_id | weca | wpl | obc | fbc | title |
 | --- | ---: | ---: | ---: | ---: | --- |
+| SRC-WECA-0012 | 586 | 0 | 0 | 0 | Part A Constitution |
 | SRC-WECA-0001 | 280 | 10 | 1 | 0 | Joint Local Transport Plan 4 2020-2036 |
+| SRC-WECA-0007 | 255 | 0 | 10 | 20 | Local Growth Assurance Framework July 2025 final |
 | SRC-WECA-0006 | 254 | 0 | 10 | 20 | Local Growth Assurance Framework January 2024 |
+| SRC-WECA-0013 | 133 | 0 | 1 | 1 | Part B Constitution - 2026 Revision |
+| SRC-LEG-0014 | 118 | 0 | 0 | 0 | English Devolution and Community Empowerment Act 2026 consequential regulations whole instrument |
 | SRC-BCC-0005 | 78 | 674 | 80 | 48 | Public reports pack - Transport and Connectivity Policy Committee |
 | SRC-WECA-0004 | 70 | 1 | 0 | 0 | Bus Service Improvement Plan 2024 |
 | SRC-BCC-0011 | 65 | 649 | 60 | 38 | Public reports pack - Transport and Connectivity Policy Committee |
 | SRC-WECA-0003 | 63 | 0 | 0 | 0 | Combined Authority Bus Strategy updated September 2021 |
 | SRC-BCC-0015 | 44 | 68 | 23 | 20 | Public reports pack - Transport and Connectivity Policy Committee |
 | SRC-BCC-0006 | 36 | 594 | 38 | 17 | Appendix A - Feasibility Study Report for a WPL Scheme in Bristol |
-| SRC-LEG-0009 | 13 | 0 | 0 | 0 | West of England Combined Authority Order 2017 |
-| SRC-LEG-0004 | 9 | 1 | 0 | 0 | Transport Act 2000 Schedule 12 net proceeds |
-| SRC-LEG-0010 | 8 | 0 | 0 | 0 | SI 2026/519 regulation 29 |
-| SRC-BCC-0026 | 4 | 2 | 2 | 0 | Printed minutes - Transport and Connectivity Policy Committee 19 March 2026 |
 
 ## Statutory Route Term Coverage
 
@@ -60,3 +60,13 @@ Generated from extracted text under `evidence/processed/text`. Counts are triage
 | SRC-LEG-0011 | 4 | 3 | 0 | 0 | 0 | 2 | Workplace Parking Levy (England) Regulations 2009 whole instrument |
 | SRC-LEG-0012 | 3 | 0 | 8 | 0 | 0 | 0 | Road User Charging and WPL Net Proceeds Regulations 2003 whole instrument |
 | SRC-LEG-0013 | 3 | 0 | 0 | 0 | 0 | 0 | Road User Charging and WPL Classes of Motor Vehicles Regulations 2001 whole instrument |
+| SRC-LEG-0014 | 10 | 0 | 0 | 0 | 34 | 0 | English Devolution and Community Empowerment Act 2026 consequential regulations whole instrument |
+| SRC-LEG-0015 | 7 | 0 | 0 | 0 | 3 | 0 | English Devolution and Community Empowerment Act 2026 Schedule 9 |
+| SRC-LEG-0016 | 0 | 0 | 0 | 0 | 0 | 0 | English Devolution and Community Empowerment Act 2026 section 2 |
+| SRC-LEG-0017 | 0 | 0 | 0 | 0 | 0 | 0 | Transport Act 2000 section 178 workplace parking levy licensing schemes |
+| SRC-LEG-0018 | 0 | 0 | 0 | 0 | 0 | 0 | Transport Act 2000 section 179 licensing schemes made by local traffic authorities |
+| SRC-LEG-0019 | 0 | 0 | 0 | 0 | 0 | 0 | Transport Act 2000 section 180 persons liable to charges |
+| SRC-LEG-0020 | 2 | 0 | 0 | 0 | 0 | 0 | Transport Act 2000 section 198 interpretation of local transport policies |
+| SRC-LEG-0021 | 1 | 0 | 0 | 0 | 0 | 0 | Transport Act 2000 section 108 local transport plans |
+| SRC-LEG-0022 | 0 | 0 | 0 | 0 | 1 | 0 | West of England Combined Authority Order 2017 article 7 current revised text |
+| SRC-LEG-0023 | 0 | 0 | 0 | 0 | 1 | 0 | West of England Combined Authority Order 2017 article 8 current revised text |

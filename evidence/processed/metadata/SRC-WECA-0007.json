@@ -1,0 +1,12 @@
+{
+  "characters": 105773,
+  "extracted_date": "2026-06-25",
+  "method": "pdftotext-layout",
+  "output_path": "evidence/processed/text/SRC-WECA-0007.txt",
+  "sha256": "2f13666fc5302e915d933dc3415385682183c7b820262e21b1a3941b9af28b00",
+  "source_id": "SRC-WECA-0007",
+  "source_path": "evidence/raw/west-of-england-mca/src-weca-0007_west-of-england-local-growth-assurance-framework-july-2025-final.pdf",
+  "source_status": "downloaded",
+  "title": "Local Growth Assurance Framework July 2025 final",
+  "url": "https://www.westofengland-ca.gov.uk/wp-content/uploads/2025/09/WoE-Local-Growth-Assurance-Framework-July-25-Final.pdf"
+}

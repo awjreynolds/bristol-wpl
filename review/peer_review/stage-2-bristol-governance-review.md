@@ -48,19 +48,20 @@ Simulation sign-off with conditions for Bristol decision-trail classification.
 - `SRC-BCC-0014`
 - `SRC-BCC-0017`
 - `SRC-BCC-0022` to `SRC-BCC-0027`
+- `SRC-BCC-0028` to `SRC-BCC-0036`
 
 ## Findings
 
 - The September 2024 decision notice and minutes evidence approval for Stage One Development and OBC work, option testing, CAZ-funded development costs and Stage 1 procurement/contract authority.
 - The September 2024 evidence does not approve implementation, statutory consultation launch, OBC approval, FBC approval, preferred option, boundary, charge, threshold, exemptions or operating hours.
-- May 2025 WPL decision notice/minutes are not acquired.
-- October 2025 and March 2026 materials are update/information evidence only on current repo evidence.
+- May 2025, October 2025 and March 2026 decision notices/minutes show the WPL items were update/information reports noted by committee.
 - Forward plan material may evidence anticipated future decision points only; it is not approval.
+- Current Bristol constitution sources are acquired. They support committee-remit, key-decision, Full Council reserved-function, access-to-information and officer-delegation mapping, but they do not expressly settle the WPL order-maker or statutory-submission route.
 
 ## Conditions
 
-- Obtain current Bristol constitution and delegation scheme.
-- Obtain any May 2025 WPL decision/minute evidence or explicitly keep that as a gap.
+- Map acquired Bristol constitution and delegation sources against the Transport Act WPL function.
+- Keep the May 2025 decision/minute gap closed: `SRC-BCC-0035` and `SRC-BCC-0036` confirm no WPL decision was taken beyond noting the update.
 - Treat future July 2026 OBC and October 2026 FBC items as planned/future unless official records are acquired.
 
 ## Simulation Caveat

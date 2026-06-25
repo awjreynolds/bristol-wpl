@@ -86,8 +86,10 @@ This report covers Stage 2 legal powers, statutory route, Bristol governance cla
 2. The 2009 Regulations RPI-only exception must not be used for an initial Bristol order.
 3. DfT engagement is not statutory confirmation.
 4. Bristol evidence supports Stage One Development and OBC work only.
-5. WECA/MCA evidence does not establish formal approval, support, objection, consent or no role.
-6. Net-proceeds, accounting, ten-year general plan and five-year detailed programme controls must be built before OBC/FBC or statutory submission readiness.
+5. May 2025, October 2025 and March 2026 WPL decision notices/minutes are classified as update/information items noted by committee.
+6. WECA/MCA evidence does not establish formal approval, support, objection, consent or no role.
+7. Bristol and WECA/MCA constitution/current-law sources are acquired for route mapping but do not close the promoter/order-maker/submission P0.
+8. Net-proceeds, accounting, ten-year general plan and five-year detailed programme controls must be built before OBC/FBC or statutory submission readiness.
 
 ## Gate Decision
 
@@ -100,9 +102,9 @@ Stage 2 simulation gate: **technical baseline completed; simulation no-go for pr
 
 ## P1 Conditions
 
-- Acquire current Bristol constitution and delegation evidence.
-- Acquire current WECA/MCA constitution/delegation evidence and consolidated function map.
-- Acquire or close the May 2025 WPL decision/minute gap.
+- Complete legal mapping of acquired Bristol constitution and delegation evidence against the WPL statutory function.
+- Complete legal mapping of acquired WECA/MCA constitution/delegation/current-law evidence and consolidated function map.
+- Keep the May 2025 WPL decision/minute gap closed as update-only evidence unless later formal approval records are acquired.
 - Expand scheme order contents matrix.
 - Build Schedule 12 accounting policy, ten-year general plan and five-year detailed programme.
 - Create DfT engagement record only when actual engagement evidence exists.
