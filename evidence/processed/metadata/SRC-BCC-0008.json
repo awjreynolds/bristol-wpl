@@ -1,6 +1,6 @@
 {
   "characters": 14451,
-  "extracted_date": "2026-06-25",
+  "extracted_date": "2026-06-26",
   "method": "pdftotext-layout",
   "output_path": "evidence/processed/text/SRC-BCC-0008.txt",
   "sha256": "5ab6c244df2fbc7b8a470a8af314f5c17cfdcb849493fd2232af402402f1a391",

@@ -1,0 +1,12 @@
+{
+  "characters": 17502,
+  "extracted_date": "2026-06-26",
+  "method": "html-standard-library",
+  "output_path": "evidence/processed/text/SRC-LEG-0025.txt",
+  "sha256": "64c828cdc7da2cd6ea9e675ece757ec03d1e792f95be6c7000bd94800338211c",
+  "source_id": "SRC-LEG-0025",
+  "source_path": "evidence/raw/legislation/src-leg-0025_transport-act-2000-section-163-road-user-charging-schemes-preliminary.html",
+  "source_status": "downloaded",
+  "title": "Transport Act 2000 section 163 road user charging schemes preliminary",
+  "url": "https://www.legislation.gov.uk/ukpga/2000/38/section/163"
+}

@@ -2,9 +2,9 @@
 
 Generated from extracted text under `evidence/processed/text`. Counts are triage aids, not substantive findings.
 
-- Extracted sources scanned: 75
+- Extracted sources scanned: 77
 - Sources with WPL references: 41
-- Sources with WECA/Combined Authority references: 34
+- Sources with WECA/Combined Authority references: 35
 
 ## Highest WPL Coverage
 
@@ -70,3 +70,5 @@ Generated from extracted text under `evidence/processed/text`. Counts are triage
 | SRC-LEG-0021 | 1 | 0 | 0 | 0 | 0 | 0 | Transport Act 2000 section 108 local transport plans |
 | SRC-LEG-0022 | 0 | 0 | 0 | 0 | 1 | 0 | West of England Combined Authority Order 2017 article 7 current revised text |
 | SRC-LEG-0023 | 0 | 0 | 0 | 0 | 1 | 0 | West of England Combined Authority Order 2017 article 8 current revised text |
+| SRC-LEG-0024 | 7 | 0 | 0 | 0 | 0 | 0 | Avon (Structural Change) Order 1995 |
+| SRC-LEG-0025 | 1 | 0 | 0 | 0 | 0 | 0 | Transport Act 2000 section 163 road user charging schemes preliminary |

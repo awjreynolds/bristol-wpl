@@ -1,6 +1,6 @@
 {
   "characters": 18882,
-  "extracted_date": "2026-06-25",
+  "extracted_date": "2026-06-26",
   "method": "pdftotext-layout",
   "output_path": "evidence/processed/text/SRC-NOTT-0002.txt",
   "sha256": "a3868b1248d442f6081ff0a69def8d0374e844ab395847559537fac9beba3517",

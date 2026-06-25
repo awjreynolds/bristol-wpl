@@ -1,0 +1,12 @@
+{
+  "characters": 34863,
+  "extracted_date": "2026-06-26",
+  "method": "html-standard-library",
+  "output_path": "evidence/processed/text/SRC-LEG-0024.txt",
+  "sha256": "41271ea2123e0e18240c90d62fc00e7be6526c605b31ed6300168377c4972010",
+  "source_id": "SRC-LEG-0024",
+  "source_path": "evidence/raw/legislation/src-leg-0024_avon-structural-change-order-1995.html",
+  "source_status": "downloaded",
+  "title": "Avon (Structural Change) Order 1995",
+  "url": "https://www.legislation.gov.uk/uksi/1995/493/made"
+}

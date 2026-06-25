@@ -5,8 +5,8 @@ programme: Bristol Workplace Parking Levy
 stage: discovery
 status: working
 version: 0.1
-date: 2026-06-25
-evidence_cutoff: 2026-06-25
+date: 2026-06-26
+evidence_cutoff: 2026-06-26
 directorate: Growth and Regeneration
 audience: internal-review
 issue_purpose: review
@@ -41,17 +41,17 @@ Who has power to promote, make and submit a Bristol Workplace Parking Levy schem
 
 ## Current Law
 
-Transport Act 2000 workplace parking levy powers sit in the workplace parking licensing scheme framework. The repo evidence supports treating an initial scheme as a licensing scheme order requiring confirmation before coming into force. `SRC-LEG-0017` defines the WPL licensing scheme route and licensing authority language. `SRC-LEG-0018` and `SRC-LEG-0019` support local and joint local licensing-scheme controls. `SRC-LEG-0020` supports interpretation controls. `SRC-LEG-0003` supports the confirmation control. `SRC-LEG-0011` supports only a narrow RPI-only variation exemption.
+Transport Act 2000 workplace parking levy powers sit in the workplace parking licensing scheme framework. The repo evidence supports treating an initial scheme as a licensing scheme order requiring confirmation before coming into force. `SRC-LEG-0017` defines the WPL licensing scheme route and licensing authority language. `SRC-LEG-0018` and `SRC-LEG-0019` support local and joint local licensing-scheme controls. `SRC-LEG-0020` supports interpretation controls and cross-refers to `SRC-LEG-0025` for non-metropolitan local traffic authority construction. `SRC-LEG-0008` and `SRC-LEG-0024` support the Bristol local-traffic-authority source chain for simulation drafting. `SRC-LEG-0003` supports the confirmation control. `SRC-LEG-0011` supports only a narrow RPI-only variation exemption.
 
 ## Analysis
 
-Bristol City Council has an evidenced public decision trail for Stage One Development and OBC work, not an evidenced final promoter/order-maker route. `SRC-BCC-0004` and `SRC-BCC-0022` approve Stage One Development and OBC option testing and authorise Stage 1 contract activity. `SRC-BCC-0035` and `SRC-BCC-0036` confirm that the May 2025 WPL item was noted as an information update. Current constitution sources `SRC-BCC-0028` to `SRC-BCC-0034` and the Growth and Regeneration delegation source `SRC-BCC-0031` support committee-remit, key-decision, Full Council reserved-function and officer-delegation mapping, but they do not expressly settle the WPL order-maker or confirmation-submitter route.
+Bristol City Council has an evidenced public decision trail for Stage One Development and OBC work and, after Stage 2C, a source-bounded proposed local licensing authority working assumption for simulation drafting. It does not yet have an evidenced final internal promoter/order-maker route. `SRC-BCC-0004` and `SRC-BCC-0022` approve Stage One Development and OBC option testing and authorise Stage 1 contract activity. `SRC-BCC-0035` and `SRC-BCC-0036` confirm that the May 2025 WPL item was noted as an information update. Current constitution sources `SRC-BCC-0028` to `SRC-BCC-0034` and the Growth and Regeneration delegation source `SRC-BCC-0031` support committee-remit, key-decision, Full Council reserved-function and officer-delegation mapping, but they do not expressly settle the WPL order-maker or confirmation-submitter route.
 
 The WECA/MCA current-law position is not settled. `SRC-WECA-0011` to `SRC-WECA-0016`, `SRC-LEG-0009`, `SRC-LEG-0010`, `SRC-LEG-0014`, `SRC-LEG-0016`, `SRC-LEG-0022` and `SRC-LEG-0023` must be mapped against the Transport Act 2000 WPL provisions and Bristol constitution before any no-role, consent-required, concurrent-function or transferred-function conclusion is made.
 
 ## Uncertainty
 
-P0 remains open for Bristol competence, order-maker, delegation and submission route. P0 remains open for WECA/MCA role.
+P0 remains open for Bristol internal order-maker, delegation and submission route. P0 remains open for WECA/MCA role.
 
 ## Scheme Consequence
 
@@ -66,7 +66,7 @@ The simulation must not present a preferred scheme, statutory consultation launc
 
 ## Decision
 
-Stage 2 technical baseline only. Keep promoter/order-maker as unresolved P0.
+Stage 2C technical baseline only. Treat Bristol-led authority status as a simulation working control and keep the internal promoter/order-maker/submission route as unresolved P0.
 
 ## Professional Reviewer
 

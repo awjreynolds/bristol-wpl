@@ -1,6 +1,6 @@
 {
   "characters": 45208,
-  "extracted_date": "2026-06-25",
+  "extracted_date": "2026-06-26",
   "method": "html-standard-library",
   "output_path": "evidence/processed/text/SRC-LEG-0004.txt",
   "sha256": "739766f35aafef854a280b891a6e1c77b466c9386bfc97a52d6b4e323d4becff",

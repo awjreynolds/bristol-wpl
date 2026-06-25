@@ -5,8 +5,8 @@ programme: Bristol Workplace Parking Levy
 stage: discovery
 status: working
 version: 0.1
-date: 2026-06-25
-evidence_cutoff: 2026-06-25
+date: 2026-06-26
+evidence_cutoff: 2026-06-26
 directorate: Growth and Regeneration
 audience: internal-review
 issue_purpose: review
@@ -41,11 +41,11 @@ Can a Bristol WPL cover all or part of Bristol, and when would a joint scheme be
 
 ## Current Law
 
-The Transport Act explanatory note in `SRC-LEG-0001` says local licensing schemes may be introduced by a local traffic authority outside London either singly or jointly and that joint/local schemes can cover any part of the area of the authority or authorities making the scheme.
+The Transport Act explanatory note in `SRC-LEG-0001` says local licensing schemes may be introduced by a local traffic authority outside London either singly or jointly and that joint/local schemes can cover any part of the area of the authority or authorities making the scheme. Direct current-law sources now support the same control: `SRC-LEG-0018` allows a local licensing scheme to cover the whole or any part of the licensing authority area, and `SRC-LEG-0025` defines non-metropolitan local traffic authority for this Part by reference to a local traffic authority for an area outside Greater London.
 
 ## Analysis
 
-For simulation control, a Bristol-only scheme area is the default working assumption unless Stage 2 evidence establishes a joint, concurrent, transferred or consent-based WECA/MCA route. The statutory route must distinguish:
+For simulation control, a Bristol-only scheme area is the default working assumption unless Stage 2 evidence establishes a joint, concurrent, transferred or consent-based WECA/MCA route. Stage 2C supports Bristol authority-status mapping only; it does not select a boundary. The statutory route must distinguish:
 
 - Bristol-only scheme within confirmed Bristol authority area;
 - joint scheme with another local traffic authority;

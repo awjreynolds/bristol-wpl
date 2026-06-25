@@ -4,7 +4,7 @@ Status: working synthesis for full simulation. This is not legal advice, officer
 
 ## Current Evidence Position
 
-The source register currently contains 67 source records. As at 25 June 2026, 49 have been downloaded and extracted, 17 remain seeded but not yet downloaded, and 1 source acquisition failed (`SRC-ACADEMIC-0001`). Current extraction status is recorded in `evidence/extraction_manifest.csv`; historical extraction attempts remain in `evidence/extraction_log.csv`.
+The source register currently contains 94 source records. As at 26 June 2026, 77 have been downloaded and extracted, 16 remain seeded but not yet downloaded, and 1 source acquisition failed (`SRC-ACADEMIC-0001`). Current extraction status is recorded in `evidence/extraction_manifest.csv`; historical extraction attempts remain in `evidence/extraction_log.csv`.
 
 ## Evidence Groups
 
@@ -63,9 +63,9 @@ The Stage 0 architecture is sufficient as a scaffold and Stage 1 now includes ed
 
 ### Current Law / Statutory Route
 
-Legal review identifies Transport Act 2000 Part III Chapter II as the apparent statutory spine for an initial Bristol WPL simulation, subject to Stage 2 legal review. An initial England-only scheme should be treated as requiring Secretary of State confirmation before coming into force. DfT engagement must remain separate from statutory confirmation. The RPI-only variation exemption in the 2009 Regulations must not be applied to an initial order, ordinary variation or revocation.
+Legal review identifies Transport Act 2000 Part III Chapter II as the apparent statutory spine for an initial Bristol WPL simulation, subject to Stage 2 legal review. Stage 2C source-chain work now supports treating Bristol City Council as the proposed Bristol local licensing authority/order-maker under investigation for simulation drafting, but the internal order-making and statutory submission route remains a P0 issue. An initial England-only scheme should be treated as requiring Secretary of State confirmation before coming into force. DfT engagement must remain separate from statutory confirmation. The RPI-only variation exemption in the 2009 Regulations must not be applied to an initial order, ordinary variation or revocation.
 
-Stage 2 must resolve the P0 questions over Bristol competence/delegations, WECA/MCA current role, who submits the order, and current DfT/Secretary of State expectations before any simulated preferred scheme or consultation reliance.
+Stage 2 must resolve the P0 questions over Bristol internal decision route, WECA/MCA current role, who submits the order, and current DfT/Secretary of State expectations before any simulated preferred scheme or consultation reliance.
 
 ### Bristol Governance Current Finding
 

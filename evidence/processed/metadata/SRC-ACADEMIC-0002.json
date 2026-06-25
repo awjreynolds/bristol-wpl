@@ -1,6 +1,6 @@
 {
   "characters": 58237,
-  "extracted_date": "2026-06-25",
+  "extracted_date": "2026-06-26",
   "method": "pdftotext-layout",
   "output_path": "evidence/processed/text/SRC-ACADEMIC-0002.txt",
   "sha256": "b812eef4bc3b94709d0ddc6a5c1bae1476ca4d6acdafcd16c84e538e4c028715",

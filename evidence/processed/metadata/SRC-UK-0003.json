@@ -1,6 +1,6 @@
 {
   "characters": 104281,
-  "extracted_date": "2026-06-25",
+  "extracted_date": "2026-06-26",
   "method": "pdftotext-layout",
   "output_path": "evidence/processed/text/SRC-UK-0003.txt",
   "sha256": "337d30947f758182652a1d7d6543eb0a7ab01054a46aa6d199653e534e682aa8",

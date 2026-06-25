@@ -5,8 +5,8 @@ programme: Bristol Workplace Parking Levy
 stage: discovery
 status: working
 version: 0.1
-date: 2026-06-25
-evidence_cutoff: 2026-06-25
+date: 2026-06-26
+evidence_cutoff: 2026-06-26
 directorate: Growth and Regeneration
 audience: internal-review
 issue_purpose: review
@@ -39,6 +39,8 @@ Status: Stage 2 technical baseline. This is not legal advice and is not a statut
 
 For simulation drafting only, an initial Bristol Workplace Parking Levy is treated as a Transport Act 2000 workplace parking licensing scheme. `SRC-LEG-0003` supports the proposition that a licensing scheme order must be submitted to and confirmed by the appropriate national authority before coming into force, subject to specified regulatory exceptions. `SRC-LEG-0020` identifies the Secretary of State as the appropriate national authority for licensing schemes relating only to England. `SRC-LEG-0011` supports one narrow exception for a variation order whose sole purpose is altering licence charges in line with RPI; that exception is not available for an initial Bristol order.
 
+Stage 2C supports a Bristol-led local licensing authority working assumption for simulation drafting when `SRC-LEG-0017`, `SRC-LEG-0018`, `SRC-LEG-0020`, `SRC-LEG-0025`, `SRC-LEG-0008` and `SRC-LEG-0024` are read together. That working assumption does not settle Bristol's internal final order-making or Secretary of State submission route.
+
 The current baseline is therefore:
 
 1. identify the competent licensing authority and order-maker;
@@ -66,6 +68,8 @@ The current baseline is therefore:
 | `SRC-LEG-0001` | Explains WPL licensing concept, local/joint schemes and workplace parking definition. | Explanatory note, not a substitute for current consolidated law. |
 | `SRC-LEG-0003` | Confirms section 184 confirmation control. | Does not identify Bristol promoter or WECA/MCA role. |
 | `SRC-LEG-0020` | Confirms Secretary of State as appropriate national authority for England-only schemes. | Does not identify Bristol promoter or submitter. |
+| `SRC-LEG-0024` | Supports Bristol structural-change, county and transferred county-function status. | Does not allocate WPL order-making or submission within Bristol. |
+| `SRC-LEG-0025` | Confirms non-metropolitan local traffic authority construction by reference to a local traffic authority outside Greater London. | Does not identify Bristol's internal decision-maker. |
 | `SRC-LEG-0011` | Confirms RPI-only variation exception and enforcement controls. | Does not remove initial-order confirmation. |
 | `SRC-BCC-0004`, `SRC-BCC-0022` | Evidence September 2024 Stage One/OBC development approval. | Do not approve implementation, consultation launch, FBC, boundary, charge, threshold or exemptions. |
 | `SRC-LEG-0009`, `SRC-LEG-0010` | Evidence WECA Order and 2026 amendment trigger. | Do not by themselves settle WPL role without consolidated function mapping. |
@@ -84,7 +88,8 @@ No source may be described as approval or confirmation unless it identifies the 
 
 ## P0 Questions
 
-- Confirm Bristol City Council competence and delegation route as WPL licensing authority/order-maker.
+- Confirm Bristol internal decision and delegation route for making the WPL order.
+- Confirm who submits the initial order for Secretary of State confirmation.
 - Confirm whether current devolution/WECA/MCA law creates transferred, concurrent, consent, assurance or funding-dependency roles.
 - Confirm who submits the initial order for Secretary of State confirmation.
 

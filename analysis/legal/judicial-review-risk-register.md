@@ -5,8 +5,8 @@ programme: Bristol Workplace Parking Levy
 stage: discovery
 status: working
 version: 0.1
-date: 2026-06-25
-evidence_cutoff: 2026-06-25
+date: 2026-06-26
+evidence_cutoff: 2026-06-26
 directorate: Growth and Regeneration
 audience: internal-review
 issue_purpose: review
@@ -37,7 +37,7 @@ Status: Stage 2 technical baseline. Simulation only; not legal advice or profess
 
 | risk_id | risk | current control | severity | owner | status |
 | --- | --- | --- | --- | --- | --- |
-| JR-001 | Wrong promoter, order-maker or submitter. | Keep Bristol competence/delegation and WECA/MCA role as P0 open. | P0 | Legal Review Agent | open |
+| JR-001 | Wrong promoter, order-maker or submitter. | Stage 2C narrows Bristol authority-status evidence but keeps internal order-maker submitter route and WECA/MCA role as P0 open. | P0 | Legal Review Agent | narrowed_open |
 | JR-002 | Predetermination of WPL before options appraisal. | OBC must be capable of recommending do-minimum, alternative demand management, defer or no WPL. | P0 | Programme Orchestrator | controlled |
 | JR-003 | DfT engagement misrepresented as confirmation. | Classify all interactions and require formal confirmation evidence. | P0 | Legal Review Agent | controlled |
 | JR-004 | Consultation not formative or responses not conscientiously considered. | Stage 8 consultation compliance table required. | P1 | Consultation Review Agent | open |

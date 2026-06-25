@@ -1,6 +1,6 @@
 {
   "characters": 94707,
-  "extracted_date": "2026-06-25",
+  "extracted_date": "2026-06-26",
   "method": "html-standard-library",
   "output_path": "evidence/processed/text/SRC-HMT-0004.txt",
   "sha256": "f4acfa1e3b4eba3204de20973dc1f8597c528f96f40faa17b04e2b3f3242cd30",

@@ -1,6 +1,6 @@
 {
   "characters": 175786,
-  "extracted_date": "2026-06-25",
+  "extracted_date": "2026-06-26",
   "method": "pdftotext-layout",
   "output_path": "evidence/processed/text/SRC-WECA-0004.txt",
   "sha256": "ab5ab0f597db457bf93ff35ff3ce53075cb4e285d0d031ca9a8a9a433b43d9d7",

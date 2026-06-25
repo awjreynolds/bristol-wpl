@@ -5,8 +5,8 @@ programme: Bristol Workplace Parking Levy
 stage: discovery
 status: working
 version: 0.1
-date: 2026-06-25
-evidence_cutoff: 2026-06-25
+date: 2026-06-26
+evidence_cutoff: 2026-06-26
 directorate: Growth and Regeneration
 audience: internal-review
 issue_purpose: review
@@ -45,6 +45,8 @@ Who must approve the OBC, consultation, FBC, scheme order, submission, procureme
 
 Current Bristol constitution sources are acquired in `SRC-BCC-0028` to `SRC-BCC-0034`, with the Growth and Regeneration officer scheme in `SRC-BCC-0031`. They support mapping of Transport and Connectivity Committee remit, key-decision procedure, Full Council reserved functions, access-to-information/forward-plan controls and officer delegation principles.
 
+Stage 2C adds legal-status sources `SRC-LEG-0024` and `SRC-LEG-0025`. These support the Bristol-led authority-status working assumption for simulation drafting. They do not allocate WPL order-making or statutory submission within Bristol's constitution.
+
 ## Analysis
 
 The decision map must distinguish:
@@ -61,7 +63,7 @@ The decision map must distinguish:
 
 ## Uncertainty
 
-The current Bristol constitution and delegation scheme are acquired but not yet mapped to a final WPL order-making and submission route. The WECA/MCA role is not closed.
+The Bristol local licensing authority status chain is source-bounded for simulation drafting, but the current Bristol constitution and delegation scheme are not yet mapped to a final WPL order-making and submission route. The WECA/MCA role is not closed.
 
 ## Scheme Consequence
 
@@ -69,7 +71,7 @@ No future approval route can be asserted. The OBC/FBC templates must keep decisi
 
 ## Evidence Required
 
-- Legal mapping of acquired Bristol constitution/delegation scheme sources to the Transport Act WPL function.
+- Legal mapping of acquired Bristol constitution/delegation scheme sources to the Transport Act WPL final order-making and statutory submission function.
 - Committee terms of reference and Full Council reserved-function check.
 - Key-decision thresholds and forward-plan requirements.
 - Any Full Council, executive, committee or officer delegation requirement for order making and statutory submission.

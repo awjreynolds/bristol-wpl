@@ -1,6 +1,6 @@
 {
   "characters": 27060,
-  "extracted_date": "2026-06-25",
+  "extracted_date": "2026-06-26",
   "method": "pdftotext-layout",
   "output_path": "evidence/processed/text/SRC-TFL-0001.txt",
   "sha256": "f62efc5a9719deb94d8f0cc31b8926f0c12d3c002ffd26d457f3a4a131e9eb00",

@@ -5,8 +5,8 @@ programme: Bristol Workplace Parking Levy
 stage: discovery
 status: working
 version: 0.1
-date: 2026-06-25
-evidence_cutoff: 2026-06-25
+date: 2026-06-26
+evidence_cutoff: 2026-06-26
 directorate: Growth and Regeneration
 audience: internal-review
 issue_purpose: review
@@ -35,13 +35,15 @@ accessibility_review_status: not-started
 
 Status: Stage 2 technical baseline. This is a simulated due-diligence artefact, not legal advice, statutory confirmation, officer approval or professional sign-off.
 
-## Controlled Stage 2B Position
+## Controlled Stage 2C Position
 
 The repo evidence supports a conservative working route for simulation drafting only: a Bristol Workplace Parking Levy would be treated as a Transport Act 2000 workplace parking licensing scheme made by order, with an initial England scheme requiring submission to and confirmation by the Secretary of State as the appropriate national authority before coming into force. Section 184 evidence is held as `SRC-LEG-0003`; section 198 interpretation evidence is held as `SRC-LEG-0020`; the 2009 Regulations RPI-only confirmation exemption is held as `SRC-LEG-0011` and is not treated as available for an initial Bristol order.
 
 Direct WPL section evidence is now acquired in `SRC-LEG-0017` to `SRC-LEG-0020`. Those sources identify licensing-scheme, local-licensing-scheme, joint-local-licensing-scheme and interpretation controls. They reinforce that the authority question is a local traffic authority/licensing authority mapping problem, not a general transport-policy preference.
 
 Stage 2B is recorded in `analysis/legal/stage-2b-current-law-role-map.md`. It narrows the DfT/Secretary of State distinction and keeps Bristol promoter/delegation and WECA/MCA role as open P0 controls for any move beyond legal/governance baseline work.
+
+Stage 2C is recorded in `analysis/legal/stage-2c-bristol-authority-and-internal-order-route.md`. It adds `SRC-LEG-0024` and `SRC-LEG-0025` to support a Bristol-led local licensing authority working assumption for simulation drafting. It does not close the final Bristol internal order-making or Secretary of State submission route.
 
 ## Authority And Route Map
 
@@ -50,7 +52,7 @@ Stage 2B is recorded in `analysis/legal/stage-2b-current-law-role-map.md`. It na
 | Is WPL a licensing scheme track rather than a traffic regulation order track? | Yes for simulation control. The WPL route is handled as Transport Act 2000 Part III Chapter II workplace parking licensing scheme work. | `SRC-LEG-0001`, `SRC-LEG-0002`, `SRC-LEG-0003`, `SRC-LEG-0011`, `SRC-LEG-0017` to `SRC-LEG-0020` | working control | May support issue-note drafting and statutory matrix work. |
 | Is Secretary of State confirmation required for an initial England scheme? | Yes for simulation control. A licensing scheme order does not come into force unless submitted to and confirmed by the appropriate national authority, and for England-only schemes that authority is the Secretary of State. | `SRC-LEG-0003`, `SRC-LEG-0011`, `SRC-LEG-0020` | controlled route rule | DfT engagement is not confirmation; confirmation dossier planning may continue. |
 | Can an RPI-only variation exemption be used for an initial scheme? | No. The evidence only supports a narrow variation-order control. | `SRC-LEG-0011` | controlled prohibition | Prevents erroneous route shortening. |
-| Is Bristol City Council the competent licensing authority and order-maker? | Not settled by the acquired evidence. Bristol is the proposed primary authority under investigation only. WPL sections require mapping to the relevant non-metropolitan local traffic authority/licensing authority. Current Bristol constitution sources show the Transport and Connectivity Committee remit, key-decision framework, Full Council reserved-function checks and officer delegation machinery, but no acquired source expressly maps the Transport Act 2000 WPL order-making/submission function. | `SRC-BCC-0001`, `SRC-BCC-0004`, `SRC-BCC-0022`, `SRC-BCC-0028` to `SRC-BCC-0036`, `SRC-LEG-0008`, `SRC-LEG-0017` to `SRC-LEG-0023` | P0 open | No preferred scheme, consultation launch or statutory submission readiness. |
+| Is Bristol City Council the competent licensing authority and order-maker? | Source-bounded for simulation drafting only. Bristol City Council is treated as the proposed Bristol local licensing authority/order-maker under investigation when Transport Act 2000, RTRA 1984 and Avon structural-change sources are read together. The final internal decision-maker and statutory submitter route is not settled. | `SRC-BCC-0001`, `SRC-BCC-0004`, `SRC-BCC-0022`, `SRC-BCC-0028` to `SRC-BCC-0036`, `SRC-LEG-0008`, `SRC-LEG-0017`, `SRC-LEG-0018`, `SRC-LEG-0020`, `SRC-LEG-0024`, `SRC-LEG-0025` | authority-status working control; internal route P0 open | No preferred scheme, consultation launch or statutory submission readiness. |
 | Does WECA/MCA have transferred, concurrent, consent, funding, assurance or no direct WPL role? | Not settled. Current evidence supports strategic/funding/assurance context and provides current WECA/MCA constitution/current-law source material for mapping, but does not prove formal approval, rejection, consent, sponsorship, funding, objection, transferred WPL function or no-role status. Current revised WECA Order article pages show Part 3 transport omitted from the 2017 Order, increasing the need for consolidated current-law mapping. | `SRC-WECA-0001`, `SRC-WECA-0003`, `SRC-WECA-0004`, `SRC-WECA-0006`, `SRC-WECA-0007`, `SRC-WECA-0011` to `SRC-WECA-0016`, `SRC-LEG-0009`, `SRC-LEG-0010`, `SRC-LEG-0014`, `SRC-LEG-0016`, `SRC-LEG-0022`, `SRC-LEG-0023` | P0 open | No route conclusion that excludes or requires WECA/MCA. |
 | Can the scheme cover part of Bristol? | The explanatory notes support schemes covering any part of the making authority's area or areas, but the exact Bristol boundary must be settled by legal, spatial and data work. | `SRC-LEG-0001` | P1 working control | Boundary options may be scoped but not selected. |
 | Who receives and applies net proceeds? | Must follow the eventual relevant authority/share route. Schedule 12 and the 2003 Regulations require annual accounts, net-proceeds controls, a 10-year general plan and 5-year detailed programme. | `SRC-LEG-0004`, `SRC-LEG-0012` | P1 open | Financial case and statutory dossier cannot pass until reconciled. |
@@ -64,6 +66,8 @@ The September 2024 decision notice and minutes evidence approval to progress Sta
 The May 2025, October 2025 and March 2026 acquired decision notices and minutes classify those WPL items as update/information reports that were noted by committee. They do not evidence approval to implement a scheme, launch statutory consultation, approve an OBC/FBC, select a preferred boundary, set charge levels, set employer thresholds, approve exemptions or submit an order for confirmation.
 
 Current Bristol constitution evidence has been acquired. It supports a more precise governance map: Part 2 sets the key-decision and policy-committee framework, Part 3.1 identifies Full Council reserved functions, Part 3.2 gives the Transport and Connectivity Committee transport-policy, transport-maintenance, major-transport-project, local-joint-transport-plan, capital-programme and departmental-risk functions, Part 3.4 sets officer-delegation controls, Part 4.2 sets forward-plan/access-to-information controls, and the Growth and Regeneration officer scheme gives City Transport and related highways/parking/Clean Air Zone operational delegations. None of those sources by itself expressly names the WPL licensing scheme order-making or submission function.
+
+Stage 2C adds the Avon structural-change and Transport Act 2000 section 163 cross-reference sources. These support Bristol authority-status mapping for simulation use, but they do not identify the Bristol committee, Full Council or officer decision route for the final WPL order or submission.
 
 ## WECA/MCA Evidence Position
 
@@ -83,7 +87,7 @@ Stage 2 may proceed only as a technical legal/governance baseline. It does not a
 
 ## Open P0 Controls
 
-- Bristol competence, order-maker, delegation and submission route.
+- Bristol internal WPL order-maker, delegation and Secretary of State submission route.
 - WECA/MCA transferred, concurrent, consent, assurance or funding-dependency role.
 
 ## Open P1 Controls

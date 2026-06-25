@@ -1,6 +1,6 @@
 {
   "characters": 18353,
-  "extracted_date": "2026-06-25",
+  "extracted_date": "2026-06-26",
   "method": "html-standard-library",
   "output_path": "evidence/processed/text/SRC-DFT-0002.txt",
   "sha256": "a88f93e9dec4042c17bbd8b0b2e41a0635a3452667f95beaf5235f9c6272df7e",
