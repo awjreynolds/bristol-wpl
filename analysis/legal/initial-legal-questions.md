@@ -1,3 +1,36 @@
+---
+document_id: ANALYSIS-LEGAL-INITIAL-LEGAL-QUESTIONS
+title: Initial Legal Questions
+programme: Bristol Workplace Parking Levy
+stage: discovery
+status: working
+version: 0.1
+date: 2026-06-25
+evidence_cutoff: 2026-06-25
+directorate: Growth and Regeneration
+audience: internal-review
+issue_purpose: review
+owner: Legal Review Agent
+authors: [Programme Orchestrator]
+reviewers: [Legal Review Agent, Governance Review Agent, Red Team]
+approver: Simulation Gate Authority
+confidentiality: official
+source_of_truth: true
+source_markdown: analysis/legal/initial-legal-questions.md
+generated_outputs: []
+build_id: ''
+source_commit: ''
+related_decision: Stage 2 legal governance technical baseline
+supersedes: ''
+approval_evidence: governance/simulation_signoff_register.csv
+distribution: internal-review
+retention_category: simulation-control
+legal_review_status: simulation-only
+analytical_assurance_status: not-started
+financial_review_status: not-started
+accessibility_review_status: not-started
+---
+
 # Initial Legal Questions
 
 Status: working simulation issue list. This is not legal advice.

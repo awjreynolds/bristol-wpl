@@ -33,6 +33,26 @@ def check_registers() -> list[str]:
                 errors.append(f"{rel} missing column {col}")
     return errors
 
+def check_csv_row_widths(root: Path = ROOT) -> list[str]:
+    errors = []
+    for path in root.rglob("*.csv"):
+        if ".git" in path.parts:
+            continue
+        rel = path.relative_to(root).as_posix()
+        with path.open(newline="", encoding="utf-8") as handle:
+            reader = csv.reader(handle)
+            try:
+                header = next(reader)
+            except StopIteration:
+                continue
+            expected = len(header)
+            for line_number, row in enumerate(reader, start=2):
+                if len(row) != expected:
+                    errors.append(
+                        f"{rel}:{line_number} has {len(row)} fields; expected {expected}"
+                    )
+    return errors
+
 def check_no_authored_pdfs() -> list[str]:
     errors = []
     for path in ROOT.rglob("*.pdf"):
@@ -62,6 +82,7 @@ def main() -> int:
     parser.parse_args()
     errors = []
     errors.extend(check_registers())
+    errors.extend(check_csv_row_widths())
     errors.extend(check_no_authored_pdfs())
     errors.extend(check_sensitive_paths())
     if errors:
