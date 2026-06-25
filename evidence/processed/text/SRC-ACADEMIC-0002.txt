@@ -1,0 +1,847 @@
+Case Studies on Transport Policy 7 (2019) 749–760
+
+Contents lists available at ScienceDirect
+
+Case Studies on Transport Policy
+journal homepage: www.elsevier.com/locate/cstp
+
+The impact of the Nottingham Workplace Parking Levy on travel to work T
+mode share
+Simon Dalea,b, , Matthew Frosta, Stephen Isonc, Lucy Buddc
+⁎
+
+a
+School of Architecture, Building and Civil Engineering, Loughborough University, Loughborough, Leicestershire LE11 3TU, UK
+b
+Transport Strategy, Nottingham City Council Loxley House, Station Street, Nottingham NG2 3NG, UK
+c
+Department of Politics, People and Place, Leicester Castle Business School, De Montfort University, Leicester LE1 9BH, United Kingdom
+
+ABSTRACT
+
+A Workplace Parking Levy (WPL) scheme raises a levy on private non-domestic off-street parking provided by employers. In April 2012 Nottingham became the first
+UK City to implement such a scheme with the revenue generated hypothecated for funding two additional tram lines into the city, the refurbishment of the main
+railway station and enhancements to a number of bus services.
+Evaluations of similar Parking Space Levies schemes in Australia show that their introduction, along with any transport improvements they part fund, have been
+followed by mode switch to non-car based modes, a pre-requisite for congestion constraint. The aim of this paper is to investigate the impact the introduction of the
+Nottingham Workplace Parking Levy and its associated transport improvements has had on transport mode choice for commuters. This research however, does not
+directly demonstrate cause and effect leaving open the possibility that the observed mode shift could be caused by exogenous factors. The paper is based on data
+collected from a survey of 2500 commuters in Nottingham, relating to their mode choice.
+The results indicate that 8.6% of commuters currently travelling by sustainable modes switched from the car between 2010 and 2016 at least in part due to the
+implementation of the WPL and/or the associated transport improvements. In the region of 50 per cent of those individuals gave the WPL as a stand-alone scheme as
+an important factor in their decision to shift away from the car via an increase in the cost of parking at work or because their employer had removed workplace
+parking spaces. However, this research has also revealed evidence of commuters switching to the car away from other modes demonstrating a significant suppressed
+demand for travel by car which in part offsets some of the beneficial impacts of the WPL package.
+
+1. Introduction 2015, Bishop, 2018). The scheme’s objectives were to reduce conges-
+tion (which was estimated to cost the city economy £160 million every
+Urban traffic congestion and poor local air quality result from the year in the AM peak period alone (EMDA 2007) and fund public
+widespread and sustained use of private petrol and diesel powered transport improvements to incentivise mode shift, particularly during
+vehicles. This significantly affects the social, environmental and eco- peak times to travel to/from the work place.
+nomic health and wellbeing of cities worldwide as well as contributing The WPL was introduced in 2012 and, from an initial outlay of £4m
+to global climate change (Ison and Rye, 2009). Delays arising from for development and implementation, generated over £44 m revenue in
+traffic congestion impose a range of externalities and costs on in- the first five years of its operation (Bishop, 2018). The City Council has
+dividuals, businesses and societies. Various transport demand man- subsequently reinvested this money in local transport initiatives, in-
+agement (TDM) measures, including parking pricing and road user cluding expanding the city’s tram network, redeveloping Nottingham’s
+charging, have been advocated as a means of managing demand and mainline railway station and investing in local bus services (Bishop,
+reducing car dependency while promoting the use of more sustainable 2018). Following Nottingham’s lead, other major UK cities, including
+public transport and active travel (walking and cycling) alternatives Hounslow (a London Borough), Reading, Bristol, Oxford and Cam-
+(Ison and Rye, 2009). bridge, are reportedly considering introducing their own Workplace
+In 2007, the City Council in charge of transport planning and pro- Parking Levies (WPLs) as part of a package of local TDM measures that
+vision in Nottingham, a medium sized city in the East Midlands region aim to reduce urban traffic congestion and fund local transport im-
+of the UK, stated its intention to introduce a Workplace Parking Levy provements.
+(WPL) on car parking spaces used by major employers within the city The aim of this paper is to investigate the impact the introduction of
+boundary who had over 10 liable workplace parking spaces (Dale et al., the Nottingham Workplace Parking Levy and its associated transport
+
+Corresponding author at: Transport Strategy, Nottingham City Council, Loxley House, Station Street, Nottingham NG2 2NG, UK.
+⁎
+
+E-mail addresses: simon.dale@nottinghamcity.gov.uk (S. Dale), M.W.Frost@lboro.ac.uk (M. Frost), stephen.ison@dmu.ac.uk (S. Ison),
+lucy.budd@dmu.ac.uk (L. Budd).
+
+https://doi.org/10.1016/j.cstp.2019.09.001
+Received 8 April 2019; Received in revised form 9 September 2019; Accepted 16 September 2019
+Available online 28 September 2019
+2213-624X/ © 2019 World Conference on Transport Research Society. Published by Elsevier Ltd. All rights reserved.
+S. Dale, et al. Case Studies on Transport Policy 7 (2019) 749–760
+
+Fig. 1. Nottingham Transport Geography.
+
+improvements has had on transport mode choice for commuters in the conclusions.
+city and make recommendations for other cities who are considering
+introducing a similar scheme. To achieve this an extensive survey of 2. Background to Nottingham and the Workplace Parking Levy
+commuters has been carried out to ascertain if they changed mode
+between 2010 and 2016 and if so why. The Nottingham City administrational area has a population of
+The paper presents a background and brief literature review of the 329,000 and is the central area of a larger conurbation, Greater
+scheme followed by detail of the survey method employed to collect Nottingham which has a population of 690,000. In common with many
+City wide transport data from which analysis of attributable modal shift major urban areas in the UK and worldwide, the city of Nottingham,
+has been evaluated. The survey data is presented and the principal faces complex challenges arising from the need to deliver high quality
+findings on modal shift are discussed followed by discussion and transport infrastructure and provision across a spatially heterogeneous
+
+750
+S. Dale, et al. Case Studies on Transport Policy 7 (2019) 749–760
+
+urban area in an age of austerity and growing demand while simulta- 3. Congestion charging, parking space Levies and mode shift – a
+neously reducing congestion, improving local air quality, reducing brief literature review
+carbon emissions to alleviate climate change and making the city an
+attractive place to live and do business (NCC, 2015). Based on his work on the Congestion Relief Index Aftabuzzaman
+In order to meet this challenge, in 2007, Nottingham City Council (2011) concluded that the most effective Transport Demand Manage-
+proposed the UK’s first Workplace Parking Levy (WPL) which would ment Measures (TDM) were “car deterrence” measures with the most
+levy a charge on employers who had over 10 liable workplace parking important measures being those that apply an additional cost to private
+spaces within the city. The objective was to reduce congestion in the car trips. These congestion charging measures can be split into parking
+city by increasing the effective cost of commuting by car while also space levies (PSL) and road user charging schemes (RUC).
+funding transport improvements that would incentivise mode shift. The RUC schemes are the more common typically comprising a toll
+WPL was introduced from 2012 and generated £44 m revenue for the charged when vehicles cross into a defined zone or region usually a city
+City Council in the first 5 years of its operation (Bishop, 2018). The or city centre by crossing a cordon (Button and Vega 2008) Button and
+Policy justification for the Nottingham WPL was based on the perceived Vega go on to identify 8 now longstanding examples, of these London is
+success of similar schemes elsewhere in the world, in particular Perth, the most relevant to Nottingham being a UK city and thus framed in
+Australia combined with the relative speed and low cost of introduc- British culture and UK legislation. Congestion in the charging zone has
+tion. (Dodd, 2007). been monitored using excess travel time per km, essentially delay
+Public acceptance was identified as a major barrier to implementing (Transport for London, 2008). Figures show that in 2002 (pre charging)
+a WPL (Frost and Ison, 2008). In order to address this Nottingham City this was 2.3 min, post implementation this figure fell to 1.6 min in 2004
+Council engaged in an extensive public consultation process liaising but since then, despite a sustained and continued decrease in traffic
+with the business community and other stakeholders regarding initial volumes it has returned to its previous levels. This is attributed to de-
+proposals and options for the WPL or other charging methods. By July terioration in network conditions (Transport for London, 2008). Results
+2007 the WPL proposals had been sufficiently developed to enable the from monitoring of the other similar RUC schemes show similar re-
+Council to hold a one week non-statutory “public examination” of the ductions in congestion (Button & Vega 2008).
+proposals as part of the consultation exercise (Dodd, 2007). 109 em- In contrast to RUC schemes, PSLs impact specifically on commuting
+ployers, residents and other stakeholders were invited to take part and by car. Legorreta and Newmark (2015) conducted a review of parking
+of these 28 took up that offer (Dodd, 2007). It was led by an in- space levies (PSL) worldwide summarising their key characteristics.
+dependent chairman, the “Examiner” who published a report ‘The While they defined PSL’s as a “special property tax charged on non-
+Proposed Nottingham Workplace Parking Levy, Report of the Public residential off-street parking” a closer examination of the 11 schemes
+Examination’ on the public examination in which various re- that they identify reveals that only Nottingham, Perth, Sydney, Mel-
+commendations were made with respect to the proposed scheme. The bourne and Singapore actually impose a regional levy on each parking
+key recommendations related to the need for ongoing business support place. Additionally it should be noted that only the Nottingham WPL is
+to offset the cost of the WPL to employers, which included the provision a true Workplace Parking Levy as the Australian schemes include other
+of a Workplace Travel Planning Service and parking management ad- types of off street parking spaces such as those for customers Legorreta
+vice which enjoys ongoing funding from the WPL. and Newmark (2015). Richardson (2010) studied the outcome in Perth;
+The WPL is just one element of a package of measures part funded and states that following introduction, parking supply contracted by
+by revenue from the WPL. These are as follows and together with the 10% before slowly rebounding, but not recovering to pre-1999 levels.
+WPL are referred to as the WPL Package: This is contrary to the pre 1999 trend of steadily increasing parking
+supply.
+1. Net Phase 2 - the provision of two additional tram lines linking the Clearly a reduction in workplace parking supply is not a guarantee
+suburbs of Clifton and Beeston/Chilwell to the City Centre including that congestion will decrease. However, Richardson (2010) presents
+additional Park and Ride facilities; figures from the Australian Bureau of Statistics for Perth which shows
+2. The refurbishment of Nottingham railway station’s passenger facil- that there has been a significant shift in mode share. Prior to im-
+ities (concourse and platform areas); plementation only 35% of journeys to work were by public transport;
+3. Quality enhancements to the LinkBus services which are supported however by 2010 this had risen to over 50%, while private car mode
+by the City Council to link major employment sites, hospitals and share had fallen by a similar amount demonstrating a mode shift to
+the Universities to the wider transport network; public transport. Indeed public transport use grew by 67% in the
+4. Additional support for businesses in the form of workplace travel decade from 1999 to 2009. While these figures are positive, Richardson
+planning services, parking management advice and cycle infra- (2010) does not present any data to benchmark these against other
+structure grants. similar cities. It can be concluded that, while the results of this in-
+vestigation are encouraging, further benchmarking and corroborative
+These measures are designed to complement each other so that the research is required to show causal attribution of the encouraging
+overall impact is greater than the sum of the individual parts. Fig. 1 trends in mode share to the Perth PSL. It is important to note that, over
+shows the transport geography of the City including the current tram a decade after the introduction of the PSL, Perth is still struggling to
+network, major radial and orbital roads and the park and ride sites. overcome traffic congestion on account of the booming economy and a
+The Nottingham WPL package is the only European example of this large population increase (Martin 2012). Thus the literature suggests
+type of intervention and therefore provides a good opportunity to assess that while the Perth Parking Levy has affected both mode shift and
+the impact of these measures on mode shift, a crucial component of resulted in an initial drop in traffic levels, these benefits are being ob-
+congestion constraint across a constrained CBD with a background of scured by continued economic growth. Young et al (2013) in analysing
+economic growth. the impact of the Melbourne scheme reached a similar conclusion with
+In order to understand the role such a scheme could be expected to a decline in the supply of parking spaces resulting in a positive impact
+play in impacting mode shift away from the car and understanding how on mode shift. However, they also acknowledge that changing eco-
+a WPL relates to other congestion charging tools the following section nomic and policy factors obscure the extent of the impact of the PSL
+provides a literature review. Much of the following literature under scheme.
+pinned the business case for the Nottingham WPL and the expectations Monitoring data for Sydney appears to be sparse (Enoch and Ison
+regarding its success. 2006). Enoch and Ison argue that, as 85% of all traffic entering Sydney
+is through traffic and that as 460,000 vehicles travel in the city with
+
+751
+S. Dale, et al. Case Studies on Transport Policy 7 (2019) 749–760
+
+Fig. 2. Location of Businesses Participating in Survey.
+
+only 36,000 chargeable spaces, the impact of the PSL on congestion is ability to illicit the desired mode shift is understood especially given
+likely to be minimal. More recently Ison et al (2014) conclude that the that it is the first and only such scheme to be introduced in the UK to
+Sydney PSL has not resulted in a reduction in the supply of parking date.
+spaces and that it is not clear whether it has had an impact on con-
+gestion. 4. Research method
+The above discussion reveals that Perth has seen the most impactful
+results with respect to congestion and mode shift. However, all three In order to assess the impact on mode share following the in-
+Australian schemes appear to lack a comprehensive evaluation that troduction of the WPL Package a survey of 2000 commuters was con-
+directly links the observed changes in these important indicators to the ducted in late 2016. The results from this survey are supplemented with
+PSL schemes. It is therefore important that the Nottingham WPL’s data showing the changes to mode share for mechanised modes (Car,
+
+752
+S. Dale, et al. Case Studies on Transport Policy 7 (2019) 749–760
+
+Bus, Tram and Motorbike) public transport patronage and the number Nottingham Railway Station. The bus stops and services were chosen to
+of cycle trips over time. gather data primarily from passengers using the Linkbus Services (see
+The 2016 Nottingham commuter survey involved structured inter- above). However, some non-Linkbus regular commercial bus route
+views and self-completion questionnaires (either completed online or services were included so that all major areas/corridors of travel within
+returned by post). The questions were adjusted slightly to reflect the the City bus network were represented.
+mode surveyed and method. While it is recognised that some form of Cycle – Cyclists were stopped at a census point by the survey team
+random (probability) sampling of commuters was desirable (Iacobucci and asked to engage in face to face interviews, if they declined, because
+and Churchill, 2010), this was not possible due to the following con- they did not have time, they were given a self-completion questionnaire
+straints; firstly no sampling frame was available there being a lack of to fill in later. The survey locations were chosen based on practical
+any dataset of the whole commuting population that identified in- considerations such as safety, at natural stopping points and so that all
+dividuals that could be selected for inclusion in the survey, secondly, major cycle corridors into the City Centre were covered. Although re-
+not all businesses co-operated with a workplace based survey of car spondents were selected at random some response bias could not be
+users. Finally, it was considered that an expert ‘judgment approach’ ruled out due to the self-completion element of the methodology.
+(Chisnall, 1997) was a more reasoned way of selecting a representative The sample sizes for each mode were as follows:
+sample of bus service users in particular, but also participatory busi-
+nesses (further discussed below). Given the above constraints the Car = 584
+sample was a non-probability sample based on a population defined as Bus = 496
+commuters travelling in the AM and/or PM peak periods and surveyed Tram = 999
+in the City area (Fig. 1). This is stratified by mode of travel with a Train = 311
+sample being taken from commuters using the following modes: Car, Cycle = 168
+Bus, Tram: NET Line 1, Tram: NET Lines 2 and 3, Rail and Cycle.
+A mix of structured interview and self-completion survey methods 4.1. Questionnaire design
+of data collection was unavoidable given the nature of modes assessed
+and the physical constraints of the survey, hence it was recognised that The questionnaire design was screened to try to minimise bias due
+there was some response bias where self-completion is adopted and that to the wording of individual questions and question sequence effects,
+there may be other forms of bias which could occur because people both problems commonly associated with questionnaire design
+might answer questions differently in a structured interview compared (Chisnall, 1997). A key design consideration was how to formulate the
+with a self-completed questionnaire. The approach for each mode was question which asked why respondents had changed mode.
+as follows: There were two principle elements that were considered in the de-
+Car – As a roadside interview survey could not be justified due to sign of this question:
+the cost and the traffic disruption generated, it was decided that sur- The Dimension: – set or ‘battery’ of attitudes chosen to represent
+veying car users at the workplace was the most appropriate approach to issues requiring research (Brace, 2010). A battery of 16 statements
+collect the required data for this mode. Thirteen businesses within two giving potential reasons as to why individuals chose to switch mode
+of the main Nottingham business parks were surveyed along with six were devised by cross referencing established dimensions from other
+employers situated elsewhere in the City. The geographic locations of NCC travel surveys (GNTP, 2016) together with consulting with in-
+the two business parks were seen to be typical of different areas of the ternal stakeholders.
+city and with a differing access to public transport (from good links via The line of questioning employed was as follows:
+the NET to relatively poorly connected with limited access to buses).
+The NG2 Business Park is located close to the City Centre while the Have you changed your usual main mode of travel to your work or place
+Nottingham Business Park is on the north-west edge of the City. The of study since the 1st Jan 2010? If you have changed more than once tell
+Nottingham Business Park is relatively poorly served by public trans- us about the most recent.
+port while the NG2 Park is located on the new tram line and within What was your previous usual main mode of travel to your work or place
+walking distance of the City Centre transport hubs. In addition to these of study?
+two business parks, all businesses for which Nottingham City Council Thinking about why you made the decision to change your usual mode of
+[NCC] Workplace Travel Planning team has contact details were asked travel to the bus, please indicate how important each of the following
+to participate in the survey (giving around 30 firms in total). However, reasons were in making that decision by giving it a score of 1 to 5 with 5
+only six agreed including NCC itself which has multiple sites located being very important and 1 being of no importance. Please indicate if the
+across the City. The locations of the employers who participated in this reason is not applicable (NA) to you.
+survey are shown in Fig. 2. Overall this produced a sample which has
+reasonable geographical spread, but bias is possible, firstly, as these The battery of statements used is linked to the above question is
+Businesses were known to Nottingham City Council they are more likely shown below:
+to have received workplace travel planning advice. This would have
+been a major concern if the modes being surveyed were non car based 1. Change of workplace;
+modes which the travel planning advice is aimed to promote however a 2. Change of home address;
+view was taken that car users were relatively immune to this bias. If 3. Employer removed access to parking at work;
+anything one would assume that the results would underplay the ten- 4. Increase in the cost of parking at work;
+dency to switch to the car from other modes compared to a random 5. Improved bus service;
+sample and the results should be viewed with this in mind. Secondly, 6. Deterioration in bus service;
+the businesses who took part tended to be larger ones with pre- 7. New tram line opened;
+dominantly a white collar workforce. Over all the resources available 8. Improvement in the quality of cycle lanes/storage/facilities;
+combined with the refusal of many businesses to participate has driven 9. Deterioration in the quality of cycle lanes/storage/facilities;
+this pragmatic methodology however overall we are of the view that 10. Improvement in the rail service;
+bias is unlikely to impact the core conclusions from the survey of car 11. Deterioration in the rail service;
+users. 12. Wanted to do more exercise;
+Bus/Tram/Rail – Commuters on these modes were surveyed at 13. Change in family circumstances/health issues;
+random by direct interview at selected bus and tram stops and at 14. Shorter journey time;
+
+753
+S. Dale, et al. Case Studies on Transport Policy 7 (2019) 749–760
+
+15. More reliable option; 5.1. Mode share 2007–2017
+16. Other – please specify.
+Fig. 4 shows public transport (PT) mode share as proportion of
+Some of these statements were mode specific and as such not all mortised modes (Car, Bus, Tram, Train, Motorcycle) for inbound people
+were included in each questionnaire. The statements provided the op- movements via motorised modes travel into Nottingham in the AM
+portunity for respondents to select each element of the WPL Package. peak period (07:00–10:00) over the period 2007–2017. The key mile-
+Statements 3 and 4 related to the WPL impact while statement 5 related stones for the implementation of the WPL package are also illustrated.
+to the enhanced Linkbus services. Statement 7 related to the NET Phase As discussed in the previous section this data was collected on the Inner
+2, 8 accounted for the effects of the WPL funded workplace travel Traffic Area Cordon (ITA) which approximates to the Nottingham Ring
+planning and related cycle infra-structure grants and finally, 10 related Road and for passengers alighting at Nottingham railway station. As the
+to the improvements to Nottingham Railway Station. To avoid question data is collected at each survey point on the cordon on just one day each
+bias negative options in statements 6, 9 and 11 were also provided. 14 year there is some inherent volatility in the data in order to compensate
+and 15 were also attributed to the WPL transport improvements since for this a 3-year rolling average has also been provided in Fig. 4.
+they were the key changes to these modes since 2010. Fig. 4 can be summarised as follows
+The 16 statements were grouped into categories to indicate caus-
+ality for the following: 1. A rise from 2010 to 2011. This coincides with a period running up to
+the commencement of the WPL on the 1st October 2011. Dale et al.
+• The WPL scheme (2 and 4) (2017) show that in this period employers took pre-emptive action
+• The WPL Package transport improvements (5,7,8,10 and in cases to reduce the number of workplaces they provided in order to re-
+where 1 and 2 were not applicable 14 and 15 duce their liability.
+• The WPL Package as a whole (3,4, 5,7,8,10 and in cases where 1 and 2. A fall between 2011 and 2014 coincided with the period following
+2 were not applicable 14 and 15 changes made to Nottingham City Transport’s Easy Rider City Card
+travel card and integrated day ticketing arrangements in December
+The Scale – A semantic differential scale of 1 to 5 based on the 2011, neither of which included tram travel beyond the start of
+adjective pairing of unimportant and important (with 5 being very 2012. This effectively increased the cost of travel by the tram.
+important and 1 being of no importance), was adopted for this survey. 3. A rise from 2013 to 2014. This coincides with the completion of the
+This form of scale was preferred over the Likert Scale (Chisnall, 1997) refurbishment to Nottingham Station in 2013. The survey of pas-
+which is more restrictive as it is centred on a position of neutrality as a sengers alighting at Nottingham station revealed that the numbers
+central point on the scale which would not be appropriate in this in- rose by 9% on completion of the refurbishments in the first year and
+stance, for example while something may be unimportant, it can’t be then by 53% by 2015 before falling back to slightly above pre-re-
+very unimportant. cession levels. Looking at the average over the four years prior to the
+completion of the refurbishment and comparing it to the four years
+5. Data analysis and findings after, it can be seen that the numbers of passengers rose by just over
+a quarter.
+In this section the existing data for mode share collected over recent 4. In Autumn, 2015, the proportion of people travelling by PT crossing
+years is presented along with other supporting indicators followed by a the Inner Traffic Area (ITA) cordon, increased by 2% coinciding
+presentation and analysis of the results from the survey of Nottingham with the opening of NET Phase 2. Although this dropped back to just
+Commuters. To set the scene Fig. 3 presents the current modal split for below 40% in the following two years it remained at a historically
+travel into Nottingham in the AM Peak Period. This shows that the high level. These observations need to be caveated as a 1.5–2% in-
+mode share for non-car based nodes is over 40% which is, at over 40% crease is fairly small given data collection methodology, despite this
+an historical high level. This paper explores the role the WPL package it is encouraging that the trend seems consistent with what would be
+has played in achieving this. expected given the WPL Package interventions.
+
+Cycle* Train Tram
+As noted above the mode share data for the ITA Cordon does not
+Motor Cycle 4% 4% 12% include cyclists. The level of cycling in Nottingham is monitored
+1% quarterly by Nottingham City Council across a network of count sites
+across the City and is expressed as an index with 2010 being 100. There
+has been a 46% increase in cycle trips in Nottingham between 2010 and
+2017. When this index is applied to the 3.5% cycling mode share sug-
+gested by the UK 2011 Census, an increase from 3.0% to 4.5% in mode
+share is indicated between 2010 and 2017. This calculation can only be
+used as a guide since the NCC cycling monitoring data applies to gen-
+eral cycle use on the network whereas the 2011 census data refers to
+commuters only. Although this increase may reflect the increase in
+cycling as a leisure activity the trend also corresponds with the in-
+troduction of the WPL.
+Bus Fig. 5 reveals the Public Transport Mode Share before and after the
+22%
+introduction of the WPL Package. The data is averaged from 2008 to
+2010 for the before period and from 2015 to 2017 for the after period.
+Car
+57% This shows that the Public Transport Mode share has increased over all
+and especially on the A6005 corridor which includes the new tram line
+from the City Centre to Beeston. However on the A453 corridor, the
+Fig. 3. 2018 Modal Share For Inbound Travel 7am-10am Across the Pubic Transport Mode Share has decreased almost certainly as result of
+Nottingham Inner Traffic Area Cordon. *Cycle mode share calculated from the investment in the A453 link road from junction 24 of the M1 mo-
+cycle counts across the City and 2011 census data. Source: Nottingham City torway to Nottingham to a dual carriageway which has resulted in a
+Council. 26% increase in the traffic flow from the before period.
+
+754
+S. Dale, et al. Case Studies on Transport Policy 7 (2019) 749–760
+
+Fig. 4. AM inbound peak period public transport share for Nottingham (motorised modes only Car, Bus, Tram, Train, Motorcycle).
+
+It can be argued that tracking mode share on its own can be mis- While the above pattern of change in the metrics described so far in
+leading and it is worth noting that public transport patronage and the this section is what one would expect to see given the WPL Package
+total numbers of people crossing the ITA Cordon inbound in the Theory of Change (Dale et al., 2015) it does not provide clear evidence
+morning peak period have both increased over the study period. Fig. 6 to confirm cause and effect. In other words, based solely on the data
+illustrates annual public transport patronage in Greater Nottingham. above the case that the WPL has increased mode share of public
+The annual total PT patronage for Greater Nottingham demonstrates transport and cycling is circumstantial (hence the need for the more
+a trend generally consistent with that of the mode share illustrated in detailed research reported below).
+Fig. 4. The key observation is that it has seen a steep rise since the A further consideration is that it is possible that demographic
+completion of Net Phase 2. change over time may drive differing propensity to choose a particular
+The number of people crossing the cordon by mode shows that, mode. The assumption made in this research is that, over the 6 year
+taken on a 3-year rolling average the number of people travelling by car study period, the demographics of the working age population remain
+fell by 6.6% between 2010 and 2017 while public transport numbers sufficiently similar so as not to change the overall propensity to choose
+rose by 9.6%. Closer examination of the data suggests that most of this any given mode of travel. Changes to the age structure and gender
+change coincides with the introduction of the WPL with respect to car balance shown annually as part of the Annual Population estimates
+use and the completion of NET Phase 2 for public transport use. (ONS, 2016) were very small and it was concluded that this was only
+
+60
+
+% Public Transport Mode Share (excluding non
+50
+
+40
+
+30 Public Transport Before
+
+motorised modes)
+Public Transport After
+
+20
+
+10
+
+0
+A6005 A453 All
+
+Fig. 5. Public Transport Mode Share Before and After Introduction of the WPL Package. Source: Nottingham City Council.
+
+755
+S. Dale, et al. Case Studies on Transport Policy 7 (2019) 749–760
+
+shift. Hence, for commuters who are on public transport, walk or cycle,
+the category ‘other’ refers to reasons for changing mode that are un-
+related to the WPL package. For those that are travelling by car, the
+category ‘other’ relates to positive reasons which are related to the
+implementation of the WPL Package or wanting to do more exercise.
+The analysis of the commuter survey produced two metrics pri-
+marily based on this key question.
+
+1. The number and percentage of respondents scoring 4 or 5 for at least
+one statement indicating the WPL and/or WPL Package schemes as a
+reason for mode shift. This analysis utilises the categories presented
+in Table 1, although for this metric the ‘shorter journey time/more
+reliable’ category has been included within the WPL funded scheme
+category, provided a change in origin and/or destination (O&D)
+Fig. 6. Public transport patronage in Greater Nottingham. Source: hadn’t been indicated as an important cause for the change of mode.
+Nottingham City Council.
+
+This metric is presented for the WPL as a standalone scheme, WPL
+likely to impact mode choice in the longer term. funded schemes, and the WPL Package as a whole. In order to allow for
+the differing sample sizes, a weighted average across all five modes was
+then calculated to give an estimate of the percentage of commuters
+5.2. The Commuter survey
+travelling on sustainable modes who had switched from the car, at least
+in part, due to the WPL Package, i.e. they have scored at least one
+The survey of commuters is focused on attributing evidence for the
+reason for switching which relates to the WPL Package as 4 or 5. This
+observed changes to the WPL Package.
+analysis for non-car modes is presented in Table 2, while Table 3 pre-
+Commuter Survey Analysis methodology
+sents the data for commuters using the car.
+The 16 statements presented in Section 4 can be grouped into
+broader categories to indicate causality for the following:
+2. The percentage of the total score for the categories presented in
+
+• The WPL scheme; Table 2 attributing causality for mode change to car and non-car
+
+• The WPL Package transport improvements; modes. For example, if the sum of all scores for all the statements
+
+• The WPL Package as a whole. indicated of relevance by bus commuters came to 100 and there
+were 4 bus commuters scoring ‘increase in cost of parking at work’ 5
+and 3 scoring ‘increase in cost of parking at work’ 4, then the ca-
+For example, if a respondent scored ‘Employer removed access to
+tegory referring to the WPL would have a total score of 32
+parking at work’ as 4 or 5 thus indicating this reason as an important
+(5 + 5 + 5 + 5 + 4 + 4 + 4 = 32) out of 100 or 32
+factor in their decision to switch mode from the car then the WPL
+Scheme can be attributed as an important cause of this mode switch.
+It is important to understand the bias that could exist within the
+Additionally, other non WPL Package related categories can also be
+survey sample. Table 2 compares the demographics from the 2011
+identified. Table 1 below summarises how the statements are grouped
+census travel to work data to that of the survey sample.
+into these categories. For non-car modes the reasons to switch mode
+Table 2 shows that the two data sets are similar with respect to
+were generally likely to be similar thus the same groupings have been
+ethnicity and age distribution. However it also shows that men are
+used for these. However for those swapping to the car they were likely
+underrepresented compared to women. The reason for this is unknown
+to be very different, for example improvement to bus or train services or
+and appears to be present in all modes except cycling suggesting that
+additional cycle facilities are unlikely to be a motivation to switch away
+this is not generated by the sampling technique.
+from those modes to the car nor would the implementation of the WPL.
+Thus we considered it appropriate to use different groupings for car to
+non-car modes so as to highlight the most important reasons for mode
+
+Table 1
+Groupings of statements into categories attributing reasons for mode switch.
+Possible responses to question: Reason for mode switch Grouping of reasons into categories which attribute mode switch
+
+Non Car Modes Car
+
+1 Change of workplace Other O&D change
+2 Change home address Other O&D change
+3 Employer removed access to parking at work WPL Other
+4 Increase in cost of parking at work WPL Other
+5 Improved bus service WPL funded schemes Other
+6 Deterioration in bus service Other Deterioration in PT or cycle facilities
+7 New Tram Line opened WPL funded schemes Other
+8 Improvement in quality of cycle lanes/storage/facilities WPL funded schemes Other
+9 Deterioration in quality of cycle lanes/storage/facilities Other Deterioration in PT or cycle facilities
+10 Improvement in rail service WPL funded schemes Other
+11 Deterioration in rail service Other Deterioration in PT or cycle facilities
+12 Wanted to do more exercise Other Other
+13 Change in family circumstances/Health Issues Other Changes in life situation
+14 Shorter journey time Shorter journey time/more convenient Shorter journey time/more convenient
+15 More reliable option Shorter journey time/more convenient Shorter journey time/more convenient
+16 Other Other/allocated to one of the above Other/allocated to one of the above
+
+756
+S. Dale, et al. Case Studies on Transport Policy 7 (2019) 749–760
+
+Table 2
+
+Weighted average scoring
+Basic Demographic Characteristics of the Commuter Survey Sample and the
+2011 Census Travel to Work Data.
+
+4 or 5 due to WPL Package
+METRIC % Commuter Survey % 2011 Census
+
+*The weighted averages are based on mode split in 2015 for people crossing the Inner Traffic Area Cordon inbound in the AM Peak period, cycle count data and people alighting at Nottingham Station.
+Respondents Population
+
+across all modes*
+Gender
+Female 58.31% 47.35% 8.6
+Male 40.71% 52.65%
+Prefer not to say 0.98% 0.00%
+
+Age: Commuter Age: 2011 Weighted average scoring
+Survey Census
+
+4 or 5 due to WPL scheme
+Under 18 3.29% 0.00% NA
+18–25 18.43% 13.83% Age 16 to
+24
+
+across all modes*
+25–34 23.53% 21.98% Age 25 to
+34 NA 4.4
+35–44 20.43% 36.90% Age 35 to
+49
+45–59 27.80% 24.54% Age 50 to
+Mode Split based on
+64
+60 or over 5.73% 2.75% Age 65 and
+
+annual monitoring
+over
+Prefer not to say 0.78% 0.00% NA
+
+Ethnicity divided by 100*
+0.04
+0.63
+0.13
+Asian 4.67% 5.69%
+0.07
+0.13
+Black 4.67% 3.17%
+Chinese 0.75% 0.50%
+% Respondents
+Mixed 3.14% 2.23%
+Prefer not to say 2.00% 0.00%
+swapped away from
+White 84.78% 88.41%
+
+the car
+26.8%
+16.1%
+17.6%
+29.5%
+5.3. Commuter survey findings
+20.9%
+22.8%
+
+% scoring 4
+
+WPL Package (WPL + WPL
+Table 3 reveals that, of those commuters surveyed, 22.8% switched
+to the bus, tram, train or bike from the car since 2010. Across these
+or 5
+13.1%
+7.3%
+
+Table 3
+7.2%
+22.9%
+modes 13.4% of respondents said they had switched mode away from
+7.1%
+13.4%
+the car and that at least one reason facilitated by the WPL package is
+
+Funded Schemes)
+important in making that decision, a weighted average1 of 8.6% of all No. scoring 5
+respondents. 4.4% have stated that at least one reason related to the
+or 4
+WPL as a standalone scheme was important in making that decision. Of
+22
+36
+21
+165
+22
+266
+the WPL package elements the two new tramlines are, not surprisingly,
+
+WPL Funded Schemes
+the most successful in attracting commuters away from the car with % No. 5 or
+29.5% of users surveyed saying they previously used the car. These
+8.9%
+4
+2.4%
+4.8%
+findings demonstrate that, while not the dominant reason for commu-
+22.8%
+
+(Statements 5,7,8,10,14 and
+3.9%
+10.9%
+ters switching from the car, the WPL and its associated transport im-
+No. scoring 5
+provements are playing an important role in such decisions.
+
+15)
+Looking at this data more closely, the % of commuters surveyed by
+mode that had switched mode1 from the car and rated at least one or 4
+15
+12
+14
+reason resulting from the introduction of the WPL package as important
+164
+12
+217
+
+reveals that 13.1% of cyclists said they switched away from the car, at % No. 5
+
+WPL (Statements 3 &
+
+Number and percentage of respondents scoring 4 or 5 for at least one reason applicable to the WPL package.
+least in part due to the introduction of WPL package. Of these 4.2%
+4.2%
+or 4
+5.4%
+2.8%
+0.3%
+3.5%
+gave reasons relating to the WPL as a standalone scheme. This split was
+2.8%
+
+7.3% and 5.4% for bus users and 7.1% and 3.5% for Train Users. For
+
+4)
+No. scoring
+Tram users interviewed on the two new tram lines part funded by the
+WPL 29.2% said they had swapped in part due to the introduction of 5 or 4 7
+27
+8
+2
+WPL funded schemes, not surprising given that these two lines are new.
+11
+55
+
+Sample swapping
+Only 0.3% gave reasons relating to the WPL itself. On the existing Tram
+Line (NET Line 1) 7.2% stated they had switched mode away from the
+car and gave at least one reason facilitated by the introduction of the
+WPL package as important. Of these 2.8% gave at least one reason re- away from car 45
+80
+51
+lated to the WPL as a standalone scheme.
+212
+65
+453
+
+The above descriptive statistics show that the WPL scheme is more
+important than the WPL funded schemes in promoting a mode switch Total 168
+496
+amongst bus users while for others switching away from the car it is the Sample
+290
+719
+311
+1984
+Cycle
+Bus
+Tram 1
+Mode
+Tram 2&3
+1
+The results for each mode were weighted by the overall mode split so that Train
+All
+the differing sample sizes on each mode did not skew the results.
+
+757
+S. Dale, et al. Case Studies on Transport Policy 7 (2019) 749–760
+
+Table 4 4. The WPL Package has caused individuals to switch from commuting
+Number and percentage of respondents switching to the car since 01/01/2010. by car to more sustainable modes of travel. This is due to the ‘carrot’
+Mode Total Sample swapping % Respondents swapping to improved public transport capacity and quality combined with the
+Sample to car the car ‘stick’ of having to pay more for parking at or near work.
+
+Car NCC 379 98 25.9
+6. Discussion and conclusion
+Car Non NCC 205 48 23.4
+Car All 584 146 25.0
+The analysis has demonstrated that mode shift away from the car is
+occurring as a result, at least in part, of the introduction of a Workplace
+WPL funded transport improvements that play the largest role in Parking Levy. This builds on research in Australia Richardson (2010)
+prompting mode switch. and Hamer et al (2009) which presents evidence of mode switch due to
+Table 4 reveals that a quarter of those car users surveyed have Parking Space Levies in Perth and Melbourne but fall short of showing
+switched to the car since 2010. The sample of car users contained a direct attribution of cause and effect.
+disproportionate number of responses from Nottingham City Council The data presented in this paper reveals that the mode share of
+(NCC) employees, thus Table 4 shows the results for NCC and Non NCC public transport has risen over the study period from 2010 to 2017 and
+respondents separately. It is noted that the results are similar for both a more detailed examination of this data reveals an increase in PT mode
+sub samples. share prior to the introduction of the WPL and then a further rise in
+This data supports the conclusions reached by Dale et al. (2017) that 2015/16 associated with the opening of NET Phase 2, the two addi-
+there is strong suppressed demand for commuting by car which is re- tional tramlines. The initial rise can only partly be attributable to the
+leased, either as the disposable income of individuals increases, or as WPL as the bulk of the increase occurred between 2009 and 2010, prior
+and when road space becomes available due to the WPL package to any pre-emptive actions taken by major employers in response to the
+prompting mode switch. WPL, however the further increase in PT mode share after the opening
+Figs. 7 and 8 present the percentage of the total score for the ca- of NET Phase 2, the most significant of the public transport improve-
+tegories detailed in Table 1 for Non-car based modes and the car re- ments part funded by the WPL in 2015, appears to be directly linked to
+spectively. This is calculated on the basis previously described. The that intervention. This impact is supported by public transport pa-
+results of this analysis generally support the above conclusion that the tronage data which shows that, following the opening of these two new
+WPL Package overall is making an important contribution to mode shift tram lines, there was a rise in public transport patronage due to more
+away from the car. However, it is not the only dominant reason for people arriving by rail and patronage on the two new tramlines. Cycling
+changing mode in the majority of decisions. has also shown a steady growth in the number of trips throughout the
+The figures for cycling, train and bus users all follow a similar evaluation period although no specific causality is evident.
+pattern with the grouping ‘Other’ scoring at over 50%, while the WPL The survey of 2500 commuters suggests that mode switch due to the
+Package related groupings occupy between one third and one half of the WPL and its associated transport improvements has been ongoing
+total score. The role played by the WPL as a standalone scheme is throughout the study period. This survey revealed that all sustainable
+substantially more important amongst bus users than for train or cycle modes have attracted individuals to switch away from commuting by
+users. car and that around 8.5% of all commuters on these modes have
+The figure for NET Line 1 is similar to that of train users, however, switched away from the car, at least in part because of the WPL
+for NET Lines 2 and 3 which only opened in 2015, WPL funded trans- Package. About half of these commuters cited the increase in the cost of
+port improvements account for 73% of the score. This is not surprising parking at work or the removal of workplace parking as an important
+given that, by definition, users must have previously used another reason for their switch indicative of an impact of the WPL as a stan-
+mode. dalone scheme.
+It is interesting to note that scores for the car are dominated by However, the survey also demonstrates that a quarter of all current
+‘Other’ and ‘Shorter journey time/more convenient’, this seems to re- car users surveyed have switched to this mode in the study period, with
+flect the broad attraction of that mode compared to other options. convenience and a quicker journey time being important reasons for
+Indeed, the reasons that car users state for their switch away from this switch. This demonstrates that there is significant suppressed de-
+sustainable modes are revealing in that they are in part indicative as to mand for commuting by car. It is concluded that this limits the ability of
+the possible reasons that commuters haven’t switched to these modes the WPL to actually reduce congestion as when road space is conse-
+despite the introduction of the WPL. Generally they relate to con- quently released by the WPL itself, or the measures it part funds, further
+venience, whether it be a shorter journey or a change in life circum- car trips are generated.
+stances or even a change in journey origin and destination, grouped Further research is needed into the cause and release of this sup-
+together this would account for 58% of the score. It is also worth noting pressed demand but it is most probably driven by both economic factors
+that a further 9% is attributed to a deterioration in cycle facilities and (as individuals have more disposable income they are able to firstly
+public transport services despite the WPL funded ‘improvements’. purchase a car and then to use it and pay for parking) and road space
+The key findings from this research can be summarised as follows: availability, as individuals switch away from the car for the reasons
+outlined in this research it creates road space for other car users to take
+1. 8.6% of those currently using sustainable modes have indicated that their place.
+the WPL Package has played an important part in their decision to The WPL package has led to a significant increase in overall trans-
+switch away from the car. port capacity which will cater for the anticipated future economic and
+2. The data suggests that this causality is split roughly 50/50 between population growth. Evaluation of the impacts of the PSL schemes in
+the PT/cycle improvements and the WPL itself with an average of Australia, Perth (Richardson, 2010) and Melbourne (Hamer et al.,
+4.4% of commuters on sustainable modes switching from the car in 2009), suggest a greater mode switch away from the car than that de-
+part due to, either an increase in the cost of parking at work, or the monstrated in Nottingham. This perhaps reflects the higher level of
+removal of parking at work. charge per space. However, Hamer suggests that this change in Mel-
+3. There is evidence of significant suppressed demand for travel by car bourne may not be due to the PSL itself, but rather a result of other
+and this may be obscuring the beneficial impact on individual mode factors.
+shift of the WPL package. Given this inherent demand for commuting by car it seems unlikely
+that a WPL in its current form or the availability of high-quality public
+
+758
+S. Dale, et al. Case Studies on Transport Policy 7 (2019) 749–760
+
+WPL Funded WPL
+Cyclists WPL Transport NET Line 1 Users 11% WPL
+9% Funded
+Improvement
+Transport
+s
+Improveme
+13%
+nts
+8%
+
+Shorter
+Journey
+Time/More
+convenient
+Shorter Other 14%
+Journey 67%
+Other Time/More
+62% convenient
+16%555
+NET Lines 2 and 3 Users
+Train Users WPL WPL
+16% Other 1%
+18%
+WPL Funded
+Transport Shorter
+Improvements Journey
+12% Time/More
+convenient
+8% WPL Funded
+Transport
+Improveme
+Other
+nts
+53%
+73%
+
+Shorter
+Journey
+Time/More
+556
+convenient
+19%
+Bus Users
+
+WPL
+32%
+
+Other
+53% WPL Funded
+Transport
+Improvements
+9%
+Shorter
+Journey
+Time/More
+convenient
+6%
+
+Fig. 7. Reasons for mode switch non-car based modes.
+
+transport can actually reduce congestion although at present research demand accommodated by PT and active travel. It is too early to say
+suggests that it would be worse than it is without the WPL (Dale et al., whether this is now occurring for certain as delay is still increasing and
+2017). However, if a City such as Nottingham wishes to sustain eco- further research is required to confirm exactly why. However, PT and
+nomic growth it must cater for the extra demand for travel. The WPL active travel mode share has increased as have the demand for travel
+Package does this, and one would expect to see the road network reach and the 2018 data release from the ONS regarding GVA shows a sig-
+a point of stability with respect to congestion and flow with additional nificantly higher growth in Nottingham since 2013 than other
+
+759
+S. Dale, et al. Case Studies on Transport Policy 7 (2019) 749–760
+
+Car Users O&D
+Ashgate, ISBN 978 0 7546 4953 3, pp. 29–48.
+Brace, I., 2010, Questionnaire Design: How to Plan, Structure and Write Survey Material
+Change for Effective Market Research, Kogan Page, ISBN 978 0 7494 5028 1, London.
+18% Bishop, D., 2018, Idea Exchange: How Nottingham created the UK's first workplace
+parking levy, [online]. Local Government Chronicle (accessed 28.12.2018) https://
+Other Changes www.lgcplus.com/idea-exchange/how-nottingham-created-the-uks-first-workplace-
+32% in life parking-levy/7022862.article.
+Chisnall, P.M., 1997. Marketing Research. ISBN 0077091752. McGraw-Hill,
+situation Maidenhead, UK.
+12% Dale, S. J., Frost M.W., Ison S. G. Warren, P., 2015, Evaluating Transport Demand
+Management Interventions using Theoretical Evaluation. Transportation Research
+Board 94th Annual Meeting Compendium of Papers 2015 DVD. Washington:
+Transport Research Board.
+Dale, S.J., Frost, M.W., Ison, S.G., Quddus, M., Warren, P., 2017. Evaluating the impact of
+a workplace parking levy on local traffic congestion: the case of Nottingham UK.
+Transport Policy 59, 153–164.
+Dodd B., 2007. The Proposed Nottingham Workplace Parking Levy, Report of the Public
+Examination. The UK Planning Inspectorate.
+East Midlands Development Agency (EMDA), 2007, Economic Costs of Congestion in the
+Shorter East Midlands, Nottingham: Atkins for the East Midland Development Agency.
+Enoch, M.P., Ison, S., 2006. Levying charges on private parking: lessons from existing
+Journey Detierioration practice. World Transp. Pol. Pract. 12 (1), 5–14.
+Time/More in PT or Cycle Frost, M.W., Ison, S.G., 2008, Implementation of a Workplace Parking Levy, Lessons from
+convenient Facillities the UK, 88th Annual Meeting of the Transportation Research Board, TRB, 09-0249,
+29% 9% 12 Washington DC, USA, 15th January 2008, pp. 1–17.
+Greater Nottingham Transport Partnership (GNTP), 2016, The Big Idea Greater
+Fig. 8. Reasons for mode switch to the car. Nottingham Local Transport Survey 2015: Final Report, http://www.google.com/
+url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=
+2ahUKEwj40tzmqsDfAhVvQRUIHbJUAoAQFjAAegQIChAC&url=http%3A%2F
+comparable Cities (ONS, 2018). %2Fwww.nottinghaminsight.org.uk%2Fd%2FaAXOyFJ&usg=AOvVaw1td_
+YGDfedRUv8DNZC_ioR (accessed 27.12.2018).
+The findings from this research have important implications for Hamer, P., Currie, G. and Young, W., 2009, Exploring travel and parking impacts of the
+other Cities in the UK and further afield considering implementing a Melbourne CBD parking levy. Australian Transport Research Forum 2009, 32nd
+similar intervention to the Nottingham WPL package as it provides meeting, Auckland: New Zealand.
+Iacobucci, D., Churchill G.A., 2010, The implementation and Effectiveness of Transport
+evidence that this will positively impact the mode share of sustainable
+Marketing Research Methodological Foundations International Edition. Cengage
+travel modes by encouraging some commuters to switch away from the Learning, ISBN 978 0 538 7437 8, Canada.
+car. This will inform future Business Cases for the implementation of a Ison, S. Rye, T., 2009. TDM Measures and Their Implementation, In: S. Ison & T. Rye, eds.
+WPL. However authorities should also consider if the areas for which The implementation and Effectiveness of Transport Demand Management Measures.
+Ashgate, ISBN 978 0 7546 4953 3, pp. 1–13.
+they are responsible are also likely to be subject to suppressed demand Ison, S.G., Mulley, C., Mifsud, A., Ho, C., 2014. A Parking Space Levy: A Caser Study of
+for travel by car, in which case it could be recommended that the ex- Sydney, Australia, chapter 14. Emerald Publishing Limited, Parking Issues and
+pectation regarding an actual reduction in congestion is carefully Policies, pp. 317–333.
+Legorreta, A., M., Newmark, G., L., 2015. See Spot Taxed: The Global Experience with
+managed. Parking Levies. 95th Annual Meeting of the Transportation Research Board,
+A number of methodological limitations concerning this survey Washington DC, USA, January 2015.
+need to be kept in mind. Firstly, males were under represented within Martin, S., 2012, Stifling Success: Congestion charges and infrastructure delivery. [on-
+line]. Melbourne: Committee for economic development of Australia. (accessed 19.
+the sample, this was the case across all modes, except cycling and the 02.19). http://ceda.com.au/research-and-policy/research/2012/04/stifling-success.
+reason for this is unclear. Secondly, memory bias is always an issue in Nottingham City Council (NCC), 2015. Nottingham Local Transport Plan 2011 to 2026.
+retrospective travel surveys and finally the sample of car users was [Online] Nottingham: Nottingham City Council, online: http://www.
+nottinghaminsight.org.uk/d/94332 (accessed on 29.05.19).
+taken from larger businesses who had already engaged at some point Office For National Statistics (ONS), 2016, Annual Mid-year Population Estimates: 2014,
+with Nottingham City Council with regards to workplace travel plan- (accessed from NOMIS database 06.05.16) https://www.nomisweb.co.uk/.
+ning. While the latter would have been a concern if it was non-car based Office for National Statistics (ONS), 2018. Regional Gross Value Added (Income Approach
+December 2018, [online] https://www.ons.gov.uk/economy/grossvalueaddedgva/
+modes that were being sampled this is less of a concern with regards to
+datasets/regionalgrossvalueaddedincomeapproach.
+car users. Despite these limitations, which were driven by practical and Richardson, E., 2010, Extracting Maximum Benefit from Parking Policy – 10 Years
+resource issues, they provide no basis to reject the core conclusions Experience In Perth, Australia. European Transport Conference 2010, 38th edition,
+Glasgow, Scotland, UK October 2010. London: The Association for European
+from this research.
+Transport.
+Transport for London (TfL), 2008. Central London Congestion Charge: Impacts
+References Monitoring Sixth Annual Report: July 2008. (online). London: Transport for London.
+(accessed 19.02.217). http://tfl.gov.uk/cdn/static/cms/documents/central-london-
+congestion-charging-impacts-monitoring-sixth-annual-report.pdf.
+Aftabuzzaman, M.D., 2011. Understanding the Road Traffic Congestion Relief Impacts of Young, W., Currie, G., Hamer, P., 2013. Exploring the Impact of The Melbourne CBD
+Public Transport. PhD Thesis. Monash University. Parking Levy On Who Pays The Levy, Parking Supply and Mode Use. In: Ison, S.G.,
+Button, K., Vega, H., 2008. Road User Charging. In: S. Ison, T. Rye, (Eds). The Mulley, C. (Eds.), Transport and Sustainability; Parking. Emerald.
+Implementation and Effectiveness of Transport Demand Management Measures.
+
+760

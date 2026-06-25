@@ -1,0 +1,12 @@
+{
+  "characters": 192598,
+  "extracted_date": "2026-06-25",
+  "method": "html-standard-library",
+  "output_path": "evidence/processed/text/SRC-HMT-0001.txt",
+  "sha256": "ce2a23f36a003706307f93ca03fea699115469784f11f7c54c7de7c66b9c2212",
+  "source_id": "SRC-HMT-0001",
+  "source_path": "evidence/raw/hm-treasury/src-hmt-0001_src-hmt-0001-the-green-book-2026.html",
+  "source_status": "downloaded",
+  "title": "The Green Book 2026",
+  "url": "https://www.gov.uk/government/publications/the-green-book-appraisal-and-evaluation-in-central-government/the-green-book-2026"
+}

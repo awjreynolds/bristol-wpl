@@ -1,0 +1,12 @@
+{
+  "characters": 14325,
+  "extracted_date": "2026-06-25",
+  "method": "html-standard-library",
+  "output_path": "evidence/processed/text/SRC-LEG-0003.txt",
+  "sha256": "598f9901a1a63d565c7f19e9cdbb6d1827b740bcbf8cc14a4cc97d78d97a0329",
+  "source_id": "SRC-LEG-0003",
+  "source_path": "evidence/raw/legislation/src-leg-0003_src-leg-0003-transport-act-2000-section-184-confirmation.html",
+  "source_status": "downloaded",
+  "title": "Transport Act 2000 section 184 confirmation",
+  "url": "https://www.legislation.gov.uk/ukpga/2000/38/section/184"
+}

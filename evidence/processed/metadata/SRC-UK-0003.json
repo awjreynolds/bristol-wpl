@@ -1,0 +1,12 @@
+{
+  "characters": 104281,
+  "extracted_date": "2026-06-25",
+  "method": "pdftotext-layout",
+  "output_path": "evidence/processed/text/SRC-UK-0003.txt",
+  "sha256": "337d30947f758182652a1d7d6543eb0a7ab01054a46aa6d199653e534e682aa8",
+  "source_id": "SRC-UK-0003",
+  "source_path": "evidence/raw/uk-comparators/src-uk-0003_leicester-wpl-evidence-based-review-2021-05-19.pdf",
+  "source_status": "downloaded",
+  "title": "WPL - An evidence-based review of policy and prospects for Leicester",
+  "url": "https://consultations.leicester.gov.uk/sec/wpl/supporting_documents/WPL%20An%20evidencebased%20review%20of%20policy%20and%20prospects%20for%20Leicester%20.pdf"
+}

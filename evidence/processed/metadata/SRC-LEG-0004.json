@@ -1,0 +1,12 @@
+{
+  "characters": 45208,
+  "extracted_date": "2026-06-25",
+  "method": "html-standard-library",
+  "output_path": "evidence/processed/text/SRC-LEG-0004.txt",
+  "sha256": "739766f35aafef854a280b891a6e1c77b466c9386bfc97a52d6b4e323d4becff",
+  "source_id": "SRC-LEG-0004",
+  "source_path": "evidence/raw/legislation/src-leg-0004_src-leg-0004-transport-act-2000-schedule-12-net-proceeds.html",
+  "source_status": "downloaded",
+  "title": "Transport Act 2000 Schedule 12 net proceeds",
+  "url": "https://www.legislation.gov.uk/ukpga/2000/38/schedule/12"
+}

@@ -1,0 +1,12 @@
+{
+  "characters": 29317,
+  "extracted_date": "2026-06-25",
+  "method": "pdftotext-layout",
+  "output_path": "evidence/processed/text/SRC-BCC-0010.txt",
+  "sha256": "285a5c4d8c7c1a0a2b9748cd0d7d832df4a2d83ac729e9041dfc26ae1736a550",
+  "source_id": "SRC-BCC-0010",
+  "source_path": "evidence/raw/bristol-city-council/src-bcc-0010_appendix-b-eqia-workplace-parking-levy-reviewed-sept-2025.pdf",
+  "source_status": "downloaded",
+  "title": "Appendix B - Equality Impact Assessment - Workplace Parking Levy reviewed Sept 2025",
+  "url": "https://democracy.bristol.gov.uk/documents/s117956/Appendix%20B%20-%20Equality%20Impact%20Assessment%20-%20Workplace%20Parking%20Levy%20reviewed%20Sept%202025.pdf"
+}

@@ -1,0 +1,12 @@
+{
+  "characters": 17243,
+  "extracted_date": "2026-06-25",
+  "method": "html-standard-library",
+  "output_path": "evidence/processed/text/SRC-LEG-0013.txt",
+  "sha256": "c7f1a31c57abdcba332517da201a369fba81fd9117fe0dc0a5c84e06cb489dd6",
+  "source_id": "SRC-LEG-0013",
+  "source_path": "evidence/raw/legislation/src-leg-0013_src-leg-0013-road-user-charging-and-wpl-classes-of-motor-vehicles-regulations-2001-whole-i.html",
+  "source_status": "downloaded",
+  "title": "Road User Charging and WPL Classes of Motor Vehicles Regulations 2001 whole instrument",
+  "url": "https://www.legislation.gov.uk/uksi/2001/2793/made"
+}

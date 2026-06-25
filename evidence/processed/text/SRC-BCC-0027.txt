@@ -1,0 +1,469 @@
+Equality Impact Assessment [version 2.12]
+Title: Workplace Parking Levy – Stage One Development and Outline Business Case
+☒ Policy ☐ Strategy ☐ Function ☐ Service ☐ New
+☐ Other [please state] ☒ Already exists / review ☐ Changing
+Directorate: Growth and Regeneration Lead Officer name: Laura Gosling
+Service Area: City Transport Lead Officer role: Transport Programme
+Manager
+
+Step 1: What do we want to do?
+The purpose of an Equality Impact Assessment is to assist decision makers in understanding the impact of proposals
+as part of their duties under the Equality Act 2010. Detailed guidance to support completion can be found here
+Equality Impact Assessments (EqIA) (sharepoint.com).
+This assessment should be started at the beginning of the process by someone with a good knowledge of the
+proposal and service area, and sufficient influence over the proposal. It is good practice to take a team approach to
+completing the equality impact assessment. Please contact the Equality and Inclusion Team early for advice and
+feedback.
+
+1.1 What are the aims and objectives/purpose of this proposal?
+Briefly explain the purpose of the proposal and why it is needed. Describe who it is aimed at and the intended aims /
+outcomes. Where known also summarise the key actions you plan to undertake. Please use plain English, avoiding
+jargon and acronyms. Equality Impact Assessments are viewed by a wide range of people including decision-makers
+and the wider public.
+The Committee Report outlines Bristol City Council’s proposed approach to developing a Workplace Parking Levy
+(WPL) scheme and associated Outline Business Case.
+
+A WPL is an annual charge paid to the Local Transport Authority by employers on the workplace parking spaces
+they provide. Employers have the option to pass this cost on to their employees or pay the charge themselves.
+The aim is to encourage employers to manage the number of workplace parking spaces they provide, whilst
+promoting and encouraging the use of sustainable transport
+
+A WPL forms a potential part of Bristol City Council’s transport strategy and is outlined in Joint Local Transport
+Plan 4 and the Bristol Transport Strategy as a key demand management measure aimed at tackling congestion,
+particularly at peak times, and as a means of providing significant additional revenue for transport improvements
+across the city. The introduction of a WPL would help discourage commuting by car and help increase the use of
+alternative modes such as walking, cycling and public transport which would in turn, improve people’s health and
+the local environment. A WPL would also provide significant additional revenue for transport improvements
+across the city.
+
+The powers to introduce a Workplace Parking Levy are contained in the Transport Act 2000. By law, net proceeds
+from a Workplace Parking Levy are only available for the purpose of directly or indirectly facilitating achievement
+of local transport policies and objectives.
+
+Further information about the Workplace Parking Levy can be found here: Further information - Bristol Workplace
+Parking Levy
+
+OFFICIAL
+1.2 Who will the proposal have the potential to affect?
+☒ Bristol City Council workforce ☒ Service users ☒ The wider community
+☒ Commissioned services ☒ City partners / Stakeholder organisations
+Additional comments:
+
+1.3 Will the proposal have an equality impact?
+Could the proposal affect access levels of representation or participation in a service, or does it have the potential to
+change e.g. quality of life: health, education, or standard of living etc.?
+If ‘No’ explain why you are sure there will be no equality impact, then skip steps 2-4 and request review by Equality
+and Inclusion Team.
+If ‘Yes’ complete the rest of this assessment, or if you plan to complete the assessment at a later stage please state
+this clearly here and request review by the Equality and Inclusion Team.
+
+☒ Yes ☐ No [please select]
+
+Step 2: What information do we have?
+
+2.1 What data or evidence is there which tells us who is, or could be affected?
+Please use this section to demonstrate an understanding of who could be affected by the proposal. Include general
+population data where appropriate, and information about people who will be affected with particular reference to
+protected and other relevant characteristics: How we measure equality and diversity (bristol.gov.uk)
+Use one row for each evidence source and say which characteristic(s) it relates to. You can include a mix of
+qualitative and quantitative data e.g. from national or local research, available data or previous consultations and
+engagement activities.
+Outline whether there is any over or under representation of equality groups within relevant services - don't forget
+to benchmark to the local population where appropriate. Links to available data and reports are here Data, statistics
+and intelligence (sharepoint.com). See also: Bristol Open Data (Quality of Life, Census etc.); Joint Strategic Needs
+Assessment (JSNA); Ward Statistical Profiles.
+
+For workforce / management of change proposals you will need to look at the diversity of the affected teams using
+available evidence such as HR Analytics: Power BI Reports (sharepoint.com) which shows the diversity profile of
+council teams and service areas. Identify any over or under-representation compared with Bristol economically
+active citizens for different characteristics. Additional sources of useful workforce evidence include the Employee
+Staff Survey Report and Stress Risk Assessment
+
+Data / Evidence Summary of what this tells us
+Source
+[Include a reference
+where known]
+Bristol City Council The study undertaken by Atkins in 2011 provided high level estimates of the number of
+WPL Feasibility parking spaces that could be encompassed in a WPL scheme based three different defined
+Report (2011) areas in Bristol. These range from a lower estimate of 8,600 parking spaces for a smaller
+central zone to an upper estimate of 57,000 for a scheme covering the entire city. The
+WPL Feasibility Study undertaken by Nottingham City Council in 2021 notes that without
+
+OFFICIAL
+Data / Evidence Summary of what this tells us
+Source
+[Include a reference
+where known]
+undertaking a more detailed and up to date audit of spaces, the accuracy of these figures
+is likely to be low.
+70.8% of respondents think that air quality and traffic pollution is a problem locally which
+Bristol Quality of suggests that there is majority support for initiatives that seek to reduce the impacts of car
+Life Survey use in the city.
+2024/25
+83% of people think that traffic congestion is a problem locally which suggests broad
+support for measures that reduce levels of traffic in the city. In the previous years’ survey
+this percentage was lower, suggesting local people feel congestion has got worse since
+2023.
+
+20.2% of people walk or cycle to work and 14.1% of people take the bus to work which
+shows that there is a significant proportion of the population who would benefit from
+improvement and investment in active travel and public transport infrastructure.
+
+34.4% of respondents state that they drive to work which suggests, depending on the
+coverage of the WPL scheme, that a significant number of people would be impacted by
+the proposal.
+
+The Quality of Life survey suggests older people (65 years and older) (28.3%), younger
+people (16 to 24 years) (19.1%), Disabled people (27.4%), LGB+ (23.1%) and Trans people
+(11.5%) are less likely to drive to work than the Bristol average (34.4%). Carers (42.3%) and
+parents (46.4%) are significantly more likely than Bristol average (36.7%) to drive to work.
+Those living in the 10% most deprived areas are slightly more likely to drive to work
+(37.9%) than the Bristol average.
+
+There are also significant disparities in the extent to which people in Bristol find lack of
+transport options prevents them leaving their house when they want to - in particular for
+young people, Disabled people, Black Asian and minoritised communities, LGBTQ+, carers
+and those living in the most deprived areas.
+Age UK: The Future Driving remains the most common form of transport for older people in the UK, with 68%
+of Transport in an of households where someone is aged 70+ having their own car.
+Ageing Society,
+2015
+NOMIS Bristol has approximately 18,330 registered businesses with a higher proportion of small
+Nomis - Official (10 to 49 employees) and large (250+ employees) employers than the South West regional
+Census and Labour average. More work is required to understand the allocation of parking spaces across
+Market Statistics these businesses as it is likely that many (particularly among micro and small businesses)
+(nomisweb.co.uk) will have no allocated parking and therefore will not be impacted by the scheme.
+
+Travel to Work Bristol’s Travel to Work Survey results reveal that 31% of employees travel to work by car
+Survey Bristol, (with an additional 6% car sharing). On average, people driving to work travel in 3.2 days
+March 2025 per week and travel an average distance of 35 miles a day. The latter statistic
+demonstrates that many commuters are travelling into Bristol from outside of the local
+authority boundary and that the WPL will have impacts beyond Bristol.
+
+The survey notes that there is a relatively equal split between men (30%) and women
+(32%) who drive to work. (It should be noted that the percentages don’t add up to 100%
+because of the option ‘Prefer not to say’)
+
+In line with the Quality of Life Survey, the Travel to Work Survey highlights that people 50+
+(39%) are more likely to drive to work than younger people under 30 (21%).
+
+OFFICIAL
+Data / Evidence Summary of what this tells us
+Source
+[Include a reference
+where known]
+
+The survey identifies that people driving to work are more likely to be from a white ethnic
+background (33%) than an ethnic minority group (24%)
+
+Unlike the Quality of Life Survey, the Travel to Work Survey suggests that an almost equal
+proportion of Disabled (32%) and non-Disabled people (31%) travel to work by car.
+
+Bristol Walking and The Bristol Walking and Cycling Index, which is updated every 2 years, polls a
+Cycling Index representative example of Bristol’s population (circa 1,000 respondents). The survey
+(2023) reveals data that would support the aims and objectives of a WPL scheme:
+
+• 49% of people want to walk, wheel or cycle more
+• 35% of people want to take public transport more
+• 29% of people want to drive less
+
+In addition to the report notes that 64% of people want more investment in walking and
+wheeling, 58% more investment in cycling, 83% more investment in public transport and
+only 23% more investment in driving.
+
+Global Traffic In 2025, congestion cost the UK economy £11 billion and cost the driver £822.
+Scorecard | INRIX
+Global Traffic Bristol drivers lost an average of 64 hours each year to congestion, making the city the
+Rankings second most congested in the UK, after London (91 hours) and ahead of Leeds (59 hours)
+and Manchester (62 hours). This congestion cost the city £191 million and the driver £881
+in 2025.
+Bristol traffic In 2025, average congestion level was at 51.3%, 3 percentage points higher than in 2024,
+report | indicating worsening traffic conditions. During the morning rush hour, this rose to 88.5%
+TomTom Traffic and in the evening rush hour, this rose to 87.7%. The average travel time for a 6 mile
+Index journey was 25 minutes and 45 seconds, which was 34 seconds more than in 2024. Over
+the year, drivers spent 191 hours, or 7 days and 23 hours, in rush hour traffic, which is 4
+hours 6 minutes more than in 2024.
+Additional comments:
+
+2.2 Do you currently monitor relevant activity by the following protected characteristics?
+☒ Age ☒ Disability ☒ Gender Reassignment
+☒ Marriage and Civil Partnership ☒ Pregnancy/Maternity ☒ Race
+☒ Religion or Belief ☒ Sex ☒ Sexual Orientation
+
+2.3 Are there any gaps in the evidence base?
+Where there are gaps in the evidence, or you don’t have enough information about some equality groups, include an
+equality action to find out in section 4.2 below. This doesn’t mean that you can’t complete the assessment without
+the information, but you need to follow up the action and if necessary, review the assessment later. If you are
+unable to fill in the gaps, then state this clearly with a justification.
+For workforce related proposals all relevant characteristics may not be included in HR diversity reporting (e.g.
+pregnancy/maternity). For smaller teams diversity data may be redacted. A high proportion of not known/not
+disclosed may require an action to address under-reporting.
+
+A lot of relevant data exists on the commuting habits of Bristol’s residents, but the following gaps remain:
+
+OFFICIAL
+• Whether different groups currently pay for parking or are offered free parking at their workplace.
+• An accurate picture of the number of employee parking bays that may form part of the scheme.
+• The ability of employers and employees to meet additional costs.
+
+2.4 How have you involved communities and groups that could be affected?
+You will nearly always need to involve and consult with internal and external stakeholders during your assessment.
+The extent of the engagement will depend on the nature of the proposal or change. This should usually include
+individuals and groups representing different relevant protected characteristics. Please include details of any
+completed engagement and consultation and how representative this had been of Bristol’s diverse communities.
+Include the main findings of any engagement and consultation in Section 2.1 above.
+
+If you are managing a workforce change process or restructure please refer to Managing a change process or
+restructure (sharepoint.com) for advice on consulting with employees etc. Relevant stakeholders for engagement
+about workforce changes may include e.g. staff-led groups and trades unions as well as affected staff.
+
+A Feasibility Study has been undertaken in relation to the WPL scheme. However, this outlines in detail the key
+stakeholders that need to be involved and sets out a recommended approach to consulting with them.
+
+Businesses/employers have been engaged with the development of the WPL. A survey was shared with
+approximately 570 workplaces, including schools and colleges, between November 2025 and January 2026,
+disseminated through the Business Improvement District (BID), Visit West and Business West. Parking data has
+been collected through door-knocking and telephone surveys for a further 30 businesses. Around 120 responses
+have been collected to gauge, amongst other things, what Bristol’s businesses would like to see WPL revenue
+invested in, in the city’s transport system. BCC has also held webinars for employers to ask questions about the
+WPL.
+
+Further engagement and consultation is planned as part of the development of this OBC.
+
+2.5 How will engagement with stakeholders continue?
+Explain how you will continue to engage with stakeholders throughout the course of planning and delivery. Please
+describe where more engagement and consultation is required and set out how you intend to undertake it. Include
+any targeted work to seek the views of under-represented groups. If you do not intend to undertake it, please set
+out your justification. You can ask the Equality and Inclusion Team for help in targeting particular groups.
+The scheme has been subject to an initial Feasibility Study which outlines a Stakeholder Management Strategy for
+future stages of project development. This highlights the need for extensive public consultation as well as
+delivering a communications plan which sets out how key stakeholders (e.g. employers) will be kept updated and
+informed at key stages of the project. The next stage of development will advance the stakeholder strategy and
+communication plan, and any scheme will be subject to public consultation and committee sign off before
+delivery.
+
+Further engagement with workplaces/businesses will take place in April/May 2026.
+
+Step 3: Who might the proposal impact?
+Analysis of impacts must be rigorous. Please demonstrate your analysis of any impacts of the proposal in this
+section, referring to evidence you have gathered above and the characteristics protected by the Equality Act 2010.
+Also include details of existing issues for particular groups that you are aware of and are seeking to address or
+mitigate through this proposal. See detailed guidance documents for advice on identifying potential impacts etc.
+Equality Impact Assessments (EqIA) (sharepoint.com)
+
+OFFICIAL
+3.1 Does the proposal have any potentially adverse impacts on people based on their
+protected or other relevant characteristics?
+Consider sub-categories and how people with combined characteristics (e.g. young women) might have particular
+needs or experience particular kinds of disadvantage.
+Where mitigations indicate a follow-on action, include this in the ‘Action Plan’ Section 4.2 below.
+GENERAL COMMENTS (highlight any potential issues that might impact all or many groups)
+The introduction of a WPL will have a range of impacts for different protected characteristic groups but the full
+details of these impacts will not be clear until the necessary development work has been undertaken to
+understand the size, scope and pricing strategy of the scheme. Therefore, this EQIA will need to be continuously
+reviewed and updated as the project progresses.
+A final decision on any WPL scheme will need to be taken by Committee at which point an updated EQIA will be
+provided.
+The WPL scheme is still at an early stage of development with key details such as pricing, scope and potential
+exemptions not yet determined. As such, this EQIA is proportional to the level of detail currently available.
+The analysis of the data suggests there is high levels of support for measures that improve conditions for walking,
+cycling and public transport and for securing more investment for these modes. Residents want to drive less and
+walk, cycle, and use public transport more.
+Where certain equality groups may rely more on driving to work due to accessibility or safety barriers on public
+transport, this impact may be partially mitigated through investment in public transport infrastructure
+improvements.
+The scheme is likely to have an impact on a significant number of commuters who drive to work and of that group
+it is not unreasonable to suggest that people on lower incomes will likely find it harder to meet additional costs if
+their employer passes the cost of the WPL scheme on to them.
+The analysis finds that older people make up a greater proportion of people who travel to work by car and
+therefore they are more likely to be impacted by the scheme than other groups.
+Whilst a levy would be for the employer not the employee, there is a strong possibility that charges would be
+passed on directly to employees or the overall number of car parking spaces reduced - so impacts below have
+been assessed on that basis.
+Disabled people who hold Blue Badges are likely to be exempt, but Disabled employees without a badge and
+those with mobility needs could still be affected if parking is reduced. Night and shift workers, who often rely on
+cars due to limited public transport at unsocial hours, may also face disproportionate impacts.
+In the council’s cumulative equality impact assessment for the 2025-26 Budget, we recognise that increased
+charges and levies could disproportionately affect small businesses and the local voluntary and community sector.
+This impact is especially significant for organisations led by or supporting equality groups, as higher costs may
+prevent smaller providers from continuing to offer equitable services to Bristol’s diverse population. As part of the
+feasibility study, we will evaluate potential indirect impacts on specific users and assess whether discretionary
+concessions for voluntary and community sector or equality-led stakeholders are appropriate and feasible.
+A previous scoping study identified that concessions could be made for specific groups, such as blue badge
+holders, small businesses, and NHS facilities etc.
+Analysis at this stage is limited to consideration of the direct impact of a levy on employees and has not
+considered any potential additional pressure on on-street parking, as the levy would apply to the parking space
+itself rather than the vehicle. The project plan includes a study to identify any potential displaced commuter
+parking.
+
+PROTECTED CHARACTERISTICS
+Age: Young People Does your analysis indicate a disproportionate impact? Yes ☒ No ☐
+Potential impacts: Younger people are less likely to be reliant on a car to get to work. The reduction in
+congestion and re-investment of fees into improved public transport options will
+
+OFFICIAL
+provide a disproportionate benefit to this group. Improved access to transport schemes
+and initiatives will help ensure this group have a good start in life.
+Mitigations: None identified at this stage – to be considered in feasibility study
+Age: Older People Does your analysis indicate a disproportionate impact? Yes ☒ No ☐
+Potential impacts: This group is more likely to be driven to work and as such is likely to be
+disproportionately impacted by the proposal if employers decide to pass on costs to
+them. That said, the Quality-of-Life survey 2024/25 shows that the number of people
+from the 50+ age group that state that they ‘find it difficult to manage financially’ is
+much lower than the Bristol average.
+Mitigations: None identified at this stage – to be considered in feasibility study
+Disability Does your analysis indicate a disproportionate impact? Yes ☒ No ☐
+Potential impacts: A WPL scheme could potentially have an adverse impact on Disabled employees who
+need a car in order to maintain a quality of life and access to employment. A WPL could
+also adversely impact a Disabled person who may need to incorporate other tasks into
+their commute to work (trip chaining) such as attending necessary appointments in
+order to maintain their health.
+Mitigations: Consider exception for all Disabled Employees. The Blue Badge scheme may offer
+partial mitigations for those Disabled employees who have them, and some employers
+may already have designated spaces for Disabled People.
+Sex Does your analysis indicate a disproportionate impact? Yes ☒ No ☐
+Potential impacts: Women are statistically more likely to hold caring responsibilities for children and older
+adults and would therefore be disproportionately affected if they need to incorporate
+other tasks into their commute to work (trip chaining) such as the school run, caring for
+or helping with tasks for older adults.
+In Bristol there are more Disabled women than men.
+Mitigations: No mitigation identified unless the scheme included discretionary exemptions for
+employees with caring responsibilities.
+Sexual orientation Does your analysis indicate a disproportionate impact? Yes ☒ No ☐
+Potential impacts: Quality of Life survey data suggests a higher than average proportion of LGBTQ+ people
+in Bristol find lack of transport options prevents them leaving their house when they
+want to.
+Mitigations: None identified at this stage – to be considered in feasibility study
+Pregnancy / Maternity Does your analysis indicate a disproportionate impact? Yes ☒ No ☐
+Potential impacts: As above, those with caring responsibilities may need to incorporate other tasks into
+the commute to work (trip chaining) Pregnant employees may be more dependent on
+having their own transport for pre-natal appointments or if they find public transport
+inaccessible
+Mitigations: No mitigation identified unless the scheme included discretionary exemptions for
+pregnant employees.
+Gender reassignment Does your analysis indicate a disproportionate impact? Yes ☐ No ☒
+Potential impacts: Quality of Life survey data suggests a higher than average proportion of LGBTQ+ people
+in Bristol find lack of transport options prevents them leaving their house when they
+want to.
+Mitigations: None identified at this stage – to be considered in feasibility study
+Race Does your analysis indicate a disproportionate impact? Yes ☒ No ☐
+Potential impacts: Black, Asian and minoritised ethnic households in the UK are more likely to be in deep
+poverty and experience higher levels of material deprivation. As such, if employers pass
+on WPL scheme costs to these groups they may find it harder to meet these additional
+costs.
+Mitigations: None identified at this stage – to be considered in feasibility study
+Religion or Does your analysis indicate a disproportionate impact? Yes ☐ No ☒
+Belief
+Potential impacts:
+Mitigations:
+
+OFFICIAL
+Marriage & Does your analysis indicate a disproportionate impact? Yes ☐ No ☒
+civil partnership
+Potential impacts:
+Mitigations:
+OTHER RELEVANT CHARACTERISTICS
+Socio-Economic Does your analysis indicate a disproportionate impact? Yes ☒ No ☐
+(deprivation)
+Potential impacts: The Quality-of-Life Survey suggests that people living in areas of deprivation are slightly
+more likely to drive to work than the city average. If employers pass on WPL scheme
+costs to these groups they may find it harder to meet these additional costs
+Mitigations: See general comments above
+Carers Does your analysis indicate a disproportionate impact? Yes ☒ No ☐
+Potential impacts: As above – those who hold caring responsibilities for children and older adults may
+therefore be disproportionately affected if they need to incorporate other tasks into
+their commute to work (trip chaining)
+Mitigations: No mitigation identified unless the scheme included discretionary exemptions for
+employees with caring responsibilities.
+Care experienced Does your analysis indicate a disproportionate impact? Yes ☐ No ☒
+Potential impacts: There is no data to suggest any kind of disproportionate impact on those with this
+protected characteristic.
+Mitigations:
+Other groups [Please add additional rows below to detail the impact for any other relevant groups as appropriate e.g.
+asylum seekers and refugees; care experienced; homelessness; armed forces personnel and veterans]
+Potential impacts:
+Mitigations:
+
+3.2 Does the proposal create any benefits for people based on their protected or other
+relevant characteristics?
+Outline any potential benefits of the proposal and how they can be maximised. Identify how the proposal will
+support our Public Sector Equality Duty to:
+ Eliminate unlawful discrimination for a protected group
+ Advance equality of opportunity between people who share a protected characteristic and those who don’t
+ Foster good relations between people who share a protected characteristic and those who don’t
+
+How people move around the city is intrinsically linked to equality and inclusion. We know that many
+protected characteristic groups are more likely to suffer the negative impacts of car use, such as
+congestion, poor air quality, traffic accidents and unhealthy physical environments, whilst at the same
+time having more limited access and use of vehicles. In addition, we know that these groups are much
+more reliant on walking and public transport as a means of accessing work, education, training, and
+services. (Transport and inequality: An evidence review for the Department for Transport, NatCen,
+2019).
+
+This proposal is in line with the Bristol Transport Strategy that seeks to rebalance the transport system
+to ensure that car use is priced fairly compared with walking, cycling and public transport. Cars take up a
+disproportionate amount of space on public highway which limits the use of that space for more
+investment in sustainable modes of transport (e.g. bike and bus lanes and wider pavements). The
+introduction of a WPL has benefits associated with a reduction in car use and a subsequent increase in
+the use of alternative modes such as walking, cycling and public transport. By increasing the tariffs
+associated with car ownership we may be able to encourage people to re-evaluate the need to own a
+
+OFFICIAL
+vehicle. A reduction in the number of car trips will have a beneficial impact on air quality. In turn this will
+have a positive impact on people’s health.
+
+Step 4: Impact
+
+4.1 How has the equality impact assessment informed or changed the proposal?
+What are the main conclusions of this assessment? Use this section to provide an overview of your findings. This
+summary can be included in decision pathway reports etc.
+If you have identified any significant negative impacts which cannot be mitigated, provide a justification showing
+how the proposal is proportionate, necessary, and appropriate despite this.
+Summary of significant negative impacts and how they can be mitigated or justified:
+Depending on how the scheme is designed the EQIA at this stage has highlighted that there are impacts on various
+groups that need to be considered during the development of the business case. This includes potential
+disproportionate impacts on Black, Asian and minoritised ethnic groups, older people (50+) and people in social
+deprivation.
+Summary of positive impacts / opportunities to promote the Public Sector Equality Duty:
+Depending on how the scheme is designed there are likely to be a number of benefits for different protected
+characteristic groups who often negative impacts of car use – such as congestion, poor air quality, traffic accidents
+and unhealthy physical environments, whilst at the same time having more limited access and use of vehicles.
+
+The WPL revenue will be ring-fenced for investment in public transport, walking, and cycling infrastructure, which
+can improve accessibility for groups with lower car ownership (e.g., younger people, some older adults, Disabled
+people without Blue Badges, and low-income households).
+
+4.2 Action Plan
+Use this section to set out any actions you have identified to improve data, mitigate issues, or maximise
+opportunities etc. If an action is to meet the needs of a particular protected group please specify this.
+Improvement / action required Responsible Officer Timescale
+To review and update the EQIA through the development of the Laura Gosling Review quarterly
+business case and/or key project
+milestones
+
+4.3 How will the impact of your proposal and actions be measured?
+How will you know if you have been successful? Once the activity has been implemented this equality impact
+assessment should be periodically reviewed to make sure your changes have been effective your approach is still
+appropriate.
+A monitoring and evaluation strategy will be developed for the WPL scheme as part of the proposed business
+case.
+
+Step 5: Review
+The Equality and Inclusion Team need at least five working days to comment and feedback on your EqIA. EqIAs
+should only be marked as reviewed when they provide sufficient information for decision-makers on the equalities
+
+OFFICIAL
+impact of the proposal. Please seek feedback and review from the Equality and Inclusion Team before requesting
+sign off from your Director 1.
+Equality and Inclusion Team Review: Director Sign-Off:
+Reviewed by Equality and Inclusion Team
+
+On behalf of A
+Hearn
+Date: 25/02/2026 Date: 25 February 2026
+
+1
+Review by the Equality and Inclusion Team confirms there is sufficient analysis for decision makers to consider the
+likely equality impacts at this stage. This is not an endorsement or approval of the proposal.
+
+OFFICIAL

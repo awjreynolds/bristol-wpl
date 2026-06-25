@@ -1,0 +1,12 @@
+{
+  "characters": 5750,
+  "extracted_date": "2026-06-25",
+  "method": "html-standard-library",
+  "output_path": "evidence/processed/text/SRC-LEG-0006.txt",
+  "sha256": "2f9857f60c064b29610b96ea78edcbe46634256362cb0fa293c095c2104094dc",
+  "source_id": "SRC-LEG-0006",
+  "source_path": "evidence/raw/legislation/src-leg-0006_src-leg-0006-road-user-charging-and-workplace-parking-levy-net-proceeds-england-regulation.html",
+  "source_status": "downloaded",
+  "title": "Road User Charging and Workplace Parking Levy (Net Proceeds) (England) Regulations 2003",
+  "url": "https://www.legislation.gov.uk/uksi/2003/110/contents"
+}

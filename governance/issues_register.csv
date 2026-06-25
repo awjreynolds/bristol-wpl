@@ -1,1 +1,8 @@
-issue_id,stage,severity,issue,owner,due_date,status,notes
+issue_id,stage,severity,issue,owner,due_date,target_gate,status,notes
+ISS-0001,Stage 2,P0,Bristol competence and delegation route for making/submitting a WPL licensing scheme order is unresolved,Legal Review Agent,,Stage 2 legal/governance gate,open,Blocks consultation launch preferred scheme OBC approval reliance and statutory submission readiness.
+ISS-0002,Stage 2,P0,WECA/MCA current-law role is unresolved after 2026 changes and cannot be inferred from strategy sources,WECA Governance Agent,,Stage 2 legal/governance gate,open,Requires current devolution order constitution delegation and meeting-record review.
+ISS-0003,Stage 4,P0,Authoritative WPL boundary and workplace parking inventory are absent,Spatial Data Agent,,Stage 4 spatial/data gate,open,Blocks spatial option appraisal revenue estimates displacement assessment and scheme order boundary schedule.
+ISS-0004,Stage 5,P0,No ASR/OAR/ASST model cards uncertainty log or appraisal outputs exist,Appraisal Guidance Agent,,Stage 5 appraisal gate,open,Blocks professional-grade OBC/FBC economic case.
+ISS-0005,Stage 1,P1,Independent Nottingham congestion source SRC-ACADEMIC-0001 failed acquisition and cannot support congestion impact claims,Comparator Evidence Agent,,Stage 1 evidence refinement gate,open,Acquire equivalent independent source or omit independent congestion-reduction claims.
+ISS-0006,Stage 4,P1,Licensing enforcement and appeals procedure is not populated despite new schemas,Operations Design Agent,,Stage 4 operations gate,open,Requires PCN template service policy representations appeal recovery and evidence standards.
+ISS-0007,Stage 1,P1,Source notes for acquired priority evidence are not yet written,Evidence Librarian,,Stage 1 evidence refinement gate,open,Needed before high-confidence business-case prose drafting.

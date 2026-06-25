@@ -1,0 +1,2826 @@
+Feasibility Study Report for a WPL
+Scheme in Bristol
+
+Submission by Nottingham City Council on behalf of
+Bristol City Council
+
+V2.0 Feasibility Study Report for a WPL Scheme in Bristol Page |0
+Table of Contents
+Table of Contents ...................................................................................................................1
+1.0 Foreword ...........................................................................................................................3
+2.0 Executive Summary .........................................................................................................4
+3.0 Background ......................................................................................................................5
+4.0 Methodology .....................................................................................................................8
+5.0 Deliverables ....................................................................................................................10
+5.1 Key Stages and Activities..........................................................................................10
+5.1.1 (WS1.0) Stage One: Scheme Development – Outline Business Case (OBC) ......11
+5.1.2 (PM1.0) Stage One Project Management – Outputs .............................................15
+5.1.3 (WS2.0) Stage Two: Public Consultation and Approval ........................................16
+5.1.4 (PM2.0) Project Management – Outputs ...............................................................18
+5.1.5 (WS3.0) Stage Three: Implementation and Operation ..........................................19
+5.1.6 (PM3.0) Project Management – Outputs ...............................................................21
+5.2 Milestones and External Dependencies ...................................................................23
+5.3 Data Analysis and Quality Assurance of the Atkins Study ....................................26
+5.3.1 Description of Methodology ...................................................................................26
+5.3.2 Analysis/Critique ....................................................................................................27
+5.3.3 Estimate on Potential Income ................................................................................29
+5.4 Governance and Project Team Structure.................................................................32
+5.4.1 Introduction ............................................................................................................32
+5.4.2 Governance ...........................................................................................................32
+5.4.3 Governance Team Structure .................................................................................33
+5.4.4 WPL Project Team.................................................................................................33
+5.4.5 Internal (Bristol City Council) WPL Project Team Structure ..................................34
+5.4.6 External (non-Bristol City Council) Project Team Structure ...................................36
+5.5 Stakeholder Management Strategy and Communications Plan ............................38
+5.5.1 Stakeholder Management Strategy .......................................................................38
+5.5.2 Communications Plan ............................................................................................42
+5.5.3 Communications Responsibilities ..........................................................................45
+5.6 Risk Analysis for Bristol City Council’s Readiness to Progress Ahead of Stage
+One………………………………………………………………………………………………...47
+5.6.1 Introduction to Project Risk Management ..............................................................47
+5.6.2 What is Project Risk Management?.......................................................................47
+5.6.3 Issue Management versus Risk Management.......................................................47
+5.6.4 Opportunities and Threats .....................................................................................48
+5.6.5 Risk Considerations in the Proposal and Approval Phase ....................................48
+
+V2.0 Feasibility Study Report for a WPL Scheme in Bristol Page |1
+5.6.6 Project Risk Management Process........................................................................48
+5.6.7 Methodology ..........................................................................................................48
+5.6.8 Summary of Risk Analysis .....................................................................................50
+6.0 Conclusion and Recommendations for Action ...........................................................52
+7.0 Appendices.....................................................................................................................54
+7.1 Appendix A: Bristol Key Terms Glossary ................................................................54
+7.2 Appendix B: WPL Glossary .......................................................................................56
+7.3 Appendix C: WPL Route Map ....................................................................................58
+7.4 Appendix D: Milestones and Dependencies Timeline ............................................59
+7.5 Appendix E: Timeline for a Bristol WPL Scheme ....................................................60
+7.6 Appendix F: Governance and Project Team Structure ...........................................61
+7.8 Appendix G: Stakeholder Radar ...............................................................................62
+7.9 Appendix H: 2X2 Power/Influence by Interest in WPL Matrix ................................63
+7.10 Appendix I: Risk Register ........................................................................................64
+7.11 Appendix J: Recommendations..............................................................................72
+
+V2.0 Feasibility Study Report for a WPL Scheme in Bristol Page |2
+1.0 Foreword
+
+In March 2021, Nottingham City Council were asked by Bristol City Council to conduct
+a Feasibility Study to assess their readiness to develop a Workplace Parking Levy
+(WPL) scheme. I am pleased to offer this Feasibility Study Report as the result of that
+agreement. Inside you will find a tailor-made WPL Route Map and a wealth of guidance
+on implementing a cost effective, timely and low risk WPL scheme in Bristol.
+Climate change is playing an ever-increasing part in decision making across society
+and nowhere more so than in local government, with around 230 local authorities
+declaring a climate crisis. Consequently, air quality and congestion are also coming
+under greater public scrutiny and we are pleased that more councils across the UK
+are considering implementing a WPL, as it is a proven way of constraining congestion
+growth and providing the financial resources for a step change in sustainable
+transport.
+Bristol City Council have already shown strong leadership on sustainability with their
+One City Plan and I am excited by the proposals the plan sets out, particularly in the
+field of transport. Following the production of this Feasibility Study Report, I am sure
+that a WPL would be a major milestone on Bristol City Council’s journey towards their
+goal of ensuring that Bristol is a well-connected city with transport that is efficient,
+sustainable and inclusive by 2050.
+As the only UK local authority to have introduced a WPL, Nottingham City Council is
+uniquely placed to share our skills and experience on WPL scheme development and
+implementation. We are always keen to work with other local authorities, particularly
+when it comes to carbon reduction projects, and I would be delighted to have the
+opportunity to expand on how we can provide assistance throughout the process if
+Bristol City Council decide to progress further along the WPL Route Map.
+For now though, I hope you enjoy reading the report and that it provides further insight
+into how Bristol City Council can introduce a WPL in the shortest possible time frame,
+cost effectively and at the lowest possible risk.
+
+Jason Gooding
+Head of Parking, Fleet and Transport Operations
+Nottingham City Council
+
+V2.0 Feasibility Study Report for a WPL Scheme in Bristol Page |3
+2.0 Executive Summary
+
+The following Feasibility Study Report is submitted as non-statutory guidance on the
+process for developing and seeking approval for implementing a WPL scheme in
+Bristol city centre. The report refers to statutory guidance as set out in the Transport
+Act 2000, which is the guiding primary legislation for congestion charging schemes.
+The report will reduce risk associated with any WPL development by suggesting areas
+where Bristol City Council should look to replicate Nottingham City Council’s WPL and
+where there is scope to define unique, specific elements in line with local objectives
+and conditions.
+The implementation of the WPL Route Map (Appendix C) will deliver key stages of the
+WPL scheme development process in a structured, timely manner which will result in
+an operational WPL in Bristol at the lowest cost and risk, while maintaining standards.
+Appendix J contains a list of recommendations with suggested actions that will further
+aid Bristol City Council in its progression towards a WPL. These recommendations
+have been formulated as part of an in-depth programme of work, including
+engagement and workshops held with senior officers from Bristol City Council.
+The following key deliverables have been produced as part of this Feasibility Study:
+1. A WPL Route Map that outlines the key stages and activities required to
+achieve the target “go live” date.
+2. Specialist advice and recommendations resulting from a thorough review of the
+Atkins Study
+3. A WPL Governance and Project Team Structure that would assist Bristol City
+Council’s preparation for the delivery of the WPL Route Map
+4. A Stakeholder Management Strategy and Communications Plan
+5. A Risk Register that assesses Bristol City Council’s readiness for the delivery
+of the WPL Route Map
+There are an extensive amount of studies and supporting information available (Bus
+Back Better, ICTF, JLTP 4, CAZ, One City Plan etc.) to Bristol City Council which will
+all contribute to the development of a robust WPL Business Case. These pieces of
+work have been completed or are close to completion.
+The work undertaken evidences that Bristol City Council has an ambitious vision of
+what it would like to achieve and a clear strategy that outlines the plans to deliver this.
+Following the guidance within this report could achieve a WPL scheme “go live” date
+of October 2024.
+It is the belief of Nottingham City Council that Bristol City Council is well positioned to
+progress to the delivery of Stage One of the WPL Route Map.
+
+V2.0 Feasibility Study Report for a WPL Scheme in Bristol Page |4
+3.0 Background
+
+The following chapter provides a brief overview of why Bristol City Council are
+considering a WPL scheme, what a WPL is and a case study of the performance to
+date of Nottingham’s WPL.
+Bristol
+Bristol City Council, under the leadership of the elected Mayor, has an ambitious One
+City Plan which is built around six core themes, all of which are underpinned by the
+UN Sustainable Development Goals.
+A key theme of the One City Plan is transport, where the vision is to ensure that “By
+2050, everyone will be well-connected with digital services and transport that is
+efficient, sustainable and inclusive; supporting vibrant local neighbourhoods and a
+thriving city centre.”1
+Bristol Labour’s most recent manifesto made some major pledges linked to transport
+and air quality:
+
+• “Deliver a mass transit system: This will be in the form of both an underground
+and an overground – as well as expanding and improving our existing
+infrastructure – connecting people to one another, jobs, and opportunity”
+• “Better buses: Double the frequency and improve the reliability of existing bus
+journeys through the Bus Deal and increase the number of routes so more
+areas are served.”2
+The manifesto also states:
+
+• “We want to connect people to jobs, opportunity, and leisure. Over the last five
+years, we’ve delivered a Clean Air Zone, a fleet of bio-gas buses, and laid
+foundations for a mass transit system. With your support, we will deliver the
+mass transit system, make our streets safer, and put walking and cycling as the
+forefront of our transport policy”
+• “Under a Labour council, Bristol will also provide free travel for apprentices and
+students under-25”
+• “Expand the number of Park and Ride sites”
+• “Deliver a Clean Air Zone that charges non-compliant vehicles in the centre of
+town”
+• “Roll out at least two Liveable Neighbourhood pilots – with a view to expanding
+it”
+• “Deliver a London-style one-touch integrated ticketing system so that your ticket
+can be used across different types of public transport”
+
+1 One City Plan 2020 - link
+2 Labour Bristol – 2021 Manifesto - link
+
+V2.0 Feasibility Study Report for a WPL Scheme in Bristol Page |5
+• “Provide more on-street bike hangers throughout the city”2
+The prevailing issues of poor air quality and congestion that are faced by most core
+cities apply to Bristol too and they are a significant threat, not only to the health of
+Bristol’s citizens and visitors but also to the vibrancy of the local economy. Research
+conducted by analysts INRIX showed that Bristol was the UK’s third worst city for
+congestion with a commuter losing on average 103 hours in queues last year.3 Bristol
+City Council have therefore set themselves the target of becoming carbon neutral by
+2025 and for the city of Bristol to be carbon neutral by 2030.4
+
+Bristol City Council will be implementing a CAZ in summer 2022 in order to bring air
+pollution levels across Bristol city centre in line with national targets set by central
+government. Over the past ten years, the city of Bristol has seen a 4.6% reduction in
+carbon dioxide emissions released through road transport, compared to a core city
+average of 5.28%;5 this shows that additional measures are required to tackle the
+levels of emissions across the city and to improve air quality at pace.
+
+Bristol’s JLPT4 sets out a vision of high quality, sustainable public transport
+infrastructure and the proposed JLTP5 will look to build on that progress. For JLTP5
+to be viable, it is important to identify measures that could deliver a direct and reliable
+local funding stream to support these aspirations, which could also be used as match
+funding to generate further significant inward investment. One viable funding stream
+to deliver this vision is a WPL scheme.
+Workplace Parking Levy
+The Transport Act 2000 (as amended) contains the legal authority to introduce a WPL
+scheme and one of the fundamental requirements is that revenue raised by a WPL is
+ring-fenced for local transport policies.6
+Specifically, the Transport Act 2000 Road User Charging and Workplace Parking Levy
+Explanatory Note, states:
+“The Act enables local traffic authorities outside London to introduce road user
+charging and workplace parking levies to help tackle congestion and use the
+revenue to directly or indirectly facilitate local transport policy goals of the
+licensing authority.”
+
+Not all elements of WPL schemes are determined in detail by the Transport Act 2000.
+There is substantial scope for local decision making on how a WPL can operate, which
+
+3 Bristol Post – Bristol ranked in UK’s bottom three for traffic jams - link
+4 Bristol City Council – Mayor’s Climate Emergency Action Plan 2019 - link; Bristol One City – One City Climate
+
+Strategy - link
+5 UK local authority and regional carbon dioxide emissions national statistics, Department for Business, Energy
+
+and Industrial Strategy - link
+6 Transport Act 2000, Section 179 - link
+
+V2.0 Feasibility Study Report for a WPL Scheme in Bristol Page |6
+is why there is a need for a clear and comprehensive approach to scheme delivery,
+as outlined in this report.
+Case Study - Nottingham
+Nottingham City Council is the only local authority in the UK to have implemented and
+operated a WPL scheme. Nottingham’s WPL has been operational since 2012 and
+some of its achievements are listed below:
+
+• Over £83 million direct revenue generated
+• Levered in an additional £200 million in grants or prudential borrowing for
+improvements to the electric bus fleet, by using WPL revenue to match fund
+• Winner of the 2017 Ashden award for Clean Air in Towns and Cities
+• Constrained forecasted congestion growth by 47%
+• A 5.79% reduction in average total transport emissions since 2012
+The WPL has also allowed Nottingham City Council to acquire additional funding from
+central government and together this has been invested in:
+
+• A £570m tram line expansion, transforming a single line into a network with
+17km more track. NET Phase Two alone serves around 1,800 workplaces
+• £60m for the regeneration of Nottingham Station, delivering a 21st century
+transport hub
+• Support to the Linkbus network which connects key employment sites,
+Nottingham’s two major hospitals, the two universities, East Midlands Airport
+and the city centre
+• The Citycard Cycles scheme – a citywide bike share solution
+• The world’s largest fleet of bio-gas double decker buses
+• One of the largest fleets of electric buses in Europe
+• Providing grants of up to £25,000 to employers for cycle shelters, showers,
+cycle infrastructure and safety equipment, the purchase of electric bicycles and
+electric cargo bikes, etc.
+Nottingham City Council’s significant investment in transport decarbonisation enabled
+it to be the first local authority in England and Wales to gain central government
+approval for its Local Air Quality Management Plan, critically without the need for a
+CAZ.
+The measures taken by Nottingham City Council have seen the city’s carbon dioxide
+emissions fall by a quarter since 2015; much of this is a direct result of modal shift and
+a significantly reduced number of car journeys. Due to the progress made so far, the
+political leadership in Nottingham has set the city the target of becoming the UK’s first
+carbon neutral city by 2028.
+
+V2.0 Feasibility Study Report for a WPL Scheme in Bristol Page |7
+4.0 Methodology
+
+The following chapter outlines the various activities and workshops conducted by the
+Nottingham City Council project team which contributed to the formation of the
+Feasibility Study.
+It was agreed that project work would commence in May 2021 and would be completed
+and delivered to Bristol City Council for sign-off at the end of August 2021.
+The scope of works and key workstreams to be delivered to Bristol City Council are
+finalised in this Feasibility Study Report. The report focuses on assessing the
+preparedness of Bristol City Council to start the formal process of delivering its own
+WPL scheme.
+The following key deliverables have been produced as part of this Feasibility Study:
+1. A WPL Route Map that outlines the key stages and activities required to
+achieve the target “go live” date
+2. Specialist advice and recommendations resulting from a thorough review of the
+Atkins Study
+3. A WPL Governance and Project Team Structure that would assist Bristol City
+Council’s preparation for the delivery of the WPL Route Map
+4. A Stakeholder Management Strategy and Communications Plan
+5. A Risk Register that assesses Bristol City Council’s readiness for the delivery
+of the WPL Route Map
+In the project proposal a number of different tasks were agreed between Nottingham
+City Council and Bristol City Council. The aim of these tasks was to provide bespoke
+information and knowledge transfer to Bristol City Council, while also providing
+Nottingham City Council with key Bristol City Council specific information to enable the
+formation of a tailored WPL Route Map. To gain more knowledge for inclusion in this
+report, the following workshops were conducted:
+
+• A stakeholder and communications workshop was held on 14th May 2021. The
+Nottingham City Council project team met with Bristol City Council’s Head of
+City Transport and Principal Transport Planner. The Nottingham City Council
+project team reviewed the Stakeholder Radar (Appendix G) and the 2x2
+Power/Influence by Interest in WPL Matrix (Appendix H), with the officers from
+Bristol City Council providing feedback and providing details of additional
+stakeholders which they felt should be included
+• A second workshop focusing on milestones and dependencies was held on
+19th May 2021. The Nottingham City Council project team met with Bristol City
+Council’s Head of City Transport and Principal Transport Planner to identify key
+national and local events that could impact on the delivery of a WPL scheme
+and therefore would be necessary to monitor and manage if Bristol City Council
+were to go ahead with scheme development. At this workshop, the Bristol City
+
+V2.0 Feasibility Study Report for a WPL Scheme in Bristol Page |8
+Council officers requested a high level three year Timeline for a Bristol WPL
+Scheme (Appendix E) that outlines the key workstreams from the WPL Route
+Map
+• A third workshop focusing on risk management was held on 16th July 2021.
+Nottingham City Council prepared a Risk Register which consisted of possible
+events or scenarios that could pose a risk to Bristol City Council commencing
+Stage One of the WPL Route Map. The risk register was shared and discussed
+with officers from Bristol City Council. All the risks were reviewed and suitable
+actions were identified that would mitigate the risks as far as possible. The
+Bristol City Council Risk Register is included at Appendix I and is discussed in
+greater detail in Section 5.6
+• The Nottingham City Council project team also held ‘catch up’ calls at the
+request of the Principal Transport Planner from Bristol City Council to provide
+updates on the Feasibility Study and to gain input from Bristol City Council as
+the project progressed
+• Additional meetings were held between the Nottingham City Council project
+team and other internal specialists who have all contributed to the production
+of this Feasibility Study Report and shaped the deliverables
+
+To continue the progress made within this Feasibility Study Report, there are a number
+of recommendations made throughout the document and summarised in Appendix J
+which would assist Bristol City Council to swiftly progress to Stage One of the WPL
+Route Map.
+
+V2.0 Feasibility Study Report for a WPL Scheme in Bristol Page |9
+5.0 Deliverables
+
+The following chapter details the work that has been undertaken so far by Nottingham
+City Council on the key workstreams and includes all relevant outputs, along with
+referencing accompanying appendices.
+The chapter also informs Bristol City Council of the scale and scope of the work to be
+undertaken to deliver their own WPL scheme and recommends areas for prioritisation
+to ensure a smooth transition to Stage One of the WPL Route Map.
+
+5.1 Key Stages and Activities
+The WPL Route Map outlines the key workstreams which are required to be completed
+in order for Bristol City Council to successfully implement a WPL scheme. The
+following section sets out the detail behind the WPL Route Map.
+An essential part of the preparation for introducing a WPL is to understand the scale
+and complexity of the project, the different workstreams involved and the necessary
+skills, experience, resources and budget that will be required. Understanding these
+fundamentals will ensure that the project is sufficiently resourced, robustly managed
+and the expected milestones and outcomes are achieved.
+Based upon Nottingham City Council’s experience, the WPL project can be split into
+three main stages:
+
+• Stage One: Scheme Development and Outline Business Case (OBC)
+• Stage Two: Public Consultation, Final Business Case (FBC) and Scheme
+Approval
+• Stage Three: Implementation and Operation
+
+Using a proven project management approach and experienced resources is essential
+for a project of this importance, scale and risk, as this will ensure that the costs, quality
+and expected timescales for the project are maintained and achieved.
+The knowledge transfer of the key elements of the WPL Route Map to the Bristol City
+Council project team will be critical once Bristol City Council approve and assign the
+necessary resources for the WPL Project Team structure (see Section 5.4). The
+establishment of a WPL Project Team, in particular the project management
+resources, will enable the adoption of Bristol City Council’s preferred project
+management methodology (such as PRINCE2 or Association for Project Management
+[APM]) and subsequent suite of project management products, which are all
+necessary to allow Bristol City Council to commence the initiation of Stage One of the
+WPL Route Map.
+
+V2.0 Feasibility Study Report for a WPL Scheme in Bristol P a g e | 10
+5.1.1 (WS1.0) Stage One: Scheme Development – Outline Business Case
+(OBC)
+
+Stage One of the WPL Route Map requires the commissioning and utilisation of
+relevant studies and modelling to create a foundation to justify introducing a WPL
+scheme in Bristol. The findings should be concentrated to inform the production of a
+robust and detailed OBC, underpinning the implementation of a Bristol City Council
+WPL scheme.
+Stage One of the WPL Route Map sets out the five workstreams which will inform the
+OBC:
+(WS1.1) Supporting Studies/Information
+Following reviews of the “question and answer” responses provided by Bristol City
+Council Officers in September 2020, the Atkins Study and discussions held between
+Nottingham City Council and Bristol City Council, it is clear that Bristol City Council
+already have extensive information and supporting studies on key areas such as
+economic factors, transport, congestion, air quality, deprivation and social
+inclusion/exclusion, which will all contribute towards an OBC. However, some of the
+information obtained (e.g. the Atkins Study) is now out of date and may need
+updating.7
+It is important to review all studies to ensure that the facts and figures that will be used
+in an OBC are up to date, comprehensive and relevant to the project objectives. Where
+this is found to not be the case, consideration should be given to the commissioning
+of further studies that will support the production of a comprehensive and coherent
+OBC by the end of Stage One.
+Recommendation R1 – Review relevant economic, transport, congestion, air quality,
+deprivation and social inclusion/exclusion studies and ensure that they are up to date
+Recommendation R2 – Assess the need to commission new studies where
+information in current studies is out of date
+(WS1.2) Measures and Monitoring
+The Atkins Study provides a good start in determining the potential number of
+workplace parking places (WPPs) there are in the Bristol City Council Central Core,
+Expanded Central Core and Citywide areas. However, as stated already, this data is
+historic and it is essential that there is up to date, robust quantitative and qualitative
+data available to assess the proposed scope and impacts of a WPL scheme. A robust
+dataset will enable effective modelling and scheme development to be undertaken in
+Stage One and will ensure that any risks regarding impacts or income are considered
+and mitigated at an early stage of the project.
+
+7 Atkins: Bristol Workplace Parking Levy Scoping Study, February 2011
+
+V2.0 Feasibility Study Report for a WPL Scheme in Bristol P a g e | 11
+Conducting an OSPA to formulate a dataset which provides an early understanding of
+the “make-up” of employers (type, size, location) and the estimated number of WPPs
+in Bristol is key, as this information will provide a clear baseline for scheme
+development and will inform key internal decisions on what will be included in the draft
+Bristol City Council WPL scheme design (i.e. exemptions, discounts, level of charge,
+etc.)
+The data can also be linked to other council data sources such as the Local Land and
+Property Gazetteer and Geographical Information System; this link will ensure that
+information on all known employers is captured and maintained, establishing an early
+and dynamic database of employers which is necessary for the licensing and
+compliance phases. It is also important to ensure that all data gathered is General
+Data Protection Regulation (GDPR) compliant.
+Due to the importance of comprehensive and current data and its impact on the
+successful implementation of a WPL, it is recommended that further parking studies
+are carried out to bring the information contained within the Atkins Study up to date
+and to populate some of the information missing from the final report.
+Nottingham City Council is able to conduct a desktop parking exercise using multiple
+regression analysis to estimate how many WPPs Bristol may have. The exercise uses
+real time data from Nottingham’s unique WPL Licensing System to estimate how many
+potential liable workplace parking places (LWPPs) another local authority may have,
+based on the relationships between a number of variables and the number of licensed
+LWPPs for employers in Nottingham. Once a study is conducted, it will be necessary
+to update and refine the results periodically throughout the development and
+implementation stages of the project; this will ensure that the datasets and estimates
+are up to date and reflective of the current local economic climate.
+Recommendation R3 – Carry out an OSPA to understand the “make-up” of
+employers and form a baseline dataset for scheme development
+Recommendation R4 – Commission Nottingham City Council to conduct a desktop
+parking exercise using multiple regression analysis and based on Nottingham’s live
+WPL Licensing System, to estimate how many LWPPs Bristol may have
+(WS1.3) Modelling
+It will be necessary for Bristol City Council to demonstrate how a WPL scheme will
+contribute towards the delivery of its plans and priorities for the city (e.g. One City
+Plan, Strategic Corridors, ICTF, air quality and congestion). Fundamentally, it is
+expected that the focus of modelling should be on the financial, transport and
+economic impacts of a WPL, although there may be other modelling considerations.
+The objectives and content of the WECA’s JLTP5 must be included while also
+addressing other priorities and objectives that are regarded as key to the future
+success of the city of Bristol, Bristol City Council’s wider administrative area and the
+greater Bristol region. It is essential that modelling shows the full extent of the impact
+
+V2.0 Feasibility Study Report for a WPL Scheme in Bristol P a g e | 12
+and benefits that are expected to be delivered as part of the introduction of a WPL
+scheme and the investment in the Bristol City Council WPL Package (see WS1.5).
+Recommendation R5 – Model the transport, financial and economic elements of the
+WPL scheme to illustrate how it would operate and fund future transport projects
+(WS1.4) WPL Scheme Development
+As identified in WS1.2 above, establishing robust datasets on employers and the
+estimated number of WPPs will be necessary to assist in the outline WPL scheme
+design (i.e. proposed exemptions, discounts, charging, income generation, business
+support etc.). The data will also be an essential part of the Stakeholder Management
+Strategy and Communications Plan as the scheme progresses and gains momentum.
+It will be important for the datasets and scheme design to show how the WPL will fit
+into the delivery of the wider transport vision of Bristol and the WECA through the
+JLTP5 and One City Plan. Outline detail will be sought from key stakeholders as part
+of the stakehol
+der engagement process (see Section 5.5) and it is necessary to ensure that Bristol
+City Council’s WPL scheme principles are outlined at the earliest stage.
+A clear set of principles will result in consistent and robust guidance being issued by
+Bristol City Council to employers and other key stakeholders, as well as ensuring that
+any decisions on potential benefits (e.g. applying discounts to certain types or sizes of
+employers) and impacts (e.g. estimated charge per LWPP) are identified and
+undertaken in an informed and evidence based manner. The scheme principles will
+be a key component of the Stakeholder Management Strategy and Communications
+Plan for early informal stakeholder engagement as part of Stage One of the WPL
+Route Map and in advance of the public consultation workstream in Stage Two.
+It will be important to develop and maintain a risk management strategy during Stage
+One. A Risk Register should be created, assigned to a project team member to
+regularly update and to add new risks and mitigations for identified risks. The WPL
+Project Team should look to review the Risk Register regularly, with the document
+owner flagging any new risks or confirming when risks are closed.
+During WS1.4, attention should be given to starting to develop a draft WPL Scheme
+Order. It will be necessary to have a draft WPL Scheme Order as an appendix to the
+OBC and for it to be available for the public consultation programme (WS2.2).
+The work carried out across WS1.1 to WS1.4 will need to feature in the OBC in order
+to demonstrate the need for a WPL scheme, how much it would cost to operate, what
+the WPL will fund and which geographical area(s) the scheme would cover.
+It will also be necessary to undertake the mapping of current and potential displaced
+parking hotspots around employment centres to accelerate the delivery of prioritised
+traffic management schemes should a scheme larger than the Central Core scheme
+be chosen. Once the WPL scheme “goes live”, it is likely that some commuters will
+
+V2.0 Feasibility Study Report for a WPL Scheme in Bristol P a g e | 13
+look to find cheaper or free parking; it is therefore important that a hotspot mapping
+analysis exercise is started to identify and address these potential issues before they
+arise. However, if the preferred Central Core scheme is chosen then it is felt that the
+existing Residents Permit Schemes should cover and tackle potential displaced
+parking.
+If a WPL is implemented, Bristol City Council will be liable to pay the charge and it is
+recommended that early consideration is given as to how this cost will be met.
+Nottingham City Council chose to implement a car park management scheme, the
+WPC, which charges employees to park at their workplace in an effort to encourage
+them to make more sustainable travel choices. The amount each staff member pays
+for parking is dependent on their pay grade, with higher earners paying more. The
+WPC scheme helps fund Nottingham City Council's parking management systems on
+its employee car parks as well as being used to pay some of Nottingham City Council’s
+WPL charge. It is recommended that Bristol City Council scope a car park
+management scheme during WS1.4, to show that it is taking a lead in commuter
+management.
+As work for Stage One begins, a clear Stakeholder Management Strategy and
+Communications Plan must be developed that looks to discuss and gain an
+understanding of the future transport infrastructure that medium and large employers
+would like to see introduced.
+Recommendation R6 – Introduce a risk management strategy and regularly update
+the Risk Register
+Recommendation R7 – Draft a WPL Scheme Order
+Recommendation R8 – Introduce and progress the displaced parking workstream to
+tackle the potential displacement of commuter parking
+Recommendation R9 – Consider the introduction of a car park management scheme
+at Bristol City Council premises, where commuter parking occurs
+(WS1.5) WPL Package
+The WPL Project Team should determine the WPL Package, which will be funded from
+the revenue generated. The WPL Package should be outlined in the OBC and it must
+show how it will allow Bristol City Council to achieve the vision and targets outlined in
+the One City Plan and upcoming JLTP5. The OBC should set out how much the WPL
+Package will cost to implement and how it will be funded, i.e. through the revenue
+generated by the WPL scheme and alternative sources such as grants, prudential
+borrowing, etc.
+It is a legal requirement of the primary legislation (Transport Act 2000) that WPL
+scheme revenue is ring-fenced for the delivery of Local Transport Plan policies and
+objectives. It will be necessary for Bristol City Council to identify what the WPL scheme
+will be expected to contribute towards and how it is an essential part of the delivery of
+
+V2.0 Feasibility Study Report for a WPL Scheme in Bristol P a g e | 14
+Bristol City Council’s transport strategy; this will also form a key part of the
+communications messaging undertaken as part of the early Stakeholder Management
+Strategy and informal consultation messaging and engagement.
+Early thought should also be given towards what type of business support programme
+will be established to assist and support employers in preparing for the introduction of
+the WPL scheme. The business support function should advise employers on how
+they can take advantage of key support packages relating to travel planning, parking
+management, active travel and demand management in advance of the scheme being
+implemented. A quality business support offer will help mitigate any negative
+perceptions of the scheme and maximise early delivery of the positive impacts of the
+WPL.
+The expected outputs from the delivery of the five Stage One workstreams (WS1.1 to
+WS1.5 above) will form the basis for Bristol City Council to formally progress to Stage
+Two of the WPL Route Map and commit the necessary resources and budgets to
+advance the scheme.
+Recommendation R10 – Outline the transport package that will be funded by the
+revenue generated from a WPL scheme
+
+5.1.2 (PM1.0) Stage One Project Management – Outputs
+
+The adoption of a proven project management methodology and application of
+experienced project management resources to manage the internal and external
+resources in the delivery of the identified workstreams will be key; it will ensure that
+risks and issues are effectively minimised or mitigated, costs and budget management
+is closely scrutinised and timescales are adhered to.
+It is expected that at the conclusion of Stage One of the WPL Route Map, the following
+outputs will be delivered and approval can then be sought from the Bristol City Council
+management team to proceed to Stage Two:
+(PM1.1) Outline Business Case (OBC)
+The OBC will provide justification and a comprehensive explanation of the following:
+
+• Why the scheme is being implemented
+• What scheme is being implemented
+• How the scheme will be implemented
+• Who is implementing the scheme
+• When the scheme will be implemented by
+
+The OBC will be the primary document that Bristol City Council will use as part of the
+public consultation exercise in Stage Two.
+
+V2.0 Feasibility Study Report for a WPL Scheme in Bristol P a g e | 15
+(PM1.2) Supporting Appendices
+All relevant supporting studies, information and modelling will be appended to the
+OBC. The appendices will demonstrate that Bristol City Council have undertaken
+detailed works to provide the foundations for a WPL scheme, which are supported by
+relevant expert advice and, ideally, based upon strong evidence from Nottingham’s
+WPL scheme. The appendices will include supporting studies, modelling and datasets
+on employers to estimate the potential number of LWPPs, through OSPAs and the
+unique multiple regression analysis exercise. The appendices will also set out how the
+WPL scheme forms part of, and complies with, local, regional and national policy,
+guidance and objectives.
+(PM1.3) Draft WPL Scheme Design
+The guiding principles for Bristol City Council’s WPL scheme will be set out at the end
+of Stage One, to enable employers and key stakeholders to understand how the
+scheme is expected to work and what impacts the scheme would have on these
+relevant groups. The scheme design will also demonstrate the options around which
+elements of the scheme may be consulted upon as part of the public consultation
+process (i.e. potential discounts for particular types of employer – the NHS, emergency
+services, charities, etc.).
+(PM1.4) Approval to Proceed to Stage Two
+The appropriate Bristol City Council approval process would need to be complied with
+and relevant processes and procedures must be followed to enable Bristol City Council
+to make a formal decision at the end of Stage One to either stop any further scheme
+development, delay scheme development, undertake further works to enhance the
+OBC or approve the OBC and proceed to Stage Two.
+
+5.1.3 (WS2.0) Stage Two: Public Consultation and Approval
+
+Stage Two of the WPL Route Map will focus on preparing the relevant documentation,
+processes, procedures and activities to undertake a formal public consultation. A
+formal public consultation is recommended as good practice by the DfT, although the
+length of the consultation period is a decision to be made by the local authority. The
+tasks mentioned will assist in formalising the OBC into a FBC, following completion of
+the public consultation. The FBC will then be submitted to the Secretary of State for
+Transport for their approval to progress to Stage Three.
+In conjunction with the work above, a detailed scheme design will need to be
+completed and the relevant specifications and procurement activities undertaken to
+prepare Bristol City Council for implementation of the WPL scheme in Stage Three.
+
+V2.0 Feasibility Study Report for a WPL Scheme in Bristol P a g e | 16
+Stage Two of the WPL Route Map sets out the four key workstreams required to
+undertake the public consultation exercise and gain the subsequent approvals to
+proceed to Stage Three:
+(WS2.1) Public Consultation Preparation
+Bristol City Council will need to create and manage the necessary public consultation
+documentation (leaflets, posters, letters, etc.) and communication platforms (social
+media, websites, phoneline, email inboxes, etc.) to deliver a thorough public
+consultation programme. All events and activities (such as employer workshops) will
+need to be planned in to ensure that the consultation is comprehensive, consistent
+and actively engages all relevant stakeholder groups in the process. During WS2.1, it
+will be necessary to work with representatives in marketing and communications to
+identify if Bristol City Council have a policy for public consultation which they must
+follow.
+The latest government guidance does not state specifically how long a public
+consultation period should be.8 If Bristol City Council are unable to show that adequate
+consultation has taken place, then this could lead to the Secretary of State for
+Transport rejecting or delaying Bristol’s WPL scheme. It will therefore be important for
+the WPL Project Team to work with the marketing and communications
+representatives to identify a sufficient consultation period and demonstrate that robust
+and adequate consultation has taken place. Bristol City Council must justify the chosen
+consultation period and show that adequate engagement was held with stakeholders.
+Recommendation R11 – Develop a detailed public consultation programme including
+specified timeframes, activities and methodology
+(WS2.2) Public Consultation
+The public consultation programme will require a significant amount of additional
+resources to undertake events and activities, engaging with interested parties and
+stakeholders through both proactive and reactive communications. The consultation
+will include the processing, categorisation and management of all responses, as well
+as any additional data collection, analysis and compilation of reports that will form a
+necessary part of the submission to the Secretary of State for Transport for approval.
+The result of the work detailed above will culminate in the production of a suite of
+public consultation documents, setting out Bristol City Council’s response to the public
+consultation and informing the production of the FBC. The resulting FBC will be the
+justification for Bristol City Council’s WPL scheme and, at this point, the scheme will
+be based upon robust and tested evidence, which has met or exceeded the legislative
+requirements addressed in the Red Tape Challenge and has undergone significant
+and sustained local, regional and national scrutiny.9
+
+8 Consultation Principles 2018 - link
+9 Department For Transport (2012) - Roads: Workplace Parking Levy (WPL) - link
+
+V2.0 Feasibility Study Report for a WPL Scheme in Bristol P a g e | 17
+Recommendation R12 – Carry out a robust public consultation programme to engage
+and consult with all key stakeholders
+
+(WS2.3) WPL Approval
+The FBC and supporting documentation will need to be packaged and approved by
+Bristol City Council in consultation with the DfT. Once the FBC has been approved, it
+will be submitted to the Secretary of State for Transport for their consideration and
+approval. At this stage, the approval process, and therefore the timeline, will sit with
+central government rather than Bristol City Council and any further work towards
+preparing for Stage Three will be undertaken at risk until an approval decision is
+provided. Early and continued engagement with the DfT and the Secretary of State
+for Transport will be essential to minimise the risk of significant delays or changes to
+the proposed scheme design.
+Along with the FBC, the suite of supporting documents should include a finalised WPL
+Scheme Order which is updated and reflects feedback from the public consultation
+programme.
+(WS2.4) WPL Scheme Development
+In parallel to workstreams WS2.1 to WS2.3, a detailed WPL scheme development
+programme will need to be undertaken to prepare the necessary information for the
+public consultation campaign. Items to be addressed will include:
+
+• How Bristol City Council’s WPL scheme will operate
+• Who will be impacted
+• What the charges will be
+• How the scheme will be enforced
+• What business support will be provided
+
+The final options for the detailed scheme design will be agreed once the public
+consultation has concluded. The scheme design and WPL Scheme Order will then
+need to be finalised and submitted as part of the FBC and public consultation
+documentation.
+It will also be necessary for roles and responsibilities to be specified for the day-to-day
+operational running of the WPL scheme. The procurement processes for the finance
+and employer licensing systems must also be outlined in Stage Two, in order for Bristol
+City Council to prepare the options and the preferred route for how they plan to operate
+their WPL scheme if they successfully progress to Stage Three. The options for the
+running of the scheme are in-house, joint venture or outsourced operating models,
+which should be considered by Bristol City Council to enable the necessary due
+diligence (specifications, tendering, procurement, value for money etc.) to be
+undertaken and enable the preferred route for delivery in Stage Three.
+
+V2.0 Feasibility Study Report for a WPL Scheme in Bristol P a g e | 18
+It is also important to develop and finalise the business support package programme
+(e.g. travel planning and parking management advice and assistance, cycle
+infrastructure grants, public transport investment detail and personal journey planning,
+traffic management programme for displaced parking) that Bristol City Council will
+provide in advance to employers to help them prepare for the WPL scheme.
+
+5.1.4 (PM2.0) Project Management – Outputs
+
+The adoption of a proven project management methodology and application of
+experienced project management resources to manage the internal and external
+resources in the delivery of the identified workstreams will be key; ensuring that risks
+and issues are effectively minimised or mitigated, costs and budget management is
+closely scrutinised and timescales are adhered to.
+It is expected that at the conclusion of Stage Two of the WPL Route Map, the following
+outputs will be delivered and approval can then be sought from the Bristol City Council
+management team to proceed to Stage Three:
+(PM2.1) Approved WPL Final Business Case (FBC)
+The FBC will be finalised and approved for the implementation of a Bristol City Council
+WPL scheme. The FBC will include all relevant supporting appendices, the final
+scheme design, WPL Scheme Order and the supporting suite of public consultation
+documentation. The FBC will then be approved by Bristol City Council and submitted
+to the Secretary of State for Transport for their approval.
+(PM2.2) Detailed Scheme Design for Stage Three
+Bristol City Council’s preferred option for how it will implement and operate their WPL
+scheme will be finalised and the necessary investment and preparatory works will have
+been undertaken, to ensure that Bristol City Council is ready to deliver its WPL scheme
+in line with the key milestone dates identified in Stage Three.
+(PM2.3) Confirmed Project Plan to “Go Live”
+Stage Three will include key milestone dates and activities that will require extensive
+project management and allocation of resources, as Bristol City Council will have
+committed to scheme implementation and the operational “go live” plan. Stage Three
+carries significant reputational and income risks if there is a failure to deliver the
+relevant workstreams or there are any delays to the overall programme.
+(PM2.4) Approval to Proceed to Stage Three
+The relevant Bristol City Council approval processes would need to be complied with
+to enable Bristol City Council to make the formal decision at the end of Stage Two;
+this would follow the Secretary of State for Transport’s approval to proceed to Stage
+Three and commit Bristol City Council to implementing its WPL scheme.
+
+V2.0 Feasibility Study Report for a WPL Scheme in Bristol P a g e | 19
+5.1.5 (WS3.0) Stage Three: Implementation and Operation
+
+Stage Three of the WPL Route Map will focus on engagement with employers, to
+ensure that they are aware of their legal obligations and the practical steps involved in
+obtaining their WPL licence(s). The engagement will include demonstrating all of the
+necessary front and back office licensing processes and requirements to ensure that
+the scheme is successfully implemented and employers are acting in accordance with
+the legislation.
+Assuming Bristol City Council follow Nottingham City Council’s WPL scheme
+implementation programme, employers will start to be required to license between 1st
+January 2024 and 31st March 2024, as Bristol City Council begin to populate their
+licensing database. There will then be a six month period of ‘no charging’ from 1st
+April 2024, while work is actively undertaken to ensure employers are licensed
+correctly and any non-compliance is addressed appropriately before charging
+commences on 1st October 2024. These indicative dates provide Bristol City Council
+with suggested key milestones for embarking on the WPL Route Map approach to
+implementing a WPL scheme.
+Stage Three of the WPL Route Map sets out the next four workstreams required to
+implement and operate a WPL scheme:
+(WS3.1) WPL Implementation
+Once the implementation stage is ready to proceed, Bristol City Council will need to
+create the necessary information and communication platforms to deliver a wide range
+of detail to employers, to explain their legal obligations and provide guidance on how
+to obtain a WPL licence.
+The practical events and activities (employer workshops) in the lead up to the
+implementation date should focus on providing employers with working guidance and
+assistance in obtaining a WPL licence and complying with the legal requirements of
+the scheme.
+(WS3.2) Employer Licensing
+It is recommended that a three month period prior to 1st April 2024 is used to populate
+the licensing database with all employer details, ready for the issuing of the first WPL
+licences. The system for obtaining a WPL licence should be straightforward for
+employers with clear guidance as to what information is required. It is important to
+support and encourage employers during this period to engage and apply for a licence;
+focused employer workshops and targeted licensing support (small, medium, large
+employers) will all assist in ensuring that employers are licensed before the scheme
+“goes live”.
+(WS3.3) Scheme “Go Live” (No WPL Charge for Six Months)
+
+V2.0 Feasibility Study Report for a WPL Scheme in Bristol P a g e | 20
+The Secretary of State for Transport recommended to Nottingham City Council during
+their WPL scheme implementation stage that a “no charge” period should be in place
+for a period of six months. The period of six months is recommended as it provides
+enough time to allow the local authority to work with employers to ensure that they
+have obtained a WPL licence and are licensed correctly. Moreover, this provides time
+for employers to understand their legal obligations and the potential consequences
+should they not comply. The six month “no charge” period was extremely beneficial in
+Nottingham’s experience, as a significant amount of initial non-compliance was found
+to be unintentional and was rectified relatively simply by educating employers on the
+details of the WPL scheme.
+It will also be necessary to start the WPL licence renewal process during this stage as
+a WPL licence is issued on an annual basis. Nottingham’s WPL operates by the
+financial year (1st April to 31st March), as this fits in with most business’ accounts but
+there is no reason why the licensing period cannot begin on a different date.
+The window for employers to renew their licence opens three months before the new
+licensing year. A period of three months allows sufficient time to process licences and
+encourages employers to review and renew their licences in advance of the 31st
+March deadline. The renewal process is straightforward and, in Nottingham, is
+completed by the employer through their online WPL account, a process which
+typically takes less than 10 minutes.
+(WS3.4) WPL Charging Commences
+Assuming the WPL scheme is delivered in line with the timescales above, charging
+will commence from 1st October 2024. Compliance and enforcement activities will be
+a priority for the Bristol City Council WPL Operational Team at this stage, in relation
+to any employers who remain unlicensed or are believed to be licensed incorrectly.
+Business support resources will continue to provide packages aimed at helping
+employers to comply and manage their WPL provision and liability. The traffic
+management team will prioritise addressing displaced parking hotspots that
+materialise following ‘go live’. Furthermore, the team should monitor and respond as
+appropriate when employers adopt parking management schemes and employees
+change their travel behaviour (predominantly expected during the first three years of
+operation).
+
+5.1.6 (PM3.0) Project Management – Outputs
+
+It is expected that at the conclusion of Stage Three of the WPL Route Map, the
+following outputs will be delivered to confirm the completion of the project and the
+Bristol City Council WPL Project Team will hand over any outstanding issues (e.g.
+operational improvements) to the Bristol City Council WPL Operational Team, as the
+scheme moves into its ‘business as usual’ phase:
+(PM3.1) All WPL Employers Licensed
+
+V2.0 Feasibility Study Report for a WPL Scheme in Bristol P a g e | 21
+All employers that provide any WPPs in the Bristol City Council scheme area will have
+obtained a WPL licence during the “no charge” period and then rene
+wed that licence ahead of the charging period using their online WPL account.
+(PM3.2) Compliance and Enforcement Commenced
+The Bristol City Council WPL Operational Team will have commenced all relevant
+compliance and enforcement activities and will be focused on ensuring all employers
+are licensed correctly and prioritising the deployment of business support resources.
+(PM3.3) WPL Charging Commenced and Income Generation
+The charging will have commenced and all front and back office processes and
+procedures will be tested and operating. Income generation will be ring-fenced for the
+WPL operation and accompanying business support, along with the investment and
+delivery of relevant LTP policies and objectives (WPL Package) that are outlined in
+the approved Bristol City Council WPL Scheme Order.
+(PM3.4) Business Support Actively in Place
+The business support team will be actively supporting the Bristol City Council WPL
+Operational Team to enable a smooth introduction of the scheme and assisting
+employers to manage their WPL liability and workplace parking. WPL business
+support is expected to cover travel planning, car park management, journey planning,
+public transport investment detail, supporting grants and cycling support.
+
+V2.0 Feasibility Study Report for a WPL Scheme in Bristol P a g e | 22
+5.2 Milestones and External Dependencies
+
+To establish a WPL Route Map, it is important to consider the project milestones and
+dependencies that must be monitored and managed to ensure successful delivery of
+the Bristol City Council WPL scheme.
+The milestones and dependencies are centred around key national, regional and local
+events that may have positive or negative impacts on the delivery of the project. The
+Milestones and Dependencies Timeline (Appendix D) shows the key milestones and
+events that will be important to monitor and manage in Bristol. To identify the
+milestones and dependencies, Nottingham City Council met with key officers from
+Bristol City Council to identify relevant events covering the period from April 2021 to
+the anticipated Bristol City Council WPL scheme “go live” date of October 2024, when
+charging commences.
+Although it has not been referenced in the Milestones and Dependencies Timeline,
+the full effects of Brexit are yet to be felt and it will be important to monitor the reaction
+of businesses as the UK’s relationship with the wider world adjusts to this change. The
+customs transitional arrangement will end at the beginning of January 2022, meaning
+that importers must begin submitting their new customs declaration on all relevant
+goods.10 It is too early to ascertain the impact of this on Bristol businesses but it is
+clearly one example of why the continuing “new normal” post-Brexit needs to be
+monitored.
+55% of Bristol’s exports are sold to the European Union (EU) and nearly half of
+exporters in Bristol feel that their trade with the EU will decrease post-Brexit, which
+could impact on productivity and employment within Bristol.11 In addition to this, a
+report conducted post-Brexit by the Centre for Cities estimated that cities such as
+Bristol may see a drop in the Gross Value Added of the city due to their large share of
+employment within private-sector knowledge-intensive services.12 It will be necessary
+to monitor and engage with businesses as the EU trade agreement comes into full
+effect to establish the positive and negative impacts, both short and long term, in order
+to adapt to the new post-Brexit market and adapt the WPL scheme as required to cater
+for these changes. Conversely, trade deals with countries such as the one recently
+established with Australia open up new markets and opportunities for Bristol
+businesses and could well see the “make-up” of businesses within Bristol change; this
+
+10 UK forces to delay checks on imports from EU by six months - link
+11 Why Bristol’s economic prosperity is ‘at risk’ – link
+12 Clayton, N & Overman, H.G. (2017). Brexit, trade and the economic impacts on UK cities, Centre for Cities -
+
+link
+
+V2.0 Feasibility Study Report for a WPL Scheme in Bristol P a g e | 23
+could influence decisions when developing the WPL scheme such as the small
+employer discount threshold or level of charge.
+Since March 2020, the COVID-19 pandemic has seen countries around the world go
+into “lockdown” and commuting reduce dramatically as people were instructed to work
+from home. Across the UK, cities saw improvements in air quality and congestion due
+to the implementation of these lockdown restrictionsbut unsurprisingly, the levels of
+pollution increased again whenever restrictions were eased. Analysis conducted by
+the Department for Environment, Food & Rural Affairs showed a 44% drop in NO2
+levels from the previous year but pollutants such as PM2.5 and PM10 saw a steady
+rise throughout the year. 13 The outbreak of COVID-19 led to an increase in the use of
+private motor vehicles for both commuting and personal journeys, due to reduced
+confidence in safety on public transport. As the threat of COVID-19 reduces and
+confidence in using public transport returns, it is expected that levels of PM2.5 and
+PM10 will reduce to pre-COVID-19 pandemic levels; however it will be important to
+monitor the “new normal” in terms of travel behaviour and working arrangements. The
+employment “make-up” of Bristol suggests that at least 50% of workers have the ability
+to work from home in some capacity.14 It is important to continue to monitor these
+datasets and manage the impact of new ways of working upon Bristol’s air quality and
+congestion as we come out of COVID-19 restrictions, to ensure that the WPL scheme
+and WPL package meet the needs of the post-pandemic city.
+The local elections in May 2021 saw the Green Party gain seats in Bristol. The Green
+Party endorse a WPL scheme as part of the solution to the congestion and air quality
+problems in Bristol; therefore the extra seats held by the Green Party on Bristol City
+Council increases the support for a scheme.15 It will be important for the Bristol City
+Council Mayor and WPL Project Team to engage with the Green Party as part of the
+development of the WPL scheme, as their support would be beneficial to the
+successful delivery of the WPL project.
+In order to tackle air quality issues in Bristol, the Bristol CAZ will be implemented in
+summer 2022 and it is envisaged that the CAZ, along with other measures, will
+improve air quality in Bristol and make the city compliant with central government
+targets by 2023. However, the WPL Package will outline how the WPL scheme will
+further improve air quality in Bristol in order to contribute towards the goal for becoming
+a carbon neutral city by 2030 and ensure air quality levels are sustainable as the city
+grows and prospers. It will therefore be important to regularly monitor air quality levels
+to ensure that the air quality targets set out in the FBC are achievable and build on the
+progress made by the CAZ.
+The Bus Service Improvement Plan will be submitted in October 2021. Improving the
+bus network across Bristol is seen as one of the main deliverables of the WPL
+
+13 Bristol's traffic patterns have changed during the Coronavirus pandemic - link; Quino, V., & Enenkel, K. (2020)
+
+- How have the Covid pandemic and lockdown affected air quality in cities? link
+14 NOMIS, Official Labour Market Statistics, Bristol - link
+15 Green Proposal to raise millions of pounds to shake up transport in Bristol - link
+
+V2.0 Feasibility Study Report for a WPL Scheme in Bristol P a g e | 24
+Package, therefore monitoring the funds received and improvements realised as part
+of the plan is critical. The WPL Package aims to build on the Bus Back Better
+improvements in order to deliver the objectives within the One City Plan of making the
+bus services in Bristol cleaner, cheaper and more accessible to its citizens.
+Similarly, it is important to ensure that the active travel element of the WPL Package
+is complementary to the Liveable Neighbourhoods policy outlined in the JLTP4.
+The JLTP5 will set out a vision for transport in Bristol and it is important to ensure that
+the WPL Package fits into the wider transport vision for the WECA, to minimise cross-
+boundary conflicts in transport policy.
+The CRSTS, which is a follow up to the TCF2, will go live for the submission of bids in
+2023. The WPL Project Team will need to monitor and support any bids submitted by
+the WECA, ensuring that they are complementary to the WPL Package and
+demonstrate how they will help deliver the wider transport goals outlined by the WECA
+in the JLTP5.
+There are a number of major projects planned from 2024 and beyond that will also
+require monitoring, these include city centre redevelopments and the implementation
+of “strategic corridors”, which are areas where it is expected that Bristol City Council
+will see economic growth following investment in transport infrastructure. It will be
+critical to monitor and engage with these projects to ensure that the proposed WPL
+Package integrates and supports the wider JLTP5 and One City Plan.
+The One City Plan aims to create a fairer, greener society which residents are proud
+to live and work in; key parts of the plan are to boost productivity, culture and transport.
+The WPL Package should be viewed as contributing to the delivery of the wider One
+City Plan goals, in particular the desired improvements in sustainable transport and
+the 2030 carbon neutral city commitment.
+The Timeline for a Bristol WPL Scheme contains key dates and periods for the critical
+workstreams across a three-stage approach. The timeline has been calculated under
+the assumption that Bristol City Council would begin to develop a WPL scheme in
+October 2021 and aim to “go live” in October 2024.
+It is essential to regularly review and update the Milestones and Dependencies
+Timeline so that any impact on the delivery of the WPL Route Map can be identified
+and included within the project Risk Register, with appropriate risk mitigation put into
+place. A comprehensive review will be necessary over the next six to nine months to
+inform Bristol City Council’s WPL plans, as the impact of ongoing dependencies such
+as COVID-19, Brexit, Bristol’s CAZ and the Bus Back Better strategy become clearer.
+Recommendation R13 – Monitor the new working arrangements and commuter
+travel behaviour as a return to a “new normal” begins, following the lifting of lockdown
+restrictions as a result of the COVID-19 pandemic
+
+V2.0 Feasibility Study Report for a WPL Scheme in Bristol P a g e | 25
+Recommendation R14 – Regularly review and update the Milestones and
+Dependencies Timeline
+5.3 Data Analysis and Quality Assurance of the Atkins Study
+
+Nottingham City Council have carried out an in-depth review of the Atkins Study
+produced in February 2011.
+The analysis of the study sought to assess the validity of the methodology used by
+Atkins to estimate the potential number of WPPs in the Bristol City Council
+administrative area. The review also contains a high-level assessment of the small
+employer discount threshold and provides an estimate on potential income based on
+the study results.
+The review is split into four sections:
+1. Description of Methodology
+2. Analysis/Critique of Methodology
+3. Estimate on Potential Income
+4. Recommendations
+This analysis will provide a robust basis to undertake further work to calculate the
+number of potential WPPs in Bristol for a Central Core, Expanded Central Core and
+Citywide scheme area.
+
+5.3.1 Description of Methodology
+
+The Nottingham City Council project team carried out a review of the Atkins Study and
+the following section provides a brief description of the methodology used by Atkins,
+as understood by Nottingham City Council. The audit carried out by Atkins in 2011
+focussed on collating data through site visits (car counts) and analysis of aerial
+photography. Where car parks were not accessible or hidden, the surveyors based
+their estimates for these sites on the proportion of the building plot (estimated by
+surveyors) and an assumed relationship of one parking space per 25 square metres.
+The survey results were then cross-referenced and validated with Valuation Office
+Agency (VOA) data. The surveyors also used the VOA online search function to
+validate the WPP estimates within hidden buildings or undercrofts.
+A further check of the surveyors’ estimates was then conducted by Atkins, comparing
+the WPP estimates for the city centre with the number of inbound private vehicle trips
+made into the city centre. The surveyors considered the number of public car parking
+spaces when checking the difference in the number of journeys made into the city
+centre and the number of estimated WPPs. The difference between the total parking
+stock in the city centre and inbound journeys made into the city centre lead to a surplus
+of 5,936 spaces that were unaccounted for. Atkins concluded that “some” of these
+journeys were for leisure or non-commuting business purposes but there were still
+regularly unused parking spaces.
+
+V2.0 Feasibility Study Report for a WPL Scheme in Bristol P a g e | 26
+Therefore when reading the Atkins Study, the final number of WPPs declared
+consisted of a mix of cars parked in parking spaces, minus an estimate of how many
+of these were fleet vehicles, plus estimates for buildings where car parks were not
+visible.
+The Nottingham City Council project team reviewed the Atkins Study results and
+methodology against the successful methodology used when implementing the
+Nottingham City Council WPL scheme and, more recently, when working with the
+Leicester City Council WPL project team to estimate how many WPPs there may be
+in the Leicester City Council administrative area.
+
+5.3.2 Analysis/Critique
+
+Nottingham City Council acknowledge that the Atkins methodology required significant
+assumptions to be considered in order for a robust estimate to be derived for the
+potential number of WPPs in a Bristol Central Core, Expanded Central Core and
+Citywide scheme.
+The survey that was conducted as part of the Atkins Study did not include any
+engagement with employers. A limitation from this lack of engagement was being able
+to accurately estimate the amount of parking spaces within a premise that are
+attributed for fleet/operational purposes or customer usage. The survey was able to
+estimate the amount of spaces designated for customer use at retail businesses,
+however, in order to gather an accurate estimate of WPPs, it is essential to engage
+with employers since they hold the necessary information. Furthermore, all
+fleet/operational vehicles may not be easily identifiable within a car park. The
+estimates do not consider behavioural patterns or any variance in the provisions of
+WPPs at each premise, which a recommended OSPA will do.
+A “feet on the ground” OSPA that factors in the concerns from the previous Atkins
+Study will provide Bristol City Council with a detailed estimate of the potential number
+of WPPs in the Bristol City Council administrative area along with data on the number
+of employers, contact names, size of businesses, industries, etc. The data gathered
+will assist the WPL Project Team with justification for the threshold when setting the
+small employer discount.
+Recommendation R15 – Conduct a “feet on the ground” OSPA that factors in any
+questions from the previous Atkins Study
+Additionally, the surveys were heavily based on business’ on-site car parks in the
+Central Core. Although the majority of WPPs offered by employers will be on the same
+site as the business premise, it is likely that some employers will hold contract parking
+agreements with multi-storey and surface car park operators or have sites which are
+jointly managed with other employers within the city centre area; this makes analysing
+images and doing simple car counts ineffective for WPP estimations. The lack of clarity
+on car parking spaces is shown by the large differences in the upper and lower
+estimates for each scheme size, as shown in Table One below.
+
+V2.0 Feasibility Study Report for a WPL Scheme in Bristol P a g e | 27
+Recommendation R16 – Identify and include any existing displaced commuter
+parking counts in the WPP estimations (for example, on-street parking around
+industrial estates)
+Table One: Lower and Upper Estimates of WPPs in Bristol7
+
+Scheme Size Lower Estimate Upper Estimate
+Central Core 8,600 9,500
+Expanded Central Core 10,000 15,000
+Citywide 36,000 57,000
+
+The Atkins Study methodology noted that it was unable to distinguish the number of
+WPPs attributed to each employer within car parks for sites where there is multiple
+employer occupancy.
+A further key point to note is the lack of clarity as to whether the hospitals and
+universities have been included in the count. In Nottingham, the NHS premises receive
+a 100% discount from the WPL charge but are the largest provider of workplace
+parking, therefore understanding whether the Atkins Study surveys included NHS sites
+is essential.
+The Atkins Study does not include any estimates for a reduction in employee parking.
+Nottingham saw a reduction in workplace parking of around 16% when the WPL
+scheme was introduced and the WPL charge was far lower than Bristol’s proposed
+rate. It is important to understand the price elasticity of parking within Bristol to
+determine what would be a suitable estimate for a reduction in parking demand, and
+subsequently income.
+Where spaces were not visible, the surveyors assumed that one parking space
+occupied 25 square metres. The justification behind this assumed relationship is
+unclear. Nottingham City Council’s experience would suggest that the assumption is
+inaccurate since the car parks may not be marked and lined. It is highly likely that this
+assumption will have led to some under and over-estimates in the prediction of WPPs.
+The Atkins Study does not include a detailed breakdown of the sites that were
+surveyed and audited. A review of the list of sites that were visited and cross-
+referenced with VOA data would be recommended as a starting point in order to begin
+categorising employers by size and industry.
+In order to estimate how many WPPs Bristol may have, Nottingham City Council can
+make use of their own real time data and predict the number of WPPs in the Bristol
+City Council scheme area. The desktop model will use real experience to consider the
+expected behaviour of businesses and commuters once a WPL scheme is
+implemented. The desktop modelling technique can also be used to undertake
+scenario testing such as the inclusion of NHS premises.
+
+V2.0 Feasibility Study Report for a WPL Scheme in Bristol P a g e | 28
+Recommendation R17 – Review the list of sites visited by Atkins and cross-reference
+with VOA data, in order to begin categorising employers by size and industry
+
+5.3.3 Estimate on Potential Income
+
+The Atkins Study calculated net revenue based on the estimated WPPs from the
+surveys that were conducted. The net revenue was calculated on the basis of a charge
+of £300 per WPP, which was in line with Nottingham’s charge of £288 in 2012. Inflation
+was factored in and based on a Central Core scheme with a £300 per WPP charge,
+the net revenue was estimated at £2 million - significantly short of the targeted £7
+million per annum income target. Atkins also considered a £500 per WPP charge for
+a Central Core scheme which would unlock the desired £100 million investment
+package (~£7 million per annum), however there was significant concern regarding
+the potential impact on local businesses and the burden the charge would place on
+them.7
+Early discussions held between the Nottingham City Council project team and Bristol
+City Council officers indicated that a Central Core scheme is favoured.
+Multi-storey car parks owned by Bristol City Council currently offer annual season
+tickets ranging in price from £1,872-£2,496.16 The daily parking charge varies between
+£10-£12 for Bristol City Council owned car parks and well-known private car parking
+companies such as NCP.
+In comparison to the market rate for parking within Bristol further analysis, potentially
+in the shape of a survey, needs to be conducted to analyse the cost of all options
+across the city that would be viable for motorists, to identify if the WPL cost is
+reasonable, proportionate and will ensure the delivery of the WPL scheme objectives.
+A survey should look to ask questions about commuters’ choices and future choices
+dependent on set scenarios (i.e. implementation of a WPL scheme). The data
+gathered from this survey would assist in determining a sustainable charge. Including
+a survey question to ascertain the size and type of the business will help inform the
+setting of a small employer discount threshold.
+The cost of an annual First Bus Bristol Zone travel pass is £715.17 It will therefore be
+important to take this into account when developing robust justification for the WPP
+charge under an Expanded Central Core scheme. The WPL Project Team must justify
+the charge by setting out Bristol City Council’s transport vision and the part a WPL
+would play, e.g. influencing a modal shift in travel behaviour, reducing congestion,
+improving air quality and funding more sustainable transport options as part of the
+JLTP5.
+Recommendation R18 – Conduct further research into the cost of parking provided
+by private companies.
+
+16 Car park annual season tickets and pre-paid tickets, Bristol.gov.uk – link
+17 Bristol, Bath and the West Bus Ticket Prices – link
+
+V2.0 Feasibility Study Report for a WPL Scheme in Bristol P a g e | 29
+Recommendation R19 – Conduct a survey in Stage One to further understand
+commuter behaviour across the Bristol region
+
+5.3.4 Discount Level
+At the request of Bristol City Council, the Nottingham City Council project team have
+also looked into the potential small employer discount threshold which Bristol City
+Council could introduce as part of their WPL scheme. The Atkins Study modelled the
+implementation of a small employer discount threshold for employers with ten or less
+WPPs, based on Nottingham’s WPL scheme. Although the datasets and employers
+were cross-referenced with the VOA database, it is unknown exactly what detail Atkins
+obtained as the Nottingham City Council project team have not seen the actual
+database which Atkins compiled from the survey. To accurately understand the
+appropriate discount level that Bristol City Council should consider, it will be important
+to review the original datasets collected by Atkins in order to identify gaps that need
+to be covered ahead of a more up to date analysis and estimation of WPPs.
+A review of the size of businesses in Bristol based on data from the Office for National
+Statistics shows that not only is there a larger number of smaller businesses in Bristol,
+they also account for a slightly larger proportion of businesses in comparison with
+Nottingham. In Nottingham, 78% of businesses have less than 10 employees whereas
+in Bristol, the figure is 81.5%.14 A difference of 3.5% may not seem particularly large,
+however the number of businesses in Bristol is nearly twice that of Nottingham (22,780
+vs 11,970). Numbers of employees does influence the number of WPPs a business
+licenses for. It is worthy of note that despite Bristol having nearly 11,000 more
+businesses than Nottingham, there are 255 more businesses in Bristol with over 50
+employers, than in Nottingham.18 Table Two shows the comparison between business
+sizes in Bristol and Nottingham.
+Table Two: Comparison of Business Size – Bristol v Nottingham19
+
+Business Bristol Bristol Nottingham Nottingham
+Size (Number) (% of total) (Number) (% of total)
+Micro (0-9) 18,560 81.5% 9,340 78.0%
+Small (10-
+3,350 14.7% 2,015 16.8%
+49)
+Medium
+750 3.3% 535 4.5%
+(50-249)
+Large
+120 0.5% 80 0.7%
+(250+)
+
+18 NOMIS, Official Labour Market Statistics, Nottingham - link
+19 NOMIS, Official Labour Market Statistics, Bristol - link; NOMIS, Official Labour Market Statistics, Nottingham -
+
+link
+
+V2.0 Feasibility Study Report for a WPL Scheme in Bristol P a g e | 30
+The proposed Bristol WPL scheme is a Central Core scheme and this area is
+understood to be heavily office based with predominantly professional/administrative
+industries located around the city centre. The NOMIS, Official Labour Market Statistics
+for Bristol suggests that around 40% of industries (J, K, L, M, N and P in the referenced
+dataset) in Bristol could be categorised as office based and it would be reasonable to
+assume the majority of these are located within the Central Core.19 If this assumption
+is true then it would be reasonable to suggest to Bristol City Council that a lower small
+employer discount threshold should be considered for their WPL scheme.
+The results gathered in the Atkins Study show significant variance between the upper
+and lower estimates both with (Table Three) and without (Table One) the small
+employer discount threshold. The large range of variation in the estimates reinforces
+the need for new, targeted parking studies to be conducted in order for more accurate
+data to be gathered and to be used to form the basis of financial modelling for a WPL
+scheme.
+Table Three: Lower and Upper Estimates of WPPs After a 10 Place Small Employer
+Discount Threshold in Bristol7
+
+Scheme Size Lower Estimate Upper Estimate
+Central Core 7,600 8,700
+Expanded Central Core 12,100 17,400
+Citywide 27,200 49,700
+
+V2.0 Feasibility Study Report for a WPL Scheme in Bristol P a g e | 31
+5.4 Governance and Project Team Structure
+
+5.4.1 Introduction
+
+The Governance and Project Team Structure is outlined in Appendix F. The chart
+demonstrates the range of roles and resources that are required to deliver Stage One
+of the WPL Route Map. The majority of these roles will not need to be permanent posts
+but it is essential that experienced lead officers are identified and allowed sufficient
+time to be fully briefed on the proposed Bristol City Council WPL scheme details.
+Furthermore, the officers’ roles and their responsibilities regarding the delivery of
+Stage One must be discussed and confirmed as appropriate for a project of this scale
+and complexity.
+Bristol City Council will need to decide whether to resource internally or externally for
+the WPL Project Team roles. The initial discussions that Nottingham City Council held
+with the Bristol City Council management team has led to the production of the
+Governance and Project Team Structure. However, it may be necessary to amend this
+structure as the project progresses if resource availability, experience and/or
+requirements change.
+
+5.4.2 Governance
+
+Best practice with any large-scale and complex project is to have the right governance
+structures in place to manage and support the work being undertaken. An effective
+governance structure will enable efficient management and decision making to support
+the delivery of the WPL Route Map.
+A clear governance structure ensures that key leadership roles are in place to control
+Bristol City Council’s commitment and resources to successfully deliver a WPL
+scheme. Clearly setting out the levels of decision making and accountability will allow
+effective management to be in place at all levels of the project. The formation of a
+good project structure provides guidance, direction and performance management as
+part of the supporting project processes.
+
+Project governance also formalises the “what if” scenarios pertaining to issue
+management (e.g. budget restrictions, unforeseen project events, scope creep, etc.)
+and decision management. It will resolve the uncertainties of “who can decide what”
+in a project environment and is intended to clarify the roles and responsibilities of all
+project members.
+Every project needs clear leadership and the concept of a single point of accountability
+is a key part of effective project governance. The right people must be made
+accountable and endorsed/empowered by senior management to hold sufficient
+authority within the organisation, so they can effectively deliver.
+
+V2.0 Feasibility Study Report for a WPL Scheme in Bristol P a g e | 32
+5.4.3 Governance Team Structure
+
+The governance structure has been populated after workshop discussions with
+relevant teams at Bristol City Council and Nottingham City Council, utilising lessons
+learnt and experience from Nottingham’s scheme delivery. The structure has then
+been tailored for Bristol City Council based on their own governance policy. The
+structure sets out the “chain of command” that will allow for swift decision making by
+officers across Bristol City Council.
+Bristol Transport Board
+The Bristol Transport Board has been created to oversee the delivery and
+implementation of Bristol’s Transport Strategy and is one of six bodies working
+towards the delivery of the One City Plan.
+The Bristol Transport Board consists of senior stakeholders across Bristol, the WECA
+and relevant transport groups. The Board meet on a quarterly basis but should also
+meet at key stages and decision points throughout the WPL project.
+The Bristol Transport Board would be provided with regular updates on the delivery of
+the WPL project, the scheme design, high level risks and mitigation options. The Board
+would also be asked to review and approve key policy decisions and provide guidance
+on issue resolution. The Board would provide direction to ensure that the WPL Project
+Team is resourced, supported and held accountable for delivery.
+WPL Steering Group
+The WPL Steering Group would be chaired by the relevant Director with overall
+accountability for the WPL project delivery. The Director would be supported by the
+Lead Manager and WPL Project Manager. Identifying other members of the Steering
+Group is flexible as people will be required at different stages and key points. Steering
+Group members should be of an appropriate level so that the respective services are
+effectively represented.
+The Steering Group would follow a set agenda, meet six weekly and be focused on
+project management delivery and issue resolution; they would also review progress
+on all relevant WPL workstreams contained within the WPL Route Map and undertake
+the necessary due diligence to take key decisions and preferred options to the Bristol
+Transport Board for their review and approval.
+
+5.4.4 WPL Project Team
+
+The following recommended WPL Project Team is based on Nottingham City Council’s
+own WPL project and lessons learnt. Across the stages various individuals with
+specialist backgrounds will be required. For consistency,it is important that the project
+is directed by an experienced project manager who is supported by
+officers/coordinators who are committed and focussed solely on the delivery of the
+
+V2.0 Feasibility Study Report for a WPL Scheme in Bristol P a g e | 33
+WPL project. It is essential that the WPL project is a major focus of those on the WPL
+Project Team due to the size and nature of the scheme.
+
+5.4.5 Internal (Bristol City Council) WPL Project Team Structure
+
+Lead Manager
+The Lead Manager will have direct responsibility for the delivery of the WPL Route
+Map and managing the project management resources. They will report directly to the
+Director responsible for the WPL Steering Group and their role will be to remove any
+unnecessary delays to decision making outside of the governance meetings.
+Project Manager
+An experienced Project Manager should be assigned to this key role as they will be
+responsible for the management and delivery of the day-to-day project and the
+resources allocated to them. All relevant supporting project management processes,
+procedures and documentation will be managed by this role.
+Project Support Officer
+Project support will need to be flexible and allocated as required to ensure that there
+is the right level of support, capacity and experience available to the Project Manager
+throughout delivery of the project.
+WPL Package Lead Officer
+The WPL OBC is the key output to be produced in Stage One of the WPL Route Map
+and it will focus heavily on the proposed benefits of the delivery of a range of JLTP
+and One City Plan policies and objectives, predominantly delivering a step change in
+public transport infrastructure and services and the resulting outcomes and benefits
+that these will achieve (the WPL Package). It is recommended that, for clarity, a single
+point of contact is identified and leads on coordinating the development of the separate
+elements that will make up the WPL Package. The WPL Package Lead Officer will
+need to liaise with all relevant associated services, such as public transport and
+transport strategy.
+Economic Development Lead
+Understanding and evidencing the risks and opportunities for the impact of a WPL
+scheme for Bristol City Council in terms of its economy is key. A leading officer from
+the economic development team contributing to the current and future visions for the
+city in terms of jobs, growth, inward investment and business needs, is a major
+component of the OBC. The officer will bring valuable insight into business viewpoints
+and pressures that will form a key input into the Stakeholder Management Strategy
+and Communications Plan and can facilitate early and sustained engagement with the
+business community.
+
+V2.0 Feasibility Study Report for a WPL Scheme in Bristol P a g e | 34
+JLTP Lead
+The WPL revenue is ring-fenced for the delivery of JLTP and One City Plan policies
+and objectives, so having a lead officer who can ensure that the WPL is clearly linked
+to these policies is vital. The JLTP Lead’s ability to look for opportunities to link into
+wider policies and objectives for the city, other than just transport, will also strengthen
+the OBC and ensure that it remains up to date and integrated with emerging
+government policy.
+Legal Services Lead
+Although external legal support will be required, it is recommended that Bristol City
+Council allocate an internal legal resource who can ensure compliance with both
+internal and external legal processes and mitigate risk. The ability to have internal and
+external legal support enables a more robust check and challenge of key elements of
+the design of the WPL scheme, especially in the early stages, to ensure that the basis
+of the scheme is legally sound and risk mitigation is robust and evidenced based.
+Procurement Lead
+An officer from the procurement team will lead and advise on the appropriate
+procurement options for smooth delivery of the specification, tendering and
+procurement of external resources, while minimising unnecessary delays and
+ensuring compliance with relevant internal procedures and procurement legislation,
+e.g. Official Journal of the European Union requirements.
+Finance Lead
+An internal finance lead will be required to ensure that the necessary funding and
+expenditure processes and procedures are in place to establish the WPL Project Team
+and guarantee that financial regulations are complied with as part of project delivery.
+The Finance Lead will also input into the financial modelling workstreams, by providing
+source data and internal quality assurance that the financial business case
+assumptions are robust and that expenditure and income assumptions are managed
+at the appropriate level of risk.
+Information Governance and Risk
+With a project of this nature, Nottingham City Council would expect assignment of an
+officer from the Information Governance and Risk team, as it is important that the
+project is GDPR compliant at all stages.
+Communications Officer(s)
+The Communications Officer is a key role in order to establish a clear strategy for
+managing stakeholders and delivering the appropriate communications messages and
+campaigns during WPL Route Map delivery. Communications Officers will also initiate
+early informal engagement, capturing any responses to inform the future Stakeholder
+Management Strategy and Communications Plan. They will also be required to set out
+
+V2.0 Feasibility Study Report for a WPL Scheme in Bristol P a g e | 35
+key messages and briefings for internal and external officers, along with proactively
+and reactively managing the media interest and engagement throughout the various
+stages of project delivery.
+
+5.4.6 External (non-Bristol City Council) Project Team Structure
+
+The following roles are expected to be provided by external consultants, as these are
+highly specialised roles and will need to be called upon as and when required.
+Project Management
+Assigning the right level of experienced project management resource and the
+necessary project support in a timely manner will play a major part in ensuring Bristol
+City Council’s readiness to commence the delivery of Stage One of the WPL Route
+Map. It will be necessary to undertake a clear programme of knowledge transfer to this
+team, to enable them to coordinate and initiate the production of all relevant
+documentation, processes and procedures that will be required to manage a project
+of this scale and complexity and make best use of resources to deliver on time, cost
+and quality.
+Nottingham City Council WPL Support
+Nottingham City Council have invaluable knowledge and experience regarding how to
+design, deliver and operate a WPL scheme since they are the first (and only) UK
+authority to be operating a scheme of this type. Nottingham City Council will be able
+to apply its expert knowledge and experience to tailor a support package across a
+range of aspects of WPL delivery to suit the requirements of Bristol City Council.
+The support offered would prove invaluable in reducing cost, time and risk associated
+with the development of Bristol City Council’s own WPL scheme by following a proven
+methodology and incorporating lessons learnt. The high value associated with Bristol’s
+WPL scheme means that delivering the scheme a year early would be worth £7 million
+to Bristol City Council, or £800,000 per month. Further, the political and reputational
+benefits of delivering an effective scheme in a timely manner are innumerable.
+Parliamentary Agents
+It will be necessary to assign appropriately experienced and resourced Parliamentary
+Agents to ensure that the tailored WPL scheme for Bristol City Council is fully
+compliant with current and emerging government legislation and any risks or issues
+are evidenced and mitigated, to ensure a ratified and legally robust proposal is
+delivered. These agents will also work in partnership with the Bristol City Council Legal
+Services Lead identified above.
+Economic Consultants
+Economic modelling and studies will be required to build upon existing work in order
+to identify and support the proposed impacts of congestion on Bristol’s economy, along
+
+V2.0 Feasibility Study Report for a WPL Scheme in Bristol P a g e | 36
+with what benefits the WPL scheme and WPL Package will have. These studies and
+subsequent findings will be a key component of evidence to support the WPL OBC
+and the justification for why a WPL scheme is the right choice for Bristol City Council
+to deliver their future strategic vision for Bristol.
+Transport Consultants
+Transport Consultants will be required to model and evidence the future predicted
+peak congestion levels and types (commuter, through traffic, residential, retail, leisure,
+etc.) for Bristol and the surrounding conurbation, in addition to assessing the impacts
+this will have on the city, its citizens and the local economy. It will then be necessary
+to model the range of options along with the positive impacts that will be expected to
+be delivered as part of the WPL Package. The transport modelling work will need to
+be completed in partnership with the relevant economic modelling to show a robust
+case for how the WPL provides a vital contribution towards delivering the future vision
+for the city. It will also be important to include relevant social impact studies as part of
+these works.
+Business Improvement Districts and Business Forum
+These are groups of key stakeholders identified by Bristol City Council, who will be
+kept up to date with regular communications on how the WPL scheme is progressing
+and will be an essential source of early feedback from the business community
+regarding Bristol City Council’s proposed WPL plans.
+The proposed Governance and Project Team Structure will ensure that Bristol’s WPL
+scheme is delivered on time, at low cost and with risks mitigated and removed where
+possible. As the project moves into Stage Three, a well-rounded project team and
+clear governance strategy will mean that businesses are prepared and willing to
+licence and ensure that Bristol’s WPL scheme is implemented effectively.
+Recommendation R20 – Follow the Governance and Project Team Structure outlined
+in Appendix F and Section 5.4
+
+V2.0 Feasibility Study Report for a WPL Scheme in Bristol P a g e | 37
+5.5 Stakeholder Management Strategy and
+Communications Plan
+
+A Stakeholder Management Strategy and accompanying Communications Plan will
+be key requirements in order to deliver a Bristol City Council WPL scheme as
+effectively as possible. The main objectives will be:
+
+• To ensure that appropriate stakeholders are identified and regularly updated
+throughout the development of the project
+• To engage with stakeholders to promote support for the WPL scheme
+• To proactively manage the relationship of the project with stakeholders
+throughout the project lifecycle, including the development and implementation
+stages
+• To ensure that all enquiries and concerns raised by the stakeholders are
+recorded, reviewed and responded to as appropriate, in a timely and effective
+manner
+
+5.5.1 Stakeholder Management Strategy
+
+Principles
+
+Stakeholder management is the systematic identification, analysis and planning of
+actions to communicate with, negotiate with and influence stakeholders. Stakeholders
+are all those who have an interest or role in the project or are impacted by the project.
+Effective stakeholder management is critical to a WPL scheme throughout all stages,
+as stakeholders will have influence over the criteria by which the scheme’s success
+will be judged.
+
+One of the leading causes of project failure is insufficient involvement of key
+stakeholders; this section seeks to identify, examine and understand the different
+stakeholders for this project and explore their importance, in order to outline a process
+for effective stakeholder management and communication.
+The Stakeholder Radar (Appendix G) and the 2x2 Power/Influence by Interest in WPL
+Matrix (Appendix H) are diagrams that provide an illustration of:
+
+• Who the stakeholders are
+• What segment they belong to
+• The influence they possess
+• The interest the stakeholders are likely to have in the implementation of
+the WPL scheme
+• The frequency and type of communication that will be required to ensure
+that these stakeholders are fully engaged with the project
+
+V2.0 Feasibility Study Report for a WPL Scheme in Bristol P a g e | 38
+Communication will play a vital role in the success of this project and processes must
+be in place to ensure the timely and appropriate generation, collection and
+dissemination of key information throughout all stages of project delivery.
+Stakeholder Appendices
+The Stakeholder Radar provides an understanding of the different methods and
+frequency of communication that each stakeholder layer and domain will require.
+The Stakeholder Radar forms the basis for the different messages that need to be
+communicated to each stakeholder, depending on the layer and segment they are
+located in. Tailoring messages specific to each stakeholder group will ensure that the
+interest levels held by stakeholders remain high. For example, stakeholders within the
+Governance domain will require more detailed engagement and communication
+regarding the overall WPL project, whereas communication with stakeholders within
+the Customer domain should look to emphasise how the WPL Package will benefit
+them. The Stakeholder Radar can assist the formation of a Stakeholder Management
+Strategy and Communications Plan by the designated Communications Officer.
+The 2x2 Power/Influence by Interest in WPL Project Matrix allows each stakeholder to
+be seen in terms of their power/influence over the proposed WPL scheme and their
+interest in the WPL project.
+Identification of Stakeholders
+Stakeholder management begins with the identification of all stakeholders who should
+be involved in, or who will be affected by, the project once Stage One of the WPL
+Route Map is initiated.
+The process began with officers from the Nottingham City Council project team plotting
+generic stakeholders onto the Stakeholder Radar. The Stakeholder Radar was then
+reviewed further and updated at a workshop with Bristol City Council’s Head of City
+Transport and Principal Transport Planner, to identify stakeholder groups that are
+unique to the Bristol scheme. The updated Stakeholder Radar has also been reviewed
+by Bristol City Council’s communications experts. The Stakeholder Radar agreed with
+the Engagement and Active Travel Team Manager from Bristol City Council is now
+attached at Appendix G.
+The Stakeholder Radar has been segmented into four domains:
+
+• Governance
+• Customers
+• Stakeholders
+• Influencers
+Four layers to the Stakeholder Radar then assist with prioritising each domain:
+1. V = Vital to engage
+
+V2.0 Feasibility Study Report for a WPL Scheme in Bristol P a g e | 39
+2. N = Necessary to engage with
+3. G = Good to have engaged
+4. C = Courtesy to inform
+
+The closer the stakeholders are to the centre of the Stakeholder Radar, the more
+important communication with them is.
+The WPL Route Map assists with understanding when it will be important to
+communicate with stakeholders within each layer of the Stakeholder Radar. During
+Stage One, it is recommended to prioritise engaging with stakeholders in layers V and
+N. The stakeholders within these groups will be pivotal to the project and will be key
+decision makers. As the project develops and progresses to Stage Two and Stage
+Three, engagement and communication with stakeholders in layers G and C will take
+place. The Stakeholder Radar is a dynamic document and should be updated as the
+project progresses and new stakeholders emerge.
+So that stakeholders can be efficiently managed, the stakeholder domains are defined
+as follows:
+
+1. Governance – Includes the key leaders and decision makers within Bristol
+City Council who have the power to shape the WPL project. From political
+figures who will be key figureheads for the endorsement of a WPL scheme
+in Bristol through to Bristol City Council officers who will be responsible for
+overseeing the development, implementation and eventual operation of a
+Bristol WPL scheme
+
+2. Customer – Includes the groups that will be subject to compliance with the
+WPL scheme once it has been implemented. It will be vital to engage with
+the businesses who are expected to provide the highest number of LWPPs
+(including the NHS, although a decision will need to be made as to whether
+or not NHS premises will be liable for the WPL charge) and stakeholders
+representing smaller businesses who will hold fewer LWPPs per business
+but will form an essential part of Bristol’s WPL scheme. The scheme area in
+Bristol is currently undetermined - confirming the potential charging area will
+be a key workstream in Stage One and will then allow a more definitive list
+of Customer stakeholders to be produced. It will be important to engage with
+the Customer stakeholder group and highlight the benefits of a WPL scheme
+in terms of air quality improvement and constraints to congestion growth. It
+will also be important to communicate the WPL Package that will be funded
+by the WPL revenue and how it will benefit the city and these Customers
+
+3. Stakeholders – Includes the groups and individuals that will actually
+provide the resources, infrastructure and decision making for the
+implementation of the WPL Package. It will be vital to engage with the One
+City Transport Board which was created in 2019 to manage the
+
+V2.0 Feasibility Study Report for a WPL Scheme in Bristol P a g e | 40
+implementation and delivery of Bristol’s transport strategy. The WPL
+revenue is expected to be used to upgrade the bus network in Bristol with
+sustainable buses, new park and ride routes and safer active travel
+infrastructure to encourage more journeys via cycling and walking. It will
+therefore be important to engage with the Public Transport Operators and
+those involved in delivering the infrastructure. Legally, it is necessary to
+obtain approval for the JLTP from the DfT. It is therefore important that there
+is engagement with the JLTP team to ensure the WPL Package assists in
+delivering the JLTP objectives
+
+4. Influencers – Includes the stakeholders who will be influential but will not
+be key decision makers for a WPL scheme in Bristol. Influencers all have
+the power to influence larger groups, as illustrated in the Stakeholder Radar.
+Additionally, with the aim of constraining congestion growth and improving
+air quality, it is likely that environmental organisations and groups will
+support the WPL scheme, therefore communication with these bodies will
+be important once Stage One begins. It is important that effective
+communication highlights the benefits of a WPL scheme to these
+stakeholders in order to reduce scepticism and opposition to the project,
+therefore reducing the risk. As the project progresses from Stage One
+towards Stage Two and Stage Three, engagement with the stakeholders
+listed in groups G and C on the Stakeholder Radar will be required.
+
+Responsibility for Stakeholder Management
+The governance of stakeholder engagement will be the responsibility of the WPL
+Steering Group (see Appendix F). The WPL Steering Group should allocate
+management responsibility based on those who are best placed and skilled to manage
+a particular stakeholder engagement process, reflecting the nature and importance of
+the stakeholder interest. Those with a strategic interest tend to be best served
+corporately by the council and the WPL Steering Group, while those with a specific
+project interest are generally best served by the relevant resource(s) within the Bristol
+City Council WPL Project Team. Section 5.4 outlines the detail around the Governance
+and Project Team Structure.
+Stakeholder management and the allocation of responsibility will be an ongoing
+process throughout the project’s lifecycle.
+Stakeholder Engagement
+
+The objectives of the engagement process will be to keep key stakeholders’
+knowledge and commitment high by ensuring that they are informed at the right stages
+and provided with correct, clear and consistent information throughout the WPL
+project. Clear communication will ensure that expectations are consistent and in line
+with deliverables.
+
+V2.0 Feasibility Study Report for a WPL Scheme in Bristol P a g e | 41
+The development of a Stakeholder Management Strategy and Communications Plan
+will assist in determining what will be communicated, how it will be communicated, by
+when, and by whom, in order to manage Bristol City Council’s readiness to commence
+delivery of Stage One of the WPL Route Map.
+
+The questions to consider for each stakeholder are:
+
+• What will be the objectives of each engagement/communication?
+• What will be the key messages?
+• What information will be communicated and by whom?
+• When will information be disseminated and what will be the appropriate
+timing?
+• What information will be provided and to what level of detail?
+• What mechanisms will be used to disseminate information?
+• How will feedback be encouraged and what will be done as a result of
+feedback?
+
+5.5.2 Communications Plan
+
+The following section looks at the type and frequency of the communication activities
+and messages that will be required for each stakeholder group.
+
+In developing the Communications Plan, the Nottingham City Council project team
+have considered the potential issues that could pose a threat to the project (e.g.
+employers refusing to comply, employees who drive, motorists’ groups, etc.) or provide
+support to a WPL (e.g. environmental groups, political support, etc.). The WPL scheme
+is still a relatively new idea for those involved and therefore early engagement with
+stakeholders will be key to identifying reactions and attitudes, which can then inform
+the development of an approach to manage them effectively.
+
+The prospective WPL is a charge for off street parking that will generate funding for
+strategic transport projects in order to tackle congestion and provide better
+accessibility to all citywide. It is important that stakeholders’ reactions and attitudes to
+a WPL scheme are identified as part of Stage One so that the right communication
+approaches can be applied throughout the WPL Route Map and that the benefits are
+relayed in a targeted manner.
+
+The over-arching intentions of the Communications Plan are to:
+
+• Highlight the justifications for implementing a WPL scheme
+• Emphasise the positive aspects of the WPL scheme
+• Show how the WPL scheme forms part of the wider strategic vision for
+Bristol (The One City Plan, CRSTS, CAZ, JLTP, etc.)
+
+V2.0 Feasibility Study Report for a WPL Scheme in Bristol P a g e | 42
+The rest of the section will focus on some of the key components of the
+Communications Plan and illustrates the key considerations which are necessary in
+order to gain support for a WPL. The components listed below will be a critical part of
+the Communications Plan as they will help shape the messages for the informal
+engagement phase (WS1.4) and the public consultation phase (WS2.2).
+
+WPL Spokespeople and Figureheads
+The WPL scheme is contentious and there will invariably be strong opposition from
+some stakeholder groups. Political leaders will need to be resolute and a strong
+leadership figure at the forefront of the project will be a critical success factor, as they
+will be recognised publicly as leading the WPL scheme.
+The Need for a WPL
+The message as to why a WPL scheme is necessary in Bristol must be clear. All
+communication strategies and messaging should emphasise the WPL scheme’s
+importance in addressing Bristol’s air quality and congestion issues and delivering the
+One City Plan. The communications must focus on why the WPL scheme is being
+considered, with key messages including that the scheme:
+
+• Targets peak periods of congestion, commuter traffic and air quality
+• Does not rely on complex technology - it is a licensing scheme and is
+therefore accessible with low-time commitment from businesses
+• Will aim to improve air quality and tackle congestion through investment in
+sustainable modes of public transport
+• Forms part of the wider JLTP plan
+• Has both low upfront and running costs
+
+Transport Funding
+In a bid to tackle air quality problems, a CAZ is set to be put in place in summer 2022.
+It is expected that the introduction of a CAZ will allow Bristol to be compliant with the
+national air quality limits.
+The follow up to the TCF2 is the CRSTS, with bids for grants being submitted by 2023.
+A successful bid could see Bristol City Council being awarded a grant for additional air
+quality and congestion tackling measures. It will be necessary to monitor such bids
+and liaise with teams responsible for them in order to factor in how the ICTF funding
+links in with a WPL scheme. This will ensure that stakeholders and the wider
+conurbation understand that grant money further supports the WPL Package, as
+opposed to providing revenue to implement the WPL Package.
+The income generated by a Bristol WPL scheme would be ring-fenced as part of the
+JLTP5 to improve and create a high quality and affordable public transport network
+that is accessible around the city. Clarity on the scope to which the WPL funds JLTP5
+
+V2.0 Feasibility Study Report for a WPL Scheme in Bristol P a g e | 43
+projects and where the other funding is being sourced from will be needed so that
+communications regarding the use of WPL income are relevant and consistent.
+Environmental and Sustainability Issues
+Bristol City Council have set a target to become a carbon neutral authority by 2025
+and make Bristol a carbon neutral city by 2030. Tackling poor air quality is high on
+Bristol City Council’s agenda. The WPL and the WPL Package will assist in achieving
+the air quality targets set out in the One City Plan.
+Traffic congestion is a significant problem in Bristol, as it is in other major UK cities.
+Climate change, health and other environmental concerns currently feature strongly in
+international, national and local media, more so than at the time of the development
+and implementation of Nottingham’s WPL scheme. For instance, particulate matter is
+becoming a major issue for cities; this is an even greater issue in areas of high
+congestion where higher levels of particulate matter are caused from braking and
+tyres.
+Therefore, there should be an emphasis on the role that a WPL scheme plays in
+constraining congestion growth, the scheme’s consequential air quality impacts and
+the associated health benefits.
+Communications Approach and Brand
+The tone of WPL communications activity needs to be energetic and determined.
+Communications should emphasise how the city is ambitious to move forward and
+how the WPL scheme forms part of the overarching vision for the future of transport in
+Bristol. Messages need to communicate that this forward momentum is a partnership
+approach and businesses need to engage if Bristol is to prosper as a city. The One
+City Plan provides the connection between the WPL scheme, the transport
+improvements and the wider regeneration of Bristol and this will be beneficial to
+continually demonstrate.
+Communications activities need to be “human” – they should have
+faces/spokespeople, as this approach is recognised as being more effective at
+reducing business “mistrust” when contrasted with “faceless” activities such as
+promotional literature or websites.
+The use of public transport and active travel options are currently being promoted as
+a substitute to driving into work in order to improve air quality and constrain congestion
+growth, therefore the various Bristol transport organisations are key stakeholders in
+the WPL project. Early communications must look to promote the use and expansion
+of these services into the high-quality transport and active travel infrastructure that is
+envisioned to be delivered as part of the WPL Package.
+It is recommended that Bristol’s WPL should have specific branding, while still clearly
+being linked to Bristol City Council and reflecting the wider development of Bristol.
+Independent branding will ensure that communications are immediately linked with the
+
+V2.0 Feasibility Study Report for a WPL Scheme in Bristol P a g e | 44
+WPL rather than other messages from Bristol City Council and the branding can then
+be used on items from the WPL Package which have been funded from the WPL,
+ensuring that businesses and residents within Bristol clearly see the benefits of the
+scheme. The visual brand for the WPL scheme is still to be developed, however it
+should be adaptable in order to reflect the varying preferences of the key stakeholders
+in this project.
+Key Messages
+The details regarding the WPL Package are yet to be agreed, so the key messages
+will need to be developed as decisions are finalised. The key messages should target
+the particular preferences of target stakeholder groups and fit with the specific
+communications channels being employed.
+How the WPL Works
+The details of the how the WPL scheme operates will be developed as part of Stage
+One of the WPL Route Map and will form a key element of later communications.
+These messages will become more important as the interest grows in the WPL project,
+and as stakeholders start to request practical details regarding the scheme’s operation
+and how it will impact upon them.
+
+5.5.3 Communications Responsibilities
+
+Bristol City Council Transport Communications Team
+The Governance and Project Team Structure recommends a dedicated
+communications resource who will hold primary responsibility for all communications,
+planning, management and delivery. The communications role will include:
+
+• Drafting and reviewing communications documents and briefing notes
+• Planning and managing key communications events
+• Proactive and reactive WPL communications
+• Organising media and engagement campaigns
+• Measuring and reporting on the effectiveness of communications activity
+• Briefing key Bristol City Council representatives on the key messages and
+Stakeholder Management Strategy and Communications Plan for the
+project
+
+Mayor, Bristol City Council Leaders, Councillors and other Figureheads
+
+A proposed WPL scheme needs figureheads and spokespeople to positively influence
+businesses and the public through both informal and formal communication methods.
+Key responsibilities for these individuals would include:
+
+V2.0 Feasibility Study Report for a WPL Scheme in Bristol P a g e | 45
+• Public communication - through media interviews, additional communication
+modes and sponsoring and promoting the WPL scheme using an agreed
+core script
+• Attending forums and meetings with key businesses affected in order to
+promote the WPL scheme.
+• The consistent and reliable delivery of agreed key project messages through
+more informal means, such as at business networking events and
+conferences
+
+Recommendation R21 – Create a Stakeholder Management Strategy and
+Communications Plan to identify stakeholders and ensure that their interest levels are
+maintained or increased
+
+V2.0 Feasibility Study Report for a WPL Scheme in Bristol P a g e | 46
+5.6 Risk Analysis for Bristol City Council’s Readiness to
+Progress Ahead of Stage One
+
+5.6.1 Introduction to Project Risk Management
+
+The following section documents the way in which risk management policy and risk
+registers are implemented and managed. The purpose of this section is to assist
+project and programme sponsors, project boards and project managers and aid
+implementation decisions by enabling effective identification, management and
+communication of project risks.
+
+5.6.2 What is Project Risk Management?
+
+Project risk management is the process concerned with identifying, assessing and
+responding to project risks and it provides a disciplined environment for informed and
+proactive decision making. The objectives of project risk management are to inform
+decision making during project selection and definition, as well as improving project
+performance during design and delivery. Adherence to project management principles
+will assist the successful delivery of projects and lead to enhanced organisational
+performance; it will also ensure that business objectives are delivered within the
+agreed scope, quality, time and cost constraints.
+
+Risk management forms an integral part of the project management strategy and is
+essential in delivering a successful project. The management of risk needs to be fully
+embedded into the delivery of a project and forms a key responsibility of the Bristol
+City Council WPL Project Manager’s role.
+If the WPL project is to be a success, risk management must be conducted and
+integrated into the project management process from the start of the project. It is then
+important to ensure risk management is upheld throughout the project lifecycle.
+
+5.6.3 Issue Management versus Risk Management
+
+A project issue is anything that can have an impact on a project (either detrimental or
+beneficial) and is separate to risk management. Risks that have or will materialise are
+no longer risks, they are issues. Issues can arise from a wide range of sources, they
+can come in many forms and can occur at any point in the project life cycle. Issues
+need to be dealt with as they arise and once identified, need to be captured in the
+Change Consent and Issue Log for the project and the Risk Issue Template, as well
+as being monitored on an ongoing basis. The impact and seriousness of the project
+issues should be evaluated and assessed with any alternative actions that need to be
+taken identified. The WPL Project Manager is responsible for managing and checking
+the issue log alongside the Risk Register.
+
+V2.0 Feasibility Study Report for a WPL Scheme in Bristol P a g e | 47
+5.6.4 Opportunities and Threats
+
+Positive events (opportunities) as well as negative events (threats) need to be
+considered when performing project risk management activities. If we consider only
+threats when managing a project, then the best that can be expected is to meet the
+promised objectives but never improve upon them. If there is an understanding of the
+positives and negatives of all the factors that could have an impact on the project, then
+the probability of success will increase. It would also reduce the potential for failure
+along with any uncertainty of achieving the benefits required.
+
+5.6.5 Risk Considerations in the Proposal and Approval Phase
+
+The most significant project risks, particularly those that threaten the outcomes of a
+project, are identifiable in this phase. For new projects, the risk management process
+should be commenced at the outset with key risks being captured as part of the start-
+up process. During project initiation (Stage One), a risk management strategy for the
+project, including defining how risks will be handled during the lifecycle of the project,
+should be established.
+
+As risks are identified and assessed, they will be captured in the Risk Register together
+with the planned risk mitigation, once these have been agreed. The owner of the risk
+should be the manager of the risk management response and it is their responsibility
+to execute and manage the agreed response.
+
+5.6.6 Project Risk Management Process
+
+The process described in this section uses six steps:
+
+5.6.7 Methodology
+
+With a project as complex as a WPL scheme, it is imperative that key risks are
+identified and mitigated as far as it is reasonably practicable in order to properly inform
+and reassure key stakeholders.
+
+V2.0 Feasibility Study Report for a WPL Scheme in Bristol P a g e | 48
+In order to compile a Risk Register for Bristol City Council’s readiness to enter the
+Stage One development phase of the WPL Route Map, the Nottingham City Council
+project team extensively reviewed corresponding risk documents upheld following part
+of their scheme implementation. These documents provide a robust starting point for
+this risk identification and analysis exercise for the Bristol City Council WPL project.
+A list describing constituent risks and the perceived threat level has been compiled
+using the matrix below:
+
+Initially, relevant risks were identified by Nottingham City Council and a Risk Register
+was drafted, however mitigation activities were not allocated at this early stage.
+Following further development, the Risk Register was shared with key officers at
+Bristol City Council who were invited to comment ahead of a risk management
+workshop. On 16th July 2021, a risk management workshop was conducted with
+officers from Bristol City Council and each individual risk was collectively discussed
+with input of the local expert knowledge of the Bristol City Council environment by
+these colleagues. New risks emerged that were captured, analysed and subsequently
+added to the Risk Register.
+As part of the discussion with Bristol City Council, mitigation options were suggested,
+discussed, rationalised and further developed. The mitigation measures were
+subsequently scored and RAG rated, the risks were then allocated owners and this
+was then captured in an updated version of the Risk Register.
+Risk registers are dynamic in nature and evolve throughout a project. It will be a priority
+to create a full Risk Register for Stage One once approval is received to commit
+budgets and resources to the delivery of the WPL Route Map along with the
+recruitment of the Bristol City Council WPL Project Team. Further risk registers will be
+
+V2.0 Feasibility Study Report for a WPL Scheme in Bristol P a g e | 49
+required for the later stages throughout the WPL project. The current version of the
+Risk Register is attached at Appendix I.
+
+5.6.8 Summary of Risk Analysis
+
+In total, 33 risks were identified that were relevant to Bristol City Council in terms of
+their readiness to commence Stage One of the WPL Route Map.
+Of the 33 risks, 11 were identified as red (high) risks and these should be prioritised
+for early mitigation.
+A further 17 risks were rated as amber (medium) and mitigation and/or close
+management and monitoring is recommended.
+The Red and Amber risks are categorised as follows:
+Political Climate
+Red risks 1 and 2 relate to the political situation affecting the country as a result
+of Brexit, which could impact upon Bristol City Council’s WPL proposals and
+timescales.
+Amber risks 4 and 5 are JTLP related and risk 7 considers the “Levelling Up”
+agenda and how, as it is not aimed at Bristol, it may impact on transport
+initiatives.
+Project Resources
+Red risks 8 and 9 and amber risks 10, 12 and 13 pertain to the need for Bristol
+City Council to understand the scale of developing a WPL scheme and secure
+the relevant approvals and subsequent allocation or recruitment of the Bristol
+City Council WPL Project Team in a timely fashion. These risks refer to both
+internal and external resources, including specialists, which will be key to Bristol
+City Council being ready to commence the Stage One activities contained in
+the WPL Route Map.
+Communications
+There are no red risks and the main amber risks reference the critical need for
+all aspects of the communications around the WPL proposals to be cohesive
+and consistent, including the need for engagement with key figureheads and
+dedicated communications resources.
+Adherence to the Nottingham Model
+Red risk 22 identifies to need to communicate Nottingham City Council’s
+Feasibility Study Report to key officers and politicians.
+Amber risk 21 refers to the need to follow the fundamental building blocks of
+Nottingham City Council's WPL scheme to reduce the risk of legal challenge,
+
+V2.0 Feasibility Study Report for a WPL Scheme in Bristol P a g e | 50
+deliver value for money and minimise potential delays to the delivery timescales
+which would affect the 2024 target delivery date.
+COVID-19
+There are 4 red risks in this category, 23, 24, 26 and 28, and collectively they
+highlight the unknowns in terms of what the “new normal” will look like in terms
+of commuting and public transport patronage and the requirement to monitor
+these behaviours to determine what impact they may have on a future WPL
+scheme.
+Other risks that are not referenced above are categorised as:
+Amber risks 29 and 32 cite the WECA’s Bus Service Improvement Plan and
+initial intention to focus on the Central Core area as positive reasons for
+developing and introducing a WPL scheme.
+Red risk 33 emphasises the need to monitor the Secretary of State for
+Transport’s response to Leicester City Council’s FBC and proposal to
+implement a WPL scheme in their city
+If Bristol City Council’s ambitious scheme delivery date of 2024 is to be achieved, then
+early risk mitigation is recommended to address the risks identified in the Risk
+Register.
+Successful mitigation of these risks will ensure Bristol City Council commence the
+delivery of Stage One of the WPL Route Map in a timely manner, that is robust in all
+aspects.
+Recommendation R22 – Monitor and regularly update the dynamic Risk Register
+document, with risks that are dealt with being closed, new risks being identified as the
+scheme develops and adequate mitigation implemented
+
+V2.0 Feasibility Study Report for a WPL Scheme in Bristol P a g e | 51
+6.0 Conclusion and Recommendations for Action
+
+Nottingham City Council has conducted a thorough assessment on the readiness of
+Bristol City Council to develop and implement a WPL scheme. The results of that
+assessment have been outlined in this Feasibility Study Report.
+
+It is clear that Bristol City Council has an ambitious vision and a clear strategy on how
+to achieve this. In particular, Bristol City Council aim to make Bristol a carbon neutral
+city by 2030. To achieve this ambitious vision, it is imperative that the transport projects
+receive sufficient funding to enable effective implementation and to ensure that they
+are of the scale required by the ambition.
+
+Nottingham City Council would also like to highlight the extensive amount of
+supporting studies, data and in-depth information already available to Bristol City
+Council; this information will positively contribute to the development of a robust WPL
+OBC, which will be the key output should Bristol embark upon Stage One of the WPL
+Route Map.
+
+For Bristol City Council to achieve a “go live” date of October 2024 for a WPL scheme,
+it is essential that the momentum of the past six months is maintained and the WPL
+Route Map is initiated.
+Ahead of commencing Stage One of the WPL Route Map, the Nottingham City Council
+project team recommend the following steps to be carried out as soon as possible:
+1. Engage with, inform and provide the senior management team and politicians
+with key messages to ensure that they are briefed on the potential WPL
+scheme
+2. Appoint an experienced WPL Project Manager to begin working through the
+WPL Route Map and the recommendations in this report. Undertaking initial
+work will ensure that momentum continues and that decision makers are kept
+sufficiently informed
+3. Liaise with relevant resources to begin the creation of a WPL Project Team,
+advising them of what a WPL is, what they will be expected to contribute to the
+delivery of a WPL scheme in Bristol, how much of their time is required for the
+project and when their involvement will be needed based on the WPL Route
+Map
+4. Undertake a costing workshop with Nottingham City Council in order to begin
+estimating the required budget for each stage and workstream within the WPL
+Route Map
+5. Track the progress of related schemes which are due to take significant steps
+in the next six months (Bristol CAZ, Bus Back Better, Liveable Neighbourhoods)
+and assess how any changes impact the proposed WPL Package and the
+implementation of a WPL scheme in Bristol
+
+V2.0 Feasibility Study Report for a WPL Scheme in Bristol P a g e | 52
+Further recommendations are set out in Appendix J and have been linked to the
+relevant section of the Feasibility Study Report.
+
+Bristol City Council is well positioned to progress with the development of a WPL
+scheme and following the advice contained within this report will help to reduce the
+time, cost and risk associated with WPL scheme development. Nottingham City
+Council will continue to be available to provide its knowledge and experience
+throughout Bristol’s WPL Route Map, offering a “critical friend” role and allowing Bristol
+City Council to avoid and mitigate the challenges and potential pitfalls involved with
+the creation of a WPL. Ongoing engagement with Nottingham City Council will ensure
+that any future WPL in Bristol is fit for purpose and delivered as quickly and effectively
+as possible, allowing the benefits of the WPL Package to be realised as soon as
+practicable. The drive, vision and ambition of Bristol City Council is exciting and will
+clearly lead to a high quality, sustainable transport system in Bristol.
+
+V2.0 Feasibility Study Report for a WPL Scheme in Bristol P a g e | 53
+7.0 Appendices
+7.1 Appendix A: Bristol Key Terms Glossary
+
+Term Abbreviation Description
+Atkins Bristol Workplace Atkins Study The Atkins Bristol Workplace Parking Levy Scoping Study 2011 was
+Parking Levy Scoping commissioned by Bristol City Council to look into the potential number of
+Study 2011 Workplace Parking Places (WPPs) there may be in Bristol for all three
+potential WPL schemes (Central Core, Expanded Central Core and Citywide
+scheme areas).The study outlines the methodology used by Atkins to
+estimate the potential number of WPPs along with the costs to implement
+and operate a WPL scheme in Bristol (2011 prices).
+Bus Back Better In September 2019, the central government set out the Bus Back Better
+strategy. The strategy sets out the vision and opportunity to deliver better
+bus services for passengers across England through an ambitious and far-
+reaching reform of how services are offered and delivered.
+Bristol City Council will be publishing a Bus Service Improvement Plan which
+will be developed with local operators, community transport bodies and local
+businesses. The plan will set out the strategy and objectives along with a
+detailed proposal as to how the objectives will be achieved and bus use will
+increase. The Bus Service Improvement Plan will request funding from the
+DfT’s COVID-19 Bus Services Support Grant and the Bus Service Operators
+Grant in order to deliver the plan20.
+Central Core The Central Core area is one of the three geographic options being
+considered by Bristol City Council for a proposed WPL scheme. It covers the
+major areas of employment within central Bristol and follows the boundary of
+city centre activity. From discussions held with Bristol City Council officers,
+the Central Core area is the preferred geographic option for a WPL scheme.
+Citywide The Citywide area is one of the three geographic options being considered
+by Bristol City Council for a proposed WPL scheme. It is the least preferred
+option. The Citywide option would cover the entire Bristol City Council
+administrative area and would therefore affect all businesses based in
+Bristol.
+Clean Air Zone CAZ A CAZ is a defined area where vehicles that have tailpipe emissions which
+are not compliant with the pollution limits set by a local authority are charged
+daily for entering. Bristol City Council are hoping to have a CAZ in place from
+Summer 2022. The Bristol CAZ will be for Class D vehicles (cars, private hire
+vehicles, taxis, LGVs, buses, coaches and HGVs) and will cover the Bristol
+city centre region. The fee for Bristol’s CAZ is set at £9 per day for cars,
+private hire vehicles, taxis and LGVs while buses, coaches and HGVs will be
+charged £100 per day.
+Draft West of England The West of England Local Cycling and Walking Infrastructure Plan is a
+Local Cycling and significant and exciting first step towards transforming active travel in the
+Walking Infrastructure region. The plan proposes capital investment of £411m by 2036 and is the
+Plan result of a collaborative effort between the West of England councils, the
+WECA and local stakeholder groups.
+Expanded Central Core The Expanded Central Core area is one of the three geographic options
+being considered by Bristol City Council for a proposed WPL scheme. The
+Expanded Central Core corresponds with the area covered by the proposed
+Residents Parking Zone “inner ring”, which would discourage parking
+displacement on to residential streets by employees of organisations subject
+to a WPL.
+City Region Sustainable CRSTS The funding provides the necessary major investment for local transport
+Transport Settlement priorities. The CRSTS is a follow up investment in local transport networks.
+This new fund stems from the announcement made by the DfT that eight
+eligible English city regions would receive £4.2 billion of additional funding
+for local transport networks.
+Joint Local Transport JLTP5 A Joint Local Transport Plan (JLTP) sets out the transport vision for all
+Plan 5 authorities within a combined authority. The WECA currently have a JLTP4
+that has set out the transport vision from 2020 until 2036. The JLTP4 will be
+replaced in 2023 by the JLTP5.
+
+20 Department for Transport – Bus Back Better - link
+
+V2.0 Feasibility Study Report for a WPL Scheme in Bristol P a g e | 54
+A WPL scheme in Bristol will form part of the JLTP5; as well as tackling air
+quality and congestion on its own, a WPL will also be used to fund some of
+the other measures within the Plan
+One City Plan The One City Plan outlines Bristol’s vision for the city in 2050 and confirms
+the strategy to achieve the objectives. The plan contains six themes which
+are responsible for achieving each objective. Each theme has a governing
+board made up of experts and a cross-section of partners and citizens, who
+refine the annual objectives as well as ensuring the delivery of the overall
+objectives.21 All the initiatives within the One City Plan are underpinned by
+the UN Sustainable Development Goals, which provide an internationally
+recognised framework to benchmark the city’s aspirations and progress. The
+One City Transport Board sits under the “Connectivity” theme and the WPL
+scheme will feature prominently as a discussion topic at this forum once the
+project begins.
+Small Employer Discount Employers who provide below a certain number of LWPPs within the WPL
+Threshold scheme area are exempt from paying the WPL charge. However, these
+employers are still required to license each year. In Bristol, this threshold is
+yet to be determined. In Nottingham, employers and any associated
+employers who between them provide 10 or fewer LWPPs in total at all of
+their premises within Nottingham City Council’s administrative boundary are
+exempt from paying the WPL charge.
+Transforming Cities Fund TCF2 The Transforming Cities Fund is a £2.45 billion capital grant transport fund
+2 aimed at driving up productivity through investments in public and
+sustainable transport infrastructure in some of England’s largest city regions.
+The funding is for improvements into infrastructure such as new active travel
+routes, smart ticketing and smart traffic controls. The last tranche of the fund
+was known as Transforming Cities Fund 2. The WECA received £103 million
+of funding as a mayoral combined authority.
+West of England The WECA South Gloucestershire Council, Bath & North East Somerset Council and
+Combined Authority Bristol City Council make up the West of England Combined Authority.
+The WECA was formed in 2017 to champion the region and drive clean and
+inclusive economic growth, with a central mayor collectively elected by South
+Gloucestershire Council, Bath & North East Somerset Council and Bristol
+City Council. The cabinet is made up of the Mayor of the West of England
+along with the leaders of each member council.22 Although not included
+within the WECA, North Somerset Council is considered a key partner and
+for the purposes of the WPL project, their inclusion has been requested.
+
+7.2 Appendix B: WPL Glossary
+Term Abbreviation Definition
+21 One City Plan - link
+22 West of England - link
+
+V2.0 Feasibility Study Report for a WPL Scheme in Bristol P a g e | 55
+Business Support A service currently offered by Nottingham City Council to businesses
+within the Nottingham City Council administrative area. The support
+includes running workshops and on-site events to provide sustainable
+transport advice to staff. Nottingham City Council set up business
+support under the Workplace Travel Service team. The team provide
+advice and small grants (up to £10,000) to businesses. The grants are
+provided to encourage local businesses to support the uptake of
+sustainable transport. Examples of what companies use the grant
+money for include, car park barriers, changing and shower areas,
+bicycle shelters, etc.
+Displaced Parking The displacement of commuters from on-site to on-street following the
+implementation of a charge (e.g. WPL). In Nottingham, once the WPL
+went live there was a displacement of commuter parking; this mainly
+occurred at industrial estates where there is usually a lack of on-street
+parking restrictions.
+Liable Workplace Parking LWPPs A liable workplace parking place is a parking place provided by an
+Places employer that is occupied by a vehicle which is used by an employee,
+pupil, student or regular business visitor.
+A regular business visitor is a consultant, contractor, supplier, agency
+staff or other business visitor attending a regular place of work. A
+regular place of work is a premises that a regular business visitor parks
+at and attends on three or more days over a 14-day period.
+LWPPs are parking places that are liable for the WPL charge.
+Off-Street Parking Audit OSPA An Off-Street Parking Audit is an activity which the WPL Project Team
+may choose to conduct in order to gather a thorough audit of the
+potential number of LWPPs a local authority may have within their
+designated WPL scheme area. The OSPA is usually conducted as a
+survey with employers. The results from the OSPA inform the financial
+modelling that is required as part of the FBC which must be submitted
+to the Secretary of State for Transport.
+Outline Business Case OBC The Outline Business Case sets out the preliminary thoughts regarding
+a proposed WPL scheme. It contains the information needed to help
+the local authority make decisions regarding the adoption of the project.
+It states envisaged outcomes, benefits and potential risks associated
+with the proposal. The OBC includes any studies conducted during
+Stage One of the WPL Route Map.
+Personal Journey Planning A service offered by the Workplace Travel Service team as part of the
+business support they provide. Personal Journey Planning is the
+assistance of planning journeys to and from work for employees of a
+business who wish to use more sustainable methods of transport.
+Red Tape Challenge Introduced in April 2011, the Red Tape Challenge was a government-
+wide initiative aimed at reducing bureaucracy, giving businesses and
+the general public an opportunity to comment on statutory rules and
+regulations to decide which should be improved, kept or removed.
+The Red Tape Challenge was applied to all areas of transport.
+Traffic Management Programme A programme that identifies issues and solutions within the displaced
+parking work stream such as junction protection, no waiting and
+limited waiting.
+WPL Licensing System The WPL Licensing System is an online IT system through which
+employers register and update the number of LWPPs that they license
+for at each premise.
+WPL Route Map The WPL Route Map outlines the key workstreams that a local authority
+must undertake and complete to successfully develop and implement
+a WPL scheme. The WPL Route Map is based on Nottingham’s
+experience as the first and only local authority to have successfully
+implemented a WPL in the UK to date.
+The WPL Route Map is split into three stages:
+Stage One: Scheme Development and Outline Business Case
+Stage Two: Public Consultation and Approval
+Stage Three: Implementation and Operation.
+Workplace Parking Charge WPC The Workplace Parking Charge is a car park management system
+introduced by Nottingham City Council following the implementation of
+its WPL scheme. The aim of the WPC is to offset Nottingham City
+Council’s own car parking liability. The WPC places an annual charge
+on Nottingham City Council employees who wish to drive to work and
+the charge is taken from an employees’ salary each month. The parking
+
+V2.0 Feasibility Study Report for a WPL Scheme in Bristol P a g e | 56
+charge is graded via salary therefore each individual relatively pays the
+same amount in proportion to their salary.
+Workplace Parking Levy WPL A Workplace Parking Levy is a charge on employers who provide
+workplace parking. It is a type of congestion charging scheme that local
+authorities are able to implement under the Transport Act 2000.
+A local authority may introduce a WPL to tackle problems associated
+with traffic congestion, by both providing funding for major transport
+infrastructure initiatives and by acting as an incentive for employers to
+manage their workplace parking provision.
+WPL Package It is a legal requirement of the primary legislation (Transport Act 2000)
+that WPL scheme revenue is ring-fenced for the delivery of Local
+Transport Plan policies and objectives. It will be necessary for any local
+authority that is considering a WPL to identify what the WPL scheme
+will be expected to contribute towards and confirm how it is an essential
+part of the delivery of their Local Transport Plan strategy.
+Workplace Parking Places WPPs A parking place at a premises inside a local authority’s scheme area,
+occupied by a vehicle used by an employee, pupil, student or regular
+business visitor. Workplace parking places are not necessarily marked
+or designated spaces. All employers may provide WPPs. For example,
+a disabled parking place is still considered a WPP.
+WPL Operational Team The WPL Operational Team is comprised of administrative and
+operational staff. The administrative staff respond to emails and phone
+calls, assisting employers with payment and licensing issues. The
+operational staff visit premises within the administrative boundary to
+ensure that employers are licensing correctly and assist with any
+queries face-to-face. In Nottingham, the operational staff take a
+compliance based approach and work with employers on an
+educational basis to ensure that they licence correctly.
+WPL Project Team The WPL Project Team are responsible for developing and
+implementing a WPL scheme. The WPL Project team will usually
+consist of a programme manager, project manager, project officers,
+administrative staff and specialists. The WPL Project Team will work
+with consultants and other service areas across the local authority to
+successfully develop and implement the WPL scheme.
+WPL Scheme Order A WPL Scheme Order is a required legal document that sets out the
+details of the WPL scheme. It is the legal means by which WPL is
+implemented. No WPL scheme can be applied without an approved
+scheme order as it is the secondary legislation that permits a local
+authority to run a WPL scheme.
+
+V2.0 Feasibility Study Report for a WPL Scheme in Bristol P a g e | 57
+7.3 Appendix C: WPL Route Map
+
+V2.0 Feasibility Study Report for a WPL Scheme in Bristol P a g e | 58
+7.4 Appendix D: Milestones and Dependencies Timeline
+
+30/01/22
+01/06/23 01/01/25
+Bristol Liveable
+Joint Local Transport Plan 5 02/05/24 Free public transport travel
+Neighbourhoods
+Approved UK General Election to be offered to U25s
+policy sign off
+
+01/01/24 - 03/06/24
+City Centre
+Redevelopments 31/05/25
+06/05/21 30/07/22
+- St Mary Le Port Target date for BCC
+Local, Mayoral and Bristol Clean Air Zone (CAZ) 03/06/24 - 31/12/24
+- Gallery’s to be Carbon Neutral
+WECA elections is implemented Strategic Corridors
+
+01/01/2022 01/01/2023 01/01/2024 01/01/2025 01/01/2026 01/01/2027
+05/04/2021 31/05/2027
+
+01/01/23
+29/10/21 09/05/24 01/10/24 09/05/25
+Compliance year
+WECA Bus Service Improvement Local and WPL charging WECA Elections
+for clean air targets
+Mayoral commences
+Elections
+
+30/06/22 - 31/03/27
+City Region Sustainable Transport Settlements
+
+Italics = dates that are not fixed.
+
+V2.0 Feasibility Study Report for a WPL Scheme in Bristol P a g e | 59
+7.5 Appendix E: Timeline for a Bristol WPL Scheme
+
+30/01/2023 - 21/04/2023
+01/11/2023 - 29/03/2024 01/10/2024
+05/04/2021 - 27/08/2021 6-12 week
+WPL Implementation WPL 'Charging Commences'
+WPL Feasibility Study Public Consultation
+
+01/04/2024 - 27/09/2024
+09/08/2022 - 29/10/2022 30/05/2023 - 29/10/2023
+WPL 'Go Live'
+Outline Business Secretary of State - No Charging
+Case Production Approval for WPL
+
+05/04/2021 01/01/2022 01/01/2023 01/01/2024 31/10/2024
+
+01/11/2022 - 30/10/2023 01/11/2023 - 31/10/2024
+01/10/2021 - 29/10/2022
+Stage Two - Stage Three -
+Stage One -
+Public Consultation and Approval Implementation and Operation
+Scheme Development and
+Outline Business Case
+
+V2.0 Feasibility Study Report for a WPL Scheme in Bristol P a g e | 60
+7.6 Appendix F: Governance and Project Team Structure
+Recommended BCC WPL Project Structure for Stage One
+One City Transport Board
+Mayor/ The Economy & Skills Board
+Deputy Mayor The Environment Board
+Meet Quarterly WECA The Health & Wellbeing Board
+Directors The Homes and Communities Board
+Head of City Transport
+
+WPL Steering Group
+Inward Investment
+Head of City Transport
+Economic Development
+Principal Transport Planner
+Meet every 6 weeks Traffic Management Development
+Comms Lead
+Public Transport
+NCC Advisors
+Transport Strategy
+WPL Project Manager
+
+Lead Manager
+
+Meet weekly
+
+Project Manager
+Project Support
+
+Internal External
+
+Economic Commu nicatio ns Pro ject
+Leg al Finance Par liamentary Transport
+Development Offi cer Manag ement
+Age nts Consultants
+Consultants
+
+Info rma tion , Busine ss
+WPL Pack age NCC WPL Economic Imp roveme nt
+JLTP L ead Pro cure me nt Govern ance &
+Lead Officer Sup port Consultants District and
+Risk
+Busine ss Foru m
+
+V2.0 Feasibility Study Report for a WPL Scheme in Bristol P a g e | 61
+7.8 Appendix G: Stakeholder Radar
+
+BCC Employees
+(4.11)
+
+Directors/Head of Services & Managers
+(3.11)
+
+Councillors
+(3.12)
+Executive Director –
+Growth & Region
+Green
+(2.12) BCC External
+Organisations
+(3.41) Corporate Leadership Communications/Press The Federation
+Board Office of Small Business
+(2.11) (2.13) (3.21)
+Local Lobbyist
+Groups Chamber of
+- For Commerce (2.41) Employers Employers
+- Against L/M (3.25)
+(3.42) Local Media 1Deputy Mayor x2 + Top 5/10
+(2.42) (1.12) & (1.13) (2.21)
+Residents Visitors/
+One City Boards National Media
+NHS (3.22) Conurbation
+- Economy & Skills (2.43)
+(2.22) (4.21)
+- Environment Mayor
+Public Health
+- Health & WECA Mayor (1.11)
+(2.44)
+
+N
+(1.42)
+G C
+BCC Wellbeing
+V
+DfT
+Trade Unions (3.43) West of England (1.41)
+Specialist High
+(4.41) Combined Authority
+E-Mobility End Businesses University of West
+Operators (2.45) (2.23) of England
+(3.44) Business West One City (3.23)
+(2.48) Transport Board University of Bristol
+Property
+(1.31) (2.24)
+Developers Destination Bristol
+in Central Area (2.47)
+Employees/ Trade
+(3.45)
+Unions
+MPs (3.24)
+Campaign Groups (2.46)
+(3.46) Public Transport Operators (Bus Infrastructure (2.32) Business Improvement
+companies) Districts
+Equality Groups (3.25)
+(2.31)
+(3.47)
+
+Joint Local
+Transport Plan (JLTP) (3.31)
+
+National
+Transport Groups (3.32)
+
+Level Meaning
+V Vital to engage
+N Necessary to engage
+G Good to have
+engaged
+C Courtesy to inform
+
+V2.0 Feasibility Study Report for a WPL Scheme in Bristol P a g e | 62
+7.9 Appendix H: 2X2 Power/Influence by Interest in WPL
+Matrix
+
+High 1.11
+1.12
+1.41 1.13
+2.46 3.41
+Influential Observers: Key Players:
+Keep Satisfied 2.11 2.12 Engage Closely
+2.42 2.44 1.31
+1.42
+2.43 3.12
+3.42 2.31
+Power/
+3.46 3.22 3.24 2.48 2.13
+Influence
+2.45 2.41
+3.24
+3.11 3.23 2.24
+2.23 2.21
+3.21 3.25
+3.45 2.32 2.22 3.31
+2.47
+Spectators: Active Players:
+3.32
+Monitor 3.44 Keep Informed
+4.21 3.47 3.43
+4.41
+4.11
+Low
+
+Low Interest in High
+WPL
+
+V2.0 Feasibility Study Report for a WPL Scheme in Bristol P a g e | 63
+7.10 Appendix I: Risk Register
+
+CONSTITUENT RISKS TO BE MANAGED
+Latest
+Opening
+Threat
+Threat
+Constituent Risk Description Risk Management Counter Measures & Actions Status Owner Level
+Level e.g.
+e.g.
+2x4=8
+2x4=8
+
+Political Climate
+
+As the UK moves out of the transitional period and into a post- The impacts of Brexit are still emerging and there is the
+Brexit economy, there could be negative impacts on employers in possibility that the COVID-19 pandemic is also masking the
+the short to medium term. Any negative impacts on employers impacts. Engagement held with Bristol City Council officers
+may reduce the political will for a WPL scheme in Bristol, which in indicated that they accept that businesses may seek to use
+turn could see the development of a scheme being delayed or Brexit/COVID-19 as a reason to avoid/delay the need to
+even postponed. deal with poor air quality and the issue of congestion. A
+1 3 4 12 Open AC 3 4 12
+strong Stakeholder Management Strategy and
+Communications Plan with key messages that are
+supported by facts will help Bristol City Council to put
+forward the need to tackle poor air quality and congestion
+now more than ever.
+
+The unknown impact of Brexit on the government and local The impacts of Brexit are still emerging and there is the
+authorities could cause delays in the short to medium term plans possibility that the COVID-19 pandemic is also masking the
+to implement a WPL scheme in Bristol, which impacts the target impacts. A post-Brexit and post-COVID-19 economy could
+2 3 5 15 Open AC 3 5 15
+October 2024 “go live” date. mean that there are grants and funding available from the
+government, which strengthens the case for a WPL.
+
+The awarding of grants from the government to local authorities The government has promised local authorities additional
+for sustainable transport projects/transport infrastructure plans money for public transport infrastructure (buses) and active
+could pose a threat to the likelihood of approvals for future WPL travel. However, the grants will not be enough to fund the
+3 schemes. 3 4 12 future sustainable transport projects for local authorities. Open AC 2 3 6
+As a result, schemes such as a WPL will be viewed as a
+positive as it will show the government evidence of match
+funding.
+
+V2.0 Feasibility Study Report for a WPL Scheme in Bristol P a g e | 64
+The JLTP5 is not yet drafted or approved, therefore any delays in The current JLTP4 was seen to not go far enough
+the approval of the plan could undermine the DfT sign-off of a regarding tackling climate change. It is envisaged that the
+future WPL scheme. JLTP5, which is expected to be signed off by mid-2023, will
+4 3 4 12 look to showcase Bristol's vision to be a carbon neutral city Open AC 2 3 6
+by 2030. It is felt by Bristol City Council officers that the
+JLTP5 will not be a threat to the sign-off of a WPL scheme.
+
+There is a risk that the WPL scheme or WPL Package for Bristol Bristol City Council officers will contribute towards the
+are not included in the JLTP5; this would undermine or reduce the development of the JLTP5 to ensure that the WPL scheme
+5 scope of the WPL scheme as the ring-fenced funding is a legal 3 4 12 and supporting WPL Package for Bristol are included. Open AC 2 3 6
+requirement under the Transport Act 2000.
+
+The 2021 elections saw a new Labour Mayor elected for the West Bristol City Council officers will ensure a close working
+of England. While it is early days, there is a risk that differing relationship between the policital leaders and seek an
+priorities between the West of England Mayor and Mayor of Bristol agreement in advance of the work packages that are to be
+could see a delay to a potential WPL scheme, due to differences funded. The WPL will remain a Bristol City Council function
+over the WPL package and operation of infrastructure funded by and not a WECA function. However, it will be key to get an
+6 a Bristol WPL. The new WECA Mayor will have a higher profile 3 3 9 agreement on the work packages that are to be funded in Open AC 2 3 6
+than his predecessor, therefore will want to be seen as being order to tackle congestion, improve air quality and help
+involved in delivering sustainable transport improvements across solve the WECA aims of regeneration.
+the WECA.
+
+The national consensus is that Bristol is a “well-off” region, While the region is externally seen as less in need of
+therefore there is uncertainty regarding the level of support from levelling up than other areas, it is evident that Bristol has
+7 central government which Bristol City Council will receive for the 4 4 16 significant areas of deprivation that require investment in Open AC 4 4 16
+WPL project and transport projects in general. transport infrastructure to level up across the region.
+
+Project Resources
+
+V2.0 Feasibility Study Report for a WPL Scheme in Bristol P a g e | 65
+If Bristol City Council does not recruit or faces delays in procuring There is a common activity (restructure) taking place at
+the resources recommended in the project structure, then there Bristol City Council. This process will review project
+could be significant delays to the project which would put the management resourcing and seek to ensure appropriate
+8 provisional target October 2024 “go live” date at a high risk of 3 5 15 provision is made for all projects. Bristol City Council Open AC 3 5 15
+failure. recently went into contract with a strategic partner, Arcadis.
+This will also enable use of additional resources as
+required.
+There is insufficient understanding and appreciation of the amount Consider using VOA/business rates databases to gather
+of work and resources required for Stage One of the WPL Route detailed data on employment “make-up” within Bristol.
+9 Map e.g. for studies/data etc. and the necessity for this 3 5 15 Open AC 3 5 15
+information to inform the OBC, communications activity etc.
+
+If key Bristol City Council officers move on, the WPL project could Bristol City Council acknowledges this is always going to
+be delayed due to loss of knowledge transfer, expertise and be a risk but is not deemed as a high risk.
+10 4 4 16 Open AC 2 4 8
+continuity.
+
+If Bristol City Council do not engage expert WPL advisors in some Bristol City Council will be engaging with consultants who
+capacity during Stage One, then they could face increased costs have proven experience of delivering and operating WPL
+11 and timeframes during the scheme development phase. The 3 5 15 schemes. Open AC 1 4 4
+quality of the scheme offer could also be reduced.
+
+Bristol City Council not acquiring or being delayed in engaging Bristol City Council will be engaging with the relevant
+12 with the appropriate external specialist consultancy support that 3 4 12 specialists to ensure that there are no delays to the Open AC 2 4 8
+will be necessary for the successful delivery of Stage One. successful delivery of Stage One.
+The time taken to procure and secure the appropriate resources Bristol City Council officers will be holding early
+for the WPL Project Team means that there may be a delay in the engagement with the Bristol City Council procurement
+13 transfer of knowledge, understanding, scope and details of 3 4 12 team to identify issues and resolve any potential problems Open AC 2 4 8
+delivering a WPL scheme; leading to progress in delivering Stage and delays.
+One workstreams being delayed.
+If Bristol City Council does not ensure that an updated parking Bristol City Council officers agree that urgent parking data
+survey is commissioned prior to or early on in Stage One, then the must be prioritised on the Central Core and some on the
+financial modelling and ultimately the OBC will not be robust and Expanded Central Core.
+14 3 4 12 Open AC 2 4 8
+will be liable to challenge.
+
+V2.0 Feasibility Study Report for a WPL Scheme in Bristol P a g e | 66
+Communications
+
+If key internal stakeholders are not adequately briefed and "on Bristol City Council officers will prepare briefing documents
+message" and inaccurate information is put into the public for key internal stakeholders to ensure that they are
+15 domain, then the development of the WPL scheme could be 3 4 12 adequately briefed and "on message" at all times. Open AC 2 2 4
+inhibited in certain areas and there could be revenue implications.
+
+A lack of communications activity with the appropriate Bristol City Council has internal communications
+stakeholders will result in delays to the workstreams and project, specialists in mind for a WPL project.
+16 as well as misinformation regarding the project. There is a need 3 4 12 Open AC 2 3 6
+for an experienced Communications Officer.
+
+There is a risk that if a communications strategy is not in place Bristol City Council will be using the Feasibility Study
+with consistent and detailed proactive and reactive key messages, Report and appendices produced by Nottingham City
+then inconsistencies with information released by Bristol City Council to develop their communications strategy.
+17 3 4 12 Open AC 2 3 6
+Council into the public domain could result in misinformation,
+undermining the integrity of the scheme.
+
+It is essential to have a key figure(s) to front and represent the Adam Crowther will be providing an update on the WPL to
+WPL scheme proposal. Any changes in this key figure(s) will have Councillor Don Alexander, Cabinet member for Transport.
+18 a detrimental impact on the promotion and reputation of the 3 5 15 Open AC 3 3 9
+scheme, especially in Stages One and Two.
+
+Any delays to an approved vision outlining the benefits of the WPL The Bristol City Council WPL Project Team will link the
+scheme could see increased objections from employers, resulting WPL deliverables to the One City Plan and communicate
+19 in negative media coverage and making it more difficult to gain 3 4 12 into the public domain. Open AC 2 3 6
+scheme approval, particularly in the context of the Red Tape
+Challenge review to address key business concerns.
+Any delays to an approved vision outlining the benefits of the WPL The Stakeholder Management Strategy and
+scheme could see delayed support and less vocal backing from Communications Plan workstream identifies a suite of
+environmental groups during the informal engagement/public products to be developed for target groups. Engagement
+consultation process, making it harder for Bristol City Council to with the environmental lobby as early as practicable is
+20 3 3 9 Open AC 2 2 4
+gather wider support. recommended. Bristol City Council officers will be
+engaging with the environmental lobby as a priority once
+all the necessary requirements required for the OBC have
+been fulfilled.
+
+V2.0 Feasibility Study Report for a WPL Scheme in Bristol P a g e | 67
+Adherence to the Nottingham Model
+
+Nottingham City Council are in a unique position as the only local Bristol City Council recognise the need to follow the
+authority to have developed, delivered and operated a WPL fundamental building blocks of Nottingham City Council's
+scheme. If Bristol City Council choose not to follow the WPL scheme and are cognisant of the availability of advice
+fundamental building blocks of Nottingham’s WPL scheme, then and experience from Nottingham City Council’s
+21 any Bristol WPL scheme is at higher risk of legal challenge, 3 5 15 practitioners as to how Bristol’s scheme would benefit from Open AC 2 2 4
+leading to increased costs for further scheme design and potential Nottingham's learning to reduce risk, optimise expenditure
+delays to the delivery timescales and the target October 2024 “go and achieve the target delivery date.
+live” date.
+Bristol City Council does not identify and allocate the necessary Bristol City Council officers will communicate the Feasibility
+funding for the internal/external resources that are required to Study Report via briefings to key officers/politicians. The
+commence the delivery of Stage One and associated engagement with key officers and politicians will allow the
+workstreams. Bristol City Council officers to identify potential costs,
+timescales and risks
+
+22 3 5 15 Open AC 3 4 12
+
+V2.0 Feasibility Study Report for a WPL Scheme in Bristol P a g e | 68
+COVID-19
+
+The outbreak of the COVID-19 pandemic has had an effect on the The effect of COVID-19 on businesses and their ability to
+ability for local businesses to operate and their performance. The operate is still unknown. Nottingham City Council can
+end of the extended furlough scheme could see some businesses provide data based on the licensing behaviour of its
+reduce operations leading to a smaller number of liable employers employers that are licenced for the WPL scheme. It is felt
+within a future Bristol City Council WPL scheme area. There is a that in the short-medium term, there will not be the same
+possibility that this could reduce the total number of LWPPs. levels of provision as pre-COVID levels. The post-COVID
+working arrangements will need to be reflected in the
+financial model. The furlough scheme now requires a
+23 3 4 12 contribution from employers, however the whole scheme Open AC 3 4 12
+has been extended until 30/09/21 and therefore the impact
+will not be known for some time. Bristol City Council is
+considering a target October 2024 “go live” date - it is
+expected a clearer picture will be visible by then. Bristol is
+seeing an increase in traffic volumes. The availability of
+other modes of transport delivered as a result of a WPL
+scheme is a positive.
+
+The outbreak of COVID-19 has seen an increase in the number The situation is dynamic and the medium-long term
+of employees working from home. The ability and practicality of implications of COVID-19 on the provision of LWPPs is as
+some employees being able to work from home could see yet unknown. It is felt likely that there will not be the same
+businesses downsize their office space and in turn reduce the levels of provision as pre-COVID and this will need to be
+number of LWPPs they provide. reflected in the financial model. Nottingham City Council
+can provide data based on the licensing behaviour of its
+employers as a result of COVID-19.
+24 3 4 12 It is yet to be seen what the impact of COVID-19 is on some Open AC 3 4 12
+businesses. The new post-Covid working models are
+unknown, therefore Bristol City Council will be monitoring
+to gain a clearer picture. Bristol City Council officers agree
+that the best reference point is the Nottingham WPL
+Licensing System and how this is being impacted.
+
+V2.0 Feasibility Study Report for a WPL Scheme in Bristol P a g e | 69
+Further clarity is required on the vision of a WPL in the context of The situation is dynamic and the medium-long term
+enhanced public transport plans (S-M-L). Additionally, the implications of COVID-19 on the use of public transport is
+prevalence of social distancing measures until the “new normal” as yet unknown. Whilst there will be a short-medium term
+could lead to concerns about increased investment in public reduction in the patronage of public transport, it is felt likely
+transport infrastructure. that pre-COVID levels will be seen at some future stage
+and public confidence will return. The government
+published a Roadmap to Recovery with an end to social
+25 2 4 8 distancing on 19th July 2021 and return of remaining Open AC 2 4 8
+industries. Public transport patronage is to be monitored by
+Bristol City Council. The government’s extensive vaccine
+programme rollout is ongoing. The ongoing risk posed by
+COVID-19 variants, e.g. at present the Indian/Delta variant
+appears to be prevalent and the impact on further lockdown
+restrictions in Bristol should be monitored.
+
+The long-term impacts of social distancing on public transport The vaccination program is underway and will be ongoing.
+usage/capacity is as yet unknown and should be kept under As the restrictions begin to ease, it is expected that more
+review during scheme development. There is a risk that there people will return to the workplace and public transport
+could be reduced patronage on public transport, which could usage will increase too.
+26 3 4 12 Open AC 3 4 12
+impact upon the proposed WPL package. The WPL vision may
+therefore need to be reviewed.
+
+The economic impact felt by S-M-L businesses from the effects of Bristol City Council will be monitoring the recovery of
+COVID-19 could lead to increased non-cooperation as part of the businesses and a sensitive approach will be adopted.
+data collection during the OSPA, which undermines the financial Bristol City Council will be undertaking proactive
+27 model and the OBC. 3 3 9 stakeholder engagement when engaging with businesses, Open AC 3 3 9
+to ease fears.
+
+The long-term effects on physical and mental health as a result of Bristol City Council officers will monitor the situation.
+the COVID-19 pandemic could lead to commuters being more
+28 reliant on cars as opposed to using public transport. 4 4 16 Open AC 4 3 12
+
+V2.0 Feasibility Study Report for a WPL Scheme in Bristol P a g e | 70
+Other
+
+Bus Back Better strategy – if Bristol City Council receives Bristol City Council officers feel that receiving a significant
+significant funding then the scope of the WPL Package could be amount of funding from the Bus Back Better strategy could
+reduced. If less funding is required for the WPL scheme then it make it easier to implement a WPL scheme. There will
+29 could put the project and scheme in doubt. 3 4 12 never be enough money for the city's transport needs. WPL AC 2 3 6
+revenue would still be required for a mass transit system,
+as outlined in the One City Plan.
+
+The implementation and direct impact of a CAZ could see air The CAZ is not expected to significantly reduce traffic
+quality levels reduce significantly. As a result, there may be no volumes and is not expected to have a significant impact
+need for a WPL scheme. on the requirement for a WPL scheme. The potential issue
+30 3 5 15 Open AC 2 2 4
+of "double charging" of vehicle users i.e. pay the CAZ and
+a WPL charge by their employer, will offset the WPL
+liability.
+If Bristol City Council do not have an effective procurement Bristol City Council opts for a middle ground for projects
+strategy in place to commission studies and bring in expert such a WPL. They will use a mix of internal resources and
+consultants, they could face delays in initiating and completing the consultants, as appropriate. Bristol City Council has a
+31 4 4 16 Open AC 2 3 6
+WPL Route Map to develop and implement a WPL scheme. strategic partner which could see a greater use of
+consultants. Bristol City Council also has a strategic
+partner for procurement.
+The Bristol City Council desire and justification to develop a WPL Bristol City Council officers are confident that initially a
+scheme may be reduced if the potential number of places is less Central Core scheme can be delivered, with a view to
+32 than the estimates of the Atkins Study. 4 4 16 expanding in the future. Open AC 3 3 9
+
+If the Secretary of State for Transport rejects Leicester City Bristol City Council officers will monitor the situation.
+Council’s WPL FBC then this could have a bearing and impact on
+33 the Bristol WPL scheme development. 4 4 16 Open AC 4 4 16
+
+V2.0 Feasibility Study Report for a WPL Scheme in Bristol P a g e | 71
+7.11 Appendix J: Recommendations
+
+Reference Page(s) Recommendation
+Review relevant economic, transport, congestion, air quality, deprivation and social
+R1 11
+inclusion/exclusion studies and ensure that they are up to date
+Assess the need to commission new studies where information in current studies is out
+R2 11
+of date
+Carry out an OSPA to understand the “make-up” of employers and form a baseline
+R3 11
+dataset for scheme development
+Commission Nottingham City Council to conduct a desktop parking exercise using
+R4 12 multiple regression analysis and based on Nottingham’s live WPL Licensing System, to
+estimate how many LWPPs Bristol may have
+Model the transport, financial and economic elements of the WPL scheme to illustrate
+R5 12
+how it would operate and fund future transport projects
+R6 13 Introduce a risk management strategy and regularly update the Risk Register
+R7 13 Draft a WPL Scheme Order
+Introduce and progress the displaced parking workstream to tackle the potential
+R8 13
+displacement of commuter parking
+Consider the introduction of a car park management scheme at Bristol City Council
+R9 13
+premises, where commuter parking occurs
+Outline the transport package that will be funded by the revenue generated from a WPL
+R10 14
+scheme
+Develop a detailed public consultation programme including specified timeframes,
+R11 16
+activities and methodology
+Carry out a robust public consultation programme to engage and consult with all key
+R12 17
+stakeholders
+Monitor the new working arrangements and commuter travel behaviour as a return to a
+R13 22-23 “new normal” begins, following the lifting of lockdown restrictions as a result of the
+COVID-19 pandemic
+R14 24 Regularly review and update the Milestones and Dependencies Timeline
+Conduct a “feet on the ground” OSPA that factors in any questions from the previous
+R15 26
+Atkins Study
+Identify and include any existing displaced commuter parking counts in the WPP
+R16 26
+estimations (for example, on-street parking around industrial estates)
+Review the list of sites visited by Atkins and cross-reference with VOA data, in order to
+R17 27
+begin categorising employers by size and industry
+R18 28 Conduct further research into the cost of parking provided by private companies
+Conduct a survey in Stage One to further understand commuter behaviour across the
+R29 29
+Bristol region
+Follow the Governance and Project Team Structure outlined in Appendix F and Section
+R20 31-36
+5.4
+Create a Stakeholder Management Strategy and Communications Plan to identify
+R21 37-44
+stakeholders and ensure that their interest levels are maintained or increased
+Monitor and regularly update the dynamic Risk Register document, with risks that are
+R22 45-49 dealt with being closed, new risks being identified as the scheme develops and adequate
+mitigation implemented
+
+V2.0 Feasibility Study Report for a WPL Scheme in Bristol P a g e | 72
+Key Contacts:
+Jason Gooding
+Head of Parking, Fleet and Transport Operations
+Email: jason.gooding@nottinghamcity.gov.uk
+Nigel Hallam
+WPL Service Manager
+Email: nigel.hallam@nottinghamcity.gov.uk
+
+Copyright © 2021 by Nottingham City Council
+
+All rights reserved. No part of this publication may be reproduced, distributed, transmitted in any form or
+by any means, including photography, recording or other electronic or mechanical methods, without the
+prior written permission of Nottingham City Council, or as expressly permitted by law, or under terms
+agreed with the appropriate reprographics rights organisations.
+
+Permission requests should be sent to Jason Gooding, Head of Parking, Fleet and Transport Operations,
+Nottingham City Council, Loxley House, Station Street, Nottingham, NG2 3NG.
+
+Full acknowledgement of the author and source must be given.

@@ -1,0 +1,12 @@
+{
+  "characters": 6483,
+  "extracted_date": "2026-06-25",
+  "method": "html-standard-library",
+  "output_path": "evidence/processed/text/SRC-HMT-0003.txt",
+  "sha256": "dfac3771439f193c1c5312fae4a675543d873aff4c82c7d7ef99e46156b9a2f8",
+  "source_id": "SRC-HMT-0003",
+  "source_path": "evidence/raw/hm-treasury/src-hmt-0003_src-hmt-0003-managing-public-money.html",
+  "source_status": "downloaded",
+  "title": "Managing Public Money",
+  "url": "https://www.gov.uk/government/publications/managing-public-money"
+}

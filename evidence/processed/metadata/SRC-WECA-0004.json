@@ -1,0 +1,12 @@
+{
+  "characters": 175786,
+  "extracted_date": "2026-06-25",
+  "method": "pdftotext-layout",
+  "output_path": "evidence/processed/text/SRC-WECA-0004.txt",
+  "sha256": "ab5ab0f597db457bf93ff35ff3ce53075cb4e285d0d031ca9a8a9a433b43d9d7",
+  "source_id": "SRC-WECA-0004",
+  "source_path": "evidence/raw/west-of-england-mca/src-weca-0004_west-of-england-bus-service-improvement-plan-2024.pdf",
+  "source_status": "downloaded",
+  "title": "Bus Service Improvement Plan 2024",
+  "url": "https://www.westofengland-ca.gov.uk/wp-content/uploads/2024/07/3882.Bus-Service-Plan-2024_v2-1.pdf"
+}

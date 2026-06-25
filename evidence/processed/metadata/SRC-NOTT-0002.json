@@ -1,0 +1,12 @@
+{
+  "characters": 18882,
+  "extracted_date": "2026-06-25",
+  "method": "pdftotext-layout",
+  "output_path": "evidence/processed/text/SRC-NOTT-0002.txt",
+  "sha256": "a3868b1248d442f6081ff0a69def8d0374e844ab395847559537fac9beba3517",
+  "source_id": "SRC-NOTT-0002",
+  "source_path": "evidence/raw/nottingham/src-nott-0002_nottingham-wpl-decade-of-inspiring-growth-report.pdf",
+  "source_status": "downloaded",
+  "title": "A decade of inspiring growth in our city - WPL report",
+  "url": "https://www.transportnottingham.com/wp-content/uploads/2024/03/WPL-report.pdf"
+}

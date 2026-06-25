@@ -1,0 +1,504 @@
+Workplace Parking Levy (WPL) FAQs Version 2: January 2020
+
+Contents
+Section 1: What is a WPL ................................................................................................... 3
+1. What is a workplace parking levy? ......................................................................... 3
+2. Who can implement a WPL? .................................................................................... 3
+3. Who has to pay the charge? Who to? ..................................................................... 3
+4. Why do a workplace parking levy? ......................................................................... 3
+5. How does it help achieve these aims?.................................................................... 3
+6. Where else has a workplace parking levy? ............................................................ 4
+7. Is there any evidence that it works? ....................................................................... 4
+8. How is a WPL operated? .......................................................................................... 4
+Section 2: Legislative framework and policy fit ................................................................ 4
+9. What is the law around WPLs in London?.............................................................. 4
+10. How does WPL fit with the Mayor’s Transport Strategy (MTS) .......................... 4
+11. What guidance is available to London boroughs who are interested in a WPL?
+5
+12. How is this different to the Congestion Charge? ............................................... 5
+13. How is this different to the Ultra Low Emission Zone? ...................................... 5
+14. How does a WPL interact with local road user charging? ................................. 5
+15. How does a WPL interact with Healthy Streets initiatives? ............................... 5
+Section 3: Developing a WPL scheme ............................................................................... 5
+16. Is it just about a WPL?.......................................................................................... 5
+17. What is TFL doing to help boroughs? ................................................................. 6
+18. What is needed and how long does it take to prepare a WPL scheme? ........... 6
+19. Does it require consultation?............................................................................... 6
+20. What is the procedure for getting a WPL scheme approved? ........................... 6
+21. What say do businesses and employees get on a proposed WPL scheme?
+And what about local residents?.................................................................................... 6
+Section 4: Charge level and discounts and exemptions .................................................. 7
+22. How much is the charge? ..................................................................................... 7
+23. Can the charge be increased? ............................................................................. 7
+24. What discounts and exemptions can be made in a WPL scheme? ................... 7
+25. What discounts and exemptions are in the Nottingham scheme? .................... 8
+Section 5: WPL Revenue .................................................................................................... 8
+26. Who receives the revenue from WPL? ................................................................ 8
+27. What can revenue be spent on? .......................................................................... 8
+
+1
+Workplace Parking Levy (WPL) FAQs Version 2: January 2020
+
+28. Will LIPs funding be reduced as a result of implementing a WPL? .................. 8
+29. What is the procedure to get a WPL revenue plan approved ............................ 8
+Section 6: Operations and enforcement............................................................................ 9
+30. How is a WPL scheme operated? ........................................................................ 9
+31. How is a WPL scheme enforced? ........................................................................ 9
+32. What is the process for licensing? ...................................................................... 9
+33. Is there an appeal system? .................................................................................. 9
+Section 7: Hostile questions .............................................................................................. 9
+34. Why introduce a WPL and why not something else? ......................................... 9
+35. Isn’t this an attack on cars? ................................................................................. 9
+36. Isn’t this an attack on business? ....................................................................... 10
+37. Is this a land tax? ................................................................................................ 10
+38. Won’t people just park somewhere else? ......................................................... 10
+39. Why implement a WPL when it could penalise those on lower incomes who
+can’t afford or can’t access alternative transport options? ....................................... 10
+40. What impact will it have on existing businesses and jobs? Won’t businesses
+just move out of London? ............................................................................................. 11
+41. Won’t it discourage businesses from locating to a borough or discourage
+new or existing businesses from developing and growing?...................................... 11
+42. Will it reduce inward investment in a borough? ............................................... 11
+43. Public transport options are limited, so what can car commuters do instead?
+11
+44. Isn’t it self defeating? If the borough succeeds in reducing workplace parking
+don’t they also reduce the revenue for the transport improvements? ...................... 11
+
+2
+Workplace Parking Levy (WPL) FAQs Version 2: January 2020
+
+Section 1: What is a WPL
+
+1. What is a workplace parking levy?
+A workplace parking levy (WPL) is a licensing scheme for active workplace parking
+places. It charges employers and education providers for the number of places they
+provide that are occupied by employees, students or other relevant persons.
+2. Who can implement a WPL?
+In London, a WPL can be implemented by:
+
+ a single borough within its area
+ two or more boroughs in combination (within their areas) or
+ TfL (anywhere within Greater London)
+
+The body that implements the WPL is referred to as the ‘licensing authority.’
+
+It should be noted that a WPL does not have to apply to the entire borough – it can
+apply to part of a borough (and several schemes could operate in the same borough,
+but not overlap).
+
+3. Who has to pay the charge? Who to?
+The charge is levied by the licensing authority (boroughs or TfL) on employers and
+education providers who provide workplace parking places that are in the scope of
+the scheme.
+
+It is the employer’s decision whether to pass the charge on to car commuters or
+whether to absorb the charge.
+
+4. Why do a workplace parking levy?
+In the Mayor’s Transport Strategy (MTS), WPLs are included as a means of traffic
+reduction and of helping to achieve the target of 80% sustainable mode share by
+2041.
+
+5. How does it help achieve these aims?
+By imposing a cost on parking at work, WPL acts as a demand management
+measure, leading to mode shift to more sustainable modes or reductions in traffic by
+other means (such as car sharing), a long-term reduction in parking supply and local
+transport improvements funded by scheme revenue. The ability to fund better public
+transport locally from WPL revenue is critical to this mode shift.
+
+ Demand management: the increase in the total cost of driving to work
+(through an increase in parking charges);
+
+ Funding improvements to active travel and public transport: WPLs
+generate revenue which must be reinvested in the local transport network.
+These improvements can lead to wider mode shift, across different types of
+journey; and
+
+3
+Workplace Parking Levy (WPL) FAQs Version 2: January 2020
+
+ Long-term reduction in parking supply: as new development takes place,
+employers are more likely to minimise their parking as a response to an
+existing WPL.
+6. Where else has a workplace parking levy?
+Nottingham City Council is currently the only local authority in the UK that operates a
+Workplace Parking Levy. Other cities including Sydney and Perth operate similar
+schemes outside the UK.
+
+Currently (January 2020) a number of cities in the UK are considering a WPL,
+including Oxford, Birmingham, Leicester, Bristol, Reading, Edinburgh and Glasgow.
+
+7. Is there any evidence that it works?
+There is evidence from Nottingham that the scheme has been successful in funding
+new public transport and increases in public transport patronage, cycling and a
+reduction in traffic.
+
+ Since 2012, £64m of revenue has been raised (now at c. £10m / year)
+ This has part-funded two new tram lines (NET 2 and 3), 60 new electric buses
+and improvements to the main railway station.
+
+8. How is a WPL operated?
+The London borough defines the WPL scheme and its characteristics, including for
+example its boundary, the charge level and any discounts. It is then a requirement
+on liable businesses within that area to license their workplace parking places every
+year and, where applicable, pay the levy to the licensing authority. The licensing
+authority will be the borough where it is a borough scheme or TfL where it is a TfL
+scheme.
+
+Section 2: Legislative framework and policy fit
+
+9. What is the law around WPLs in London?
+Schedule 24 of the Greater London Authority Act 1999 (GLAA), is the legal basis for
+Workplace Parking Levy (WPL) in London. It is also necessary for new Regulations
+to be made by Government both to complement the framework legislation in the
+GLAA so that WPLs may be effectively put in place, and also to establish the
+necessary statutory enforcement and appeals mechanisms. In England (other than
+London) and Wales, the relevant legislation is the Transport Act 2000. In Scotland
+the relevant legislation is the Transport (Scotland) Act 2019.
+
+10. How does WPL fit with the Mayor’s Transport Strategy (MTS)
+The third MTS (2018) is the first to identify WPLs as an intervention which is
+supported in London (see Proposal 23 below). All WPL schemes in London must be
+in conformity with the MTS. This means that the design of a WPL scheme itself, as
+well as the transport projects it funds, must demonstrably contribute to the objectives
+laid out in the MTS.
+
+4
+Workplace Parking Levy (WPL) FAQs Version 2: January 2020
+
+Proposal 23
+The Mayor, through TfL, will work with those boroughs who wish to develop and
+implement appropriate traffic demand management measures, for example local (TfL
+or borough) road user charging or workplace parking levy schemes, as part of traffic
+reduction strategies where they are consistent with the policies and proposals set out
+in this strategy.
+
+11. What guidance is available to London boroughs who are interested in a
+WPL?
+Not all elements of WPL schemes are determined in detail by the provisions of the
+Schedule 24 of the GLA Act; it allows some room for discretion for how a WPL
+scheme should operate. To address this and support boroughs, TfL has developed
+statutory Mayor’s Guidance, which outlines both the processes to be followed in
+preparing WPL schemes and the provisions that the Mayor expects to be included,
+for example on level of charge and exemptions for ‘Blue Badge’ spaces. At the same
+time, we have sought to keep the Guidance to be as light-touch as possible so that
+boroughs have flexibility to develop a scheme that is appropriate for local
+circumstances.
+12. How is this different to the Congestion Charge?
+The Congestion Charge is a daily charge, introduced in central London in 2003 with
+the objective to reduce traffic and congestion in the central area and operates 7am to
+6pm Monday to Friday. The scale, area and objectives of the Congestion Charge
+differ to WPLs.
+
+13. How is this different to the Ultra Low Emission Zone?
+The Ultra Low Emission Zone is a specific scheme to improve air quality in central
+London from April 2019, then inner London from 2021. Vehicles which do not meet
+the required emissions standards are required to pay a daily charge. The scale and
+objective of this scheme differs to a local WPL.
+
+14. How does a WPL interact with local road user charging?
+MTS Proposal 23 states that boroughs can implement WPL and local road user
+charging schemes as a means of managing demand and thereby reducing traffic
+locally. It is important to decide what will be the most effective intervention locally,
+using analysis of traffic, for example.
+
+15. How does a WPL interact with Healthy Streets initiatives?
+A WPL can provide revenue for spending on Healthy Streets initiatives aligned with
+the Mayor’s Transport Strategy in boroughs.
+
+Section 3: Developing a WPL scheme
+
+16. Is it just about a WPL?
+It is important that WPL is considered as part of a package of measures for
+employers and employees to encourage and enable commuters to switch to more
+sustainable modes. As well as the new transport the WPL helps to pay for, this
+5
+Workplace Parking Levy (WPL) FAQs Version 2: January 2020
+
+means that there should be appropriate information on alternative options to car
+commuting and help to use these options.
+17. What is TFL doing to help boroughs?
+TfL has produced:
+
+ Mayor’s Guidance on WPL on the expectations for schemes in London.
+ A Model Scheme Order (MSO) that boroughs can use to develop their own
+Scheme Orders
+ a step-by-step guidance document outlining what is required at the different
+stages of the project
+
+Additionally, TfL is providing support to boroughs as they investigate and
+develop schemes.
+
+18. What is needed and how long does it take to prepare a WPL scheme?
+There is no ‘one size fits all’ answer. WPLs can be diverse and the time taken will
+vary according to the nature of the scheme, the length of engagement undertaken
+and other factors. There must be a formal consultation and the development of a
+business case, impacts assessments and revenue plans, for example.
+
+Given the requirements set out in the Mayor’s Guidance, it would be expected that,
+from initial development to go live, preparation could take up to 3-4 years.
+
+19. Does it require consultation?
+Yes. Both early informal engagement with employers and a formal consultation
+process will be required so that residents, businesses and local stakeholders can
+have their say throughout the process. Please refer to the Mayor’s Guidance for
+more information on the consultation process and the documents required.
+
+20. What is the procedure for getting a WPL scheme approved?
+All schemes in London will require the approval of the Mayor. The Secretary of State
+also has a role in approving the revenue plans. This is in addition to the local
+borough approval processes. The process to be followed is set out in detail in the
+Mayor’s Guidance.
+
+21. What say do businesses and employees get on a proposed WPL scheme?
+And what about local residents?
+London boroughs must undertake early engagement with businesses and those
+affected prior to a formal consultation on the potential scheme. This should also
+include residents and businesses that, while not in scope for the potential scheme,
+could be affected by it for example by reduced traffic or by new transport
+interventions.
+
+As part of the formal consultation, the authority would be expected to publish:
+
+6
+Workplace Parking Levy (WPL) FAQs Version 2: January 2020
+
+ proposed transport programme that the WPL contributes to, and an
+explanation of how the WPL contributes
+ draft WPL Scheme Order
+ an Integrated Impact Assessment (equalities, economic, environmental,
+business) and regulatory assessment (if required)
+ option identification and appraisal
+ consultation report
+ approach to operations and enforcement
+ proposed complementary and associated measures
+
+Section 4: Charge level and discounts and exemptions
+
+22. How much is the charge?
+The Mayor’s Guidance sets out expectations for the charge range, although the
+precise amount will be a decision for the borough. This is to ensure some
+consistency in London and limit unintended negative impacts e.g. business
+relocation.
+
+In designating a local charge, boroughs should have regard to: the alternative
+options available to people (in terms of alternative modes and other types of
+parking); what purpose the net proceeds of the scheme are applied to and the
+overall impacts of the scheme locally.
+
+In Nottingham the charge is currently £415/year per liable place (2019/20).
+
+23. Can the charge be increased?
+The model SO contains a provision that the charge increases each year in line with
+inflation (RPI). It also allows for a lower initial charge which can be increased when
+public transport or other alternatives are introduced.
+
+The power to make a WPL scheme also includes the power to vary or revoke such a
+scheme including the level of the charge once it has been implemented.
+
+24. What discounts and exemptions can be made in a WPL scheme?
+The licensing authority has the power to make discounts and exemptions for a WPL
+scheme. These must align with the Mayor’s Guidance.
+
+Discounts and exemptions can pertain:
+
+By organisation – e.g. small businesses
+
+By vehicle – e.g. low emission vehicle
+
+By user – e.g. Blue Badge
+
+7
+Workplace Parking Levy (WPL) FAQs Version 2: January 2020
+
+25. What discounts and exemptions are in the Nottingham scheme?
+Each of these gets a 100% discount:
+
+1. Small business (<10 parking places)
+
+2. Blue Badge
+
+3. Emergency Services (broad definition)
+
+4. Qualifying NHS premises
+
+Exemptions:
+
+1. Motorcycles
+
+2. Fleet vehicles
+
+3. Delivery vehicles
+
+4. Business customers
+
+5. Occasional business visitors
+
+Section 5: WPL Revenue
+
+26. Who receives the revenue from WPL?
+The revenue from a WPL scheme is collected and retained by the licensing authority.
+In London, in most cases this will be the borough.
+
+27. What can revenue be spent on?
+The revenue from a WPL scheme must be used for local transport improvements
+which are in line with the MTS.
+
+28. Will LIPs funding be reduced as a result of implementing a WPL?
+The LIPS 3 guidance says that revenue is retained by the borough. There are
+currently no plans to reduce LIPs funding for boroughs implementing WPLs.
+
+29. What is the procedure to get a WPL revenue plan approved?
+A potential WPL scheme can only come into force once a ten year revenue plan has
+been approved by the Secretary of State and if the scheme is a borough scheme by
+the Greater London Authority. An application can only be approved by the Secretary
+of State after approval is received from the Greater London Authority or if it is made
+by the Greater London Authority acting on behalf of the borough.
+For as long as the licensing scheme remains in force, the licensing authority must
+submit a written statement of their proposed spending every four years to the
+Secretary of State and Greater London Authority.
+
+8
+Workplace Parking Levy (WPL) FAQs Version 2: January 2020
+
+Section 6: Operations and enforcement
+
+30. How is a WPL scheme operated?
+WPL schemes require all employers to license their liable parking provision, and it is
+advisable to record all workplace parking whether liable or not. It is likely that this
+can be done via an online process with questions on the various types of parking
+provided by the employer. Once a licence is granted, an invoice is sent to the
+employer for their chargeable parking places. Normally licences will be valid for a
+year and renewed on an annual basis.
+
+31. How is a WPL scheme enforced?
+The WPL Scheme Order will make provision for the enforcement of penalty charges
+relating or connected with a licensing scheme, which are likely to be similar to other
+parking enforcement procedures. Please refer also to Question 9 (the law around
+WPLs in London).
+
+32. What is the process for licensing?
+Any employer or education provider that provides places for employees, students
+and other users (as specified) within the WPL area must license their places.
+Employers and education providers require a separate WPL licence for each
+premise where workplace parking is provided.
+
+33. Is there an appeal system?
+Yes. This is likely to be similar to the process of appealing other penalty charge
+notices (PCNs), for example Congestion Charging.
+
+Section 7: Hostile questions
+
+34. Why introduce a WPL and why not something else?
+As part of the development of a WPL scheme, boroughs must consider other funding
+options, such as the funding they receive from TfL, an increase to business rates,
+local congestion charges, borrowing, CIL/s106, for example. The decision to propose
+WPL must be properly justified in the documents submitted for the Mayor’s approval.
+
+35. Isn’t this an attack on cars?
+The Mayor has set an ambitious target for an 80% sustainable mode share – using
+public transport, walking and cycling – by 2041. We are putting in place a range of
+measures to help achieve this, including investment in these sustainable modes. In
+this context it is appropriate to encourage a shift away from car use by applying a
+price to parking which would otherwise be free. As well as discouraging car use this
+will help to provide revenue for new transport, benefiting commuters and residents.
+This also has associated benefits in terms of reducing emissions from cars and
+freeing up road space for other uses such as freight, buses and cycles, which are all
+more efficient uses of the land available.
+
+9
+Workplace Parking Levy (WPL) FAQs Version 2: January 2020
+
+36. Isn’t this an attack on business?
+No. WPL will not be an appropriate solution everywhere and we expect boroughs
+who want to introduce it to undertake considerable work in ensuring that the type of
+WPL put forward is right for the area. They will also be required to undertake an
+impact assessment so that the likely effects on business and the local economy can
+be properly understood and mitigations made if necessary. Boroughs have
+considerable scope to shape WPL schemes locally. In addition, employers can
+choose how to respond to the levy; they can pass all or some of it on to employees
+according to business needs.
+
+37. Is this a land tax?
+WPL is a charge on parking places used by employees and certain other groups,
+rather than a charge on the land available or designated for parking. A licence is
+required for each day a workplace parking place is used by one or more liable
+vehicles. If an employer manages their car parking so that existing parking places
+are used more efficiently their WPL levy payment can be reduced.
+
+38. Won’t people just park somewhere else?
+This is a risk if there is not sufficient preparation for a WPL. In developing a scheme,
+it is important to review alternative parking available locally, including on-street
+parking. It may be appropriate to make changes to on-street parking and local
+parking charges in order to ensure that the WPL works well and does not lead to
+adverse impacts. Also working with employers before and during the WPL is
+implemented helps to mitigate this.
+
+39. Why implement a WPL when it could penalise those on lower incomes who
+can’t afford or can’t access alternative transport options?
+It is the employer’s decision whether to pass the charge on to their workforce or
+whether to absorb the charge. They may also decide, for example, to apportion the
+charges differently to different parts of the organisation. Or they may decide that
+people working certain hours should not have to pay a levy charge, or should pay
+less, while those parking during the day should pay more as there are fewer
+personal safety concerns and a greater contribution to congestion and air quality
+issues. Nottingham City Council, for example, charges its own lower waged
+employees a lower rate, and also charges those parking in the city centre more than
+those parking in areas with fewer available public transport alternatives.
+
+As part of developing a WPL, boroughs must prepare an impact assessment of its
+expected impacts, including an equality impact assessment.
+
+Improved public transport options can be especially beneficial for people on lower
+incomes.
+
+10
+Workplace Parking Levy (WPL) FAQs Version 2: January 2020
+
+40. What impact will it have on existing businesses and jobs? Won’t
+businesses just move out of London?
+As part of developing a WPL, boroughs must prepare an impact assessment of its
+expected impacts, including those on the economy and businesses. The Mayor’s
+Guidance has indicative charge levels for London boroughs to help avoid
+‘undercutting’.
+
+WPLs can have a positive impact on existing businesses and jobs, because making
+it easier to get to work can increase the pool of employees available allowing more
+people to access work opportunities.
+
+41. Won’t it discourage businesses from locating to a borough or discourage
+new or existing businesses from developing and growing?
+There is no evidence from the Nottingham scheme of businesses leaving the area as
+a result of the WPL. There is also no evidence that businesses are not locating to the
+city. In 2015, three years into the scheme, Nottingham experienced a ten year high
+of new start-up businesses in the area. In 2017, Nottingham’s year-on-year
+economic growth figure was 2.5%, on a par with Greater Manchester and higher
+than Birmingham, Bristol, Leeds, Liverpool, Newcastle and Sheffield1.
+
+42. Will it reduce inward investment in a borough?
+There is no evidence from Nottingham that a WPL scheme reduces inward
+investment to an area where a scheme applies. Improvements in local transport
+funded by WPL revenue can also encourage investment into the area.
+
+43. Public transport options are limited, so what can car commuters do
+instead?
+WPLs are not suitable for every location. In developing a scheme, boroughs should
+think about the potential availability of alternative options, including those which will
+be paid for by the levy. It is important to support businesses’ transition to WPL by
+reserving funds for advice and support for employers. It is also important that those
+who pay for the scheme are able to access the benefits of improved transport.
+
+44. Isn’t it self defeating? If the borough succeeds in reducing workplace
+parking don’t they also reduce the revenue for the transport
+improvements?
+A WPL has two objectives – to encourage mode shift and to help to pay for other
+transport interventions which can act as alternatives to car commuting. Ideally these
+will work together in a coordinated package which will, over time, reduce the need for
+as many workplace parking places – but also with better, cleaner and more
+sustainable alternatives in place. Any predicted revenue reduction has to be planned
+for as part of the development of the WPL scheme.
+
+1
+http://www.mynottinghamnews.co.uk/nottinghams-economy-is-one-of-the-fastest-growing-of-any-uk-
+city/
+11

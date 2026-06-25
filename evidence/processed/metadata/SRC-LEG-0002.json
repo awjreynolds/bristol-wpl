@@ -1,0 +1,12 @@
+{
+  "characters": 89080,
+  "extracted_date": "2026-06-25",
+  "method": "html-standard-library",
+  "output_path": "evidence/processed/text/SRC-LEG-0002.txt",
+  "sha256": "3b92c92cd6e87bddc07677fa4804ba6c00dc6555947f118432414cc9f14cc7b0",
+  "source_id": "SRC-LEG-0002",
+  "source_path": "evidence/raw/legislation/src-leg-0002_src-leg-0002-transport-act-2000-current-contents.html",
+  "source_status": "downloaded",
+  "title": "Transport Act 2000 current contents",
+  "url": "https://www.legislation.gov.uk/ukpga/2000/38/contents"
+}

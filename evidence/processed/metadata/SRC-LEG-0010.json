@@ -1,0 +1,12 @@
+{
+  "characters": 9112,
+  "extracted_date": "2026-06-25",
+  "method": "html-standard-library",
+  "output_path": "evidence/processed/text/SRC-LEG-0010.txt",
+  "sha256": "7321ad0d149e0acecd44b4375db2d40c50b3349182f59a1d45a97543995c6e09",
+  "source_id": "SRC-LEG-0010",
+  "source_path": "evidence/raw/legislation/src-leg-0010_src-leg-0010-si-2026-519-regulation-29.html",
+  "source_status": "downloaded",
+  "title": "SI 2026/519 regulation 29",
+  "url": "https://www.legislation.gov.uk/uksi/2026/519/regulation/29"
+}

@@ -1,0 +1,2021 @@
+West of England
+Local Growth Assurance
+Framework
+January 2024
+
+Page 1 of 61
+Contents
+1. Purpose of the document ............................................................................................ 5
+1.1. Context..................................................................................................................................... 5
+1.2. Scope of the Assurance Framework ........................................................................................ 6
+1.3. What is an Assurance Framework and who it is for? .............................................................. 9
+1.4. Status and structure of the framework ................................................................................. 11
+2. Governance and Decision-Making Structure .............................................................. 12
+2.1. West of England Governance ................................................................................................ 12
+2.1.4. Mayoral Combined Authority Committee ................................................................... 14
+2.1.5. West of England Joint Committee ................................................................................ 15
+2.1.6. LEP Board ....................................................................................................................... 16
+2.1.7. Mayoral Combined Authority/Joint Committee Boards ............................................. 16
+2.1.8. West of England Combined Authority Overview and Scrutiny Committee ................ 17
+2.1.9. Audit Committee ........................................................................................................... 18
+2.1.10. West of England Chief Executives................................................................................. 18
+2.1.11. West of England Directors ............................................................................................ 19
+2.1.12. Portfolio Review Board (PRB) ....................................................................................... 19
+2.2. Transparency ......................................................................................................................... 20
+2.2.2. The LEP Board ................................................................................................................ 20
+2.2.3. Renumeration................................................................................................................ 22
+2.2.4. Code of Conduct ............................................................................................................ 22
+2.2.5. Registering and Managing Interests ............................................................................. 22
+2.2.6. Publication of Meetings and Agenda Items ................................................................. 22
+2.2.7. Complaints, Whistleblowing, Freedom of Information Requests and Data Protection
+23
+2.2.8. Communications and Local Engagement ..................................................................... 24
+2.3. Accountable body role and financial management ............................................................... 26
+2.3.1. Investment Decisions .................................................................................................... 26
+2.3.2. The Role of the Accountable Body ............................................................................... 26
+Page 2 of 61
+2.3.3. Accounts and Financial Information............................................................................. 27
+2.3.4. Managing Contracts ...................................................................................................... 27
+2.3.5. Risk Management ......................................................................................................... 28
+2.3.6. Internal and External Audit........................................................................................... 28
+3. Investment Programme - Project Lifecycle ................................................................. 30
+3.1. Scheme Identification and Prioritisation ............................................................................... 30
+3.1.1. Prioritisation Process - LEP Investment Programme ................................................... 30
+3.1.2. Prioritisation Process Combined Authority Investment Programme.......................... 30
+3.1.3. Scheme Identification and Assessment........................................................................ 30
+3.1.4. Scheme Assessment ...................................................................................................... 31
+3.2. Business Case Development .................................................................................................. 31
+3.2.1. Business Case Stages and Proportionality.................................................................... 31
+3.2.2. Scheme Development Funding ..................................................................................... 33
+3.2.3. Due Diligence................................................................................................................. 34
+3.3. Appraisal ................................................................................................................................ 34
+3.3.1. Appraisal Criteria........................................................................................................... 34
+3.3.2. Assessing Value for Money ........................................................................................... 35
+3.3.3. Transport Projects ......................................................................................................... 36
+3.4. Approval process ................................................................................................................... 38
+3.4.1. Approval process and timeline ..................................................................................... 38
+3.5. West of England Investment Programme Management ....................................................... 39
+3.5.4. Risk Management ......................................................................................................... 40
+3.5.5. Project Closure .............................................................................................................. 40
+4. Monitoring and Evaluation ........................................................................................ 42
+4.1. Overview ................................................................................................................................ 42
+4.2. Performance Monitoring ....................................................................................................... 43
+4.3. Evaluation and Benefits Realisation ...................................................................................... 44
+Appendix 1 ...................................................................................................................... 45
+Adult Education Budget .................................................................................................................... 45
+Page 3 of 61
+Appendix 2 ...................................................................................................................... 51
+South-West Net Zero Hub ................................................................................................................. 51
+Community Energy Fund ................................................................................................................... 51
+Project Development Support ........................................................................................................... 53
+Public Sector Decarbonisation Skills .................................................................................................. 53
+Appendix 3 ...................................................................................................................... 54
+Change Management Delegations for Schemes in the Infrastructure Portfolio and Green Recovery
+Fund ....................................................................................................................................... 54
+Change Management Delegations for Other Schemes in the Investment Programme .................... 56
+Appendix 4 ...................................................................................................................... 58
+LEP Publication Checklist .................................................................................................................. 58
+Appendix 5 ...................................................................................................................... 59
+Methodology to Assess Value for Money for Various Scheme Types ............................................... 59
+Transport .......................................................................................................................................... 59
+Housing and Commercial Interventions .......................................................................................... 60
+Skills Capital ..................................................................................................................................... 60
+Growth Hubs .................................................................................................................................... 60
+Appendix 6 ...................................................................................................................... 61
+Outline and Full Business Case Template .......................................................................................... 61
+Appendix 7 ...................................................................................................................... 61
+Outline and Full Business Case Guidance .......................................................................................... 61
+Appendix 8 ...................................................................................................................... 61
+Feasibility and Development Funding Application Form Template .................................................. 61
+
+Page 4 of 61
+1. Purpose of the document
+
+1.1. Context
+
+1.1.1. The West of England is one of the UK’s most prosperous regions with an
+economy worth over £33.2 billion a year. A net contributor to the national
+purse, with a population of over 1 million and over 43,000 businesses, the
+West of England competes on a global scale.
+
+1.1.2. In 2016, three councils in the West of England – Bath and North East
+Somerset, Bristol and South Gloucestershire – signed a devolution deal. As a
+result, significant powers and funding have been transferred to the region
+through the West of England Combined Authority and Metro Mayor.
+
+Page 5 of 61
+1.1.3. The West of England Local Enterprise Partnership (LEP) is a business led
+public-private partnership which develops and drives policy and strategy for
+economic growth and job creation in the area. The LEP spans the geography
+of Bath and North East Somerset, Bristol, North Somerset and South
+Gloucestershire. The Combined Authority provides support for the activities
+of West of England LEP including undertaking the role of accountable body
+for LEP funding.
+
+1.2. Scope of the Assurance Framework
+
+1.2.1. Government have set out in The National Local Growth Assurance
+Framework guidance the requirement for LEPs and Mayoral Combined
+Authorities in receipt of a Single Pot to produce their own local assurance
+framework. This document sets out the West of England’s governance
+arrangements for these funds, how due transparency and accountability are
+
+Page 6 of 61
+ensured and the way that schemes are appraised, monitored and evaluated
+to achieve value for money.
+
+1.2.2. The ‘Single Pot’ approach to funding is a significant fiscal agreement in
+devolution deals which seeks to reduce ring fences and consolidate funding
+lines for which the Combined Authority is the accountable body. The West of
+England Business Plan together with the Local Industrial Strategy (LIS) and
+other West of England plans and strategies, provide the basis for investment
+decisions alongside the delivery of statutory requirements, conditions of
+funding and other local transport objectives.
+
+1.2.3. The funds in the scope of this assurance framework (hereafter referred to
+as the ‘investment programme’) are as follows:
+
+• West of England Investment Fund (WoEIF) – the Combined Authority
+has established the WoEIF through which it will administer the
+additional £30m per annum allocation to the Combined Authority of
+grant-based investment funds (sometimes called ‘Gain Share’). These
+funds span a 30 year period but are subject to a five-yearly Gateway
+Review by Government. In line with the Devolution Deal this is in the
+control of the Combined Authority, working with the Metro Mayor. Aside
+from schemes in the scope of this framework, other exceptional costs
+are funded via the WoEIF related to the establishment of the Combined
+Authority and arising from its statutory duties, together with election
+costs for the Metro Mayor as agreed by the Mayoral Combined Authority
+Committee.
+
+• Transforming Cities Fund (TCF) – the £80m of funding awarded to the
+Combined Authority to deliver transport improvements aimed at
+transforming connectivity through improved public transport and active
+travel infrastructure, reducing congestion and enhancing air quality.
+
+• City Region Sustainable Transport Settlements (CRSTS) – the £540m
+five year transport capital funding for the period to 2026/27. That part
+of the funding awarded to the Councils for highway maintenance will
+fall outside of the specific requirements of this framework, but will be
+subject of monitoring of spend and delivery alongside any particular
+conditions for the CRSTS
+
+Page 7 of 61
+For ease of language, in the scope of this framework the WoEIF, TCF and
+CRSTS are hereafter referred to as ‘the Combined Authority funding
+streams’.
+
+• Adult Education Budget (AEB) – from 2019/20 the Combined Authority
+became responsible for administering AEB within its area. Investment
+decisions for AEB will be made with full consideration to the statutory
+entitlements which are detailed in the orders laid down to devolve the
+functions for administering AEB to the Combined Authority.
+
+It should be noted that owing to the nature of AEB, whilst if falls within
+the general principles of this framework, including transparency,
+accountability and formal decision making by the Combined Authority
+Committee, general references to project identification, appraisal,
+monitoring and value for money will be subject to different
+arrangements. Further detail on the specific arrangements for AEB are
+provided in Appendix 1.
+
+• Local Growth Fund (LGF) – the £202m of funding covering the period
+2015/16-20/21 awarded to the LEP through Growth Deals with
+Government.
+
+• Economic Development Fund (EDF) – the City Deal signed in 2012 by
+the West of England Councils, the LEP and Government included a range
+of measures aimed at driving economic growth. Several of the Deal
+elements have been adopted in ongoing programmes (such as
+developing an integrated inward investment service) or have been
+completed. One ongoing element is the Growth Incentive whereby the
+local authorities retain 100% of business rates growth in five West of
+England Enterprise Areas.
+
+£500m of the growth in these Enterprise Areas, together with the Bristol
+Temple Quarter Enterprise Zone, over a 25 year period is being used to
+create the LEP’s Economic Development Fund to deliver infrastructure
+to help unlock these locations.
+
+Whilst the operation and monitoring of the Enterprise Zone and Areas is
+undertaken by the relevant Council, the overall growth performance is
+overseen by the Business Rates Pooling Board which comprises the four
+Council s151 officers and the LEP. Periodic reports are presented to the
+Page 8 of 61
+LEP Board and the West of England Joint Committee, and an annual
+performance report is provided to the West of England Combined
+Authority Overview and Scrutiny Committee.
+
+• Revolving Infrastructure Fund (RIF) – this fund was formed from
+awards by Government through the Regional Growth Fund and Growing
+Places. This is a revolving fund aimed at advancing the infrastructure
+which enables development.
+
+• Get Building Fund (GBF) - £13.7m capital funding over the period
+2020/21-21/22 to help complete major projects which are planned to
+stimulate jobs and support the region’s economic recovery.
+
+For ease of language, in the scope of this framework the LGF, EDF, RIF
+and GBF are hereafter referred to as ‘the LEP funding streams’.
+
+• South West Net Zero Hub – spanning the seven LEPs in the wider south
+west region, this is one of five local energy hubs established across
+England. The Combined Authority acts as the accountable body for the
+South West Net Zero Hub. It should be noted that whilst arrangements
+for the Hub fall within the general principles of this framework,
+including transparency, accountability and formal decision making by
+the Joint Committee, general references to project identification,
+appraisal and approval will be subject to different arrangements. These
+are described in Appendix 2.
+
+1.3. What is an Assurance Framework and who it is for?
+
+1.3.1. This assurance framework is underpinned by the Seven Principles of Public
+Life (the Nolan Principles), namely:
+
+• Selflessness: Holders of public office should act solely in terms of the
+public interest.
+
+• Integrity: Holders of public office must avoid placing themselves under
+any obligation to people or organisations that might try inappropriately
+to influence them in their work. They should not act or take decisions in
+order to gain financial or other material benefits for themselves, their
+family, or their friends. They must declare and resolve any interests
+and relationships.
+Page 9 of 61
+• Objectivity: Holders of public office must act and take decisions
+impartially, fairly and on merit, using the best evidence and without
+discrimination or bias.
+
+• Accountability: Holders of public office are accountable to the public
+for their decisions and actions and must submit themselves to the
+scrutiny necessary to ensure this.
+
+• Openness: Holders of public office should act and take decisions in an
+open and transparent manner. Information should not be withheld from
+the public unless there are clear and lawful reasons for so doing.
+
+• Honesty: Holders of public office should be truthful.
+
+• Leadership: Holders of public office should exhibit these principles in
+their own behaviour. They should actively promote and robustly support
+the principles and be willing to challenge poor behaviour wherever it
+occurs.
+
+1.3.2. The framework is required to show that suitable arrangements are in place
+to effectively manage the investment programme and that robust systems
+are in place to ensure resources are spent with regularity, propriety, and
+value for money, whilst at the same time achieving projected outcomes.
+
+1.3.3. The assurance framework also outlines clear and transparent procedures
+for all stakeholders in the West of England area (including the constituent
+Local Authorities, the West of England LEP, other key partner agencies,
+businesses and residents) regarding the delivery and spending associated with
+the investment programme. The assurance framework and the investment
+programme will be managed in accordance with the usual local authority
+checks and balances, including the financial duties and rules which require
+local authorities to act prudently in spending.
+
+1.3.4. The joint and consistent approach will also provide the opportunity to
+combine funding to maximise economic impacts. All projects funded through
+the investment programme will be subject to the agreed prioritisation,
+appraisal, and monitoring and evaluation framework, including value for
+money assessments tailored to the nature and scale of the proposed
+investment.
+Page 10 of 61
+1.3.5. This assurance framework will be updated regularly and reviewed annually
+to ensure that it remains fit for purpose. Furthermore, other funding sources
+may subsequently be aligned with the investment programme to ensure that
+an integrated, comprehensive and strategic approach to promoting growth
+within the West of England is adopted. Where these fall within the scope of
+this framework it will be updated accordingly. Where there are significant
+changes to the operation of the framework the Cities and Local Growth Unit
+will be informed, and any necessary action undertaken.
+
+1.3.6. In performing its role, the Combined Authority will ensure that it acts in a
+manner that is lawful, transparent, evidence-based, consistent and
+proportionate. The Combined Authority s73 Officer will confirm that the
+financial affairs of the LEP are being properly administered and are
+compliant with the National Local Growth Assurance Framework by the end
+of February each year.
+
+1.3.7. The assurance framework sits alongside the Combined Authority’s
+Monitoring and Evaluation Framework which sets out the Combined
+Authority’s approach to Monitoring & Evaluation.
+
+1.4. Status and structure of the framework
+
+1.4.1. The remainder of this document is set out in the following sections:
+
+• Section 2: Describes the governance and decision-making structures and
+outlines the transparency that will apply to all decision making.
+• Section 3: Sets out the procedures for prioritising projects, appraising
+projects and developing appropriate business case documentation to
+satisfy the value for money assessment.
+• Section 4: Outlines the procedures required for monitoring and
+evaluating projects and the overall investment programme.
+
+Page 11 of 61
+2. Governance and Decision-Making Structure
+2.1. West of England Governance
+
+2.1.1. The governance structure for the Combined Authority and the LEP is shown
+in Figure 2.1. The specific roles in this governance process are set out below.
+
+2.1.2. The governance arrangements for the investment programme provide
+timely and binding decisions, with due clarity, transparency and
+accountability. These are underpinned by a consistent approach which seeks
+to harmonise governance processes (noting that different funds may have
+different ultimate decision makers), assurance and reporting arrangements.
+This provides the flexibility to match the most suitable funding stream to a
+particular scheme, and also allow overview, efficiency and rigour. The
+governance process is shown diagrammatically in Figure 2.2.
+
+2.1.3. It should be noted that a LEP integration process, initiated by Government,
+is underway with LEP functions anticipated to transfer into Mayoral Combined
+Authorities (or groups of local authorities where MCAs do not exist). The
+West of England Combined Authority is discussing the approach to this work
+with its partners across the West of England LEP. Any amendments to future
+governance and assurance arrangements will be carried out as required once
+these discussions have concluded.
+
+Page 12 of 61
+Figure 2.1 – West of England Combined Authority Governance
+Page 13 of 61
+Figure 2.2 – Investment Programme Governance Process
+
+2.1.4. Mayoral Combined Authority Committee
+2.1.4.1. The Combined Authority Committee is chaired by the West of
+England Metro Mayor, and is made up of the council Leaders of Bath and
+North East Somerset and South Gloucestershire and the Bristol Mayor.
+The Committee meets regularly and in public and the papers for these
+meetings are published on the Combined Authority website. The
+
+Page 14 of 61
+constitution of the Combined Authority is also published which includes
+the code of conduct for members (Part C). This Committee provides the
+formal and accountable decision making process related to the
+Combined Authority funding streams. The delegations granted by the
+Mayoral Combined Authority Committee related to scheme changes are
+set out in paragraph 2.1.10.1 and 2.1.11.1, 2.1.11.2 and Appendix 3.
+
+2.1.5. West of England Joint Committee
+2.1.5.1. The West of England Joint Committee involving the West of England
+Metro Mayor, the Council Leaders of Bath and North East Somerset,
+North Somerset and South Gloucestershire and the Bristol Mayor meets
+formally and in public, and papers for these meetings are published on
+the Combined Authority website. The Terms of Reference of the West of
+England Joint Committee can be viewed in the constitution (page A7).
+This Committee makes all decisions related to LEP funding streams
+(again aside from the delegations set out in paragraph 2.1.10.1 and
+2.1.11.1 and 2.1.11.2).
+
+2.1.5.2. It is the role of these Committees to approve and periodically review
+a programme of schemes through the submission of Strategic Outline or
+Outline Business Cases (see Appendix 7). These schemes will be awarded
+‘Programme Entry’. Schemes with Programme Entry will then produce
+Full Business Cases (see section 3.2) for approval to secure confirmation
+of delivery funding. Where there is urgency, the approval of specific
+Outline or Full Business Cases may be granted to the Combined Authority
+Chief Executive in consultation with the Chief Executive of the
+constituent Councils by the Mayoral Combined Authority or Joint
+Committee. In addition, in order to maintain the pace of delivery, the
+following programme delegations have been granted:
+
+• The Combined Authority Director of Infrastructure in consultation
+with the Directors of Infrastructure of the constituent Councils to
+approve Business Cases/Funding Applications to a value of £6m
+within the CRSTS programme.
+• The Combined Authority Director of Environment in consultation
+with the Directors of Environment of the constituent Councils to
+approve Business Cases/Funding Applications for schemes within
+the Green Recovery Fund, which forms part of the WoEIF.
+
+Page 15 of 61
+2.1.6. LEP Board
+2.1.6.1. The purpose of the West of England LEP Board is to secure the
+region’s continuing and ambitious economic success and attractiveness
+as a place for its residents to live and thrive and for businesses and
+communities to grow in a sustainable way.
+
+2.1.6.2. The LEP Board is a business led partnership between
+business/universities and the region’s unitary and combined authorities.
+The LEP Board works in a collaborative and catalytic way seeking to
+share and test ideas informed by best practice from across the globe to
+ensure that actions are evidence based and draw upon the best in the
+world.
+
+2.1.6.3. In terms of the LEP funding streams, the role of the LEP Board is to
+bring a business perspective and make recommendations to the West of
+England Joint Committee based upon advice from the Chief Executives
+(see 2.1.10.1). The LEP Board and Chair play a key advisory role and
+make recommendations that are considered by the Joint Committee,
+who take full account of these recommendations in their decision
+making. The Chair of the LEP Board participates as a non-member in the
+meetings of the Mayoral Combined Authority and Joint Committees.
+
+2.1.6.4. The Board may request periodic updates on all LEP funded projects,
+so they are sighted on their performance, issues, risks and relevant
+mitigations in place.
+
+2.1.7. Mayoral Combined Authority/Joint Committee Boards
+2.1.7.1. The following Boards meet six times a year and involve the West of
+England Metro Mayor and the relevant Cabinet lead Member(s) for the
+constituent Councils: –
+
+• Skills Board
+• Business Board
+• Transport Board
+• Housing and Planning Board
+
+2.1.7.2. The Boards do not make decisions but provide strategic guidance and
+advice to the West of England Mayoral Combined Authority Committee,
+West of England Joint Committee and LEP on skills, business, transport,
+housing and planning matters, including having oversight of projects and
+Page 16 of 61
+programmes, raising issues and giving views. The Terms of Reference can
+be viewed in the constitution page A7).
+
+2.1.8. West of England Combined Authority Overview and Scrutiny Committee
+2.1.8.1. The functions of the Overview and Scrutiny Committee are primarily
+to scrutinise the work of the Combined Authority and the Joint
+Committee including the prioritisation and approval of schemes, and
+progress with the delivery of the investment programme. The West of
+England Combined Authority Overview and Scrutiny Committee has the
+power to:
+
+I. Review or scrutinise decisions made, or other actions taken, in
+connection with the discharge of any functions which are the
+responsibility of the Mayoral Combined Authority or Joint
+Committee.
+
+II. Make reports or recommendations to the Mayoral Combined
+Authority or Joint Committee on matters that affect the Combined
+Authority area or the inhabitants of the area.
+
+III. Make reports or recommendations to the Mayoral Combined
+Authority or Joint Committee with respect to the discharge of any
+functions which are the responsibility of these Committees.
+
+IV. In so far as the business of the LEP relates to the discharge of
+functions of Combined Authority or Joint Committee, the Overview
+and Scrutiny Committee shall have the power to scrutinise the LEP
+as set out in I) to III) above.
+
+Page 17 of 61
+2.1.9. Audit Committee
+2.1.9.1. The functions of the Audit Committee include:
+
+• Reviewing and scrutinising the authority’s financial affairs.
+• Reviewing and assessing the authority’s risk management, internal
+control and corporate governance arrangements.
+• Reviewing and assessing the economy, efficiency and effectiveness
+with which resources have been used in discharging the authority’s
+functions.
+• Making reports and recommendations to the Mayoral Combined
+Authority in relation to the reviews they have conducted.
+• To consider and approve the Annual Statutory Accounts
+• To consider Member Code of Conduct
+
+2.1.10. West of England Chief Executives
+2.1.10.1. The governance process is underpinned by the West of England Chief
+Executives meeting which comprises the Chief Executive of the
+Combined Authority and the LEP (hereafter referred to as the Combined
+Authority Chief Executive) and the Chief Executives of the relevant
+constituent local authorities. The Chief Executives meet regularly and
+are aligned to meetings of the Mayoral Combined Authority and Joint
+Committees and its role in the context of the investment programme is
+to:
+
+• Act on information provided by scheme promoters and technical
+advice and recommend a programme (the ‘Programme Entry’
+schemes) for:
+- Combined Authority funding streams – approval by the Combined
+Authority Committee.
+- LEP funding streams - approval by the West of England Joint
+Committee
+
+• Make recommendations on individual investment decisions for
+schemes with ‘Programme Entry’ awarded by the Mayoral Combined
+Authority or West of England Joint Committee based upon business
+cases and technical advice.
+
+• Approve specific Business Cases or Feasibility and Development
+Funding Applications (see 3.2.2.1) subject to delegation from the
+Page 18 of 61
+Mayoral Combined Authority or Joint Committee. The decision on
+such Business Case or Application is made by the Combined Authority
+Chief Executive, in consultation with the Council Chief Executives.
+
+• Consider change requests for approval within the agreed tolerances.
+As above, the decision on such change requests is made by the
+Combined Authority Chief Executive in consultation with the Council
+Chief Executives.
+
+• Make recommendations to the Mayoral Combined Authority or Joint
+Committee for those changes outside of the tolerances.
+
+• Provide overview of the investment programme.
+
+• Managing programme level risks
+
+2.1.11. West of England Directors
+2.1.11.1. The West of England Directors of Infrastructure meet at least
+monthly and consider change requests within granted delegations and
+the recommendations made on them by the Portfolio Review Board.
+They also make approval decisions on projects with a cost up to £6m
+within the CRSTS programme.
+
+2.1.11.2. The West of England Environment Directors met regularly and
+consider Business Cases/Funding Applications within the Green Recovery
+Fund and make approval decisions on change requests within the agreed
+tolerances.
+
+2.1.12. Portfolio Review Board (PRB)
+2.1.12.1. The Portfolio Review Board comprises the Combined Authority and
+Council s73/s151 officers and Directors. Subject to agreement of the
+revised Terms of Reference at the Mayoral Combined Authority
+Committee in January 2024, the role of the PRB is:
+
+• Overview and assurance of all programmes within scope to support
+delivery, limit delay and ensure value for money.
+
+• Ensure alignment of the portfolio with regional objectives.
+
+Page 19 of 61
+• Gain assurance on the portfolio delivery in line with expected
+financial and operational milestones.
+
+• Consider and recommend change requests to relevant decision
+makers with particular emphasis on those with significant scope,
+benefits, cost or programme change which have wider programme
+impact.
+
+• Consider the programmes in totality and overall impact at a portfolio
+level of individual programme changes.
+
+• Gaining assurance regarding grant conditions, and inform any
+required s73/s151 sign off with funders e.g. DfT
+
+• Help to manage risks associated with the portfolio.
+
+• Ensure post-project reviews are taking place, and gain assurance
+from Directors that insight is being shared and lessons learned acted
+upon.
+
+• Identify common themes/issues across the portfolio, which may
+impact on the delivery of the portfolio, and action appropriately.
+
+• Support the sharing of good practice across programmes.
+
+• Gain assurance that resources are appropriate to ensure portfolio
+delivery.
+
+2.2. Transparency
+
+2.2.1. The Combined Authority and the LEP are committed to being open,
+transparent and accountable.
+
+2.2.2. The LEP Board
+2.2.2.1. The LEP Board Chair comes from the private sector. Opportunities
+for membership of the LEP Board are openly advertised and widely
+promoted. The LEP Chair in consultation with the Business Nominations
+Page 20 of 61
+Committee (BNC), which is the only sub-Board of the LEP Board, is
+responsible for nominating business members including the vice chair,
+and the Higher Education representative, for approval by the LEP Board.
+The Vice Chair in consultation with the BNC is responsible for the
+nomination of the Chair, for approval by the LEP Board.
+
+2.2.2.2. Selection criteria and procedures ensure that individuals are
+selected on the basis of their relevant merits and abilities, and that this
+promotes diverse representation reflective of the local business
+community. The LEP’s Equality and Diversity Statement is published on
+the LEP website.
+
+2.2.2.3. The membership of the LEP Board comprises:
+
+• Up to fourteen business members including the Chair
+• One Higher Education representative
+• The West of England Metro Mayor, the Mayor of Bristol City Council
+and the Leaders of Bath and North East Somerset Council, North
+Somerset and South Gloucestershire Council
+
+2.2.2.4. In line with the commitment to secure a greater gender balance,
+half of the LEP Board business/Higher Education members are currently
+women (36% of all Board members, including the LEP Chair and elected
+representatives).
+
+2.2.2.5. The term of the Chair and Vice Chair is three years from date of
+appointment. The term of business members and Higher Education
+member is up to three years. Terms are staggered to ensure continuity
+amongst the membership and support succession planning. Members can
+serve a maximum of two terms, but renewal of term is not automatic. In
+the event of the resignation of a business member an appointment
+process would be undertaken in line with the process described above.
+
+2.2.2.6. The membership of the LEP Board and the terms of reference can be
+viewed on the website. A member or members of the LEP Board,
+currently Neil Douglas, are specifically responsible for representing and
+engaging with the SME business community.
+
+Page 21 of 61
+2.2.2.7. An induction process is in place for new members of the LEP Board.
+All new Combined Authority officers follow the organisation’s induction
+process.
+
+2.2.3. Renumeration
+2.2.3.1. LEP Board members receive no renumeration or expenses. The LEP’s
+Gifts and Hospitality Register is published on the LEP website.
+
+2.2.4. Code of Conduct
+2.2.4.1. The LEP Board members are required to follow a Code of Conduct
+(which includes the conflicts of interest policy) which is based on the
+Seven Principles of Public Life. This Code of Conduct is published on the
+website. LEP Board members are required to sign the Code of Conduct
+before taking up their role. Officers who support the LEP are employees
+of the Combined Authority and are bound by the Combined Authority’s
+code of conduct
+
+2.2.5. Registering and Managing Interests
+2.2.5.1. The LEP Board Code of Conduct includes the way that pecuniary and
+non-pecuniary interests are declared and managed. This policy applies
+to all involvement with the work of the LEP. The interests of Board
+members are published on their individual profile pages on the LEP
+website. The register of interest is signed within 28 days of taking up the
+role on the Board and in advance of participation in the role. Board
+members are required to review their declared interests before each
+meeting. Senior staff at the Combined Authority and the LEP and those
+who advise on decisions are also required to complete a register of
+interest form.
+
+2.2.6. Publication of Meetings and Agenda Items
+2.2.6.1. The agendas, reports, minutes and forward plan for the Mayoral
+Combined Authority Committee and West of England Joint Committee
+are published on the West of England Combined Authority website. The
+Committees receive a regular report with the recommendations and
+delegations made by the West of England Chief Executives or Directors
+which is published as part of the papers.
+
+2.2.6.2. Stakeholders are able to submit questions, petitions or statements
+to the Mayoral Combined Authority and Joint Committee.
+
+Page 22 of 61
+2.2.6.3. The agenda, reports and minutes of the LEP Board are available on
+the Combined Authority website. The agenda and reports for the Board
+are published 5 clear working days in advance of the meeting. The
+minutes of Board meetings are published within 2 weeks of the meeting.
+Any recommendations made by the LEP Board relating to the LEP funding
+programme will be published through the notes of the meeting. The LEP
+Board is not a decision-making body, and aside from the Annual Meeting
+the Board meetings are not held in public.
+
+2.2.7. Complaints, Whistleblowing, Freedom of Information Requests and Data
+Protection
+2.2.7.1. Any complaints related to the arrangements, processes or decision
+making associated with the investment programme will follow the
+formal complaints process of the Combined Authority. The procedure is
+published on the Combined Authority website and looks to manage any
+complaints that should arise appropriately and effectively. The
+complaints process makes provision for third parties or the public to
+make confidential complaints.
+
+2.2.7.2. In addition to the above, there is also a Whistleblowing Policy in
+place, which outlines the process to follow when reporting a perceived
+wrongdoing within the Combined Authority and the LEP, including
+something that is believed to contravene the core values and Nolan
+Principles of Public Life. The LEP will inform the Cities and Local Growth
+Unit should any concerns be raised through the whistleblowing
+procedure.
+
+2.2.7.3. Procedures are in place to manage Freedom of Information requests
+related to the activities of the Combined Authority and the LEP,
+including the investment programme. Appropriate data protection
+arrangements are in place in line with the Data Protection Act 1998, the
+General Data Protection Regulations (GDPR) and the Data Protection Act
+2018. The Combined Authority Data Protection Policy has been adopted
+by the LEP Board.
+
+2.2.7.4. In the interests of transparency, the Combined Authority and the
+LEP are committed to ensuring relevant information related to the
+business of the LEP Board or decisions at the Joint Committee is
+published aside from where there are matters of commercial or other
+sensitivity.
+Page 23 of 61
+2.2.8. Communications and Local Engagement
+2.2.8.1. The Combined Authority and the LEP are committed to ongoing
+engagement with public and private sector stakeholders. This includes
+engaging stakeholders to inform key decisions and ensuring that there is
+local engagement with feedback to the general public about future LEP
+strategy and progress. A Combined Authority Business Plan has been
+formally approved and progress with the delivery of the Plan is reported
+annually. The LIS and Regional Recovery Plan were informed by
+consultations with key stakeholders and partner agencies from across
+the West of England.
+
+2.2.8.2. Key information related to the arrangements for, and activities of
+the LEP, and the LEP funding streams, are published on the Combined
+Authority website. This is kept up to date to ensure the information
+remains current, and for the funding programme it reflects the latest
+position regarding scheme funding and approval status. Refences to
+material and documents published on the website are included in various
+places within this assurance framework, but for ease a checklist is
+provided in Appendix 5.
+
+2.2.8.3. The LEP Annual General Meeting will be openly advertised and open
+to the public.
+
+2.2.8.4. Information related to the operation of the Combined Authority
+funding streams is published on the Combined Authority website. For
+AEB, a process of engagement with providers was undertaken in
+developing the application process and arrangements, and relevant
+documentation and guidance are published on the Combined Authority
+website.
+
+2.2.8.5. All scheme Outline and Full Business Cases are published as part of
+the report to the Mayoral Combined Authority or Joint Committee
+considering their approval. External opinion expressed on these business
+cases by the public and other stakeholders will be made available to the
+Mayoral Combined Authority or Joint Committee to inform decision
+making. Where a specific delegation to approve a Business Case has been
+granted by the Mayoral Combined Authority or Joint Committee to the
+West of England Chief Executives or Directors, then such officer
+
+Page 24 of 61
+decisions will be published, and this will be reported (together with the
+Business Case) to the next meeting of the Committee.
+
+2.2.8.6. The Combined Authority and LEP are committed to working with the
+LEP Network and where appropriate to engage with other LEPs and
+develop joint strategies and investments and share best practice.
+
+2.2.8.7. The Combined Authority will comply with Government
+communications and branding guidelines for schemes funded through
+relevant programmes including the branding and wording used on
+websites, signage, social media, press notices and other marketing
+material. These requirements have been shared with all scheme
+promoters and compliance is a condition set out within grant offer
+letters.
+
+Page 25 of 61
+2.3. Accountable body role and financial management
+
+2.3.1. Investment Decisions
+2.3.1.1. All investment decisions, including ensuring the effective allocation
+of the investment programme in line with the Combined Authority and
+LEP Business Plan, together with the LIS and other West of England plans
+and strategies, will be the responsibility of the Mayoral Combined
+Authority or West of England Joint Committee.
+
+2.3.2. The Role of the Accountable Body
+2.3.2.1. The West of England Combined Authority will be the Accountable
+Body for all funds within the investment programme and will be
+responsible for the proper administration and financial probity of the
+funds received. The Combined Authority will ensure the effective use of
+public money and have responsibility for the proper administration of
+funding received and its expenditure.
+
+2.3.2.2. As the Accountable Body, the Combined Authority will be responsible
+for overseeing policy, the prioritisation of funding, ensuring value for
+money, evaluating performance and managing risk. The Combined
+Authority will:
+
+• Hold investment programme funds and make payments in
+accordance with the decisions of the Mayoral Combined Authority or
+Joint Committee.
+
+• Ensure that funding is approved and allocated in a manner that is
+lawful, transparent, evidence-based, consistent and proportionate.
+
+• Ensure that the decisions and activities conform to the legal
+requirements with regard to equality and diversity, environmental
+regulations and other relevant legislation and guidance.
+
+• Ensure through its Section 73 officer that the funds are being used
+appropriately, prudently and are in accordance with decisions made
+by the Mayoral Combined Authority or Joint Committee, or through
+delegation, together with adherence to relevant guidance/
+legislation for the intended purpose.
+
+Page 26 of 61
+• Record and maintain the official record of proceedings relating to
+decisions made on all investment projects.
+
+2.3.2.3. Should a decision related to funding not conform to this assurance
+framework e.g. not meeting legal requirements or representing
+inappropriate use of funds then the Combined Authority, as accountable
+body, will not action this decision.
+
+2.3.3. Accounts and Financial Information
+2.3.3.1. The Combined Authority Statement of Accounts is published on the
+Financial Information section of the Combined Authority website. For
+2018/19 and 2019/20 the LEP income and expenditure is dealt with in
+note 21 to the accounts (page 76 of the linked report). An Annual Report
+is published setting out grant payments made each year for all projects
+within the LEP funding programme, the 2020/21 report can be viewed
+here. Expenditure at the programme level, alongside key outputs and
+outcomes, across all of the LEP programmes is shown in the 22/23
+Delivery Plan.
+
+2.3.3.2. The investment funds are accounted for in such a way that they are
+separately identifiable, with individual cost centres. The Combined
+Authority will prepare quarterly financial statements for the Mayoral
+Combined Authority or Joint Committee in relation to the overall fund,
+costs of the investment projects, and profiling of spend.
+
+2.3.4. Managing Contracts
+2.3.4.1. All contracts awarded by the Combined Authority will follow the
+authorities Contract Standing Orders which include the Combined
+Authority’s Financial Regulations and the Public Contracting Regulations
+2015. Where projects are delivered by other organisations business cases
+will set out the procurement strategy, compliance with regulations and
+how value for money will be ensured. Where there are changes to
+scheme cost or scope which arise through the procurement process or in
+delivery these will be reported and considered through the agreed
+change management process. As set out in paragraph 2.1.6.4, the LEP
+Board may request periodic reports on progress with schemes across the
+programme so they are sighted on performance and risks.
+
+Page 27 of 61
+2.3.5. Risk Management
+2.3.5.1. A key role of the assurance framework is to ensure that risk is
+identified, monitored and managed appropriately, both at a corporate
+level for the Combined Authority and at a programme and project level.
+The risks associated with individual investment programme projects are
+discussed in Section 3.5.4 and these will require consideration as part of
+the business case development through into delivery. The risks
+associated with the overall investment programme are identified and, in
+conjunction with plans to mitigate these risks, managed by the Chief
+Executives. Significant risks will be escalated and will be added to the
+Combined Authority Corporate Risk Register. This Risk Register is
+regularly reviewed by the Corporate Leadership Team and activities are
+reported to Audit Committee.
+
+2.3.6. Internal and External Audit
+2.3.6.1. All investment programme funding from HM Government will be held
+and managed by the Combined Authority. In doing so the funds will be
+subject to financial management arrangements and subject to Internal
+Audit in accordance with the Accounts and Audit Regulations (2015) and
+in compliance with the mandatory Public Sector Internal Audit
+Standards. This will provide independent and objective assurance
+regarding the effectiveness of the Combined Authority’s risk
+management, control and governance processes.
+
+2.3.6.2. The Combined Authority s73 officer will be responsible for reporting
+on the financial management and assurance of the investment
+programme to the Combined Authority Audit Committee through the
+delivery and outturn of the annual Internal Audit plan and published
+accounts.
+
+2.3.6.3. All investment programme funding decisions taken by the Mayoral
+Combined Authority or Joint Committee will also be subject to review
+through annual external audit, which undertakes a review of value for
+money arrangements by assessing whether the Authority has put in place
+proper arrangements to secure economy, efficiency and effectiveness in
+its use of resource.
+
+Page 28 of 61
+2.3.6.4. Audit reports related to the LEP produced by either internal or
+external audit will be shared with the LEP Board and the Cities and Local
+Growth Unit.
+
+Page 29 of 61
+3. Investment Programme - Project Lifecycle
+
+3.1. Scheme Identification and Prioritisation
+
+3.1.1. Prioritisation Process - LEP Investment Programme
+3.1.1.1. The LGF and GBF have been fully expended. Should further flexible
+funding be awarded to the LEP, schemes would be considered through an
+open and transparent prioritisation process including their strategic fit,
+impact and value for money and deliverability. Owing to the nature of
+the funds, the EDF (which is predicated on borrowing against future
+business rates growth in the Enterprise Zone and Areas) and the RIF
+(which requires repayment) are only available to the West of England
+Councils.
+
+3.1.2. Prioritisation Process Combined Authority Investment Programme
+3.1.2.1. For the WoEIF and TCF a process of prioritisation has been
+undertaken based upon agreed thematic criteria to establish a joint
+investment programme. The detail of the thematic methodology used,
+including prioritisation process and metrics, was agreed in advance of its
+application. The prioritisation process and Combined Authority
+investment programme will be subject to regular, and at least annual
+review.
+
+3.1.3. Scheme Identification and Assessment
+3.1.3.1. Candidate schemes for funding through the Combined Authority
+investment programme will be identified by the Combined Authority and
+the constituent Councils through their fit with the strategic and
+economic policy and plans for the area including the Combined Authority
+Business Plan, LIS, Spatial Plans, Joint Local Transport Plan, Employment
+and Skills Plan, Regional Recovery Plan and the West of England Green
+Infrastructure Strategy. This scheme identification process will be
+guided by a set of agreed regional objectives and investment principles
+for the investment programme. These are set out in the Investment
+Strategy and include the scope for funding to be repaid (in whole or
+part) or generate a return, in order that the investment programme has
+a greater impact. Where schemes are not promoted by the Combined
+Authority or the Constituent Councils, then an open, transparent and
+evidence-based process will be used to identify projects for funding.
+Page 30 of 61
+3.1.4. Scheme Assessment
+3.1.4.1. Identified schemes will be assessed against agreed criteria, including
+those for individual programmes within the overall Investment Fund,
+such as previously used for the Land Acquisition Fund, Development
+Infrastructure Fund and Love Our High Streets programmes.
+
+3.1.4.2. Schemes will be able to seek funding for development through
+completion of a Feasibility and Development Funding Application Form.
+Formal entry into the programme will be considered at Outline Business
+Case.
+
+3.2. Business Case Development
+
+3.2.1. Business Case Stages and Proportionality
+3.2.1.1. The business case development and appraisal process will apply the
+principle of proportionality, with more detailed information being
+required for large, complex or contentious projects. The application and
+appraisal process for the investment programme will involve the
+following stages:
+
+• Strategic Outline Business Case (SOBC) – this will provide the underlying
+justification for the project and will support the prioritisation and
+programme development stage. For schemes over £20m or which are
+innovative or likely to be contentious an SOBC will be required.
+Innovative or contentious schemes will include those which plan to
+deploy cutting edge technology, use new or complex techniques or
+approaches in their delivery or operation or are expected to attract
+significant interest from stakeholders and the public. Smaller or less
+complex schemes can progress direct to Outline, or where appropriate,
+Full Business Case.
+
+• Outline Business Case (OBC) – this will confirm the strategic context,
+make a robust case for change and identify the preferred option for
+delivery from a shortlist of options considered based upon how well it
+meets scheme objectives.
+
+• Full Business Case (FBC) – this will include a detailed business case for
+the project consistent with HMT’s guidance on the five case business
+case model which is developed to a level where it is capable of being
+Page 31 of 61
+given final approval, including detailed design and having secured all
+necessary powers, consents and land to enable the delivery of the
+scheme. The assessment of Value for Money (VfM) will, in particular,
+underpin the economic case and the decision to proceed. This will
+follow the latest Green Book business case guidance and take account
+of project specific appraisal guidance published by the relevant
+government department (see section 3.3 on Appraisal). The OBC and
+FBC template is shown in Appendix 6 and guidance on completion is
+shown in Appendix 7.
+
+3.2.1.2. In the interests of efficiency and to avoid duplication, business cases
+will build upon, augment and draw upon the recommendations from the
+previous stage(s). The final content of, and recommendations on, the
+FBC will be included in the contractual agreements for funding. Where
+assumptions have been made, these will be clearly set out in the
+Business Case, with sufficient sensitivity testing carried out on these
+assumptions to demonstrate the robustness of the economic assessment.
+
+3.2.1.3. Schemes which are relatively straightforward, such as revenue
+interventions and capital projects which do not require planning
+permission or other consents can progress direct to FBC.
+
+3.2.1.4. Where 50% or more of the funding for a project has been awarded by
+a Government department or Homes England through a specific funding
+application which gives final funding approval for delivery (equivalent to
+a Full Business Case), a separate business case may not necessarily be
+required to access match funding through the funds in scope of this
+framework. In such cases it may be assumed that the business case and
+value money will already have been suitably established by the external
+funder as part of the funding award.
+
+3.2.1.5. Where this applies, funding applications will be published, and
+suitable Monitoring and Evaluation arrangements will be put in place to
+ensure the needs of both the external funder and the Combined
+Authority are met (see section 4 on Monitoring and Evaluation). Match
+funding awards for streams in the scope of this framework will be
+approved by the Mayoral Combined Authority or Joint Committee.
+
+3.2.1.6. For transport schemes, business cases should use the templates and
+approach provided in DfT guidance. For these purposes, a transport
+Page 32 of 61
+scheme is defined as any scheme that significantly changes the transport
+network infrastructure, whatever its objectives. A local guidance note,
+and summary have been produced to help promoters which sets out the
+Combined Authority’s expectations. Cycling schemes should meet the
+standards set out in Local Transport Note 1/20 Cycle Infrastructure
+Design unless there are exceptional circumstances, the rationale for
+which should be clearly stated in the business case.
+
+3.2.1.7. For smaller scale and relatively straightforward transport schemes, a
+specific template is used, structured around the five cases, which seeks
+to capture the critical aspects of the business case in a comprehensive
+but proportionate way. A set of eligibility criteria is used to establish
+whether a scheme fits the requirements to follow this streamlined
+approach and sits at the lower end of the spectrum in terms of project
+size, technical and delivery complexity, stakeholder challenge, and the
+level of risks and novelty.
+
+3.2.2. Scheme Development Funding
+3.2.2.1. Combined Authority Funding Streams
+Projects within the investment programme funded by the Combined
+Authority funding streams will be eligible to submit for scheme
+development support. This will be based on the submission of a scheme
+Feasibility and Development Funding Application Form which will
+identify tasks, timescales and costs for bringing forward an SOBC, OBC or
+FBC. The template is shown in Appendix 8. Aside from where a
+delegation has been granted to the Combined Authority Chief Executive
+in consultation with the Chief Executives of the constituent Councils, or
+a Combined Authority Director in consultation with the constituent
+Council Directors, all submissions will be appraised and approved by the
+Mayoral Combined Authority Committee. Where such approval is via
+delegation these decisions will be published and reported to the
+following meeting of the Committee, including publication of the
+application.
+
+3.2.2.2. LEP Funding Streams
+Aside from the RIF, projects within the investment programme funded
+by LEP funding streams are expected to meet their own development
+costs until they secure Outline Business Case approval. Development
+costs incurred from Outline Business Case approval can be recovered
+
+Page 33 of 61
+once a scheme has secured Full Business Case approval. For the RIF, FBC
+development funding can be accessed at the point of OBC approval.
+
+3.2.3. Due Diligence
+3.2.3.1. The Combined Authority is committed to undertaking due diligence
+activities that support effective decision-making and project appraisal.
+In relation to the investment programme applications, the nature and
+timing of due diligence will depend on the individual project or scheme,
+the cost of the scheme and the potential impact of the project. The
+Combined Authority will be responsible for determining when the due
+diligence is carried out and by whom. A level of due diligence will be
+carried out by the Combined Authority, but external agencies may also
+be commissioned to support this function as appropriate.
+
+3.3. Appraisal
+
+3.3.1. Appraisal Criteria
+3.3.1.1. The appraisal process for the investment programme will be
+consistent with HM Treasury’s Green Book and Business Case Appraisal
+process, including supplementary and departmental guidance, such as
+the Department for Transport’s (DfT) WebTAG appraisal guidance for
+transport schemes and the Department for Levelling Up, Housing and
+Communities (DLUHC) Appraisal Guide. This will be based on the five
+cases model:
+
+• Strategic case – which provides a compelling case for change and
+explains how the project fits with the objectives of the organisation
+and wider public sector agendas.
+
+• Economic case – which describes how the project/preferred option
+represents best public value.
+
+• Commercial case – which demonstrates that the deal is attractive to
+the market, can be procured and is commercially viable.
+
+• Financial case – which confirms that the proposed spend is
+affordable.
+
+Page 34 of 61
+• Management case – which confirms that what is required from all
+parties is achievable.
+
+3.3.1.2. Projects will be appraised against these criteria and should also
+meet minimum thresholds and requirements (for example, a Benefit Cost
+Ratio that is at least acceptable and meets the established guidance or
+recognised benchmarks for that project type).
+
+3.3.2. Assessing Value for Money
+3.3.2.1. It is useful to keep in mind that good VfM, as defined by HM Treasury
+is the optimal use of resources to achieve the intended outcomes.
+‘Optimal’ being ‘the most desirable possible given expressed or implied
+restrictions or constraints’. VfM is not just about achieving the lowest
+initial price, it is defined as the optimum combination of whole life costs
+and quality, with due regard to propriety and regularity.
+
+3.3.2.2. The National Audit Office (NAO) uses three criteria to assess the VfM
+of government spending i.e. the optimal use of resources to achieve the
+intended outcomes:
+
+• Economy - minimising the cost of resources used or required (inputs)
+– spending less.
+
+• Efficiency - the relationship between the output from goods or
+services and the resources to produce them – spending well.
+
+• Effectiveness - the relationship between the intended and actual
+results of public spending (outcomes) – spending wisely.
+
+3.3.2.3. For the investment programme, the Combined Authority and the LEP
+will make investment decisions based on a range of evidence, such as
+the strategic case and other local impacts and analysis of cost
+effectiveness (including GVA impact at the local level), as well as the
+wider VfM appraisal. This evidence will be consistent with HM Treasury’s
+Green Book and other relevant departmental appraisal guidance. These
+are set out in Appendix 5.
+
+3.3.2.4. Whilst recognising the national BCR will remain the universal metric
+to assess VfM, the Combined Authority will take account of a range of
+evidence when deciding to invest in a project (such as the local impacts
+Page 35 of 61
+on the economy and investment unlocked) within the context of a wider
+VfM appraisal. In the event that a scheme does not offer at least ‘high’
+VfM (i.e. that the national BCR is below 2 once significant non-
+monetised impacts and key uncertainties have been considered), the
+Combined Authority may still decide, exceptionally, to invest in a
+project based on the strength of evidence presented within the overall
+business case, including the strategic case and local impacts (see 3.3.3).
+
+3.3.2.5. Aside from the circumstances set out in paragraph 3.2.1.4,
+independent advice will be sought, including where required external
+support, for review of business cases. The assessment will be
+proportionate to the relative size of the scheme being considered, but
+will, as a minimum, provide independent validation of the assumptions
+made by scheme promoters.
+
+3.3.2.6. Further safeguards are in place to avoid any conflict of interest that
+may arise between staff and consultants acting on behalf of scheme
+promoters and those that are being asked to provide independent
+assessments on behalf of the Combined Authority.
+
+3.3.2.7. Full Business Cases, including their value for money, will be signed
+off by the s151 officer or Chief Finance officer of the promoting
+organisation. As is the case for VfM statements, Full Business Case
+Assessment Summary Reports will be signed off by the Combined
+Authority s73 officer and these will be included in the report to the
+Mayoral Combined Authority or Joint Committee where the business case
+is being considered. Where the Combined Authority is the scheme
+promoter separation of roles will be ensured and business case sign off
+will be provided by another member of the Combined Authority
+Corporate Leadership Team or the s151 officer from one of the
+constituent Councils. The appraisal reports will be presented to the
+Mayoral Combined Authority Committee as part of the decision-making
+process, via an Assessment Summary Table.
+
+3.3.3. Transport Projects
+3.3.3.1. For transport projects, the Combined Authority and the LEP will
+ensure that modelling and appraisal is sufficiently robust and fit for
+purpose for the scheme under consideration, and that modelling and
+appraisal meets the guidance set out in WebTAG. WebTAG will be used
+for all schemes but for schemes with low cost (below £6m) a more
+Page 36 of 61
+proportionate approach may be taken (see 3.2.1.7). In addition to
+WebTAG, other robust or evidence-based assessments or methodologies
+may be employed to prioritise and assess the overall business case for a
+scheme.
+
+3.3.3.2. The expectation is that all schemes must achieve “high” VfM (where
+benefits are at least double costs as set out within DfT’s guidance) at all
+stages of the approval process. VfM for these schemes will be
+independently scrutinised on behalf of the Combined Authority as part of
+the assessment process. This will be via a commission to a specialist
+transport consultant, fully independent from the scheme promoter and
+with no involvement in the development of the scheme being appraised.
+The independent assessment will be published and made available to the
+Mayoral Combined Authority or Joint Committee (or the Chief Executives
+or Directors of Infrastructure where there is a delegation) as part of the
+decision making process.
+
+3.3.3.3. Notwithstanding the above principles on VfM, the Combined
+Authority and the LEP will be able to approve transport schemes with
+lower VfM, having regard to specific circumstances including:
+
+• Evidenced and compelling wider economic, social and environmental
+benefits
+
+• The ability of the scheme to address multiple Combined Authority
+and the LEP policy objectives.
+
+• Significant levels of match funding being provided by the scheme
+promoter.
+
+3.3.3.4. Examples of such exceptional circumstances could include where a
+transport scheme:
+
+• Unlocks a major development site.
+
+• Can be directly attributed to job creation and/or GVA growth.
+
+• Stimulates significant land value uplift which can subsequently be
+captured.
+
+Page 37 of 61
+• Has a low BCR but is part of a programme that can evidence a ‘high’
+BCR as a minimum.
+
+3.3.3.5. The justification will be clearly set out in the report before the
+Mayoral Combined Authority or Joint Committee at the point of decision
+making.
+
+3.3.3.6. Such projects must have been subject to earlier rigour to assess
+options for de-scoping, or to explore higher VfM alternatives, and these
+considerations will be tested as part of the independent review of the
+business case and reported as part of decision making to the Mayoral
+Combined Authority or Joint Committee. This will include considering
+the robustness of the evidential basis to enable the Combined Authority
+and the LEP to determine the relative weights to be afforded to the
+different aspects of the case.
+
+3.3.3.7. The recommendations to the Mayoral Combined Authority or Joint
+Committee will clearly explain the rationale for approving a scheme
+with medium or worse VfM and the implications of the recommendation.
+
+3.4. Approval process
+
+3.4.1. Approval process and timeline
+3.4.1.1. To ensure the investment programme is managed strategically the
+Combined Authority s73 officer, supported by officers in the Resources
+Directorate, will be responsible for the overall management of the
+programme and that linkages are made within the portfolio of projects
+seeking investment. The time taken to assess projects will depend on
+the nature and complexity of the proposal, but typically business case
+submissions will be around 2 months prior to decision making at the
+Mayoral Combined Authority or Joint Committee.
+
+3.4.1.2. The outcome of the independent assessments of investment
+programme schemes will be reported to the Mayoral Combined Authority
+or Joint Committee as part of the recommendations made on the merits
+of individual applications. An Assessment Summary Table will form an
+appendix to these reports and will be part of the Mayoral Combined
+
+Page 38 of 61
+Authority or Joint Committee’s public agenda pack that is available to
+view on the Combined Authority website.
+
+3.4.1.3. Aside from where the Combined Authority is the scheme promoter,
+the Combined Authority will prepare a Grant Offer Letter for agreement
+by the applicant. The offer letter will, in particular, set out the
+following which will be monitored by the Combined Authority:
+
+• A financial profile including quarterly expenditure.
+• A profile of outputs and outcomes to be achieved with key
+milestones for delivery.
+• Projected impacts and a timetable for their achievement.
+
+3.4.1.4. The Combined Authority have appropriate processes in place to
+recover non-compliant funding. Should a decision be made not to
+recover funding, a strong and compelling justification will be required
+which will be formally documented.
+
+3.5. West of England Investment Programme Management
+3.5.1. A performance management system is used to collate, record and report on
+the progress of individual projects and the investment programme overall.
+Where projects do not achieve their milestones for delivery, projects will
+need to provide evidence to demonstrate that they will be able to get back
+on track or seek approval for change via the Portfolio Review Board. Projects
+that consistently fail to meet projected performance (financial and outputs)
+may have funding withdrawn. Projects ‘at risk’ will be reviewed, and the
+outcomes of this process will be referred back to the Mayoral Combined
+Authority of Joint Committee, prior to any withdrawal of funding and
+decision on expenditure incurred. For the LEP funding programme the LEP
+Board will also be periodically advised on progress, issues and risks.
+
+3.5.2. There are a number of mechanisms that will ensure effective management
+of the investment programme to maximise the economic impact within the
+area. These include:
+
+• Designation of the Combined Authority s73 officer as having overall
+responsibility for management and reporting on the performance of the
+investment programme to the Departmental Accounting Officer within
+DLUHC.
+
+Page 39 of 61
+• Ensuring suitable mechanisms and resources are in place to effectively
+monitor, evaluate and review the performance of projects in the
+investment programme in respect of delivery, expenditure and
+outputs/outcomes.
+
+3.5.3. A monitoring system is in place for the investment programme to record
+financial expenditure and claims and the achievement of outputs and
+outcomes. Quarterly Highlight Reports are submitted to the Combined
+Authority providing progress against key milestones and actual and forecast
+spend. In addition, the achievement of key performance metrics – capturing
+outputs and outcomes achieved in support of the Combined Authority
+Business Plan and overall growth and wider objectives will be periodically
+reported linked to scheme Monitoring and Evaluation Plans.
+
+3.5.4. Risk Management
+3.5.4.1. The Combined Authority Chief Executive will be responsible for the
+identification and management of risk for the investment programme. As
+set out in section 2.3.5, key risks for the investment programme will be
+added to the Corporate risk register and will be monitored (alongside
+the performance monitoring procedures) by Internal Audit and reported
+to the Audit Committee.
+
+3.5.4.2. A risk management strategy and risk register forms part of the
+management case of each scheme OBC or FBC. Risks will be managed
+through appropriate mitigation measures agreed with the project
+applicant prior to approval of the scheme. Key and current risks will
+form part of the regular scheme highlight reporting.
+
+3.5.4.3. Overall risk management for the investment programme will have
+regard to the ongoing monitoring of achieved investment performance
+against that projected. Appropriate measures will be adopted to ensure
+that the monitoring of investments provides an informed basis for future
+investment decisions.
+
+3.5.5. Project Closure
+3.5.5.1. All projects are required to produce an End of Project Delivery
+Report at the end of the project (within 3 months of completion), which
+demonstrates that:
+
+Page 40 of 61
+• All activities have been delivered and these accord with the offer
+letter where appropriate.
+
+• All funding has been spent appropriately in line with the projected
+financial profile for the project. In addition, where grant funded,
+final claims are accompanied by an audit report.
+
+• There are no outstanding risks or actions that need to be taken to
+sign the project off by the Combined Authority.
+
+• All relevant outputs and key milestones have been achieved.
+
+• The key successes and lessons learnt from the project.
+
+• Confirmation of the evaluation activities to be subsequently
+undertaken, when these will take place and the lead contact who is
+responsible for ensuring this occurs.
+
+Page 41 of 61
+4. Monitoring and Evaluation
+
+4.1. Overview
+
+4.1.1. The Combined Authority’s overall approach to Monitoring and Evaluation is
+underpinned by the following key principles:
+
+• Reporting requirements are locally defined and support delivery of local
+strategies
+
+• Evaluation is meaningful and proportionate
+
+• Data is collected once and used many times
+
+• Baseline information is consistent across key initiatives
+
+• Monitoring and evaluation is a core part of all activities
+
+• Lessons learned are used to inform future policy development
+
+4.1.2. This will enable the Combined Authority to:
+
+• Demonstrate local accountability. Show how funding is being spent and
+benefits achieved against local strategies and action plans,
+demonstrating the value and effectiveness of local decision making and
+shaping future priorities
+
+• Comply with external scrutiny. Demonstrate progress and delivery to
+the constituent council members, senior government officials and
+Ministers
+
+• Understanding what works. Provide a feedback loop and enables the
+lessons learnt to be fed back into policy making and communicated to
+stakeholders, as well as supporting the case for further devolution and
+investment in the area.
+
+• Developing an evidence base. Provide a mechanism for collecting,
+collating and analysing data which can be used across the organisation
+Page 42 of 61
+and by others, following the principle of collecting data once and using
+it many times.
+
+• Ensure quality assurance. For interventions funded through investment
+programme, Monitoring & Evaluation plans form part of business case
+submissions and these are independently reviewed and published to
+support business case approval decisions by the Mayoral Combined
+Authority or Joint Committee.
+
+4.2. Performance Monitoring
+4.2.1. All projects funded through the investment programme, regardless of the
+size, will have an effective monitoring and evaluation plan in place which
+will form a key part of the business case. This will enable assessment of the
+effectiveness and impact of investing public funds, and the identification of
+best practice and lessons learnt that can inform decisions about future
+delivery. The monitoring plan will guide the collection of data from
+individual projects and will be designed to ensure that it captures
+information required by the Combined Authority and government.
+
+4.2.2. Individual monitoring and evaluation plans will be proportionate,
+correspond with procedures for appraisal, and be in line with the latest
+government department guidance where relevant. These plans will identify
+the resources required to deliver the proposed monitoring and evaluation
+activities. All transport schemes will follow Monitoring and Evaluation
+Guidance for Local Authority Major Schemes.
+
+4.2.3. All monitoring and evaluation plans (which will form part of business cases)
+and interim and final monitoring and evaluation reports will be published on
+the Combined Authority website.
+
+4.2.4. The offer letter will set out the key milestones for the delivery of the
+scheme together with the outputs and outcomes detailed in the business case
+and embodied in the monitoring and evaluation plan. Quarterly monitoring
+returns will be used to capture progress against these agreed milestones and
+metrics and will include information related to:
+
+• Delivery
+• Expenditure
+• Outputs and outcomes
+
+Page 43 of 61
+4.2.5. The individual project monitoring information will feed into an overall
+monitoring plan for the investment programme, which will be published and
+periodically reported to the Combined Authority Committee, including the
+extent to which projects are contributing to the overall objectives of the
+Combined Authority.
+
+4.2.6. For the WoEIF, the evaluation component of individual projects’ monitoring
+and evaluation plans will complement the five-year Gateway Review. This
+government evaluation will focus on identifying the impact of investments
+made using this funding.
+
+4.3. Evaluation and Benefits Realisation
+4.3.1. Monitoring and Evaluation Plans, which form part of business cases, should
+identify the outcomes (benefits) planned to be delivered, how outcomes will
+be measured, a baseline assessment, and how it is intended to implement,
+monitor and assess the project to identify whether the benefits have been
+realised in line with the approach and timescales set out in the Plan. As set
+out in section 3.5.5, the End of Project Delivery Report will confirm the
+monitoring activities set out in the Monitoring and Evaluation Plan. This
+report will also identify lessons learnt to inform the future delivery of
+projects through the Combined Authority and LEP investment programme and
+more widely.
+
+Page 44 of 61
+Appendix 1
+Adult Education Budget
+The Adult Education Functions Order 2018 details the adult education functions in the
+Apprenticeships, Skills, Children and Learning Act 2009 which were transferred from
+the Secretary of State for Education to the West of England Combined Authority.
+Through this transfer of functions, the Combined Authority took responsibility for AEB
+in the Combined Authority area from 1 August 2019 to make sure eligible learners,
+aged 19 and over, have appropriate education and training.
+
+This Framework provides assurance that the West of England Combined Authority has
+in place the necessary systems and processes to manage delegated functions and
+funding relating to the AEB effectively.
+
+Governance and Decision Making
+The decision-making powers for Adult Education Budget (AEB), Adult Skills Fund (ASF),
+Multiply, and Skills Bootcamps initiatives are made by the Mayoral Combined Authority
+Committee, and on the 6th of October 2023 they resolved to delegate authority during
+the 2023/2024 academic year to the West of England Mayoral Combined Authority’s
+Director of Economy and Skills, in consultation with equivalent Directors from the
+Unitary Authorities. An illustrative list of decisions in respect of the delegations
+includes:-
+
+• Decisions on Adult Education Budget / Adult Skills Fund Commissioning Plan,
+Multiply and Skills Bootcamp funding approach.
+• Decisions on indicative and final provider allocations for Adult Education Budget
+/ Adult Skills Fund, Multiply and Skills Bootcamps.
+• Decisions on in-year reallocation for funding including growth, claw back,
+continuing learners, and rebasing for future allocations.
+• Decisions on provider contract extensions determined by the Grant Offer Letter.
+• Decisions on contract termination in-line with rules determined with the Grant
+Offer Letter.
+
+Page 45 of 61
+• Decisions to reallocate funding where providers are underperforming as
+determined in the Grant Offer Letter.
+• Making decisions on the purpose and allocation of funds not allocated through
+initial funding calls or Curriculum Delivery Plan allocations.
+• Making decisions on recommended amendments to the devolved approach for
+Adult Education Budget/Adult Skills Fund in subsequent academic years.
+
+The 2023/2024 academic year
+On the 10th of May 2023 the Chief Executive’s Office Group via delegated Authority of
+the Combined Authority Committee approved a set of conditional allocations to each
+AEB provider and the mechanism through which allocations for the 2023/24 academic
+year will be approved.
+The grant allocation approach has been developed based on the following key
+principles:
+• to maintain funding stability for providers
+• to build delivery plans which are responsive to economic need
+• to ensure the process is fair, efficient, and transparent
+
+Roll-forward allocation were awarded to the existing 9 AEB providers to a value of
+£14,688,028. On the 10th November 2023, via the delegated authority to the Director
+of Economy and Skills, a further £1,435,870 of funding was awarded to 8 providers to
+support 1,400 learners through the AEB Open Application. This includes 2 new
+providers to AEB and 6 existing providers.
+The Open Application process aligns to the AEB Commissioning Plan focusing on
+learners that are low skilled, low paid or unemployed, and supporting them to fill gaps
+in their skills to allow them to progress.
+The total AEB grant funding for 2023/24 is £16,123,898 across 11 providers.
+The providers are required to develop and agree with the Combined Authority a Curriculum
+and Delivery Plan (C&DP) which forms part of the funding terms and conditions of the Grant
+Funding Agreement, alongside the following published AEB policies which are updated
+annually:
+• Funding and Performance Management Rules 2023//24
+• Funding Rates and Formula 2023/24
+Page 46 of 61
+• Provider Performance Management Framework 2023/24
+
+Financial Assurance and Auditing
+The Audit and Assurance approach incorporates joint working arrangements that have
+been agreed with the Education and Skills Funding Agency (ESFA) and other Mayoral
+Combined Authorities (MCAs) through the AEB Audit, Assurance, Fraud, and
+Investigations Network.
+
+Combined Authority officers agreed an audit code of practice with the ESFA and MCAs
+which sets out a common standard for the provision of assurance in relation to the
+funding of post-16 providers (including AEB).
+
+An accredited external audit organisation has been awarded a five-year audit contract
+following a competitive tender process in 2021. In addition, an alternative
+independent auditor will deliver audits where conflicts of interest exist with
+contracted firms.
+
+The assurance reviews will test the accuracy of data submissions, learner records and
+review the internal controls providers have in place. The results of audit activity and
+financial health assessments will be shared with MCAs/GLA via the data sharing
+agreement, which ensures the data being shared is consistent, safe, and secure.
+
+If the ESFA or the Combined Authority suspect fraud or financial irregularity or receive
+information and/or allegations in relation to a provider, including a subcontractor (that
+is funded by both ESFA and the Combined Authority) an approach has been agreed and
+adopted by both organisations.
+
+Due Diligence
+The Combined Authority receive financial information from the Education and Skills
+Funding Agency (ESFA) about the financial health of providers following each national
+finance return.
+
+All financial health assessments received are reviewed as part of the published
+West-of-England-Combined-Authority-Adult-Education-Due-Diligence-Approach-
+FINAL.pdf (westofengland-ca.gov.uk)
+
+Page 47 of 61
+This document outlines the Combined Authority due diligence process to assess the
+degree of risk in funding Adult Education providers and sets out the criteria that would
+prevent an organisation being considered for funding or result in the discontinuation
+of Adult Education funding to that organisation.
+
+In respect of funded providers, the Authority has set out performance management
+arrangements including action to address weakness in financial health where this
+impacts on the delegated funds.
+
+Risk Management
+Risk management is integral to the structuring and presentation of AEB provision.
+During delivery, the AEB team maintain a risk log which is regularly reviewed and
+reported on through their monthly ‘Data Provider Monitoring and Risk’ meetings.
+Significant risks will be escalated and will be added to the Combined Authority
+Corporate risk register. This is reviewed by CLT regularly and activities are reported
+to the Audit Committee.
+
+Stakeholder Engagement
+The Combined Authority Regional Skills Board provides strategic guidance and advice
+to the Combined Authority Committee on Employment and Skills matters and the
+Combined Authority is actively working with a range of stakeholders to support the
+development of the AEB system which delivers provision to Combined Authority
+residents. These stakeholders include: providers, provider representative bodies, key
+local stakeholders (e.g. Local Authorities, DWP, VCSE infrastructure organisations,
+DfE/ESFA etc.). This work is conducted both through formal engagement routes (pre-
+arranged group meetings) and informal meetings (group & 1-2-1).
+The West of England Employment and Skills Advisory Panel (ESAP) has a key responsibility
+in overseeing and guiding the strategic planning and implementation of skills related
+services and support within the region, including the Local Skills Improvement Plan (LSIP).
+It will ensure that the region effectively realises the vision outlined in the Employment &
+Skills Plan, which was fully refreshed in June 2023.
+
+Page 48 of 61
+The Combined Authority uses its website to engage with the wider community and it
+will be use it as a platform for transparent sharing of the AEB commissioning processes
+and objectives.
+
+Monitoring and Evaluation
+
+The Combined Authority’s approach to monitoring and managing AEB performance is
+outlined in the Adult Education Funding and performance Management Rules
+2023/2024. Following the issuing of a Grant Funding Agreement, the responsibility for
+overseeing the successful implementation and delivery of projects will rest with the
+AEB team, comprising of the AEB Programme Manager, AEB Team Manager, Senior
+Relationship Manager, Senior Funding & Assurance Officer, Senior Data Analyst,
+Information Officer and Project Coordinator.
+There is a legal requirement on providers to submit data to the Secretary of State for
+all provision funded by DfE. Learner data will continue to be gathered from providers
+in a national Individual Learner Record data system, via the Individualised Learner
+Record (ILR) that the ESFA will use to share data to support the Combined Authority
+in the development and maintenance of the AEB functions devolved.
+To carry out the delegated functions, the Authority are receiving some data direct
+from AEB providers for validation purposes, supplementary data is uploaded securely
+and includes monthly claim forms, data in funding reports, supporting evidence for
+funding claims, and detailed subcontracting plans through the Curriculum and Delivery
+Plans. The DfE has set out Monitoring and Evaluation guidelines for AEB, which include:
+
+• Consideration for the statutory entitlements detailed in the Orders;
+• The need to consider how funding of the AEB will align to Strategic Skills Plans
+and support the delivery of local economic objectives;
+• Arrangements for enabling effective and meaningful engagement of local (and
+national) partners in proposed use and evaluation of the AEB; and
+• Robust monitoring and evaluation plans going forward, to help identify and
+measure the impact of AEB spending in their area.
+
+All monitoring and evaluation reports will be published on the Combined Authority
+website. The Combined Authority will report on the previous academic year findings
+to date, referencing the most up to date publicly available data at that point in time.
+
+Page 49 of 61
+The Combined Authority is developing its own robust monitoring and evaluation plans
+going forward, to help identify and measure the impact of AEB spending.
+
+The future
+
+The West of England Combined Authority Adult Education Budget: Commissioning Plan
+2023/24 sets out how the Combined Authority intends to utilise the adult education
+provision that we fund to implement the Local Industrial Strategy and Employment
+and Skills Plan. This is a further step towards our vision of an integrated and cohesive
+education, employment and skills system for the West of England.
+
+From the 2024/25 academic year the Adult Education Budget will be replaced on a
+national level with the Adult Skills Fund (ASF). This will involve changes to certain
+aspects of the national approach to adult skills funding and will amalgamate the AEB
+with other funding streams such as Multiply.
+
+The Mayoral Combined Authority will use the 2023/2024 and 2024/2025 academic years
+to consolidate and continue to build upon the system changes introduced in previous
+academic years. Greater simplification and more flexibility will be given to providers to
+spend their allocations this academic year in response to a rapidly changing skills
+landscape.
+
+Page 50 of 61
+Appendix 2
+South-West Net Zero Hub
+
+Community Energy Fund
+
+From 2023/24 the Combined Authority, as accountable body for the South West Net Zero
+Hub, became responsible for administering the Community Energy Fund (CEF) within the
+wider SW of England, including West of England, Gloucestershire (Gfirst), Dorset, Heart
+of Southwest, Solent, Swindon and Wiltshire and Cornwall and Iles of Scilly Local
+Enterprise Partnership areas. The scheme is set to close on 31 March 2025. Grant funding
+decisions for CEF will be made with full consideration to the terms of a Memorandum of
+Understanding signed with the Department for Energy Security and Net Zero (DESNZ).
+
+The CEF provides grants up to £40,000 to community groups to undertake feasibility
+studies and up to £100,000 towards project development, such as planning and legal
+fees. There is a total fund of £2m including administration costs.
+
+The aims of the fund are to:
+
+1. Increase the level of community and locally owned renewable and low carbon
+energy assets to make progress towards the Government’s net-zero carbon
+emissions targets.
+2. Support communities by helping them to reduce energy costs or generate income
+through community owned energy assets, reinvesting income locally, or services
+to reduce energy demand.
+3. Promote growth through the creation of jobs and volunteering opportunities in
+the communities where projects are located.
+
+The fund will achieve its aims by removing barriers to investment that are currently
+preventing the development of community-scale projects.
+
+The SW Net Zero Hub has worked with DESNZ and the 4 other Net Zero hubs in England
+to develop support materials including:
+
+• Application forms and guidance documents
+• A process for assessing bids
+• A scoring matrix for transparent and consistent assessment of bids
+
+Page 51 of 61
+The Combined Authority is the Accountable Body for the CEF, use of funds will be
+compliant with agreed Combined Authority policy and process, ensuring transparent
+oversight and allocation of public funding.
+
+The Joint Committee is ultimately accountable for the CEF, with a delegation in place to
+the LEP Chief Executive in consultation with the Combined Authority Section 73 Officer.
+The LEP Chief Executive will consult with the South West LEP Chief Executives in making
+decisions. The LEP Chief Executive is required to provide periodic updates to the Joint
+Committee.
+
+All grant applications will be reviewed by the Net Zero Hub team, using a scoring matrix
+agreed with DESNZ and the other Net Zero Hubs.
+
+Recommendations for grant funding will be provided to the SW Net Zero Hub Board in its
+advisory capacity, who will challenge or endorse as appropriate. The SW Net Zero Hub
+Board will then agree recommended grant decisions for the West of England LEP Chief
+Executive to consider.
+
+Grant recommendations are only made through a majority decision by the Net Zero Hub
+Board which comprises one representative from each LEP.
+
+The West of England LEP Chief Executive in consultation with the SW LEP Chief
+Executives is the decision- making body for the approval (or otherwise) of
+recommendations made by the Regional Net Zero Hub Manager and Net Zero Hub Board.
+
+SW LEP Chief Executives will be able to challenge Net Zero Hub Board recommendations,
+on issues related to correct application of the scoring criteria. Any challenge to the
+process will trigger a review and report to the West of England LEP Chief Executive who
+will make the final decision.
+
+SW LEP Chief Executives will be asked to confirm their response to decisions within 5
+working days.
+
+SW LEP Chief Executives can confirm delegation of their role to their Net Zero Hub Board
+representative by writing to the Combined Authority Chief Executive.
+
+Page 52 of 61
+Project Development Support
+
+The South West Net Zero Hub also provides a support service to organisations, which is
+not a grant, to develop local energy projects.
+
+Public Sector Decarbonisation Skills
+
+The South West Energy Hub also provides a support service to organisations, which is not
+a grant, to reduce direct emissions from public buildings. The purpose of the support is
+to support organisations to identify low carbon opportunities in public buildings, develop
+net zero organisational plans and develop investment grade proposals to help the public
+sector secure funding such as the Public Sector Decarbonisation Scheme.
+
+Social Housing Decarbonisation Fund
+
+The South West Net Zero Hub is delivering three programmes worth £44m grant funded
+measures to improve the energy efficiency of social housing properties across the South
+West. SHDF wave 1 and 2.1 will help low income households improve the energy
+efficiency of poor quality homes. Low income is defined as an annual household income
+of no more than £30,000. Eligible homes are those with Energy Performance Certificates
+(EPCs) rated Band D, E, F or G; with improvements bringing them up to Band C where
+possible.
+
+The SHDF programme is a consortia of 21 partners who are social housing providers and
+are responsible for delivering the improvements to their homes. A Programme Board
+with a representative of each partner has been established for each consortium which
+reports to the Hub Board and the Combined Authority Senior Management Team as
+required, via the SW Net Zero Hub Manager.
+
+Page 53 of 61
+Appendix 3
+Change Management Delegations for Schemes in the Infrastructure Portfolio and Green
+Recovery Fund
+
+Number Category Approval Tolerances
+
+Combined Authority CRSTS - Cost movement between projects
+Director of no overall increase in programme budget
+Infrastructure or
+Cost Environment in Cost increases of up to 10% to a ceiling of
+1
+Increases consultation with the £100k (Feasibility and Development
+Directors of the relevant Funding) subject to funding being
+constituent Councils available and there being no impact on
+any other project in the programme
+Combined Authority £3m (approved scheme funding) subject
+Chief Executive is to funding being available and there
+consultation with the being no impact on any other project in
+Chief Executives of the the programme
+relevant constituent
+Councils
+Mayoral Combined Cost increases above this threshold
+Authority or Joint
+Committee
+Combined Authority Reduction in match funding up to 10% to
+Chief Executive is a ceiling of £300k
+Reductions
+consultation with the
+2 in Match
+Chief Executives of the
+Funding
+relevant constituent
+Councils
+Combined Authority Reprofiling of up to £100k (Feasibility
+Reprofiling
+Director of and Development Funding) and
+of Spend
+Infrastructure or £500k (approved scheme delivery
+(with no
+3 Environment in funding) between financial years
+cost
+consultation with the
+increase
+Directors of the relevant
+overall)
+constituent Councils
+Mayoral Combined Reprofiling between financial years
+Authority or Joint above this level
+Committee
+Page 54 of 61
+Number Category Approval Tolerances
+
+Combined Authority Slippage of agreed reporting milestones
+Director of less than 6 months
+Infrastructure or
+4 Time Environment in
+consultation with the
+Directors of the relevant
+constituent Councils
+Mayoral Combined
+Authority or Joint Slippage of milestones of 6 months or
+Committee over
+Combined Authority Changes in the agreed approach to
+Director of delivery, standards or quality
+Scope,
+Infrastructure or
+Benefits
+Environment in
+5 and
+consultation with the
+Quality
+Directors of the relevant
+constituent Councils
+Combined Authority Changes to the accountable delivery
+Chief Executive is organisation
+consultation with the
+Chief Executives of the
+relevant constituent
+Councils
+Mayoral Combined Changes to the fundamental scope of the
+Authority or Joint scheme or over 10% change in one or
+Committee more metrics of benefits
+
+Page 55 of 61
+Change Management Delegations for Other Schemes in the Investment Programme
+
+Number Category Scale Approval
+Combined Authority
+funding streams:
+Cost increases of up to 10% to a
+Combined Authority CEO,
+ceiling of £100k (Feasibility and
+in consultation with
+Development Funding) and £3m
+Cost constituent Councils CEOs
+1 (approved scheme funding) subject
+Increases
+to funding being available and there
+LEP funding streams:
+being no impact on any other project
+Combined Authority CEO in
+ion the programme
+consultation with the West
+of England CEOs
+
+Mayoral Combined
+Cost increases above this threshold Authority or Joint
+Committee
+
+Reductions
+Reduction in match funding up to Combined Authority CEO in
+2 in Match
+10% to a ceiling of £300k consultation with CEOs
+Funding
+Mayoral Combined
+Reduction in match funding above
+Authority or Joint
+this level
+Committee
+Reprofiling
+of Spend Reprofiling of up to £50k (Feasibility
+(with no and Development Funding) and Combined Authority CEO in
+3
+cost £100k (approved scheme funding) consultation with CEOs
+increase between financial years
+overall)
+Mayoral Combined
+Reprofiling between financial years
+Authority or Joint
+above this level
+Committee
+Slippage of milestone(s) for
+Combined Authority CEO in
+4 Time approved schemes less than 3
+consultation with CEOs
+months
+Mayoral Combined
+Slippage of milestones of 3 months
+Authority or Joint
+or more
+Committee
+
+Page 56 of 61
+Number Category Scale Approval
+Up to 10% change in value of quality
+Scope,
+as percentage of project value
+Benefits Combined Authority CEO in
+and/or 10% change in one or more
+5 and consultation with CEOs
+metrics of benefits and/or minor
+Quality
+change to the scope of the scheme
+Over 10% change in value of quality Mayoral Combined
+as percentage of project value Authority or Joint
+and/or over 10% change in one or Committee
+more metrics of benefits, or a
+fundamental change to the scope of
+scheme
+
+Page 57 of 61
+Appendix 4
+LEP Publication Checklist
+
+Checklist
+The Local Growth Assurance Framework
+Annual Report and Delivery Plan 2022-2023
+
+LEP Board meeting agendas, papers and minutes
+
+LEP Board membership and Terms of Reference
+Annual Assurance Statement from the leadership of the LEP
+The LEP’s Code of Conduct and Conflict of Interest policy
+Board Members’ registers of interest
+The LEP gifts and hospitality register
+Complaints policy
+Whistleblowing policy
+The LEP funding programme with a description of the scheme, the promoter and the
+funding awarded
+Annual Funding Report detailing projects in receipt of funding and grant payments
+made [2020/21]
+Mayoral Combined Authority Committee Reports and Joint Committee Reports
+
+Page 58 of 61
+Appendix 5
+Methodology to Assess Value for Money for Various Scheme Types
+
+Transport
+For these purposes, a transport scheme is defined as any scheme that
+significantly changes the transport network infrastructure, whatever its
+objectives. Such schemes will be subject to the minimum requirements on
+VfM assessment, assurance and evaluation of transport projects set out in
+Annex B of the National Local Growth Assurance Framework Guidelines. The
+minimum requirements are set out below. These will apply to all transport
+schemes.
+
+• The modelling and appraisal of schemes contained in business cases
+must be developed in accordance with the guidance published in
+WebTAG at the time the business case is submitted for approval.
+
+• Central case assessments must be based on forecasts which are
+consistent with the definitive version of NTEM (DfT’s planning dataset).
+Alternative planning assumptions may be considered as sensitivity tests
+the results of which may be considered in coming to a decision about
+whether to approve a scheme.
+
+• The appraisal and modelling will be scrutinised to ensure it has been
+developed in accordance with WebTAG principles. This will be
+undertaken independent of the management unit or authority
+promoting the scheme.
+
+• A value for money statement for each scheme in line with published DfT
+WebTAG guidance and DfT advice on assessing VfM will be presented for
+consideration at each approval stage.
+
+• The VfM assessment must be signed off as true and accurate by the
+Combined Authority s73 officer.
+
+• Only schemes that offer at least “high” value for money, ie with a BCR
+above 2 and accounting for significant non-monetised impacts and key
+uncertainties have been considered, as assessed using DfT guidance will
+
+Page 59 of 61
+be approved aside from the circumstances outlined in section 3.3.3 of
+this framework. Schemes will be assessed against the relevant
+thresholds at each approval stage.
+
+• Proposals will be assessed against achieving the specific intended
+strategic goal or objectives, and any appraisal should consider this in
+addition to value for money assessments.
+
+• Business cases must be published (and publicised) before a decision to
+approve funding is made so that external comment is possible. Opinions
+expressed by the public and stakeholders must be available to decision
+makers when decisions are being taken (see section 2.2.8).
+
+• Schemes will be monitored and evaluated in line with the latest DfT
+guidance on the evaluation of local major schemes.
+
+Housing and Commercial Interventions
+Arrangements will be based on Homes England good practice, advice and
+guidance, alongside MHCLG’s appraisal guide for residential and non-
+residential development. For projects beyond housing and transport
+interventions, for example enabling works, land assembly, utilities and/or
+public realm projects, the HMCLG appraisal guide will be useful in helping to
+appraise the costs and benefits of these types of interventions.
+
+Skills Capital
+ESFA Skills Funding Agency good practice, advice and guidance will provide a
+reference for skills capital projects. These projects will be expected to
+follow the same business case process and requirements as other schemes
+within the investment programme.
+
+Growth Hubs
+The Growth Hub will comply with the ‘principles of funding’ which includes
+using robust monitoring and evaluation systems to exercise continuous
+service improvement, ensure excellence in quality delivery and deliver
+greater levels of impact on business.
+
+Page 60 of 61
+Appendix 6
+Outline and Full Business Case Template
+
+Appendix 7
+Outline and Full Business Case Guidance
+
+Appendix 8
+Feasibility and Development Funding Application Form Template
+
+Page 61 of 61

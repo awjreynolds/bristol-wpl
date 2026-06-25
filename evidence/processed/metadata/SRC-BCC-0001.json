@@ -1,0 +1,12 @@
+{
+  "characters": 3599,
+  "extracted_date": "2026-06-25",
+  "method": "html-standard-library",
+  "output_path": "evidence/processed/text/SRC-BCC-0001.txt",
+  "sha256": "697d485ea02ee03484db03a9fd8023be2706dcc3467264e400acd93717b8e84f",
+  "source_id": "SRC-BCC-0001",
+  "source_path": "evidence/raw/bristol-city-council/src-bcc-0001_bcc-workplace-parking-levy-project-page.html",
+  "source_status": "downloaded",
+  "title": "Workplace parking levy project page",
+  "url": "https://www.bristol.gov.uk/residents/streets-travel/transport-plans-and-projects/workplace-parking-levy"
+}

@@ -1,0 +1,12 @@
+{
+  "characters": 10817,
+  "extracted_date": "2026-06-25",
+  "method": "html-standard-library",
+  "output_path": "evidence/processed/text/SRC-LEG-0012.txt",
+  "sha256": "71361b878bfffea1e1da8c1624b65e437eff89f28b088c6b15935114e9795755",
+  "source_id": "SRC-LEG-0012",
+  "source_path": "evidence/raw/legislation/src-leg-0012_src-leg-0012-road-user-charging-and-wpl-net-proceeds-regulations-2003-whole-instrument.html",
+  "source_status": "downloaded",
+  "title": "Road User Charging and WPL Net Proceeds Regulations 2003 whole instrument",
+  "url": "https://www.legislation.gov.uk/uksi/2003/110/made"
+}

@@ -1,0 +1,12 @@
+{
+  "characters": 9758,
+  "extracted_date": "2026-06-25",
+  "method": "html-standard-library",
+  "output_path": "evidence/processed/text/SRC-LEG-0001.txt",
+  "sha256": "6ff2de7f46d7713904f1e375fd40a91203b25df1439430c27b33305916262a6e",
+  "source_id": "SRC-LEG-0001",
+  "source_path": "evidence/raw/legislation/src-leg-0001_transport-act-2000-explanatory-notes-road-user-charging-wpl.html",
+  "source_status": "downloaded",
+  "title": "Transport Act 2000 explanatory notes - road user charging and workplace parking levy",
+  "url": "https://www.legislation.gov.uk/ukpga/2000/38/notes/division/5/3/2"
+}

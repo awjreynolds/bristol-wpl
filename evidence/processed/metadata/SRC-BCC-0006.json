@@ -1,0 +1,12 @@
+{
+  "characters": 172741,
+  "extracted_date": "2026-06-25",
+  "method": "pdftotext-layout",
+  "output_path": "evidence/processed/text/SRC-BCC-0006.txt",
+  "sha256": "92c6ff1764d64744471b348d5a3f415b486ac1973c79ba615eb248e2c95d44da",
+  "source_id": "SRC-BCC-0006",
+  "source_path": "evidence/raw/bristol-city-council/src-bcc-0006_appendix-a-feasibility-study-report-wpl-scheme-bristol-final-draft.pdf",
+  "source_status": "downloaded",
+  "title": "Appendix A - Feasibility Study Report for a WPL Scheme in Bristol",
+  "url": "https://democracy.bristol.gov.uk/documents/s100553/Appendix%20A%20-%20Feasibility%20Study%20Report%20for%20a%20WPL%20Scheme%20in%20Bristol-%20Final%20Draft1.pdf"
+}

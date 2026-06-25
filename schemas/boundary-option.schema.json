@@ -1,16 +1,159 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.invalid/bristol-wpl/schemas/boundary-option.schema.json",
+  "title": "WPL Boundary Option",
   "type": "object",
-  "additionalProperties": true,
+  "additionalProperties": false,
+  "required": [
+    "boundary_option_id",
+    "name",
+    "version",
+    "geometry_file",
+    "crs",
+    "source_ids",
+    "status"
+  ],
+  "allOf": [
+    {
+      "if": {
+        "properties": {
+          "status": {
+            "const": "approved"
+          }
+        }
+      },
+      "then": {
+        "required": ["approval_control"]
+      }
+    }
+  ],
   "properties": {
-    "id": {
+    "boundary_option_id": {
+      "type": "string",
+      "pattern": "^BOUNDARY-[A-Z0-9-]+$"
+    },
+    "name": {
+      "type": "string",
+      "minLength": 1
+    },
+    "version": {
       "type": "string"
+    },
+    "description": {
+      "type": "string"
+    },
+    "geometry_file": {
+      "type": "string",
+      "description": "Relative path to GeoPackage, GeoJSON or equivalent controlled spatial file."
+    },
+    "map_outputs": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "crs": {
+      "type": "string",
+      "examples": ["EPSG:27700"]
+    },
+    "administrative_boundary_relationship": {
+      "type": "string",
+      "enum": ["within_bristol", "touches_bristol_boundary", "cross_boundary_sites_present", "not_assessed"]
+    },
+    "edge_case_rules": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["rule_id", "rule_text", "rationale"],
+        "properties": {
+          "rule_id": {
+            "type": "string"
+          },
+          "rule_text": {
+            "type": "string"
+          },
+          "rationale": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "cross_boundary_sites": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["site_reference", "issue", "proposed_treatment"],
+        "properties": {
+          "site_reference": {
+            "type": "string"
+          },
+          "issue": {
+            "type": "string"
+          },
+          "proposed_treatment": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "displacement_assessment_ref": {
+      "type": "string"
+    },
+    "consultation_map_ref": {
+      "type": "string"
+    },
+    "source_ids": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "string",
+        "pattern": "^SRC-[A-Z0-9-]+$"
+      }
+    },
+    "qa_checks": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["check", "status"],
+        "properties": {
+          "check": {
+            "type": "string"
+          },
+          "status": {
+            "type": "string",
+            "enum": ["pass", "fail", "not_run", "not_applicable"]
+          },
+          "evidence_ref": {
+            "type": "string"
+          }
+        }
+      }
     },
     "status": {
-      "type": "string"
+      "type": "string",
+      "enum": ["longlist", "shortlist", "preferred_for_testing", "rejected", "superseded", "approved"]
     },
-    "owner": {
-      "type": "string"
+    "approval_control": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["decision_ref", "signoff_ref", "approval_scope"],
+      "properties": {
+        "decision_ref": {
+          "type": "string",
+          "description": "Formal decision record or simulated decision reference authorising the approval-like status."
+        },
+        "signoff_ref": {
+          "type": "string",
+          "description": "Simulation sign-off ID or real-world approval reference."
+        },
+        "approval_scope": {
+          "type": "string",
+          "enum": ["simulation_only", "real_world_formal_decision"]
+        }
+      }
     }
   }
 }

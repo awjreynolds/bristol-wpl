@@ -1,0 +1,12 @@
+{
+  "characters": 538451,
+  "extracted_date": "2026-06-25",
+  "method": "pdftotext-layout",
+  "output_path": "evidence/processed/text/SRC-WECA-0001.txt",
+  "sha256": "41f7c44dc5f63ec44af8f6a3a0a0887d42a8685c78192ddf2aee9c1d691852d0",
+  "source_id": "SRC-WECA-0001",
+  "source_path": "evidence/raw/west-of-england-mca/src-weca-0001_jltp4-adopted-joint-local-transport-plan-4-2020-2036.pdf",
+  "source_status": "downloaded",
+  "title": "Joint Local Transport Plan 4 2020-2036",
+  "url": "https://www.westofengland-ca.gov.uk/wp-content/uploads/2021/10/JLTP4-Adopted-Joint-Local-Transport-Plan-4.pdf"
+}

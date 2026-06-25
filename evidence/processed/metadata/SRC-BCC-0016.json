@@ -1,0 +1,12 @@
+{
+  "characters": 15044,
+  "extracted_date": "2026-06-25",
+  "method": "pdftotext-layout",
+  "output_path": "evidence/processed/text/SRC-BCC-0016.txt",
+  "sha256": "751e19a6e39e852f6937c4cd3939b8142a36f7f72382067f499482a06c0bbf20",
+  "source_id": "SRC-BCC-0016",
+  "source_path": "evidence/raw/bristol-city-council/src-bcc-0016_transport-connectivity-policy-committee-forward-plan-2026-01-21.pdf",
+  "source_status": "downloaded",
+  "title": "Forward Plan - Transport and Connectivity Policy Committee",
+  "url": "https://democracy.bristol.gov.uk/documents/l395/Printed%20plan%20Transport%20Connectivity%20Policy%20Committee%20-%2021%20January%202026.pdf?T=4"
+}

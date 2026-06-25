@@ -1,0 +1,12 @@
+{
+  "characters": 74,
+  "extracted_date": "2026-06-25",
+  "method": "html-standard-library",
+  "output_path": "evidence/processed/text/SRC-BCC-0002.txt",
+  "sha256": "f4f3be4ca5e6a08c0789cd6108dbbb415d7ef203c3469073a1334a8dd97088f6",
+  "source_id": "SRC-BCC-0002",
+  "source_path": "evidence/raw/bristol-city-council/src-bcc-0002_bcc-news-further-information-bristol-wpl-2026-02-23.html",
+  "source_status": "downloaded",
+  "title": "Further information - Bristol Workplace Parking Levy",
+  "url": "https://news.bristol.gov.uk/press-releases/ba17de24-32b0-46ce-80b6-3d629d6eade1/further-information-bristol-workplace-parking-levy"
+}

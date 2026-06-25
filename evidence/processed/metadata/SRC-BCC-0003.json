@@ -1,0 +1,12 @@
+{
+  "characters": 18609,
+  "extracted_date": "2026-06-25",
+  "method": "pdftotext-layout",
+  "output_path": "evidence/processed/text/SRC-BCC-0003.txt",
+  "sha256": "6c15764ee31f3e495dd3b168be34a50e676c5f203b7b87ceebfbafc1a9c8fff6",
+  "source_id": "SRC-BCC-0003",
+  "source_path": "evidence/raw/bristol-city-council/src-bcc-0003_committee-report-workplace-parking-levy-2024-09-12.pdf",
+  "source_status": "downloaded",
+  "title": "Committee Report - Workplace Parking Levy",
+  "url": "https://democracy.bristol.gov.uk/documents/s100552/Committee%2BReport%2BWorkplace%2BParking%2BLevy.pdf"
+}

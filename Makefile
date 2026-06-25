@@ -1,6 +1,6 @@
 PYTHON ?= python3
 
-.PHONY: bootstrap ingest extract evidence-qa validate models model-qa spatial-qa assemble-obc assemble-fbc build-docx accessibility-check red-team gate-obc gate-fbc all
+.PHONY: bootstrap acquire ingest extract source-register register-workbooks source-scan templates evidence-qa validate models model-qa spatial-qa assemble-obc assemble-fbc build-docx accessibility-check red-team gate-obc gate-fbc all
 
 bootstrap:
 	$(PYTHON) scripts/bootstrap_repo.py
@@ -8,8 +8,23 @@ bootstrap:
 ingest:
 	$(PYTHON) scripts/ingest_sources.py
 
+acquire:
+	$(PYTHON) scripts/acquire_sources.py --priority 1_must
+
 extract:
 	$(PYTHON) scripts/extract_sources.py
+
+source-register:
+	$(PYTHON) scripts/build_source_register.py
+
+register-workbooks:
+	$(PYTHON) scripts/build_register_workbooks.py
+
+source-scan:
+	$(PYTHON) scripts/scan_source_terms.py
+
+templates:
+	$(PYTHON) scripts/build_document_templates.py
 
 evidence-qa:
 	$(PYTHON) scripts/validate_registers.py --evidence
@@ -48,4 +63,4 @@ gate-obc:
 gate-fbc:
 	$(PYTHON) scripts/stage_gate_check.py --gate fbc
 
-all: bootstrap ingest validate
+all: bootstrap ingest templates validate

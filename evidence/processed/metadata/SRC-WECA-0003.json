@@ -1,0 +1,12 @@
+{
+  "characters": 52968,
+  "extracted_date": "2026-06-25",
+  "method": "pdftotext-layout",
+  "output_path": "evidence/processed/text/SRC-WECA-0003.txt",
+  "sha256": "a80c1744fc56e56a987da7fe349451e77464fa925f2cec18aaf91824913e25b7",
+  "source_id": "SRC-WECA-0003",
+  "source_path": "evidence/raw/west-of-england-mca/src-weca-0003_combined-authority-bus-strategy-updated-sept-2021.pdf",
+  "source_status": "downloaded",
+  "title": "Combined Authority Bus Strategy updated September 2021",
+  "url": "https://www.westofengland-ca.gov.uk/wp-content/uploads/2021/12/Combined-Authority-Bus-Strategy-updated-Sept-2021.pdf"
+}

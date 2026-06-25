@@ -1,0 +1,1093 @@
+Transport business case guidance - GOV.UK 
+
+Cookies on GOV.UK
+
+We use some essential cookies to make this website work.
+We’d like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services.
+We also use cookies set by other sites to help us deliver content from their services.
+
+You have accepted additional cookies. You can change your cookie settings at any time. 
+
+You have rejected additional cookies. You can change your cookie settings at any time. 
+
+Accept additional cookies 
+
+Reject additional cookies 
+
+View cookies 
+
+Hide cookie message
+
+Skip to main content 
+
+GOV.UK 
+
+Navigation menu
+
+Menu
+
+Menu 
+
+Services and information
+
+Benefits 
+
+Births, death, marriages and care 
+
+Business and self-employed 
+
+Childcare and parenting 
+
+Citizenship and living in the UK 
+
+Crime, justice and the law 
+
+Disabled people 
+
+Driving and transport 
+
+Education and learning 
+
+Employing people 
+
+Environment and countryside 
+
+Housing and local services 
+
+Money and tax 
+
+Passports, travel and living abroad 
+
+Visas and immigration 
+
+Working, jobs and pensions 
+
+Government activity
+
+Departments 
+Departments, agencies and public bodies
+
+News 
+News stories, speeches, letters and notices
+
+Guidance and regulation 
+Detailed guidance, regulations and rules
+
+Research and statistics 
+Reports, analysis and official statistics
+
+Policy papers and consultations 
+Consultations and strategy
+
+Transparency 
+Data, Freedom of Information releases and corporate reports
+
+Search GOV.UK
+
+×
+
+Search GOV.UK
+
+Search
+
+Search GOV.UK 
+
+Search
+
+Home 
+
+Transport 
+
+Corporate and operational information (transport) 
+
+Transport business case: assessment and process procedures 
+
+Department
+for Transport 
+
+Guidance
+
+Transport business case guidance 
+
+Updated 16 December 2022
+
+Contents
+
+Foreword 
+
+Introduction 
+
+The business case 
+
+The strategic dimension 
+
+The economic dimension 
+
+The financial dimension 
+
+The commercial dimension 
+
+The management dimension 
+
+Tools and guidance 
+
+Print this page 
+
+© Crown copyright 2022
+
+This publication is licensed under the terms of the Open Government Licence v3.0 except where otherwise stated. To view this licence, visit nationalarchives.gov.uk/doc/open-government-licence/version/3 or write to the Information Policy Team, The National Archives, Kew, London TW9 4DU, or email: psi@nationalarchives.gov.uk .
+
+Where we have identified any third party copyright information you will need to obtain permission from the copyright holders concerned.
+
+This publication is available at https://www.gov.uk/government/publications/transport-business-case/transport-business-case-guidance
+
+Foreword
+
+An efficient transport network is the backbone of any economy. It connects people and drives prosperity, reduces our impact on the environment and regenerates local communities. It is crucial to the government’s levelling up agenda and our commitment to net zero, delivering the green industrial revolution we need to fight climate change. Quite simply, investment in transport that is designed and implemented well, can improve lives.
+
+All transport investment projects start with sound policy and thorough appraisal. Department for Transport ( DfT ) officials and our stakeholders should use this guidance to develop the strong business cases which underpin that policy. It will help us to structure our thinking, prepare consistent advice and make transparent and evidence-based decisions.
+
+The guidance is updated to reflect the 2020 Green Book Review , which highlighted the importance of all departments following the same high-level framework when developing business cases that are strategically relevant and informed by robust evidence. This consistency across government is vital to inspiring trust and confidence in our decisions from stakeholders and the public.
+
+This guidance now reiterates the importance of maintaining strong strategic coherence throughout the entirety of the business case, developing investment proposals that contribute to achieving our strategic priorities, the need to undertake distributional analysis and assessing place-based impacts for transport.
+
+By following the five case model, we will ensure that transport proposals are aligned to the strategic context they operate in, better represent value for money, are commercially and financially viable and are delivered efficiently so users can benefit more quickly. The guidance should be used alongside the central business case guidance documents and DfT ’s well-established Transport analysis guidance .
+
+Coronavirus (COVID-19) has hit communities and the economy hard. But as we build back from the pandemic, DfT ’s strategic priorities have never been more important. From increasing connectivity and decarbonising the network, to improving user experience and selling our expertise to the world, transport will be at the heart of the UK’s green-led economic recovery. This guidance helps deliver that recovery.
+
+Bernadette Kelly, Permanent Secretary, DfT 
+
+Amanda Rowlatt, Chief Analyst, DfT 
+
+Louise Morgan, Director of Strategy, DfT 
+
+Introduction
+
+This guidance explains how DfT uses the HM Treasury 2022 Green Book and supplementary business case guidance when developing transport business cases and preparing advice on spending decisions. It is primarily aimed at those who are involved in developing transport proposals, as well as informing a wider audience with an interest in the business case process.
+
+It is an accompaniment to the core HM Treasury guidance and follows the Green Book’s five case model, which is the government’s best practice model for spending and investment decisions. This document explains how specific transport-related factors and valuation issues are applied in this context.
+
+Developers of spending proposals must understand the wider HMT guidance.
+
+These publications are in the public domain and are invaluable background reading for those seeking to understand the basis on which spending advice is prepared.
+
+The Green Book and the relevant HM Treasury business case guidance (items 1 to 4) provide the basis on which policy proposals should be prepared. DfT transport analysis guidance ( TAG – item 5) provides detailed guidance on transport appraisal and modelling.
+
+HM Treasury: The Green Book – appraisal and evaluation in central government 
+
+HM Treasury: business case guidance for programmes (PDF, 1.3MB)
+
+HM Treasury: business case guidance for projects (PDF, 1.9MB)
+
+Department for Transport: transport analysis guidance ( TAG ) 
+
+The following documents provide wider contextual guidance
+
+HM Treasury: managing public money 
+
+HM Treasury: The Magenta Book – detailed guidance on appraisal methods
+
+HM Treasury: The Aqua Book – detailed guidance on analytical and modelling quality
+
+Individuals that have a professional involvement in developing proposals and approving business cases should be professionally trained and accredited in the HM Treasury’s better business cases methodology. More information on the better business cases programme is available.
+
+Purpose of this guidance
+
+Business cases for different modes of transport or funding streams each have their own particular circumstances and considerations. Explaining how these are accounted for in the preparation of advice, according to the business case guidance, is the subject of this supplementary transport guidance.
+
+To ensure ministers and other decision-makers receive the right information on which to draw their conclusions, all proposals are required to follow the same high-level process. This allows for objective comparisons of proposals for investment within and between:
+
+strategic portfolios
+
+programmes
+
+projects
+
+transport modes
+
+This document provides a clear explanation of the:
+
+business case process for transport investment decisions in line with core government guidance 
+
+evidence developed by the department and its partners for consideration by ministers to enable them to make informed and balanced decisions
+
+tools and sources of further guidance available
+
+This document updates the version published in 2013 and, as in the original, focuses on the transport issues when applying the business case process.
+
+It has been updated to reflect the recommendations of the 2020 Green Book Review and the 2022 Green Book.
+
+The revised guidance includes sections on:
+
+undertaking distributional analysis and assessing place-based impacts in a transport context
+
+ensuring there is strong strategic coherence throughout the business case
+
+engaging with the strategic context by developing investment proposals that contribute to achieving strategic priorities
+
+maintaining a continual thread of alignment from policies to programmes and through to projects
+
+assessing transformational change of transport policies
+
+The guidance also sets out how existing flexibilities in TAG can support promoters in developing cases in line with the 2022 Green Book.
+
+The business case
+
+DfT follows the core business case process and the 2022 Green Book.
+
+Central to this is the five case model, which provides decision-makers and stakeholders with a proven and consistent framework for developing a business case.
+
+The five case model requires business cases to:
+
+set out a robust case for change that demonstrates how the proposal has a strong strategic fit organisation’s priorities, government ambitions and the area(s) in scope – the ‘strategic dimension’
+
+demonstrate the value for money and the best choice for maximising social welfare through options appraisal – the ‘economic dimension’
+
+illustrate the commercial viability and supply-side capacity for the proposal – the ‘commercial dimension’
+
+demonstrate the proposal is financially affordable – the ‘financial dimension’
+
+set out the proposal’s deliverability through the effective development of plans, management and resources to oversee the project from outputs to outcomes – the ‘management dimension’
+
+A holistic approach should be taken when developing business cases as the 5 dimensions are thoroughly connected and indivisible. Therefore, each dimension should not be considered in isolation.
+
+The business case process requires the bringing together of experts, stakeholders and those involved in developing the business case to work collaboratively and maintain strong alignment between all 5 dimensions. This can be achieved through a series of workshops as set out in the Green Book and explained in more detail later in this guidance.
+
+The business case process is practical and flexible to allow the business case to develop iteratively as evidence emerges. It is a valuable tool and a working document that should be updated and revisited throughout the duration of the proposal’s development and management.
+
+At each stage, information between the 5 dimensions may change the initial assumptions and estimates made. This requires all of the professions and functions involved in the process to work together to review and then build upon its predecessor. This ensures that the business case remains up to date, accurate and relevant to the strategic objectives and the priorities of the department and wider government.
+
+The business case should primarily focus on developing the best possible proposal using the tools and models available in guidance. The formal writing of the business case is the secondary focus.
+
+The degree of detail contained within the business case will vary depending on the stage of the business case, the level of investment or the proposed risk to ensure that the appraisal process is proportionate.
+
+Similarly, different investment routes or capital projects for different transport modes may require additional details to be provided and considered as part of the decision-making and investment proposal development process.
+
+Transport business case evidence framework
+
+DfT provides tools and guidance that can be used to produce the evidence required for each of the 5 dimensions, in order to apply the requirements of the Green Book and central business case guidance to transport. This also helps to ensure that the evidence presented within a business case is balanced, robust and consistent.
+
+Transport analysis guidance ( TAG ) is DfT guidance on the conduct of transport studies. This includes or provides links to advice on how to:
+
+create a transport model for the appraisal of the alternative solutions
+
+conduct an appraisal that meets DfT ’s requirements.
+
+The Tools and guidance section illustrates how different sources of evidence can feed into each of the 5 dimensions.
+
+Overview of the process for a business case
+
+The programme business case should be developed iteratively as one document, whereas the project business case is typically developed in 3 stages. Smaller, more straightforward policies or investment proposals may require fewer phases while larger or complex proposals may require more stages.
+
+However, all of the key steps and actions should be covered and the reduction in stages must be agreed in advance with the reviewing authority. The 3 stages are:
+
+stage 1 – strategic outline case ( SOC )
+
+stage 2 – outline business case ( OBC )
+
+stage 3 – full business case ( FBC )
+
+Business case process flow diagram displaying 3 process stages each with following investment decision point (IDP). Stage 1 the Strategic Outline Case, stage 2 the Outline Business Case and stage 3, the Final Business Case.
+
+At each stage the business case will be considered at an investment decision point (at the department’s relevant investment committee) before proceeding to the next stage.
+
+If the investment is above the department’s delegated expenditure limit ( DEL ) or if it is a sensitive proposal in which a high-profile programme is dependent upon, it will also be referred to HM Treasury for approval through the Treasury approval process .
+
+The approval process provides constructive challenge to support the improvement of proposals during their development.
+
+Therefore, if approved, the proposal has an increased likelihood of a reasonable and timely delivery of the original objectives – at or within acceptable limits of the budget projections.
+
+Throughout the process, the DfT Centres of Excellence (strategic, economic, procurement, finance and project delivery experts) provide independent advice and ensure that business cases seeking approval are sufficiently scrutinised.
+
+The Centres of Excellence assist teams during development stages and formally review transport business cases ahead of each Investment Decision Point. Recommendations from Centre of Excellence reviews should be taken forward by teams. Staff in DfT can consult the department’s intranet guidance for further details on Centre of Excellence reviews.
+
+Detailed guidance on the business case development process for large, medium and small projects can be found in chapter 3 of the HM Treasury: business case guidance for projects (PDF, 1.9MB). All project business cases must be developed using this guidance.
+
+Programme business cases must be developed using the detailed guidance on the development process for programme business cases. This can be found in chapter 1 of the HM Treasury: business case guidance for programmes. (PDF, 1.3MB)
+
+Before developing a business case
+
+A strategic assessment should be undertaken prior to developing a business case to confirm that the proposal is strategically aligned. DfT and/or relevant partners must first:
+
+assess the strategic context – identify how the transport proposal will contribute to achieving objectives at the national, regional and local scale and the strategic priorities of the organisation. Explore how it aligns to other existing and planned transport policies
+
+consider place-specific implications – where relevant, determine how the transport proposal will fit with regional and local priorities of the area(s) in scope. Assess how the proposal will complement existing and planned initiatives (including non-transport policies) and consider the impact it may have on different social groups
+
+identify the problem – outline the issue(s) to be solved
+
+establish whether there is a need for a transport intervention – define the specific role that the transport proposal will play when delivered and confirm that a transport policy is the best option to solve the problem(s) identified
+
+As set out in the HM Treasury business case guidance documents, a project or programme business case should be prepared following the approval of senior management to the organisational strategy, a mandate and a brief for the respective project or programme.
+
+A range of options should be developed and an initial assessment carried out that considers the most suitable mode of transport, including multi-modal options. The  DfT Early assessment and sifting tool ( EAST ) can aid this process.
+
+For major initiatives, consideration should be given to whether a Starting Gate review (PDF, 360KB) is required. This is an independent peer review process that takes place at the policy formulation phase before the initiation of a major programme or project.
+
+Stage 1: the strategic outline case
+
+Business case process flow diagram displaying 3 process stages each with following investment decision point (IDP). Stage 1, highlighted, is the Strategic Outline Case followed by IDP.
+
+The strategic outline case ( SOC ) establishes the potential scope of the transport proposal. This sets out the rationale for intervention (the case for change) and confirms how the investment will further the organisation’s priorities and wider government ambitions (the strategic fit) to determine the ‘preferred way forward’.
+
+This stage determines the SMART (specific, measurable, achievable, relevant and time-constrained) spending objectives of the proposal and, by using the options framework-filter (Green Book chapter 4), considers a longlist of option choices and assembles an optimised shortlist of viable options for more detailed appraisal at OBC stage.
+
+Before submitting the SOC to the DfT investment committee, the business case should be formally reviewed by DfT Centres of Excellence. At the investment decision point, the investment committee will consider the SOC and make recommendations to ministers. They will then decide whether to provide the initial agreement to proceed to stage 2 of the business case process ( OBC ) where detailed planning and assessments of options takes place.
+
+Stage 2: the outline business case
+
+Business case process flow diagram displaying 3 process stages each with following investment decision point (IDP). Stage 2, highlighted, is the Outline Business Case followed by IDP.
+
+The outline business case ( OBC ) checks and, where satisfactory, reconfirms the conclusion made in the SOC and concentrates on detailed assessments of the shortlisted options to find the optimum solution.
+
+The strategic dimension should be revisited and reconfirmed at the OBC stage. Full economic and financial appraisals should take place, a preferred option is selected and, where relevant, preparations are made for the potential contract through the development of the commercial dimension. The arrangements required to ensure successful delivery are set out in the management dimension.
+
+Before submitting the OBC to the DfT investment committee, the business case should be formally reviewed by the DfT Centres of Excellence. At the investment decision point, the investment committee will consider the OBC and, if it is below the DEL limits or not otherwise called in by HM Treasury, make recommendations to ministers.
+
+They will then decide whether the proposal will proceed to stage 3 of the business case process ( FBC ).
+
+Stage 3: the final business case
+
+Business case process flow diagram displaying 3 process stages each with following investment decision point (IDP). Stage 3, highlighted, is the Final Business Case followed by IDP.
+
+The final stage is the final business case ( FBC ). The FBC confirms the conclusions made in the SOC and OBC and runs a formal procurement. It then checks the result of the procurement by re-running the resultant values in the preferred option models to ensure that the outcome provides the best option.
+
+Before submitting the FBC to the DfT investment committee and, where appropriate, HM Treasury, the business case will be subject to a final formal review by the DfT Centres of Excellence.
+
+At the investment decision point, the investment committee will consider the FBC and make a recommendation to ministers. Ministers will decide whether the proposal should proceed to implementation.
+
+The strategic dimension
+
+The strategic dimension is the section of the business case that describes how the transport proposal contributes to achieving strategic priorities and how it aligns with existing portfolios, programmes and projects in DfT , across government and in the geographical area(s) of scope.
+
+It should make a compelling, evidence-based case to establish whether a transport intervention is needed either now or in the future.
+
+This dimension sets out the strategic context for the proposal and therefore provides an overarching framework for the business case.
+
+The business case should maintain strong strategic coherence between each of the 5 dimensions.
+
+The strategy for investing, outlined in the strategic dimension, must drive all aspects of the business case, such as the options considered for investment in the economic dimension.
+
+As set out in the Green Book, the strategic dimension should consist of:
+
+the strategic context – consider the wider social and economic context, using evidence, to demonstrate how the transport proposal fits with the strategic priorities of the organisation, wider government ambitions and local and regional strategies. Describe how the investment interacts with planned and existing strategic portfolios, programmes and projects of the organisation and in the geographical area(s) of scope
+
+the case for change – outline the current situation, identify a clear rationale for the transport intervention and provide a logical, objectively supported and evidence-based process of change to determine how the SMART spending objectives will be achieved
+
+Determining the strategic context and case for change should be an iterative process that is revisited as the business case develops.
+
+This will ensure that the business case remains relevant so that it can respond to changes in government strategies or accommodate new policies.
+
+This should identify the risks and constraints of delivering the transport investment within the current and future environment, as well as the dependencies of the proposal on other projects or programmes.
+
+Stakeholder groups should be consulted and their views should be taken into consideration throughout the strategic dimension. Where appropriate, these groups may include:
+
+other government departments (specifically the Ministry of Housing, Communities and Local Government (MHCLG) for alignment to housing policies)
+
+DfT agencies and public bodies (such as Highways England)
+
+sub-national transport bodies (such as Transport for the North)
+
+combined and local authorities
+
+individuals, businesses and community groups in scope, including transport users
+
+environment organisations
+
+transport industry experts including academics
+
+At early stages, it is expected that experts and relevant stakeholders should be brought together via workshops to determine the SMART spending objectives of the proposal and to utilise the use of the Options Framework Filter as set out in the Green Book.
+
+Strategic priorities
+
+Strategic priorities should be defined at the national, regional and local scale. This includes priorities of the national government, government departments (such as DfT ), agencies and public bodies (such as Highways England), sub-national transport bodies (such as Transport for the North) and local stakeholders, including local authorities.
+
+Business cases should set out all relevant considerations of the strategic priorities to decision makers. The strategic dimension should present any limitations, frictions or conflicts between the transport proposal and the strategic priorities.
+
+Relevant legislation and legal obligations of the government and DfT must be taken into account. This will include commitments such as decarbonising transport to deliver net zero greenhouse gas emissions by 2050 and levelling up the UK to deliver a fairer, stronger society.
+
+DfT ’s Outcome delivery plan sets out how we will achieve these priorities.
+
+A Levelling up toolkit has been published to help authors provide a structure to the strategic dimension of a business case. It can be used to:
+
+improve the focus, quality and transparency of evidence presented in a business case
+
+help demonstrate how a transport proposal contributes to the levelling up agenda
+
+Strategic alignment
+
+Strategic coherence throughout the transport business case
+
+The strategic dimension provides a framework for which the remaining business case dimensions should draw from and refer to. This ensures that the 5 dimensions are developed collectively and are strategically aligned.
+
+Statements made in the strategic dimension should be supported by balanced evidence and robust analysis that is then fully explored in the economic dimension.
+
+It must be clear to what extent the value of the strategic benefits are captured and presented in the economic appraisal.
+
+Claims for strategic benefits that are not accounted for in the economic dimension should be underpinned by a strong theory of change narrative and supported with robust evidence.
+
+The longlist of options should first be developed so that the options are consistent with and contribute to achieving the strategic priorities. Only options that meet the SMART spending objectives should be shortlisted for detailed cost-benefit or cost effectiveness analysis in the economic dimension of the business case.
+
+Use of the options framework-filter for consideration of the longlist and shortlist selection is mandated by the Green Book (see chapter 4).
+
+The golden thread of strategic alignment
+
+The strategic dimension should make clear how the project supports and is aligned with the programme of which it is a part and how that programme then fits with in support of the strategic priorities (and a strategic portfolio if there is one).
+
+This should explain the objective ‘thread’ of strategic alignment from the strategy, through to programmes and into the project. This is displayed in the following diagram.
+
+This is a flow diagram which shows the thread of strategic alignment. This starts with the Strategic Portfolios, then Programmes, then Projects, then Outputs and finally to Outcomes.
+
+Transport proposals that are place-based should set out the interaction of the project or programme with other existing and planned policies in the area(s) of scope.
+
+Transport interventions should seek to complement existing infrastructure and economic structures. This may include other modes of transport, housing, employment and education and social policies.
+
+Place-based analysis should be conducted in the economic dimension and refer to the Place Based Analysis annex in the Green Book. 
+
+Achieving transformational change
+
+Annex 7 of the Green Book provides guidance on transformation, systems and dynamic change.
+
+Transformational change is most likely to be delivered through strategic portfolios of grouped programmes, that all contribute to achieving shared objectives and focus on changes to a number of outcomes.
+
+Therefore, transformative interventions are unlikely to be achieved through individual transport projects. Instead, this change can be delivered through a coherent package of policies within an area over time, in which transport plays a key role as an enabling function, bringing people, places and businesses all together.
+
+Transport investment proposals that have an objective of achieving transformational change should be clearly explained with a logical process of change and supported by substantial evidence, research and appraisal.
+
+What questions can be asked?
+
+The strategic dimension will be scrutinised by the DfT Strategic Centre of Excellence and the relevant investment committee, alongside the overall business case, before being presented to ministers for consideration.
+
+The questions likely to be asked by an investment committee include:
+
+The strategic context
+
+how does the transport proposal contribute to the strategic priorities of the organisation, wider transport objectives and government ambitions?
+
+what are the relevant local, regional or network objectives that the proposal contributes to or that are dependent on delivery?
+
+is the proposal part of an integrated strategy or programme of work delivered by DfT or other relevant organisations? What is the overall level of impact of this proposal in combination with other connected schemes?
+
+who are the target and/or affected population(s)? Have they and other relevant stakeholders been consulted on their needs, current behaviours and attitudes to the proposed intervention?
+
+if this is a major project or programme, is there an integrated assurance plan in place as required by the Major Projects Authority?
+
+The case for change
+
+what are the SMART spending objectives that the proposal aims to achieve? How were they determined and how do they ensure the proposal contributes to achieving the strategic priorities?
+
+what are the existing arrangements for the provision of transport services? Can they be better utilised or are more fundamental changes required?
+
+if applicable, what is the geographical scope of the investment? How does the proposal interact with the socio-economic context of the area(s)?
+
+is/are the problem(s) identified supported by a robust evidence base?
+
+why is the investment needed either now or in the future? What would happen if the proposal didn’t go ahead?
+
+are there any internal or external business drivers that support the investment or pressures that make it necessary to act?
+
+how will a successful delivery of the investment be measured?
+
+what are the constraints and dependencies considering other programmes and projects which are underway? Are there risks to the organisation in taking the proposal forward?
+
+was a starting gate review undertaken before the decision was taken to proceed with the investment?
+
+what was the process for generating the longlist of investment options and how have they been refined to a shortlist of options? How was the preferred way forward determined?
+
+how does each investment option contribute to and/or conflict with achieving the SMART objectives and the strategic priorities identified?
+
+Contents of the strategic dimension
+
+The elements of the strategic dimension should be easily identifiable in the business case to show that they’ve been covered.
+
+Around 50% of the strategic dimension should be completed at SOC stage, 80% at OBC and 100% at FBC . Completed elements should be revisited and reconfirmed at each successive stage of the business case and updated with new information if appropriate.
+
+Elements that should be completed at SOC stage:
+
+organisation overview – an outline of the strategic priorities and responsibilities of the organisation(s) responsible for the proposal (for example DfT , Highways England, or the Local Authority)
+
+business strategy and wider strategies – determine the strategic fit of the proposal to the priorities of relevant organisations, the government (for example, the ambition to achieve net zero greenhouse gas emissions by 2050) and the regional, combined and local authorities in scope
+
+interdependencies – set out the strategic portfolios, programmes and projects that the investment may interact with or link to: do they contribute towards achieving the same outcomes? Where does the intervention sit within this hierarchy?
+
+existing arrangements and the impact of not changing – provide a clear picture of the current service model that serves as the baseline from which to measure future improvements. If applicable, set out the geographical scope of the investment and the economic, social and environmental context of the area: what is the impact of not intervening?
+
+business needs and service gaps – determine the organisation’s business needs: these are internal and external factors that are needed for the transport intervention to fulfil its objectives
+
+problem identification – describe the problem(s) identified to determine the rationale: what is the evidence base underpinning the problem? Does it justify the need for a transport intervention?
+
+SMART spending objectives – establish SMART objectives for what the investment sets out to achieve: these should be specific, measurable, achievable, relevant and time-constrained. SMART objectives should align to the strategic priorities identified and provide clear measures of success
+
+scope – explain the scope of the intervention: what will it deliver? What is out-of-scope?
+
+Elements that should be outlined at SOC and completed at OBC stage:
+
+measures of success and planning for delivery – set out what constitutes a successful delivery of the SMART spending objectives and determine the delivery arrangements. This can be conducted via workshops as per the HM Treasury business case guidance
+
+strategic benefits – describe, using evidence, the strategic benefits this proposal will provide through achieving the SMART spending objectives. Identify a clear theory of change that provides a comprehensive description of how the transport investment will result in those outcomes and impacts
+
+strategic assessment of investment options – evaluate the longlist and shortlist of options against the SMART objectives and assess their impact on wider strategic priorities: options that do not contribute to achieving these priorities should be discounted
+
+risks and constraints – specify the main risks to achieving the SMART objectives: how will risks be mitigated and managed? Outline the constraints that could impact the successful delivery of the proposal including any relevant legislation and legal obligations that the investment engages with
+
+Stakeholders’ views and requirements – outline the main stakeholder groups and their contribution to the development of the proposal, including their views and any conflicts between groups
+
+All elements should be revisited at FBC stage and updated with new information if appropriate.
+
+The economic dimension
+
+The economic dimension involves the appraisal of options to understand their potential costs and benefits, taking into account the uncertainty around these impacts.
+
+DfT ’s transport analysis guidance ( TAG ) and Value for money framework provide advice and tools for conducting robust and proportionate transport appraisals which are consistent with Treasury Green Book guidance. This helps to ensure that business cases are aligned with best practice to ensure that public money is well spent.
+
+TAG states that it should not be applied mechanically. Consideration should be given to the strategic context of the proposal (as discussed in the strategic dimension) and the expected impacts.
+
+It is important to undertake work at an early stage (set out in an appraisal specification report) (PDF, 1.6MB) to identify relevant modelling and analytical approaches which consider the key impacts and uncertainties associated with the transport intervention with reference to its objectives.
+
+TAG provides flexibility around how analysis is undertaken. DfT is open to the use of novel techniques not currently incorporated into guidance, provided the methods and values are evidence-based and sufficiently assured to assess the transport proposal being put forward.
+
+The appraisal provides an assessment of the social welfare impacts of the proposal at the UK level.
+
+The impacts considered are not limited to those directly impacting on the measured economy, nor to those which can be monetised.
+
+The value for money assessment should incorporate all of the economic, environmental and social impacts of the proposal using qualitative, quantitative and monetised information in line with the Green Book and DfT value for money framework.
+
+In line with the recent 2020 Green Book Review and 2022 Green Book, wider analysis which illuminates the investment case for the transport proposal should also be presented.
+
+This can include analysis around the extent to which the investment achieves its strategic objectives and wider government priorities. The Green Book stipulates that proposals that do not meet strategic objectives cannot be considered value for money.
+
+This will help to ensure that the economic appraisal engages with the strategic context.
+
+Analysis of differential impacts is an important part of the analysis in the economic dimension and should not be considered as an afterthought.
+
+As stated in the Green Book, place-based analysis must be conducted for all proposals with an objective that is specific to a particular place or type of area and the impact on place will be the primary reference for the analysis, with UK national impacts presented alongside.
+
+Unless it can be justified as disproportionate, place-based analysis must also be conducted for proposals which do not have geographically defined objectives, but which appear likely to have different implications, either positive or negative, for parts of the UK.
+
+Distributional analysis should be conducted for all transport proposals to understand the impacts on different social groups.
+
+What questions can be asked?
+
+The economic dimension supports the assessment of the options appraisal and value for money which is presented to ministers alongside wider evidence on its impacts on different social groups and places.
+
+The economic dimension will be scrutinised by the DfT Economic Centre of Excellence and relevant investment committee alongside the overall business case, before being presented to ministers for consideration.
+
+The questions likely to be asked by an investment committee include:
+
+Options
+
+has the HM Treasury options framework filter been used to filter and develop options (as set out in the Green Book chapters 4 and 5)?
+
+have key transport experts and stakeholders been included in the longlist assessment process?
+
+have a reasonable range of options been considered at the longlist stage that includes innovative and low-cost options?
+
+have options that do not meet the strategic objectives been excluded from the shortlist?
+
+does the shortlisting process take into account unintended collateral effects, including distributional effects?
+
+have reasons for inclusion/exclusion from the shortlist and the identification of the preferred way forward been appropriately justified and transparently presented?
+
+do shortlisted options include a preferred way forward and a minimum viable option and at least 2 other viable options?
+
+Methodologies, assumptions and data
+
+have significant data and assumptions been presented transparently?
+
+what is the scope for challenge about the approach undertaken, including both the appraisal and transport modelling?
+
+have the caveats and limitations associated with the approach undertaken been appropriately described?
+
+has appropriate quality assurance been conducted, especially where novel or innovative approaches have been adopted?
+
+Social cost-benefit analysis and wider analysis
+
+have all relevant impacts including economic, social, environmental and tax benefits and costs been included in the analysis and clearly reported?
+
+have impacts been quantified and monetised where possible?
+
+have non-monetised impacts been appropriately considered?
+
+to what extent have the benefits outlined in the strategic dimension been accounted for?
+
+Distributional analysis
+
+have potential distributional impacts on key social groups been assessed including assessments stemming from the Equality Act public sector equality duty and under the government’s ‘family test’?
+
+Place-based impacts
+
+has place-based analysis been conducted for proposals with an objective that is specific to a particular place or type of area and, unless it is considered disproportionate, for proposals without geographically defined objectives as set out in the place based analysis annex of the Green Book? 
+
+Uncertainty analysis
+
+have significant political, economic, social, behavioural and technological uncertainties been reflected in the analysis?
+
+have the potential impacts of other transport and non-transport investments in the local vicinity been considered?
+
+has the impact of uncertainty around local housing and population growth been addressed?
+
+has sensitivity testing been conducted to reflect potential uncertainty around the scope and timing of the scheme?
+
+have uncertainties around key appraisal and modelling assumptions been considered and, where proportionate, tested in the analysis?
+
+Value for money (VfM)
+
+have all monetised impacts, non-monetised impacts and sensitivities been included in the VfM assessment ?
+
+is the VfM statement consistent with departmental guidance ?
+
+Contents of the economic dimension
+
+The elements of the economic dimension should be easily identifiable in the business case to show that they’ve been covered.
+
+Around 40% of the economic dimension should be completed at SOC stage, 70% at OBC and 100% at FBC . Completed elements should be revisited and reconfirmed at each successive stage of the business case and updated with new information if appropriate.
+
+Elements that should be outlined at SOC and completed at OBC stage
+
+longlist appraisal – assess the longlist of options (outlined in the strategic dimension) to a shortlist of options and identify the preferred way forward
+
+methodologies, assumptions and data – set out the methodologies, assumptions and data that have been used to underpin any transport modelling and appraisal
+
+social cost-benefit analysis of shortlist – present and explore the main economic impacts associated with the intervention from a UK social welfare perspective
+
+distributional analysis – provide distributional analysis to understand the impacts on different social groups
+
+place-based analysis – conduct place-based analysis where the proposal has geographically focused objectives or where impacts of national-level interventions may differ spatially (where this is proportionate)
+
+wider analysis – include any extra analysis which provides useful insight to inform the decision-making process: this could include analysis of the various options’ performance against the SMART objectives at the shortlist stage. This analysis should be proportionate and consistent with the strategic dimension
+
+value for money – see DfT value for money guidance 
+
+See DfT transport analysis guidance and HMT The Green Book guidance for more advice.
+
+Elements that should be completed at OBC stage
+
+uncertainty analysis – analyse to understand how changes in different factors affect the value for money of the investment: this should show how likely it is that these changes may happen. The DfT Uncertainty Toolkit can help with this type of analysis
+
+appraisal summary table – see TAG for detailed guidance
+
+All completed elements should then be revisited and, subject to further scrutiny at OBC and FBC stage, updated with new evidence and analysis as required.
+
+Alignment with the strategic dimension
+
+The economic and strategic dimensions should be aligned. The impacts of the transport proposal should be referenced in the strategic dimension and analysis of the impacts should be considered in the economic dimension, with consistent evidence and assumptions used across the 2 dimensions.
+
+Any uncertainties around local housing and population growth or whether other interdependent investments go ahead should be addressed through sensitivity testing in the economic dimension.
+
+The financial dimension
+
+The financial dimension concentrates on:
+
+the affordability of the proposal
+
+funding arrangements
+
+technical accounting issues
+
+It presents the financial profile of the different options and the impact of the proposed deal on the organisation’s budgets and accounts.
+
+What questions can be asked?
+
+The financial dimension will be scrutinised by the DfT Finance Centre of Excellence and relevant investment committee, alongside the overall business case, before being presented to ministers for consideration.
+
+The questions likely to be asked by an investment committee include:
+
+how much does the proposal cost each year? Which organisation(s) will pay for it?
+
+are the various types of cost (admin, resource and capital) falling to the organisation(s) clearly identified? Do they have budget cover in each of the years in which they fall and are they affordable?
+
+how reliable and committed are third-party funders to the proposal?
+
+if funding for the investment proposal involves borrowing (for example, from the government or wider market), how robust is the arrangement. Are there risks associated with servicing the repayment and interest?
+
+what are the key financial risks? Have these been quantified? Is there a robust risk management strategy?
+
+has any sensitivity analysis been undertaken? What are the results?
+
+does the investment proposal depend on third-party income streams – for example, from fees or tolls? If so, how robust are the estimates/forecasts? Are any risk-sharing arrangements contemplated?
+
+what are the accounting implications (for example, is it on/off the public-sector balance sheet)?
+
+are there any state aid issues to address (for example, which may constrain or limit public sector support)?
+
+is the funding compliant with ‘Managing public money’ and other central government guidance? Is Treasury approval needed?
+
+Contents of the financial dimension
+
+The elements of the financial dimension should be easily identifiable in the business case to show that they’ve been covered.
+
+Around 30% of the financial dimension should be completed at SOC stage, 60% at OBC and 100% at FBC . Completed elements should be revisited at each successive stage of the business case and updated with new information if appropriate.
+
+Elements that should be outlined at SOC and completed at OBC stage
+
+introduction to affordability – outline the approach taken to assess affordability
+
+budgets and funding cover – provide analysis of the budget and funding cover for the proposal: set out, if relevant, details of other funding sources (for example, third-party contributions, fees)
+
+costs – provide details of the expected whole life costs, when they’ll occur, breakdown and profile of costs by those parties on whom they fall and any risk allowance that may be required
+
+Elements that should be completed at FBC stage
+
+accounting implications – describe the expected impact on the organisation’s balance sheet
+
+All elements should be revisited at FBC stage and updated with new information, if appropriate.
+
+The commercial dimension
+
+The commercial dimension provides evidence on the commercial viability of the proposal and the procurement strategy that will be used to engage the market.
+
+It should clearly set out the financial implications of the proposed procurement strategy. It presents evidence on risk allocation and transfer, contract timescales and implementation timescale as well as details of the capability and skills of the team delivering the proposal and any personnel implications arising from the proposal.
+
+What questions can be asked?
+
+The commercial dimension will be scrutinised by the DfT Procurement and Corporate Finance Centres of Excellence and relevant investment committee, alongside the overall business case, before being presented to ministers for consideration.
+
+The questions likely to be asked by an investment committee include:
+
+is there a robust contracting and procurement strategy?
+
+is the risk transfer supported by incentives (positive or negative) that prompt the intended outcomes (for example, will the contractor lose money if there are any cost overruns)?
+
+who’s taking marginal risk, including on planning consent, demand, revenue availability and integration risk?
+
+how was the proposed procurement approach developed? For major projects, has DfT ’s Director of Procurement been consulted on the procurement strategy?
+
+is there a developed market for the proposed procurement approach and financing arrangements?
+
+how confident are we that appropriate contractual/commercial arrangement can be defined to make the structure and risk transfer work in practice?
+
+is the proposed risk allocation consistent with the cost estimate?
+
+how does the mechanism incentivise performance, efficiency and innovation?
+
+Contents of the commercial dimension
+
+The elements of the commercial dimension should be easily identifiable in the business case to show that they’ve been covered.
+
+Scheme promoters will need to consult their departmental sponsor for mode-specific format and content requirements for the commercial dimension. They should also engage with the DfT Corporate Finance team to consider support from an advisor, who will be separate from the assurance process.
+
+Around 20% of the commercial case should be completed at SOC stage, 60% at OBC and 100% at FBC . Completed elements should be revisited at each successive stage of the business case and updated with new information if appropriate. Be aware that decisions made at SOC stage will be difficult to move away from later (for example, outsourced individual work packages will differ from appointing a ‘design, build and operate’ main contractor).
+
+Procurement best practice is outlined in the four sourcing playbooks (links in the Tools and guidance section below). The commercial case should explain how the project or programme complies with the most relevant playbook for their scheme at each submission. Playbooks have flowcharts to explain what should be submitted at each business case stage.
+
+Elements that should be completed at SOC stage
+
+commercial approach – outline the approach taken to assess commercial viability
+
+a review of the supply market capability and capacity for options under consideration
+
+Elements that should be outlined at SOC and completed at OBC stage
+
+output-based specification – summarise the requirement in terms of outcomes and outputs, supplemented by full specification as an annex
+
+procurement strategy – detail the procurement and purchasing options including how they will secure the economic, social and environmental factors outlined in the economic dimension
+
+Elements that should be outlined at SOC and completed at FBC stage
+
+human resource issues – describe any personnel, people management and trade union implications, where applicable, including TUPE regulations
+
+Elements that should be outlined at OBC and completed at FBC stage
+
+sourcing options – explain the options for sources of the provision of services to meet the business need: this may include partnerships, frameworks and/or existing supplier arrangements, with the rationale for selecting preferred sourcing option. The availability of third-party funding ( TPF ) should be considered from local developers and local revenue sources. Options for private finance funding should be discussed with the DfT Corporate Finance Centre of Excellence.
+
+payment mechanisms – set out the proposed payment mechanisms that will be negotiated with the providers (for example, linked to performance and availability, providing incentives for alternative revenue streams): see the relevant playbook references in the Tools and guidance section below
+
+pricing framework and charging mechanisms – include incentives, deductions and performance targets
+
+risk allocation and transfer – present an assessment of how the types of risk might be apportioned or shared, with risks allocated to the party best placed to manage them subject to achieving value for money.
+
+contract length – set out scenarios and rationale for contract length, including proposed key contractual clauses
+
+contract management – provide a high-level view of implementation timescales: detail additional support for in-service management during rollout and closure and set out arrangements for managing the contract through project or service delivery
+
+a summary of the material elements of the deal now agreed, compared with original business case targets for cost, quality, safety, service, performance and social value.
+
+All elements should be revisited at the FBC stage and updated with new information, if appropriate.
+
+The management dimension
+
+The management case assesses whether a proposal is deliverable. It tests the proposal’s:
+
+planning
+
+governance structure
+
+risk management
+
+communications and stakeholder management
+
+benefits realisation and assurance (for example, a gate review)
+
+There should be a clear and agreed understanding of what needs to be done, why, when and how, with measures in place to identify and manage any risks.
+
+The management dimension sets out a plan to ensure that the benefits set out in the strategic and economic dimensions are realised and will include measures to assess and evaluate this.
+
+All projects and programmes are expected to have a risk management plan, proportionate to their scale.
+
+What questions can be asked?
+
+The management dimension will be scrutinised by the DfT Project Delivery Centre of Excellence and relevant investment committee, alongside the overall business case, before being presented to ministers for consideration.
+
+The committee will examine the feasibility and practicality of delivering the proposal and will require demonstration that an appropriate project management regime is in place for the proposal.
+
+The questions likely to be asked by an investment committee include:
+
+what is the proposal’s overall high-level goal (including the SMART objectives)?
+
+who is the client/sponsor? (note there is no fixed definition of these terms and it should clear which party each relates to)
+
+what are the key go/no go decision points? Is it clear what would happen at each stage after a go/no go decision?
+
+who is in charge? Is there a project board or similar? Are they following best practice (for example, by being able to answer these questions satisfactorily)?
+
+what is the composition of the project board (for example, is it people who take decisions, or are they people who simply represent interests)? Do they have the relevant skills and experience?
+
+what is the allocation of roles and responsibilities between DfT and delivery partners? Who has the final say on committing fund/accepting risk?
+
+what are the metrics: milestones, targets, desired outcomes and wider impacts? Is there a programme for measuring/evaluating them? Is there a clear logic model for how the outcomes will be achieved? This should align to the strategic dimension.
+
+have all benefits been assigned an owner, appropriate targets and is there a benefits baseline?
+
+what is the proposed reporting and approval process?
+
+how are stakeholders involved? Are they being managed?
+
+where they use a programme manager externally, do they have the skills and capacity to manage the programme manager?
+
+who is advising the client? Are they credible in the context of the proposal? What is their track record in the field?
+
+what risks are left with the client (and the department where different), what are the cost implications and how will they be managed? What would be the impact on the department if the risk materialised?
+
+who has assessed risk? Are they an expert in the field? Do we need/have an independent view?
+
+does the proposal have independent assurance in place?
+
+is this project in the government’s Major Projects Portfolio?
+
+how will post- FBC management be coordinated and monitored?
+
+Contents of the management case
+
+The elements of the management dimension should be easily identifiable in the business case to show that they have been covered.
+
+Around 20% of the management case should be completed at SOC stage, 50% at OBC and 100% at FBC . Completed elements should be revisited at each successive stage of the business case and updated with new information if appropriate.
+
+Elements that should be completed at SOC stage:
+
+introduction and objectives – outline the approach taken to assess if the investment is deliverable
+
+evidence of similar projects – if possible, provide evidence of similar projects that have been successful to support the recommended project approach: if no similar projects are available for comparison, outline the basis of assumptions for delivery of this proposal (for example, a comparison with industry averages for this kind of work)
+
+governance, organisational structure and roles – describe key roles, accountabilities, roles and responsibilities and how they are resourced
+
+assurance – assurance strategy and plan with key assurance and approval milestones
+
+carbon management – describe the project’s whole life carbon management approach and set carbon reduction targets against baselines
+
+Elements that should be outlined at SOC and completed at OBC stage
+
+programme or project reporting – describe the reporting arrangements including delegated authorities, exception reporting, tolerances and change control
+
+programme or project scope, dependencies and constraints – set out deliverables and decisions that are provided/received from other projects and any constraints: this may include drop-dead delivery dates, resources and circumstances
+
+project implementation – summarise the key-work packages, product and work break down structures for executing the work
+
+programme or project plan – outline a plan with key milestones, progress and include a critical path
+
+stakeholder engagement and communications – set out the communications strategy and plans that accounts for all stakeholders, aligning with those outlined in the strategic dimension
+
+risk and issues management – provide arrangements for risk management and issues that are likely to affect delivery and implementation
+
+lessons management – produce a strategy and plan for learning from other proposals, learning throughout the proposal and sharing lessons with other teams
+
+benefits management - produce a longlist of prioritised benefits and a Benefits Logic Map to show how benefits contribute to strategic objectives.
+
+data and information security – explicitly address the protection of critical systems, digital assets and commercially sensitive data
+
+carbon management – provide a detailed and robust carbon management plan, which reports predicted emissions against baseline values, includes credible mitigation of associated risks, and provides sufficient evidence on the project team’s overall ability to manage and reduce carbon emissions
+
+Elements that should be outlined at SOC and completed at FBC stage
+
+benefits management and evaluation – set out the approach to managing the realisation and a credible plan for the evaluation of benefits including a set of benefit profiles
+
+project closure – summarise arrangements for project closure and how data will be captured for future benchmarking
+
+All elements should then be revisited at FBC stage and updated with new information, if appropriate.
+
+Tools and guidance
+
+Further guidance is available for DfT staff on the department’s intranet.
+
+This includes contact information for Centre of Excellence colleagues who can guide you through the process of producing a business case and discuss your specific requirements.
+
+Business case guidance
+
+HM Treasury: The Green Book (PDF, 1.5MB) is the core appraisal and evaluation guidance in central government
+
+HM Treasury: the Magenta Book provides guidance on designing an evaluation
+
+HM Treasury: the Aqua Book sets out how to produce quality analysis
+
+HM Treasury also provides central Business case guidance for projects (PDF, 1.9MB) and Business case guidance for programmes 
+
+Managing Public Money sets out core guidance on how to handle public funds
+
+Strategic dimension
+
+the DfT outcome delivery plan 2021 to 2022 sets out in detail how DfT will continue to deliver on its strategic priorities, measure success and continuously improve
+
+the Levelling up toolkit can be used to provide structure to the strategic dimension of a business case, improve the evidence presented and help demonstrate how a proposal contributes to the levelling up agenda
+
+the Early assessment and sifting tool ( EAST ) is a decision support tool that has been developed to quickly summarise and present evidence on options in a clear and consistent format
+
+The hints and tips guide to logic mapping provides in-depth advice on developing logic maps to inform the planning, design and evaluation of transport interventions
+
+Enabling behaviour change provides guidance on the issues to consider in developing initiatives that seek to enable changes in people’s travel behaviour and offers practical tips when considering options for addressing barriers to sustainable behaviours
+
+Behavioural insights toolkit sets out how behavioural insights can be used by DfT and local authorities to develop transport policy
+
+the Carbon tool for local authorities is a tool to assist local authorities’ assessment of the potential effects of transport interventions on carbon emissions in their area
+
+Economic dimension
+
+TAG is the DfT guidance on the conduct of transport modelling and appraisal
+
+The DfT value for money framework sets out how to complete and communicate value for money assessments
+
+Commercial dimension
+
+The sourcing playbook provides guidance on service delivery, including outsourcing, insourcing, mixed economy sourcing and contracting
+
+The construction playbook guidance describes how sourcing and contracting public works projects and programmes
+
+Consultancy commercial guidance is provided in the consultancy playbook 
+
+Specialist activities for digital and IT projects are outlined in the digital, data and technology playbook 
+
+Advice on public private partnership (PPP) and private finance initiative (PFI) 
+
+The procuring for growth balanced scorecard explains how government buyers should adopt a scorecard approach for certain types of procurements
+
+Tackling modern slavery in government supply chains 
+
+To check for latest procurement policy changes, refer to procurement policy notes 
+
+Management dimension
+
+the Infrastructure and Projects Authority (formerly Office of Government Commerce) Assurance review toolkit provides advice on IPA reviews
+
+the Guide for effective benefits management, Infrastructure and Projects Authority (2017) (PDF, 1.5MB)
+
+Assurance of benefits realisation in major projects provides best practice on benefits management for assurance reviews processes
+
+the HM Government Orange Book (PDF, 1MB) sets out the management of risk principles and concepts
+
+DfT ’s evaluation guidance including evaluation plans and benefits realisation
+
+Back to top
+
+Is this page useful?
+
+Maybe
+
+Yes this page is useful 
+
+No this page is not useful 
+
+Thank you for your feedback
+
+Report a problem with this page
+
+Help us improve GOV.UK
+
+Do not include personal or financial information like your National Insurance number or credit card details.
+
+This field is for robots only. Please leave blank 
+
+What were you doing? 
+
+What went wrong? 
+
+Send 
+
+Cancel 
+
+Help us improve GOV.UK
+
+To help us improve GOV.UK, we’d like to know more about your visit today.
+Please fill in this survey (opens in a new tab ) .
+
+Cancel 
+
+Services and information
+
+Benefits 
+
+Births, death, marriages and care 
+
+Business and self-employed 
+
+Childcare and parenting 
+
+Citizenship and living in the UK 
+
+Crime, justice and the law 
+
+Disabled people 
+
+Driving and transport 
+
+Education and learning 
+
+Employing people 
+
+Environment and countryside 
+
+Housing and local services 
+
+Money and tax 
+
+Passports, travel and living abroad 
+
+Visas and immigration 
+
+Working, jobs and pensions 
+
+Government activity
+
+Departments 
+
+News 
+
+Guidance and regulation 
+
+Research and statistics 
+
+Policy papers and consultations 
+
+Transparency 
+
+How government works 
+
+Get involved 
+
+Support links
+
+Help 
+
+Privacy 
+
+Cookies 
+
+Accessibility statement 
+
+Contact 
+
+Terms and conditions 
+
+Rhestr o Wasanaethau Cymraeg 
+
+Government Digital Service 
+
+All content is available under the Open Government Licence v3.0 , except where otherwise stated
+
+© Crown copyright

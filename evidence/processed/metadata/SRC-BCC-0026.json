@@ -1,0 +1,12 @@
+{
+  "characters": 24587,
+  "extracted_date": "2026-06-25",
+  "method": "pdftotext-layout",
+  "output_path": "evidence/processed/text/SRC-BCC-0026.txt",
+  "sha256": "6fde2cb7fc67be69e76fa12d902afe8b3f7f505ff535fef4df28ea53801edb06",
+  "source_id": "SRC-BCC-0026",
+  "source_path": "evidence/raw/bristol-city-council/src-bcc-0026_src-bcc-0026-printed-minutes-transport-and-connectivity-policy-committee-19-march-2026.pdf",
+  "source_status": "downloaded",
+  "title": "Printed minutes - Transport and Connectivity Policy Committee 19 March 2026",
+  "url": "https://democracy.bristol.gov.uk/documents/g11589/Printed%20minutes%2019th-Mar-2026%2017.00%20Transport%20Connectivity%20Policy%20Committee.pdf?T=1"
+}

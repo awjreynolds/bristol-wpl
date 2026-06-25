@@ -1,0 +1,12 @@
+{
+  "characters": 64335,
+  "extracted_date": "2026-06-25",
+  "method": "html-standard-library",
+  "output_path": "evidence/processed/text/SRC-DFT-0001.txt",
+  "sha256": "aefbebb13963f90504293cabfcb997eb86d0ccdc4e3d37cb9fb49b89f6cdd8ef",
+  "source_id": "SRC-DFT-0001",
+  "source_path": "evidence/raw/dft-and-tag/src-dft-0001_dft-transport-business-case-guidance.html",
+  "source_status": "downloaded",
+  "title": "Transport business case guidance",
+  "url": "https://www.gov.uk/government/publications/transport-business-case/transport-business-case-guidance"
+}

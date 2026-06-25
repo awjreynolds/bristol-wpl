@@ -1,0 +1,12 @@
+{
+  "characters": 9425,
+  "extracted_date": "2026-06-25",
+  "method": "html-standard-library",
+  "output_path": "evidence/processed/text/SRC-HMT-0002.txt",
+  "sha256": "5fbf8ea170ddeb22f470a42e689caa03e6369460538fa3fb07c78f43e4f7fa43",
+  "source_id": "SRC-HMT-0002",
+  "source_path": "evidence/raw/hm-treasury/src-hmt-0002_src-hmt-0002-the-magenta-book.html",
+  "source_status": "downloaded",
+  "title": "The Magenta Book",
+  "url": "https://www.gov.uk/government/publications/the-magenta-book"
+}

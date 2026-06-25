@@ -1,0 +1,12 @@
+{
+  "characters": 13667,
+  "extracted_date": "2026-06-25",
+  "method": "html-standard-library",
+  "output_path": "evidence/processed/text/SRC-LEG-0008.txt",
+  "sha256": "3e368e8b18ad54be8d3a687468992b7a89d0707395ab182c17900ec2edfbf6a9",
+  "source_id": "SRC-LEG-0008",
+  "source_path": "evidence/raw/legislation/src-leg-0008_src-leg-0008-road-traffic-regulation-act-1984-section-121a.html",
+  "source_status": "downloaded",
+  "title": "Road Traffic Regulation Act 1984 section 121A",
+  "url": "https://www.legislation.gov.uk/ukpga/1984/27/section/121A"
+}

@@ -1,0 +1,615 @@
+Transport analysis guidance - GOV.UK 
+
+Cookies on GOV.UK
+
+We use some essential cookies to make this website work.
+We’d like to set additional cookies to understand how you use GOV.UK, remember your settings and improve government services.
+We also use cookies set by other sites to help us deliver content from their services.
+
+You have accepted additional cookies. You can change your cookie settings at any time. 
+
+You have rejected additional cookies. You can change your cookie settings at any time. 
+
+Accept additional cookies 
+
+Reject additional cookies 
+
+View cookies 
+
+Hide cookie message
+
+Skip to main content 
+
+GOV.UK 
+
+Navigation menu
+
+Menu
+
+Menu 
+
+Services and information
+
+Benefits 
+
+Births, death, marriages and care 
+
+Business and self-employed 
+
+Childcare and parenting 
+
+Citizenship and living in the UK 
+
+Crime, justice and the law 
+
+Disabled people 
+
+Driving and transport 
+
+Education and learning 
+
+Employing people 
+
+Environment and countryside 
+
+Housing and local services 
+
+Money and tax 
+
+Passports, travel and living abroad 
+
+Visas and immigration 
+
+Working, jobs and pensions 
+
+Government activity
+
+Departments 
+Departments, agencies and public bodies
+
+News 
+News stories, speeches, letters and notices
+
+Guidance and regulation 
+Detailed guidance, regulations and rules
+
+Research and statistics 
+Reports, analysis and official statistics
+
+Policy papers and consultations 
+Consultations and strategy
+
+Transparency 
+Data, Freedom of Information releases and corporate reports
+
+Search GOV.UK
+
+×
+
+Search GOV.UK
+
+Search
+
+Search GOV.UK 
+
+Search
+
+Home 
+
+Transport 
+
+Transport modelling and appraisal 
+
+Guidance
+
+Transport analysis guidance
+
+Transport analysis guidance (TAG) provides information on the role of transport modelling and appraisal.
+
+From: 
+
+Department for Transport 
+
+Published 
+29 October 2013 
+Last updated 
+
+28 May 2026
+— 
+See all updates
+
+Get emails about this page 
+
+Contents
+
+Introduction 
+
+Overview 
+
+Guidance for the senior responsible officer (SRO) 
+
+Guidance for the technical project manager (TPM) 
+
+Guidance for the appraisal practitioner 
+
+Guidance for the modelling practitioner 
+
+Guidance for the evaluation practitioner 
+
+TAG data book 
+
+Common analytical scenarios databook 
+
+Software tools 
+
+Supplementary guidance 
+
+Forthcoming changes and previous versions of TAG 
+
+Feedback and contact 
+
+Data protection regulations 
+
+Print this page 
+
+Introduction
+
+This content contains guidance on the conduct of transport studies, supported by the  appraisal, modelling and evaluation strategy for transport . The guidance includes or provides links to advice on how to:
+
+set objectives and identify problems
+
+develop potential solutions
+
+create a transport model for the appraisal of the alternative solutions
+
+how to conduct an appraisal that meets the requirements of the Department for Transport ( DfT )
+
+Projects or studies that require government approval are expected to make use of this guidance in a manner appropriate for that project or study. For projects or studies that do not require government approval, TAG should serve as a best practice guide.
+
+DfT endeavours to keep the guidance up-to-date in light of new evidence and developments in best practice modelling and appraisal methodologies. Changes are released through an orderly release process , giving users early sight of changes and when they are to be released definitively. Users working on longer-term business cases should refer to the proportionate update process when considering incorporating these changes into their analyses.
+
+For users wishing to understand how the new structure relates to previous versions of TAG , a 
+correspondence table ( MS Excel Spreadsheet , 24.7 KB ) is available. An archived version of the previous TAG site is also available.
+
+Overview
+
+This overview provides general introductory information on the role of transport modelling and appraisal, and how the transport appraisal process supports the development of investment decisions to support a business case.
+
+TAG overview 
+
+Guidance for the senior responsible officer ( SRO )
+
+This guidance is for project promoters and sponsors who manage and oversee those projects as a whole.
+
+It provides knowledge on how the evidence derived from the transport appraisal process can be used to support the transport business case and inform the decision-making process. It introduces the high-level concepts of transport appraisal and modelling, the important outcomes required and the main risks to monitor and manage.
+
+TAG guidance for the senior responsible officer 
+
+Guidance for the technical project manager ( TPM )
+
+This guidance is for technical managers that oversee the detailed modelling and appraisal work.
+
+It provides more detailed knowledge on the key components of the transport appraisal process – including options development analyses and appraisal – describing how the concepts of transparency and proportionality should be applied. Overall, this should enable those managers to programme and manage the deliverables and resources more effectively. This identifies the main outputs expected in transport business cases and provides checklists of those expectations in more detail.
+
+TAG guidance for the technical project manager 
+
+Transport appraisal process
+
+This guidance gives a more detailed description of the transport appraisal process, including more detail on the 3-stage process of option development, further appraisal and implementation/evaluation.
+
+Transport appraisal process 
+
+Spending objective analysis
+
+Informs practitioners on how to assess the contribution of options to achieving a proposal’s spending objectives.
+
+Spending objective analysis 
+
+Transport appraisal case studies
+
+These case studies show how local context can be captured as part of the transport appraisal process, to make the argument for transport investment that supports local economic growth objectives.
+
+TAG : capturing local context in transport appraisal 
+
+Proportionate update process
+
+This guidance provides an overview of DfT ’s process for updating guidance, when guidance is intended to become definitive and how analysts should go about adopting changes to guidance in a proportionate manner.
+
+Proportionate update process 
+
+Guidance for the appraisal practitioner
+
+These guidance documents inform practitioners of best practice in preparing the necessary outputs for the appraisal of transport schemes and policies.
+
+A1 cost-benefit analysis
+
+These guidance documents give advice on the principles of cost-benefit analysis in transport appraisal, the estimation of scheme costs and the calculation of direct impacts on transport users and providers.
+
+TAG unit A1-1 cost-benefit analysis 
+
+TAG unit A1-2 scheme costs 
+
+TAG unit A1-3 user and provider impacts 
+
+A2 economic impacts
+
+These guidance documents give advice on the appraisal of the wider impacts, regeneration impacts, and dependent development impacts, of transport interventions.
+
+TAG unit A2-1 wider economic impacts appraisal 
+
+TAG unit A2-2 induced investment 
+
+TAG unit A2-3 employment effects 
+
+TAG unit A2-4 productivity impacts 
+
+A3 environmental impacts
+
+This guidance provides advice on the appraisal of the environmental impacts of transport interventions. It deals with impacts on both the built and natural environment and on people. The environmental impacts covered in this manual are noise, air quality, greenhouse gases, landscape, townscape, the historic environment, biodiversity and the water environment. The guidance discusses the relationship between environmental impact appraisal (as set out in this unit) and environmental impact assessment and the need to tailor the level of appraisal to the stage of development of the proposal.
+
+TAG unit A3 environmental impact appraisal 
+
+A4 social and distributional impacts
+
+These guidance documents give advice on the appraisal of the social impacts and distributional impacts of transport interventions.
+
+TAG unit A4-1 social impact appraisal 
+
+TAG unit A4-2 distributional impact appraisal 
+
+TAG unit A4-3 place-based analysis 
+
+A5 uni-modal appraisal
+
+These guidance documents give advice on issues specifically relating to cases where only one mode of transport is explicitly modelled. Guidance is provided for active modes (such as walking and cycling), aviation, rail and highway interventions and on the use of marginal external congestion costs to estimate decongestion benefits resulting from mode switch away from car use.
+
+TAG unit A5-1 active mode appraisal 
+
+TAG unit A5-2 aviation appraisal 
+
+TAG unit A5-3 rail appraisal 
+
+TAG unit A5-4 marginal external costs 
+
+TAG unit A5-5 highway appraisal 
+
+Appraisal worksheets
+
+Worksheets used to present evidence for each impact:
+
+Appraisal tables 
+
+Economic impacts worksheets 
+
+Environmental impacts worksheets 
+
+Social and distributional impacts worksheets 
+
+Proformas 
+
+Optimism bias workbook 
+
+Guidance for the modelling practitioner
+
+This guidance informs practitioners of best practice in transport models that provide evidence for use in the appraisal of transport schemes and policies.
+
+M1 modelling principles
+
+This guidance provides an introduction to transport models, modelling data and forecasting. It aims to help practitioners understand the general principles of transport modelling and DfT ’s forecasting approach. It also identifies the main sources of transport data that are available to practitioners developing transport models and address the methods used for gathering data including survey methodology.
+
+TAG unit M1-1 principles of modelling and forecasting 
+
+TAG unit M1-2 data sources and surveys 
+
+M2 demand modelling
+
+This guidance provides advice on the development of variable demand models. This covers scoping the need for such models, their specification, development, calibration and validation, and ensuring fitness for purpose in forecasting.
+
+TAG unit M2-1 variable demand modelling 
+
+TAG unit M2-2 base year matrix development 
+
+M3 assignment modelling
+
+These guidance documents give advice on developing, calibrating and validating highway and public transport assignment models. It provides advice on aggregate highway assignment models, for both general and specific purposes, which represent average conditions over the modelled period. It also provides detailed advice on methods for public transport passenger assignment models.
+
+TAG unit M3-1 highway assignment modelling 
+
+TAG unit M3-2 public transport assignment modelling 
+
+M4 forecasting
+
+This guidance provides advice on using transport models to prepare future forecasts of demand and supply. This includes guidance on the use of DfT ’s demand projections in the NTEM dataset. Furthermore, forecasting is, by nature, uncertain, and this unit gives guidance on how various sources of uncertainty should be taken into account throughout the forecasting process.
+
+TAG unit M4 forecasting and uncertainty 
+
+TAG Uncertainty Toolkit 
+
+TAG uncertainty scenarios: upcoming changes 
+
+M5 advanced modelling techniques
+
+This guidance provides advice on using advanced modelling techniques. These techniques include modelling the impacts of parking policies and park and ride schemes and incorporating the impacts of smarter choice initiatives in existing modelling tools.
+
+TAG unit M5-1 modelling parking and park-and-ride 
+
+TAG unit M5-2 modelling smarter choices 
+
+TAG Unit M5-3 supplementary economic modelling 
+
+TAG unit M5-4 agent-based methods and activity-based demand modelling 
+
+Guidance for the evaluation practitioner
+
+This guidance informs practitioners of best practice in planning, implementing and quality assuring the monitoring and evaluation of transport schemes.
+
+E1 evaluation
+
+This guidance provides an overview of good practice in planning the evaluation of transport interventions to ensure robust evidence can be collected about the difference that they are making in practice. It is intended to support evaluation planning and stronger business cases for a range of transport interventions in terms of mode, type of intervention (for example, policy, package of measures, programme) and context (local, regional and national).
+
+TAG unit E-1 evaluation 
+
+TAG data book
+
+The TAG data book includes all of the appraisal and modelling values referred to in the guidance in one workbook.
+
+TAG data book 
+
+Common analytical scenarios databook
+
+Common analytical scenarios databook 
+
+This databook contains assumptions and inputs for modelling the common analytical scenarios outlined within the Department for Transport’s TAG uncertainty toolkit .
+
+Software tools
+
+To support transport business case development, DfT has produced a suite of tools to enable the appraisal of transport policy and interventions. The purpose of these tools is to ensure a consistent approach in transport appraisal, as well as reducing the cost of carrying out the analysis.
+
+COBALT (Cost and Benefit to Accidents - Light Touch) 
+
+DIADEM (Dynamic Integrated Assignment and DEmand Modelling) 
+
+TEMPRO (Trip End Model Presentation Program) 
+
+TUBA (Transport Users Benefit Appraisal) 
+
+VECAT (Vehicle emissions carbon tool) 
+
+WITA (Wider Impacts in Transport Appraisal) 
+
+Supplementary guidance
+
+This guidance provides further information on more specific areas of modelling and appraisal methods that TAG users may find useful.
+
+TAG : appraisal of new modes 
+
+TAG : bespoke mode choice models 
+
+TAG : land use/transport interaction models 
+
+TAG : mixed logit models 
+
+TAG : NTEM sub-models 
+
+Forthcoming changes and previous versions of TAG 
+
+Planned updates to TAG , including details of the guidance being updated and planned dates of release in line with the TAG orderly release process .
+
+View past forthcoming changes and previous versions of TAG .
+
+TAG : forthcoming changes and previous versions of TAG 
+
+Feedback and contact
+
+Email contact is used to report a problem with TAG or to join our mailing list , which sends notifications when new information is available or when new TAG units are published (this requires your name, your organisation’s name and email address).
+
+Data protection regulations
+
+DfT will use your contact details to send you emails regarding developments to TAG , invitations to engagement events and feedback surveys. Your information will be kept secure and will not be used for any other purpose without your permission.
+
+Find out more about how DfT looks after personal data, your rights, and how to contact our data protection officer .
+
+To remove your details from our mailing list, email us at tasm@dft.gov.uk .
+
+Updates to this page
+
+Published 29 October 2013
+
+Last updated 28 May 2026
+— 
+
+Show all updates
+
+28 May 2026 
+Updated information about TAG forthcoming changes to link to and reference previous forthcoming changes and versions of TAG.
+
+11 December 2025 
+Summary of upcoming changes to uncertainty scenario guidance published.
+
+16 October 2025 
+Added link to VECAT (Vehicle emissions carbon tool).
+
+17 October 2024 
+Added 'TAG: appraisal of new modes' supplementary guidance.
+
+25 April 2024 
+Added a link to forthcoming guidance TAG unit M5-4.
+
+30 November 2023 
+Added spending objective analysis guidance.
+
+30 November 2022 
+Guidance for the evaluation practitioner published.
+
+19 October 2022 
+Added link to forthcoming changes for November 2022.
+
+20 September 2022 
+Addition of TAG unit A4-3, place-based analysis guidance.
+
+8 August 2022 
+Common analytical scenarios databook added. Updated uncertainty toolkit and TAG unit M4 forecasting and uncertainty.
+
+13 October 2021 
+Notification of forthcoming change for November 2021.
+
+30 July 2021 
+Removed TAG forthcoming changes section.
+
+19 May 2021 
+Added research reports and information on forthcoming changes to TAG.
+
+22 October 2019 
+October 2019 forthcoming changes for the active mode appraisal toolkit, functional urban regions, marginal external costs and matrix building published.
+
+1 May 2019 
+Release of April 2019 forthcoming changes to transport analysis guidance, the guidance being altered is: A1.3, A2.1, A3, A4.1, M4, and the data book.
+
+31 May 2018 
+May 2018 WebTAG updates.
+
+21 December 2017 
+TAG unit A1-1, A4-1, A5-1, A5-3, data book, environmental impacts worksheets, advice for the technical project manager and advice for senior responsible officer updates.
+
+18 December 2017 
+Forthcoming changes to wider impact guidance released.
+
+11 July 2017 
+TAG units A1-2, A5-3, A5-4, M4, TAG data book and 'Forthcoming changes' updated.
+
+28 March 2017 
+TAG unit A1-3, TAG unit M2 and TAG data book updates.
+
+28 July 2016 
+Updated forthcoming changes, unit 2-3 and SI NTEM sub models.
+
+10 November 2014 
+Autumn 2014 updates released.
+
+29 October 2013 
+First published.
+
+Sign up for emails or print this page
+
+Get emails about this page 
+
+Print this page 
+
+Contents
+
+Related content
+
+Collection
+
+The Green Book and accompanying guidance 
+
+Explore the topic
+
+Transport modelling and appraisal 
+
+Is this page useful?
+
+Maybe
+
+Yes this page is useful 
+
+No this page is not useful 
+
+Thank you for your feedback
+
+Report a problem with this page
+
+Help us improve GOV.UK
+
+Do not include personal or financial information like your National Insurance number or credit card details.
+
+This field is for robots only. Please leave blank 
+
+What were you doing? 
+
+What went wrong? 
+
+Send 
+
+Cancel 
+
+Help us improve GOV.UK
+
+To help us improve GOV.UK, we’d like to know more about your visit today.
+Please fill in this survey (opens in a new tab ) .
+
+Cancel 
+
+Services and information
+
+Benefits 
+
+Births, death, marriages and care 
+
+Business and self-employed 
+
+Childcare and parenting 
+
+Citizenship and living in the UK 
+
+Crime, justice and the law 
+
+Disabled people 
+
+Driving and transport 
+
+Education and learning 
+
+Employing people 
+
+Environment and countryside 
+
+Housing and local services 
+
+Money and tax 
+
+Passports, travel and living abroad 
+
+Visas and immigration 
+
+Working, jobs and pensions 
+
+Government activity
+
+Departments 
+
+News 
+
+Guidance and regulation 
+
+Research and statistics 
+
+Policy papers and consultations 
+
+Transparency 
+
+How government works 
+
+Get involved 
+
+Support links
+
+Help 
+
+Privacy 
+
+Cookies 
+
+Accessibility statement 
+
+Contact 
+
+Terms and conditions 
+
+Rhestr o Wasanaethau Cymraeg 
+
+Government Digital Service 
+
+All content is available under the Open Government Licence v3.0 , except where otherwise stated
+
+© Crown copyright

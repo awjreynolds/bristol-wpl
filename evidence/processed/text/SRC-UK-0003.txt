@@ -1,0 +1,1691 @@
+Leicester Castle Business School
+De Montfort University
+Leicester
+
+LEICESTER CITY COUNCIL
+
+Workplace Parking Levy: An evidence-based review of policy and
+prospects for Leicester
+
+Draft Report
+Version (14)
+Date: 19 May 2021
+
+May 2021
+The Gateway, Leicester,
+LE1 9BH
+
+i
+Workplace Parking Levy: An evidence-based review of policy and
+prospects for Leicester
+
+Executive Summary
+
+1. Introduction
+1.1. Purpose of the Report
+1.1.1. Background to the WPL
+1.2. Structure of the Report
+
+2. Background and Context
+2.1. Transport in Leicester
+2.1.1. Traffic, air quality, and congestion in Leicester
+2.1.2. Leicester’s road network, car ownership levels and parking
+2.1.3. Rail services
+2.1.4. Bus and long-distance coach services
+2.1.5. Taxis and private hire firms
+2.1.6. Delivery vans
+2.1.7. Active travel
+2.2. Leicester’s Local Transport Plans
+2.3. Options for Demand Management
+2.3.1. Road User Charging (RUC)
+2.3.2. Parking controls and charges
+2.3.3. Workplace Parking Levy (WPL)
+
+3. A WPL for Leicester
+3.1. Experience in other UK cities and London Boroughs
+3.2. Issues to consider when implementing a WPL
+3.2.1. The need for a clear strategy
+3.2.2. The need for clear objectives
+3.2.3. Use of Revenue
+3.2.4. Equity and Exemptions/Discounts
+3.2.5. Communication
+3.2.6. Catalyst for change/leadership and local governance
+3.2.7. Political Stability
+3.3. Potential benefits of a WPL in the City of Leicester
+3.4. A comparison between a Workplace Parking Levy and Road User
+Charging in relation to the City of Leicester
+
+4. Conclusion
+4.1 Key Issues
+4.2 Leicester-specific context
+4.3 Practical considerations
+4.4 Recommendations
+
+REFERENCES
+
+1
+De Montfort University Workplace Parking Levy: An evidence-based review of policy and prospects for Leicester
+
+EXECUTIVE SUMMARY
+Travel behaviour, public transport provision, accessibility, road traffic congestion, and local
+air quality are central to debates surrounding sustainability, urban living, individual health
+and wellbeing, environmental justice and social mobility.
+The City of Leicester has a long history of pioneering urban sustainability and regeneration
+through carefully-targeted transport interventions and policy innovation. This legacy gives the
+City a strong foundation from which to respond to the contemporary challenges of population
+growth, demographic change, the climate emergency and health inequalities. In common
+with other cities worldwide, the COVID-19 pandemic has significantly impacted Leicester-
+based businesses and residents by affecting how and where people work and how they access
+basic provisions, medical care and leisure facilities in the city. As Leicester looks to the future,
+the role of transport will be key to delivering new opportunities and unlocking additional
+economic potential.
+The purpose of this Report is to provide an objective and academic evidence-based review to
+help inform Leicester City Council’s proposal to introduce a Workplace Parking Levy (WPL) in
+the City. It reviews the background to transport demand management options, offers case
+study examples of existing and proposed WPL schemes in the UK, and provides current best
+practice advice to Leicester City Council. The Report demonstrates that Leicester is not alone
+in considering a WPL and that, with careful consultation, communication and management, a
+WPL scheme could deliver a valuable hypothecated revenue stream which could be used to
+invest in strategically significant improvements in public and active transport networks in the
+City and leverage additional matched funding.
+There are a number of key conclusions that can be drawn from this evidence review relating
+to a WPL in the context of the City of Leicester:
+• Leicester continues to devise and deliver ambitious new plans for tackling the climate
+emergency, traffic congestion, urban air quality, and population growth while ensuring
+the city remains a vibrant city in which to live, work and invest.
+• In light of the current economic situation and challenging funding environment, lessons
+from Nottingham suggest that Leicester could use a WPL to raise direct funds to support
+transport infrastructure improvements and leverage additional match funding.
+• Other Local Authorities, London Boroughs and major cities are considering a WPL and so
+it could be considered both timely and politic for Leicester to be investigating a WPL
+scheme for the city.
+• A WPL is quicker and easier to implement than a road user charge and is generally more
+publicly acceptable.
+• A stable political environment has proved to be conducive to the introduction of a WPL in
+Nottingham and the same is likely to be true in Leicester.
+• Consideration needs to be given to complementary measures such as Controlled Parking
+Zones (CPZs) and on street charging to counter any potential ‘displaced parking’ effect of
+commuters parking in adjacent streets and residential areas.
+• Businesses need to be consulted and their input can help shape the nature of the Levy
+and inform priorities for investment.
+
+Based on the experience of WPLs in other cities and the findings from peer-reviewed
+
+2
+De Montfort University Workplace Parking Levy: An evidence-based review of policy and prospects for Leicester
+
+academic research relating to the WPL, the following recommendations are proposed:
+• The need for a WPL in Leicester, and its benefits to the city, will need to be clearly
+explained to all affected businesses and related stakeholders.
+• WPL objective/s must be clearly stated and readily quantifiable.
+• The geographic boundary of the Levy must be appropriate, clearly defined, deliverable
+and enforceable.
+• Exemptions, discounts, and the rationale for them, must be clearly stated and justified.
+• The Council will need to clearly state how the hypothecated revenue from the WPL will
+be utilised.
+• There will be a need for clear and consistent communication and consultation between
+the Council and all affected businesses.
+• A Leicester WPL policy champion, who acts as a focal point of the policy, is important.
+
+3
+De Montfort University Workplace Parking Levy: An evidence-based review of policy and prospects for Leicester
+
+1. INTRODUCTION
+
+1.1 Purpose of the Report
+The purpose of this Report is to provide an objective and academic evidence-based review of
+relevant demand management measures and, specifically, the role of the price mechanism,
+that underpin Leicester City Council’s proposal for the possible introduction of a Workplace
+Parking Levy (WPL) in the City of Leicester. It reviews the background to transport demand
+management options, offers case study examples of existing and proposed WPL schemes, and
+provides current best practice advice to Leicester City Council.
+This Report has been commissioned by Leicester City Council and prepared by Leicester Castle
+Business School, De Montfort University.
+
+1.1.1 Background to the WPL
+The Transport Act (2000), amended by the Local Transport Act 2008, enables Local Authorities
+in England (excluding London) and Wales to implement a Workplace Parking Levy (hereafter
+WPL). In London it is the Greater London Authority Act (1999). A WPL imposes a charge on
+employers providing liable car parking spaces at the workplace. The legislation stipulates that
+the net revenue generated by a WPL is hypothecated (ring-fenced) to fund transport
+improvements that facilitate the achievement of ‘local transport policies’. These could
+include investment in walking and cycling infrastructure, enhancements to public transport
+provision, improvements to the urban realm and schemes to reduce reliance on the private
+car. To date, only one English city (Nottingham), has introduced a WPL although a number of
+English local authorities, UK cities, and London Boroughs (as detailed in Section 3.1 of this
+Report) are considering introducing one. Although a WPL scheme offers a number of potential
+benefits, its introduction requires careful and considered consultation, communication and
+management.
+
+1.2 Structure of the Report
+This Report is divided into three principal sections. Following this brief introduction, Section
+2 presents a detailed evidence-based review of the extant academic literature pertaining to
+transport in Leicester and the options for demand management. Section 3 specifically
+addresses the proposed WPL in Leicester, while Section 4 presents the conclusions and
+recommendations.
+
+4
+De Montfort University Workplace Parking Levy: An evidence-based review of policy and prospects for Leicester
+
+2. BACKGROUND AND CONTEXT
+
+2.1 Transport in Leicester
+
+The provision of a safe, affordable, accessible and environmentally sustainable integrated
+urban transport network is a prerequisite for economic growth, social equity and citizen
+wellbeing. Leicester, a city of 28.31sq miles and approximately 360,000 residents, is the 10th
+most populous city in the UK. According to the United Nations Population Division (2018), the
+Leicester Urban Agglomeration, which includes the Leicester City Council Area and contiguous
+suburbs, will have a population of 552,000 in 2020, making it the 14th most populous urban
+agglomeration in the UK. Leicester’s population is forecast to increase to 596,000 people by
+2030 (United Nations, 2018) and this will inevitably place new demands on the provision of
+sustainable housing and transport. As a result, the City will need to introduce transport and
+planning policies which seek to reconcile economic development and environmental
+protection (c.f. Bulkeley and Rayner, 2003), not least given the challenges presented by the
+Climate Emergency.
+
+Leicester has a sustained history of leadership in this area. The City Council has championed
+sustainable living and urban renewal for well over 30 years. Leicester was awarded Britain’s
+first ‘Environment City’ status in 1990 in recognition of its efforts to enhance the City’s natural
+environment. This was followed by European Sustainable City status in 1996 (see Roberts,
+2000). In the late 1990s, the city became a demonstration site for two innovative transport
+research projects.
+
+MOMENTUM (MObility manageMENT for the Urban environMENT) was an EC funded R&D
+project (1996-98) that involved Leicester City Council, the City’s two Universities and one of
+its hospitals. Collectively, these organisations generated c.50,000 daily trips to the city centre,
+60% of which were undertaken in private cars. The research focused on what these
+organisations could do to counteract growing car use and car dependency among workers
+and visitors. The findings revealed considerable potential for modal shift and identified a need
+for better co-ordination, enhanced service information and ‘adequate incentives’ to
+encourage people to use alternative modes for commuting and business trips (Camara, 1999).
+At around the same time, the Leicester Environmental Road Tolling Scheme (LERTS) trial
+(August 1997-May 1998) explored the potential for electronic road tolling in an urban area.
+LERTS assessed the extent to which road user charging could contribute to enhanced traffic
+management (Wright and Burton, 1999). However, the scheme was only ever envisaged as a
+trial and so was not extended beyond the planned demonstration phase.
+
+The City Council continued its long-standing programme of making strategic investments in
+transport infrastructure to improve transport provision and mode choice within the City into
+the 2000s. Major new retail and industrial developments, including the opening of the
+Highcross shopping complex and new Curve Theatre in 2008 and developments including
+Colton Square and Abbey Meadows, accelerated the urban renewal and regeneration of
+former manufacturing sites in the city.
+
+The economic regeneration of these areas resulted in greater transport pressures but also
+created opportunities to improve the transport network. The Highcross shopping centre
+
+5
+De Montfort University Workplace Parking Levy: An evidence-based review of policy and prospects for Leicester
+
+development, for example, was accompanied by the pedestrianisation of High Street and the
+repaving of much of the central shopping area. The car-free spaces made walking and cycling
+safer and more attractive options. Evidence from studies of commercial footfall show that
+there was an increase in pedestrian activity in these designated areas (Leicester City Council,
+2011a). Other redevelopments in Jubilee Square and the provision of dedicated cycle lanes
+on Welford Road and Oxford Street for example, quickly followed.
+
+The City Council’s ‘Connecting Leicester’ vision and associated development programme has
+invested over £100m in public and sustainable transport since 2011. The programme has
+included the provision of new high-quality cycling and walking infrastructure in and around
+the city centre, and improvements in the public realm through revitalised streets and the
+creation of award-winning public squares and spaces. The City Council and its strategic
+partners are taking a lead in tackling the climate emergency by resolving to become carbon
+neutral by 2030. At the same time, the Council has committed to improving air quality and
+the health of citizens while delivering a sustainable programme of new houses and jobs.
+
+Although Leicester supports a diverse and multicultural local economy, the City has high levels
+of deprivation. Despite small areas of relative affluence in areas including parts of Stoneygate
+and Knighton, Leicester was ranked the 22nd most deprived area in England out of 317 Local
+Authority areas according to the 2019 ONS indices of multiple deprivation (ONS, 2019). Some
+of these poorer wards and neighbourhoods are not well connected with the rest of the City
+and experience disproportionately higher levels of air pollution than more affluent areas (an
+issue discussed in Section 2.1.0).
+
+In addition to the challenges presented by COVID-19, a growing, ageing, and ethnically diverse
+population of residents, who are experiencing rising levels of infirmity and disability, are
+placing additional pressures on the City’s transport network and new solutions are required.
+Although the prospects of increased automation and electrification may offer new
+opportunities for decarbonising the city’s transport system in the medium to longer term,
+more immediate policy interventions, that can be enacted relatively quickly and at low cost,
+are needed. In the sections and sub-sections that follow, the Report examines the current
+transport challenges in Leicester and examines how they might be addressed using different
+Transport Demand Management interventions, including a Workplace Parking Levy (WPL).
+
+6
+De Montfort University Workplace Parking Levy: An evidence-based review of policy and prospects for Leicester
+
+2.1.1 Traffic, air quality and congestion in Leicester
+
+‘Traffic congestion in the city is a waste of business money, time,
+efficiency and productivity.’
+(Leicester City Council, 2020a)
+
+Leicester’s historical development, from its origins as an ancient settlement at a crossing point
+of the River Soar to a 21st century city, has resulted in a legacy of Roman, Medieval, Victorian,
+Edwardian, and post-war street layouts and infrastructure networks which collectively
+present a challenge to contemporary transport and communications. The City currently
+experiences high levels of road traffic congestion in parts of its highway network and its
+physical location, on low-lying land and adjacent terraces of the Soar, means it has some areas
+of poor local air quality. Three sites in the city (the A594 at Vaughan Way and St Matthews’
+and the A563 Soar Valley Way/Glenhills Way) breached the European guideline of 40μg/m3
+for nitrogen dioxide (NO2) in 2017. Air pollution and areas of poor air quality tend to be
+concentrated in less affluent areas. Research by Jephcote and Chen (2012) in Leicester
+discovered that although affluent intra-urban communities tended to contribute the highest
+levels of emissions from private transport, they experienced lower levels of exposure to
+transport emissions than poorer neighbourhoods and so the issue is not only a public health
+concern but also one of environmental justice.
+
+As much as 80% of urban NO2 derives from petrol and diesel vehicles and so alleviating road
+traffic congestion (in conjunction with the introduction of progressively stricter vehicle
+emissions standards including Euro V and Euro VI and the promotion of more sustainable
+public and active transport modes) offer a way to improve local air quality. Leicester City
+Council was included in the third wave of Local authorities directed by the Secretary of State
+for the Environment to address nitrogen dioxide air quality levels in the shortest possible
+time. An agreed scheme design is expected by the end of 2020
+(https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment
+_data/file/746119/air-quality-no2-plan-direction-2018-implement-measures.pdf.)
+
+High levels of peak time urban traffic congestion and pollution in Leicester are not a new
+phenomenon and while multiple interventions over many years have sought to improve
+traffic flow, increased demand has in some areas has overtaken the benefits derived from
+incremental improvements to the road network.
+
+According to location technology specialist TomTom, as of 2019, Leicester was the 11th most
+congested city in the UK and the 98th most congested in the world in their database, with a
+level of traffic congestion comparable to the cities of Naples, Berlin and Zurich (TomTom,
+2020). According to GPS data from journeys undertaken by TomTom users in the city, an
+urban journey in Leicester takes, on average, 32% longer than it would if the roads were
+uncongested, a rise of 2% on the 2018 figure. This level of congestion rises to 62% in the
+morning peak and 68% in the evening peak (equivalent to an additional 19 minutes journey
+time on a 30-minute trip in the morning and an additional 20 minutes on an equivalent 30-
+minute journey in the evening). In total, TomTom (2020) calculate that Leicester drivers spend
+an additional 149 hours (or 6 days 5 hours) a year driving during peak periods. Given that, in
+
+7
+De Montfort University Workplace Parking Levy: An evidence-based review of policy and prospects for Leicester
+
+2010, 70,800 people commuted into Leicester each day, compared to 27,600 commuting out
+(a net in balance of 43,200), the additional time and lost productivity caused by congestion is
+considerable.
+
+These statistics are comparable to those reported by the global Mobility Analytics company,
+Inrix. According to their 2019 Traffic Scorecard, Leicester ranks as the 14th most congested
+city in the UK and the 92nd most congested (of over 975 cities) in the world, with congestion
+costing drivers in the City an average of £569 a year (Inrix, 2020). This figure, however, did
+represent an improvement on 2018 when Leicester was ranked the 8th most congested city in
+the UK with costs per driver estimated at £1,145 and a last mile speed of only 11mph (Inrix,
+2019).
+
+The UK National Infrastructure Commission’s (NIC) first National infrastructure Assessment,
+written in response to a 2018 report that suggested road traffic congestion was costing the
+UK economy almost £8 billion a year, advocated local solutions to congestion management
+and suggested that ‘the solution needs to be found in City Halls, not Whitehall’ (NIC, 2019).
+Certainly, congestion issues in Leicester have been known locally for many years. The 2014
+Strategic Economic Plan for Leicester and Leicestershire, for example, recognised that
+‘inadequate transport infrastructure’ was causing congestion and resulting in ‘increased
+business costs’ to the city and county. However, although the existing road network is at or
+near capacity in peak periods, many Leicester residents and workers feel compelled to use
+their cars because alternative transport modes are not available, inconvenient,
+unsatisfactory, considered unsafe or too expensive. This means there is considerable
+potential for increasing the use of cleaner and healthier public and active transport modes as
+well as optimising the impact of technological innovations.
+
+2.1.2 Leicester’s road network, car ownership levels and parking
+The city’s geographic location in central England means it is well connected to major road
+networks. The M1 runs to the west of the city, the M69 starts near the Fosse Park shopping
+complex in the District of Blaby while the A46 dual carriageway provides quick access to the
+north and east of the city. Unlike cities of comparable size, Leicester has no urban motorways
+and few dual carriageway A-roads within the city boundary. The city’s road network is
+estimated to cover 788 km. Private vehicle (car and van) registrations in Leicester are reported
+to be 111,148 vehicles, giving an average of over 3 residents per vehicle. 38.3% of city
+households had no vehicle registered at their address (Civitas, 2020). This figure compares
+with a national average of around 23% and demonstrates a need for residents to access
+employment opportunities through improved public transport provision.
+
+Rates of car ownership are, however, higher in some of Leicester’s more affluent contiguous
+suburbs and surrounding villages and as many as 41% of the residents of Oadby and Wigston
+commute (the majority by car) into Leicester. The concentration of commuters on such radial
+routes provides an opportunity for targeted intervention to promote mode shift. In addition
+to the congestion caused by high vehicle use in the peak, drivers must locate a suitable space
+in which to park their vehicles during the working day or course of their shift which places
+pressure on land in the City.
+
+8
+De Montfort University Workplace Parking Levy: An evidence-based review of policy and prospects for Leicester
+
+Information on the number of parking spaces in Leicester indicates there are 8,500 designated
+public use car parking spaces available in the city (Leicester City Council, 2020b). Of these,
+approximately 1,300 are on street (and directly managed by the City Council) and 7,200 are
+in multi-storey car parks. A further 1,500 spaces are provided at the City’s three Park & Ride
+sites. There are as yet, no reliable figures for the number of spaces provided by businesses
+for employee use at the workplace.
+
+A 2009 survey by the City Council indicated that additional ‘informal’ car parking spaces were
+poor quality, temporary or ‘grey’ provision on the site of derelict land or abandoned industrial
+buildings that were awaiting redevelopment. Since then, the City Council has stopped some
+of the temporary sites using enforcement powers and a number of sites have been
+redeveloped. These spaces contrast with the higher quality multi-storey facilities available at
+the Highcross/John Lewis car park (Leicester City Car Parking Strategy, 2011b). Most car
+parking spaces attract a charge which is calculated according to the duration of stay (as well
+as time of entry/exit and the day of the week) although some spaces are free at evenings,
+weekends, Sundays and/or Bank Holidays.
+
+In addition to formal, managed, car parking spaces there is some evidence that parking
+marketplace websites are being used by a small number of Leicester residents and businesses
+to rent out their driveways, reserved parking places and private land to private car users.
+Typically, these spaces can accommodate one or two standard-sized vehicles and are rented
+out at a flat daily or hourly rate. These private (often residential) parking sites tend to be
+located near major employers and generators of traffic which have constrained (paid for)
+parking. Sites which fall into this category within the city of Leicester include the Royal
+Infirmary, Leicester General Hospital, Leicester Tigers RFC and Leicester City Football Club,
+and De Montfort University.
+
+Evidence from surveys of local companies suggests that parking is a major transport issue for
+the City’s business community with some businesses believing there is insufficient car parking
+provision within the City. However, the provision is not evenly distributed as the 2009
+Leicester parking study indicated that the northern part of the city centre had a surplus of
+spaces. Nevertheless, 31% of Leicester city-based companies who responded to the Winter
+2011 Leicester and Leicestershire Business Survey, said that car parking for employees was a
+concern while 33% said that car parking for their customers was a concern. However, parking
+was less of a concern than energy and fuel costs, competition, generating new business and
+traffic congestion. Six years later, the 2017 Leicester and Leicestershire Business Survey
+reported that 88% of staff working for the surveyed companies were most likely to travel to
+work by private car. As a percentage of the total workforce, employers estimated that 70% of
+their staff use a motor vehicle to travel to work, with a further 6% using a work-owned van or
+car to travel from their home to an off-site location. 7% used public transport (a figure which
+drops to 1% for staff living in rural locations). In terms of the local transport interventions that
+were considered to bring most benefit to businesses, 28% said reducing traffic congestion and
+25% wanted more access to car parking. Improving access for customers or employees
+travelling by sustainable modes of transport was perceived to offer relatively little benefit to
+businesses (Leicester and Leicestershire Business Survey, 2017).
+
+9
+De Montfort University Workplace Parking Levy: An evidence-based review of policy and prospects for Leicester
+
+2.1.3 Rail services
+Leicester was one of the first UK cities to be connected to the national rail network (in 1832)
+and once boasted six railway stations and an urban tram network. Only the old Midland
+Railway station on London Road remains and in July 1973, its porte cochere, pedestrian loggia
+and octagonal turret were listed Grade II for their architectural interest, intactness and
+prominence (Historic England, 2020). It was last partially restored and upgraded in 2012. The
+station is situated on the Midland Mainline, 99 miles (approximately 160km) north of London
+St Pancras International. Pre-COVID, over a million rail journeys were made between Leicester
+and London each year. The station is owned by Network Rail but managed by East Midlands
+Railway (EMR), the current franchise holder.
+
+The fastest non-stop journey time to London St Pancras is just over an hour on EMR’s diesel-
+powered HST125 and Meridian Class 222 stock. Owing to a mandatory 15mph speed
+restriction on the lines immediately south of the station, all publicly available timetabled
+passenger services stop at Leicester. In 2018-2019, Leicester station was the 2nd busiest in the
+East Midlands, with 5,582,286 entries and exits (ORR, 2020). In comparison, Nottingham
+station (also on the Midland Mainline and served by EMR) recorded just over 8 million entries
+and exits (61st in the UK) while the station at the former Midland railway works at Derby
+recorded 3.9 million entries and exits (Source: ORR, 2020). Rail accounts for a very small share
+(albeit similar to the regional average) of journeys to/from work in Leicester. A higher
+proportion of Leicester’s residents commute elsewhere (for example to Loughborough,
+London, Birmingham) by rail than the proportion of County residents (including those who
+travel by rail into Leicester).
+
+The site of Leicester station is relatively constrained and the four through platforms
+(particularly platforms 2 and 3) are intensively used. The trackbed to the south of the station
+was extensively remodelled in 1986 but the tracks leading to the platforms still have to pass
+between the piers supporting the A6 London Road above. A through freight line runs to the
+east of Platform 4 adjacent to the carriage sidings. Up to 30 freight trains per day can pass
+through Leicester. Under normal operating conditions, platforms 1 and 4 provide bi-
+directional working while platform 2 serves predominately northbound (down) workings
+while platform 3 caters to southbound (up) workings. The Train Maintenance Depot to the
+north of the station has been upgraded and is currently owned and occupied by UKRL, a rail
+leasing company.
+
+EMR provide hourly fast, semi-fast and second fast services north to Nottingham or Sheffield
+(peak time to Leeds) and south to London. Cross Country Trains provide hourly fast and semi-
+fast passenger services from Leicester to Birmingham New Street and hourly services to
+Cambridge/Stansted Airport (and peak time to Sleaford) with 2 or 3 car DMUs (Diesel Multiple
+Units). The Ivanhoe line, operated by EMR, connects Leicester via an hourly all-stations 2 car
+DMU service to Lincoln Central.
+
+Direct rail services used to run from Leicester to both Liverpool Lime Street and Coventry (the
+latter via Nuneaton and Bedworth). A proposal to explore the reinstatement of the Coventry
+service is being progressed by Midlands Connect together with local partners including the
+city and county councils. There are also proposals to return passenger services to the freight-
+only 31-mile line between Leicester and Burton on Trent via Coalville and Ashby-de-la-Zouch
+
+10
+De Montfort University Workplace Parking Levy: An evidence-based review of policy and prospects for Leicester
+
+which closed to passenger traffic in 1964. The proposal, which was one of ten bids which were
+successful at the first stage of the Department for Transport’s ‘Restoring Your Railway Ideas
+Fund’ (DfT, 2020), would (among other things) require the reinstatement of a missing chord
+at Knighton junction (south of Leicester station) to permit through running. The Campaign for
+the Reopening of the Ivanhoe Line (CRIL) advocate the construction of new stations at
+Leicester South (for the King Power Stadium) and Meynells Gorse (to interchange with the
+Park & Ride site) as well as the reinstatement of stations at Bagworth and Ellistown, Coalville,
+Ashby, Moira, Gresley and Drakelow and the provision of a twice-hourly passenger service
+(CRIL, 2020).
+
+2.1.4 Buses and long-distance coach services
+Leicester has two bus stations. St Margaret’s, located a 15-20 minute walk to the north of the
+railway station, serves local and regional service buses (including the shuttle to East Midlands
+Airport) and long-distance bus and coach operators including National Express. St Margaret’s
+Bus Station and a link to the Haymarket via Mansfield Street has recently been completed.
+£10.5 million has been awarded for the redevelopment of the bus station through the LLEP’s
+£20m ‘Getting Building’ fund which was awarded in summer 2020.
+
+The City’s second bus station at the Haymarket is slightly closer to the railway station (walking
+time 10-15 minutes). It was extensively redeveloped in 2015/16 to provide a new covered
+concourse, enhanced waiting areas and new passenger information screens. The Haymarket
+Bus Station primarily supports local and suburban routes operated by Arriva Midlands, First
+Bus and Centre Bus. In addition to timetabled routes, an on-demand ‘Arriva Click’ service is
+funded through a Section 106 agreement to link new housing developments to the south west
+of Leicester with the city centre. Leicester is also served by three Park & Ride sites from which
+direct bus services provide a fast and frequent link to the city centre. The ‘Hospital Hopper’
+service, currently contracted to Centre Bus, links the City’s three hospital sites and the railway
+station.
+
+The recent remodelling of the front of the railway station has created a safer space for
+pedestrians, cyclists and dedicated bus lanes. The majority of Leicester’s radial routes into the
+City feature dedicated bus lanes – some of which are 24 hours and others which are active at
+peak times (typically 7am-9am inbound and 4pm-6pm outbound). Camera enforcement is
+used on many bus lanes to identify and fine the owners of cars which enter them. A limited
+number of roads in the city centre (such as on the approach to the Haymarket bus station)
+can only be used by buses, taxis and cyclists. This reduces congestion, increases the reliability
+of bus timetables and makes the city centre safer for pedestrians and cyclists. The
+introduction of tighter vehicle emissions standards (Euro VI) for new buses and the
+retrofitting of older vehicles in the fleet with emissions abatement technology is reducing the
+quantity of pollution each vehicle emits.
+
+There has also been substantial investment in bus infrastructure elsewhere in the City. This
+includes a bus corridor scheme on the A426 (which has seen patronage grow by 13%,
+reversing the national and local trend), bus lanes/gates and camera enforcement, smart
+ticketing, real time bus information displays and buses retrofitted with clean engine
+technology. The City Council has formed a strong partnership with bus companies to deliver
+improvements in bus priority infrastructure and operators have continued to invest in new,
+
+11
+De Montfort University Workplace Parking Levy: An evidence-based review of policy and prospects for Leicester
+
+more energy efficient, vehicles and new modes of contactless payment. This has included new
+eco-buses, with start-stop technology.
+
+2.1.4 Taxis and private hire firms
+Taxi and minicab operations within the city are provided by both Leicester City Council
+licenced Hackney Cabs and a range of private hire vehicles. The Deregulation Act 2015
+permitted private taxi drivers to licence and operate their vehicles in any Local Authority area.
+As a consequence, private hire vehicles operating in Leicester can be licenced by other English
+Local Authorities. This affects the City Council’s ability to regulate such operators.
+
+2.1.5 Delivery vans
+In common with other cities, Leicester is experiencing growth in internet shopping and home
+delivery. Evidence suggests that the COVID-19 pandemic and extended local lockdown
+increased the popularity of this form of shopping as city residents adhered to national
+Government advice to stay at home as much as possible to reduce the spread of the virus.
+Some couriers operate their own liveried vans – for example Hermes, DPD, and DHL - while
+others employ drivers through the so-called ‘gig economy’ to deliver packages on behalf of
+other firms or retailers. These drivers may use their own private vehicles to make multiple
+deliveries over the course of a shift.
+
+2.1.6 Active travel
+The Council’s Local Sustainable Transport Fund and Access Fund behavioural change
+programmes have introduced many people to walking and cycling. In 2018, it was announced
+that Leicester City Council has successfully bid for £6,192,000 from the European Regional
+Development Fund (ERDF) to support a range of ambitious transport-related projects that
+sought to cut greenhouse gas emissions (Orton, 2018). The City Council’s £100 million
+‘Connecting Leicester’ initiative has sought to increase the length of the cycle and walking
+network in the city and improve its connectivity. This package of improvements has included
+new cycle lanes on the A6 London Road near the railway station and improvements to the
+urban realm.
+
+The COVID lockdown and associated decline in car commuting led the City Council to
+introduce new ‘pop up’ cycle lanes on main radial routes into the city to provide a segregated
+space to encourage cycling. Of course, any intervention, no matter how modest, requires
+capital investment and following the UK’s withdrawal from the European Union, Leicester,
+along with other UK cities which have previously received European funds, will need to
+explore other sources of funding. In March 2020 it was announced the city would receive £33
+million from the Transforming Cities fund for investment in bus priority measures and active
+travel. The funds, however, did not cover the planned redevelopment of the railway station
+and its immediate environs. The total TCF programme amounts to around £70m including
+match funding.
+
+12
+De Montfort University Workplace Parking Levy: An evidence-based review of policy and prospects for Leicester
+
+2.2 Leicester’s Local Transport Plans (LTPs)
+
+Local Transport Plans (LTPs) are a statutory transport plan that Local Authorities in England
+are required to submit to the Department for Transport as a result of the original Transport
+Act 2000 (subsequently updated in 2008). The plans had to establish baseline levels of
+transport activity and pollution and set challenging targets for improvement and indicate how
+these targets will be met within the specified timeframe. Leicester’s first five-year Local
+Transport Plan (LTP1) was effective between 2001 to 2006. The second (LTP2) was active
+between 2006 and 2011 and placed new emphasis on reducing transport emissions and
+improving local air quality. The third Local Transport Plan (LTP3) was adopted in 2011. LTP3
+set out plans for traffic and transport in the city from 2011 to 2026 and included objectives
+to:
+
+• Reduce congestion and improve journey times;
+• Improve connectivity and access;
+• Improve safety, security and health;
+• Improve air quality and reduce noise;
+• Reduce carbon emissions;
+• Manage to better maintain transport assets;
+• Improve quality of life.
+
+Leicester’s LTP3 was unusual in that it included specific interventions for multiple ‘at risk’
+groups. In her analysis of the content of 32 LTP3s, Elvy (2014) discovered that, of the 18 LTP3s
+which outlined specific engagement with at risk groups, Leicester City Council was the only
+Local Authority which engaged with all four of the ‘at risk’ groups (people with disabilities,
+children and young people, older people, and ethnic minorities).
+
+A new Local Transport Plan (LTP4) is currently being drafted. Consultation on the draft plan is
+expected in Spring 2021 with formal approval anticipated later that year. A new plan is
+needed given the increased emphasis on good quality, clean and healthy transport options
+that align with Climate Emergency responses by the council. The Council intends to align its
+plan with the approach outlined in the Campaign for Better Transport’s Report on renewing
+the transport system 1. The Campaign for Better Transport proposes a new form of Local
+Transport Plan that reflects this ambition in a more integrated way. It stresses the need for
+local transport authorities to have a co-ordinated plan to reshape transport networks based
+on active travel, shared and public transport, and suggests that Government funding should
+be linked to this plan.
+
+The successful Transforming Cities Fund (TCF) bid means that the first part of the required
+public, shared and active transport infrastructure reshaping in Leicester can be delivered over
+the next 4 years, though much more will ultimately be needed. There may well be further
+funding opportunities made available by the Government, but locally controlled funding
+would provide more certainty and allow for stable long-term projects, as well as being
+invaluable in levering these Government funds. Therefore, it has been decided to investigate
+
+1
+Covid-19 Recovery: Renewing the Transport System’, July 2020
+
+13
+De Montfort University Workplace Parking Levy: An evidence-based review of policy and prospects for Leicester
+
+the potential of locally based revenue streams to be able to continue the TCF programmes
+and do much more besides. The WPL proposal forms part of these endeavours.
+
+2.3 Options for Demand Management
+
+In seeking to address traffic congestion and traffic related pollution in an urban environment,
+there are a number of demand management measures which can, and have, been considered
+and implemented. These range from developing Park & Ride facilities, substituting travel for
+digital communications, increased home working, and active travel, through to market-based
+approaches including road user charging and a Workplace Parking Levy (WPL). This section of
+the Report focuses on charging mechanisms including road user charging and the WPL and
+places the WPL in a wider parking context.
+
+2.3.1 Road User Charging (RUC)
+Road user charging has a long history in the academic economic literature and was a measure
+which generated a great deal of interest following the publication of the Smeed Report (1964)
+and the implementation of London’s Congestion Charging scheme in 2002. The premise of
+road user charging is that by increasing the cost of travel there will be a reduction in vehicle
+use and therefore lower levels of congestion and environmental degradation. As Newbery
+(1990) observed: ‘As road space is a valuable and scarce resource, it is natural that economists
+should argue that it should be rationed by price - road users should pay the marginal social
+cost of using the road network if they are to make the right decisions about whether (and by
+which means) to take a particular journey, and, more generally, to ensure that they make the
+correct allocative decisions between transport and other activities’.
+
+The Royal Commission on Environmental Pollution (1994) suggested that the great attraction
+of road user charging was that it can be applied at a local level and that the charge can be
+readily adjusted in order to reflect variations in external costs in different localities and
+between different times of the day or week. In saying this, the Royal Commission appreciated
+that there are issues with political acceptance in terms of price levels required in order to
+tackle environmental degradation.
+
+2.3.2 Parking Controls and Charges
+Most people, whether they are residents, car owners, organisations or local authorities, have
+an opinion on parking. This might relate to the price charged, availability, ease of access, the
+issue of permits, or vehicle and personal safety and security. Parking can be a contentious
+issue as it impacts on the activity and behaviour of commuters, shoppers, retailers,
+employers, local residents, leisure users and local authority decision makers. Local authorities
+have to make important decisions as to the effective and efficient management of what is a
+scarce resource and one that impacts on car use (Ison and Mulley 2014).
+
+Car parking facilities are considered to be a complementary measure when it comes to
+motoring in that a parking space is required at the destination and car parking is central to a
+motorist’s decision making regarding:
+
+• Whether to undertake a journey (and at what time);
+
+14
+De Montfort University Workplace Parking Levy: An evidence-based review of policy and prospects for Leicester
+
+• Which location to choose, assuming there is a choice;
+• Whether to choose an alternative mode of public or active transport.
+
+Parking controls and charges have formed a major approach used by Local Authorities in
+addressing traffic congestion and traffic-related environmental degradation. In addition,
+parking charges have been a source of revenue which, if hypothecated, can enhance
+alternatives to car use.
+
+Parking is first and foremost a land-use issue with a decision required as to whether or not
+urban space should be allocated to it. In terms of parking supply, the Institution of Highways
+and Transportation (2005 p.20) state that the “Control over the availability of parking spaces
+is a key policy instrument in limiting car trips and for the time being is the most widely
+available and readily accepted method of doing so”. The demand side is dependent upon the
+type of activity it is related to, whether work, retail or leisure activity, in addition to the time
+of day when the journey is undertaken and how long the parking space is required for.
+
+Car parking is not a homogeneous product. It has an important spatial dimension, as it is
+available in numerous locations, and an important regulatory one as it is typically provided by
+a range of different agencies in both the public and private sector. Whilst parking
+controls/regulation and prices are rarely popular with the general public, they are a policy
+option that is understood and generally accepted in urban areas.
+
+Various types of parking exist in the majority of urban areas, namely:
+• Public on-street parking which is local authority controlled and essentially relates to kerb
+side parking. Its supply and demand can be controlled via regulation and/or pricing.
+
+• Public, surface or multi-storey off-street local authority-controlled car parks can also be
+used by the general public. Motorists using these spaces are subject to a charge and
+regulation such as a maximum stay.
+
+• Privately owned non-residential car parks which can be used by the public. Examples of
+private operators include NCP and Euro Car Parks.
+
+• Residential Parking is associated with private houses or flats. This can be off street on
+private property (in recent times there has been a marked increase in the hiring out of
+these spaces to non-residents (see Budd et al, 2013)) or on street in which case it can be
+associated with residents only parking, Controlled Parking Zones (CPZs) and the use of
+permits. One of the main issues with restricted supply whether it by via regulation, such
+as double yellow lines, maximum stay or CPZs/permit only is that it can increase the
+amount of parking search or cruising for on-street parking (see Shoup 2006) which is not
+only a cost to the motorist but has an impact on the urban environment in terms of
+congestion and air pollution (Brooke et al, 2014, 2017, 2018).
+
+• Employee parking (private non-residential parking) relates to car parking provision
+normally provided free of charge to employees, not available to the general public. In
+saying this, in recent years there has been an increased tendency for employers to charge
+their employees for the parking places available either by a daily, monthly or annual
+
+15
+De Montfort University Workplace Parking Levy: An evidence-based review of policy and prospects for Leicester
+
+charge. The provision of such parking is a cost to the employer since there is the
+maintenance, land take (which could be more efficiently utilised) and the initial cost of
+constructing the parking provision. This type of parking provision can arguably be seen as
+inequitable in that employers are subsidising these costs for employees who commute via
+car but they do not often provide a subsidy for those who commute via public transport,
+walking or cycling.
+
+It is the provision of this type of parking provision which has led to the WPL being
+considered in recent years as a demand management option and this forms the focus of
+the reminder of this section.
+
+2.3.3 Workplace Parking Levy (WPL)
+The aim of a WPL is to place a charge upon the use of workplace parking places used for
+commuting, to encourage employers to consider managing and potentially reducing the
+amount of free workplace parking places they provide while promoting the use of alternative
+modes of transport, particularly if the charge is passed onto the employee. It also provides
+local authorities with a source of hypothecated revenue for funding a step change in the
+provision of public transport infrastructure and service provision.
+
+The concept of a WPL in the UK can be traced back to the 1998 White Paper “New Deal for
+Transport: Better for Everyone” which, amongst other measures, permitting local authorities
+to introduce either a road user charge or WPL scheme or both, provided the revenue raised
+was hypothecated for transport improvements (DETR, 1998a, 1998b). The subsequent
+Transport Act 2000 granted local authorities the power to introduce and enforce a WPL
+scheme. In 2009, the Workplace Parking Levy (England) Regulations 2009 (SI 2009/2085)
+reinforced existing legislation for the issuing and managing of penalty charges for non-
+compliance.
+
+Workplace parking management is an important part of a package of measures which can be
+used to address key local authority policy goals including congestion, carbon reduction, air
+pollution, local economic development and/or raising revenue in order to enhance alternative
+transport provision. The following section details both extant and proposed WPL schemes
+elsewhere in the UK to help identify best practice for Leicester.
+
+16
+De Montfort University Workplace Parking Levy: An evidence-based review of policy and prospects for Leicester
+
+3. A WPL for Leicester
+
+A WPL is an established policy option and Leicester is not alone in considering a WPL. The fact
+that other cities have either adopted or are actively considering adopting a WPL means that
+Leicester can learn from their experiences. Section 3.1 details both extant and proposed
+schemes in the UK.
+
+3.1 WPL: Experience from other UK cities and London Boroughs
+
+To date, Nottingham City Council is the only English Local Authority to have introduced a WPL.
+
+Nottingham
+
+The Nottingham conurbation has a population of 670,000. This includes 320,000 in the
+Nottingham City Council administrative area which comprises the central area of the city.
+Traffic congestion in the peak period (07:00 to 10:00) was estimated to cost the city’s
+economy £160 million per year (NCC, 20131). In order to address congestion and promote
+sustainable transport alternatives, the City Council introduced a WPL in October 2011 with
+eligible employers required to pay the Levy from 1st April 2012.
+
+The original objectives for the Nottingham WPL were:
+
+WPL Objective 1: Constrain congestion in the AM and PM peak periods;
+WPL Objective 2: Increase uptake of workplace travel plans and responsible parking
+management strategies;
+WPL Objective 3: Contribute to the implementation of major transport schemes and the
+Local Transport Plan;
+WPL Objective 4: Encourage sustainable travel and mode choice;
+WPL Objective 5: Enhance the attractiveness of Nottingham as a location for business
+investment;
+WPL Objective 6: No significant displaced parking problems.
+
+The WPL scheme covers the area administered by Nottingham City Council. Employers within
+this area are required to apply for a licence and state the number of workplace places they
+intend to use. The Council then imposes a Levy on employers that provide 11 or more liable
+workplace parking places.
+
+Some premises receive a 100% discount (and are therefore effectively exempt). These
+include:
+
+- Premises from which frontline health services are provided by or on behalf of the NHS;
+- Premises occupied by the emergency services;
+- Places occupied by disabled blue badge holders;
+- Employers with 10 or fewer eligible workplace parking places in the city.
+
+The resulting WPL revenue is hypothecated for public transport improvements. £170m of the
+WPL revenue was spent on developing Phase 2 of the Nottingham Express Transit as well as
+
+17
+De Montfort University Workplace Parking Levy: An evidence-based review of policy and prospects for Leicester
+
+£11.7m towards the refurbishment of Nottingham railway station and over £3m for
+enhancements to the operation of the link bus services.
+
+The refurbishment of Nottingham Station provided a high-quality public transport hub, in
+which passengers could easily transfer between rail, tram, bus, and active modes of transport.
+The investment helped to constrain congestion, enhance sustainable public transport modes
+and improve connectivity. A further benefit of investing in large scale public transport
+schemes is the temporary enhancement to the local economy during construction (NCC,
+2013).
+
+Table 1 shows the cost of infrastructure schemes in Nottingham and the contribution of the
+WPL. The Table shows how the WPL funds supplemented investment from Central
+Government.
+
+Scheme Scheme Total Cost NCC “Local” WPL Contribution Non-Local
+(£millions) Contribution not (£millions) Sources
+including WPL
+contribution
+(£millions)
+Nottingham 570 29 170 (30%) 371
+Express Transit
+Phase 2
+Ring Road 16.175 3.2 0 12.975
+Major
+Provision of 8.8 0.3 3.78 (42%) 4.72
+Link Buses
+(Capital only)
+Refurbishment 60 0 11.7 (19.5%) 48.3
+of the Railway
+Station
+
+Table 1: Funding of major transport schemes in Nottingham
+
+Source: Adapted from Dale, S., et al 2014, A Case Study of the Introduction of a Workplace Parking Levy in
+Nottingham.
+
+Impact on congestion
+The data from Nottingham suggests that, as expected, the WPL on its own has had a relatively
+modest impact on levels of congestion but the combined effect of the wider WPL package (in
+which hypothecated revenue is used to fund transport improvements) has impacted on
+congestion (Dale 2017a). It is worth noting that the intended aim of the WPL scheme is to
+have a relatively modest direct transport impact as a larger impact will result from the
+investment and delivery of enhanced public transport infrastructure and services.
+
+Business Impact
+According to the WPL Business Case presented by Nottingham City Council (NCC, 2008) it was
+proposed that businesses would benefit from the package of transport improvements
+provided by a WPL and the associated reduction in the growth of congestion not least in terms
+
+18
+De Montfort University Workplace Parking Levy: An evidence-based review of policy and prospects for Leicester
+
+of improved accessibility, staff retention, access to supply chains and markets leading to
+enhanced competitiveness.
+
+It was anticipated that the package would encourage the use of surplus land for a more
+productive purpose as well as encouraging sustainable travel planning. A study undertaken
+by PwC for Nottingham City Council and cited in the WPL Business Case (NCC, 2008) indicated
+that the financial impact of the WPL would be insignificant as a proportion of turnover for the
+majority of eligible employers. More recent work undertaken by Dale et al. (2017a) suggests
+that there is strong evidence that the WPL has not had a significantly negative impact with
+Nottingham remaining attractive to investors, not least on account of the public transport
+improvements the WPL funded. Other research undertaken by Dale et al (2017b) indicates
+that a WPL can be an effective tool to constrain congestion growth.
+
+Political stability
+Political stability within the City of Nottingham was conducive to decision makers taking a
+medium to long term view with respect to the implementation of a WPL since it was unlikely
+that they would be voted out of office over one issue such as a WPL, so long as the city
+economy adequately performed over the medium term (Dale et al. 2014).
+1
+Atkins Cost of Congestion Report for EMDA 2008, cited in NCC 2013.
+
+Although Nottingham is the only city to date to have introduced a WPL in the UK, a number
+of other English urban Local Authorities are currently exploring the possibility of introducing
+a WPL. Many are in the early stages of the process and not all will progress beyond the ‘ideas’
+stage whereas others may, in time, result in full implementation. This section provides a snap
+shot of current activity (correct as of July 2020).
+
+Birmingham
+
+Birmingham City Council is currently investigating the idea of the WPL as part of a range of
+measures to reduce traffic congestion and create a healthier environment. Birmingham is
+seeking to encourage employers to evaluate and oversee their workplace parking provision
+so as to aid the funding of quality sustainable transport modes to encourage a shift to public
+transport ridership and reduce reliance on the private car.
+
+A Birmingham City Council Report to Cabinet dated 15th October 2019 considered a WPL was
+commensurate with:
+
+• Addressing air pollution, creating a cleaner, healthier environment, and aligning with the
+City’s Clean Air Zone;
+• Providing funds for public transport improvement;
+• A traffic management strategy that aims to reduce congestion and aid economic growth;
+• Improving workplace accessibility by alternative modes of transport and supporting the
+development of a new parking policy in Birmingham.
+
+19
+De Montfort University Workplace Parking Levy: An evidence-based review of policy and prospects for Leicester
+
+Hypothecated revenue would support:
+
+• The expansion of the Metro light rail system to the east of the City;
+• Further pedestrianisation of the city centre and Moor Street;
+• The Snow Hill Growth Strategy including transformation of the A38 and improvements to
+public transport;
+• Investment in cycle routes and improvements to the city’s urban canal network; and
+• Travel demand management and associated activities to promote sustainable travel.
+
+Birmingham City Council consider a WPL to be preferable to alternative options, including a
+Road User Charging Scheme, since:
+
+• The Legislation already exists;
+• It will focus on the major issue of peak period commuting;
+• Nottingham has proved that it can be successful, with no adverse impact on business;
+• It will form part of a complementary package of parking/charging proposals in the City;
+• It is cheaper to introduce and operate then other interventions;
+• Providing adequate consultation and communication activities are undertaken, a WPL is
+considered to be more publicly acceptable than a road user charging scheme; and
+• Whilst road user charging would most probably generate more revenue, the WPL will
+provide direct hypothecated funds for public and active transport improvements.
+
+Source: Birmingham City Council (2019)
+
+Oxford
+
+Oxfordshire County Council and Oxford City Council ‘want to make a real improvement to
+journey times for commuters and quality of life for residents, including improved air quality,
+by reducing the number of cars travelling into and around the city.’ As part of this they propose
+‘A charge for workplace parking provided by larger employers in the eastern arc [a defined
+employment area not including the City Centre], which would help fund the proposed
+transport improvements and create a disincentive to drive to work. Discounts for the new bus
+services would be available for staff of employers paying the workplace parking levy.’
+
+A clear breakdown as to how the Authorities envisage using the WPL revenue is provided.
+
+Planned improvements include:
+- Additional bus gates city wide so as to improve journey times for City bus users, allowing for
+a redistribution of road space for an improvement in the routes for walking and cycling;
+- New speedy, frequent bus routes linking Oxfordshire towns and the Park & Ride sites to
+Oxford’s eastern arc. At present this is an underserved public transport area;
+- Reconfiguring road space as a result of less vehicles so as to provide new and improved safe
+and attractive walking and cycling routes for access into and around the city;
+- Enhancing public transport connectivity in areas of employment with a lack of direct bus
+service provision or Park & Ride connection;
+
+20
+De Montfort University Workplace Parking Levy: An evidence-based review of policy and prospects for Leicester
+
+- Combining traffic restrictions with the WPL is seen as a way of providing incentives for both
+commuters and residents to utilise modes of transport other than the car and for employers
+to provide less free or indeed subsidised staff car parking;
+- A reduction in traffic volume, increasing speed thus reducing the need for dedicated bus
+lanes and as such freeing up space for active travel provision.
+
+These proposals are seen to complement the creation of a zero-emission zone (ZEZ) which
+aims to address poor air quality in Oxford city centre.
+
+Source:https://www.oxford.gov.uk/news/article/1175/councils_commit_to_cutting_traffic_congestion_and_i
+mproving_public_transport_in_oxford Accessed 21/07/2020
+
+Cambridge
+Although the Local Authority in Cambridge has no current plans to progress a WPL, Smarter
+Cambridge Transport believe a WPL would provide, in a relatively short time and with minimal
+overheads and administration costs, a reliable source of revenue with the benefit of allowing
+for improved bus provision without the need for expensive infrastructure.
+
+However, a counter-argument is that public transport alternatives are seen as being good
+enough to entice people out of their cars and the scheme would impact adversely on those
+who have to live outside the Great Cambridge area as a result of high house prices in the City.
+
+The Greater Cambridge Partnership view the merits of the WPL as:
+• It encourages employers to support employees to use alternative forms of transport,
+modes that are more sustainable;
+• If employers pass on the charge to their employees it can act as an encouragement to use
+alternative modes namely walking and cycling and public transport;
+• Reducing the number of parking spaces could free up land for other uses.
+
+However, a counter argument is that:
+• There will be limited impact on congestion given the low levels of employee parking in
+areas of the city;
+• The Impact depends on whether employees pass on the charge to employees.
+
+Sources:
+https://www.cambridgeindependent.co.uk/news/could-a-workplace-parking-levy-work-in-cambridge-
+9088070/
+https://www.greatercambridge.org.uk/city-access/choices-for-better-journeys/choices-for-better-journeys-
+workplace-parking-levy
+
+21
+De Montfort University Workplace Parking Levy: An evidence-based review of policy and prospects for Leicester
+
+London Boroughs
+
+Transport for London have a dedicated website which is designed to offer guidance to aid
+Boroughs seeking to implement a WPL (See https://tfl.gov.uk/info-for/boroughs-and-
+communities/workplace-parking-levies). TfL and the Mayor of London see this as part of their
+Transport Strategy to reduce traffic and ensure that by 2041 80% of London trips are
+undertaken by walking, cycling or public transport, with the revenue raised used for local
+transport improvement.
+
+In the TfL Guidance it notes that while a WPL can be established by a single Borough or more
+than one working together it is not possible for two schemes to operate in the same location.
+Clearly this is not an issue that Leicester faces. TfL go on to say that a WPL and road user
+charging scheme could overlap as with the Congestion Charge and the Ultra-Low or Low
+Emission Zone.
+
+The Mayor in his Transport Strategy (MTS) sees the WPL as a traffic demand management
+approach that Boroughs could implement, stating that ‘The Mayor, through TfL, will work with
+those boroughs who wish to develop and implement appropriate traffic demand management
+measures, for example local (TfL or Borough) road user charging or workplace parking levy
+schemes, as part of traffic reduction strategies where they are consistent with the policies and
+proposals set out in this strategy’.
+
+Interestingly, the Guidance says (see http://content.tfl.gov.uk/wpl-mayors-guidance-
+jan2020.pdf) that as a demand management measure the effect of the WPL are likely to be
+less impactful than the implementation of a road user charge. This is not too surprising since
+the WPL is levied on employers, (who may or may not pass on the charge to their employees,
+thus impacting on travel behaviour) whereas road user charging forms a direct charge on the
+motorists for their use of road space. In saying that, as mentioned in section 2.3.3 a WPL can
+still impact of travel behaviour following a reduction in the supply of workplace car parking
+spaces plus the utilisation of the WPL funds for transport improvements. The WPL is seen as
+being important to the Mayor’s London priorities.
+
+22
+De Montfort University Workplace Parking Levy: An evidence-based review of policy and prospects for Leicester
+
+Figure 1 Benefits of the WPL
+
+Figure 1 shows that there are essentially three benefits from the implementation of a WPL:
+
+• As a demand management measure, via increasing the cost of motoring, specifically if the
+Levy is passed on as a parking charge to the employee so as to encourage mode shift and
+the resulting impact on congestion and emissions;
+• Providing funds for improving active travel and public transport;
+• Long-term a reduction in the supply of car parking provision as a result of a WPL
+implementation will encourage mode shift by commuters in addition to freeing up land to
+be utilised in alternative ways.
+
+An important point made by the Mayor’s Guidance is that a WPL scheme can be adapted so
+as to fit with local objectives. In common with other Local Authorities, the Guidance states
+that it is important for London Boroughs to clearly identify the objectives they intend the WPL
+to address. These objectives must furthermore be clearly articulated and easily understood.
+
+The transport-specific objectives of a WPL may include:
+
+• Mode shift leading to air quality benefits. As an aside, the Guidance states that “Outside
+London, the Clean Air Zones programme is now one of the main drivers for local
+authorities’ interest in WPLs”;
+• Meeting the objective of Healthy Streets in addition to releasing land for other uses which
+could include new development; and
+
+23
+De Montfort University Workplace Parking Levy: An evidence-based review of policy and prospects for Leicester
+
+• Acting as a catalyst for improving the other parking policies in the Borough. This is
+important since the introduction of a WPL will require complementary measures such as
+the implementation of controlled parking zones to manage displaced parking.
+
+One of the reasons the Cambridge congestion metering scheme failed to progress beyond the
+trial stage was that the objectives were far from clear (Ison 1998b; Ison and Rye 2005).
+
+It is important to note that WPL schemes are most likely to form part of a package of transport
+interventions creating a step-change in local transport. Whilst in itself a WPL scheme may
+form only a relatively small component of a package of measures its role is still important not
+least in releasing funds for enhancing local transport provision.
+
+In relation to the London Boroughs of Camden and Hounslow:
+
+London Borough of Camden
+
+As part of the Borough’s targets to create a clean, lively and sustainable environment, the
+Camden Transport Strategy (CTS)1 and Clean Air Action Plan contained a commitment to
+investigate the feasibility of a WPL. This is seen as a means of assisting in the reduction of
+traffic congestion, achieving an improvement in air quality and related public health, aiding
+accessibility and improving road safety. A WPL would seek to do this by bringing about mode
+shift from car use to active travel. Camden has also recognised that, in a period of funding
+challenges, a WPL provides an opportunity to enhance town centres and business areas. The
+CTS states that the funds from a WPL could aid in delivering what it calls (relevant) elements
+of the Investment Priority areas.
+1
+Healthy Streets, Healthy Travel, Healthy Lives: Camden Transport Strategy 2019-2041, April 2019, Accessed
+at:
+https://www.camden.gov.uk/documents/20142/18708392/1925.7+Camden+Transport+Strategy_Main+Docu
+ment_FV.pdf/d7b19f62-b88e-31d4-0606-5a78ea47ff30
+
+London Borough of Hounslow
+
+A clear reason for considering the WPL was articulated, namely that the growth in housing
+(7,500 new homes) and employment (14,000 new jobs) within the Great West Corridor (GWC)
+would benefit from delivering significant new transport infrastructure, namely the Brentford
+to Southall Rail Link and that the funds from the Levy would aid in making this possible.
+Without this investment it would lead to a significant increase in congestion and a
+deterioration of air quality. This model of proposing a WPL is that used in Nottingham where
+the revenue from the Levy is ring-fenced to help secure the implementation of NET Phase Two.
+
+As part of developing the GWC the WPL is seen as a relatively stable revenue stream, one which
+would allow additional monies to be borrowed, not simply for the Brentford to Southall Rail
+Link but also for public transport and active travel improvements. Given the COVID-19
+pandemic and the related impact on the UK and world economies funding will be at a premium,
+no more so than within local authorities. This is a line articulated by Transport for London (TfL)
+and the Department for Transport (DfT) and as such a revenue source such as the WPL is all
+important, and a source worth considering. Hounslow have identified the Community
+
+24
+De Montfort University Workplace Parking Levy: An evidence-based review of policy and prospects for Leicester
+
+Infrastructure Levy (CIL), Section 106 (S106) and borrowing from public or private sources
+based on new income emanating from business rates linked to the new development.
+
+A point reiterated in the case of Hounslow and stated a number of times in this Report - if the
+Levy is passed on to employees, either in full or in part, then it would have the impact of
+encouraging commuters to consider alternative options when accessing the GWC which would
+aid in addressing congestion and the issue of air pollution. Hounslow offered the following
+(Table 2) as to the benefit to residents from implementation of a WPL.
+
+Table 2: Benefit to Hounslow residents of the WPL
+
+If the recommendations are adopted, how will residents’ benefit?
+Benefits to residents and reasons why they will benefit, link to Dates by which they can
+Values expect to notice a difference
+A Workplace Parking Levy could form a key financing tool for A WPL is expected to
+improved public transport and walking & cycling infrastructure reduce traffic levels from
+in the Great West Corridor area. The imposition of charges on the date of its
+the use of off-street car parks could also help encourage a implementation whilst
+move towards sustainable modes of travel. These outcomes further benefits will
+would help reduce pollution, congestion and therefore help to materialise on the
+improve quality of life for those who live or work in the introduction of the
+Borough as well as supporting new development in line with transport improvements.
+the aspirations of the Local Plan and the Mayor of London’s
+London Plan. The earliest this scheme
+could be in operation in
+the western area would be
+2021.
+The Brentford to Southall Rail link, potentially funded by the This scheme could be
+Workplace Parking Levy, will deliver a step change in public operational by 2024-
+transport accessibility for the corridor through provision of a 25.
+direct link to the Elizabeth Line. This will help provide a reliable
+alternative to accessing the corridor to the private
+car.
+
+The Cabinet Report states that “Experience from other cities in the UK that have considered
+WPL is that public acceptability of the scheme is very much associated with how concrete the
+link is between the proposed charge and the new transport infrastructure it facilitates”.
+Research undertaken by authors of this Report would confirm that view. Whilst the research
+was undertaken with respect to road user charging, stating specifically how the hypothecated
+revenue would be spent dramatically increased its acceptability (Ison, 2004).
+
+Source: Based on the Workplace Parking Levy – Cabinet Report
+https://www.hounslow.gov.uk/downloads/file/2653/workplace_parking_levy_-_cabinet_report
+
+25
+De Montfort University Workplace Parking Levy: An evidence-based review of policy and prospects for Leicester
+
+3.2 Issues to consider when implementing a WPL
+
+3.2.1 The need for a clear strategy
+In terms of the implementation of the WPL a clear strategy is required in terms of the
+objectives of the scheme, clarity in terms of how the revenue raised should be utilised, how
+the issue of equity and exemptions will be addressed, and clarity in terms of communicating
+the concept, leadership and political stability (based in part on Ison and Rye 2005). Each of
+these aspects are now considered in turn.
+
+3.2.2 The need for clear objectives
+Clear objectives for a WPL are essential. The objectives can be economic, in terms of how
+efficiently a congested road network is utilised, environmental, with a WPL seeking to address
+traffic-emissions and to raise revenue to fund carefully targeted infrastructure investment. In
+reality a WPL is likely to encompass all three objectives. There is value in setting the WPL in a
+wider transport policy context.
+
+Congestion metering in the city of Cambridge (trialled between October 1990 to October
+1993) was an example of a scheme that lacked clearly stated objectives and this was perceived
+as one of the main reasons for the schemes failure to progress (Ison 1998b). In 1989
+Cambridgeshire County Council produced a strategy aimed at tackling congestion. It
+incorporated a number of measures including extending the Park & Ride provision, bus
+priority measures, a package of road building measures and the development of a light rapid
+transit (LRT) system. One measure not initially included was congestion metering. Congestion
+metering was however not only seen as a means of limiting traffic growth but also as a way
+of meeting a proportion of the estimated cost of the LRT system. As such, congestion metering
+was perceived as having a number of objectives including: to retain the economic prosperity
+of the city, manage vehicular demand, and the use of the surplus income to fund a LRT system
+(Ison 1996). The objectives however were not seen as being well thought through (Ison
+1998b).
+
+In contrast the objectives for the Central London congestion charging were clear, namely:
+
+• A reduction in total traffic within the zone of between 10-15%;
+• An increase in traffic speeds of between 10-15%; and
+• A reduction in the level of congestion of between 20 and 30% measured in terms of vehicle
+delays.
+(Ison and Rye 2005)
+
+Clear and unambiguous objectives, which the strategy team for communication and
+marketing could promote. Clarity of objectives are all important when considering a WPL.
+
+3.2.3 Use of Revenue
+The way in which the revenue raised from a WPL is to be used is all-important. This is
+recognised by the Government in that following the implementation of any road user charge
+or WPL scheme the legislation states that the revenue raised should be hypothecated for a
+period for transport improvements. The issue however is when those improvements ‘come
+on stream’. For example, in terms of congestion metering in the city of Cambridge, one
+
+26
+De Montfort University Workplace Parking Levy: An evidence-based review of policy and prospects for Leicester
+
+objective was to use the surplus revenue in order to fund public transport improvements as
+a viable alternative to the car. Whilst this was the case a view was expressed that if congestion
+metering could have been introduced simultaneously with a vastly improved public transport
+system then it would have proved more acceptable (Ison 1998b).
+
+As stated in section 3.1, Nottingham City Council made it very clear as to how the revenue
+raised from the WPL would be used.
+
+3.2.4 Equity and Exemptions/Discounts
+Market-based measures will always raise the issue of equity and fairness, and these are
+central issues in terms of gaining acceptance. The issue of equity can be addressed to some
+degree by the use of scheme exemptions. Clearly however the more exemptions included as
+part of a scheme then the more complex that scheme will be to administer and it could also
+mean that there will be an increased burden on those road users/businesses subject to the
+charge/levy (Ison, 2004).
+
+For example, the London congestion charge scheme implemented a 90 per cent discount
+applied to residents living within the zone. In addition, there were exemptions and discounts
+for:
+
+• Vehicles driven by/carrying disabled people registered for a 100% discount;
+• Alternative fuel vehicles: gas, electric and fuel cell vehicles;
+• Emergency vehicles: ambulances, fire and police vehicles;
+• Vehicles with nine or more seats, motorbikes and mopeds;
+• Black cabs and London-licensed mini-cabs.
+
+A range of exemptions would appear to have aided the introduction of the London congestion
+charge. As for a WPL the issue of equity and exemptions/discounts need factoring into any
+decision-making with respect to the implementation of a WPL scheme. This was also the case
+in terms of the Nottingham WPL, as detailed in section 3.1.
+
+3.2.5 Communication
+Clear communication to the general public, business community and key stakeholders
+involved in any proposed WPL scheme is an important aspect of achieving successful
+implementation. Communicating why the scheme is being proposed, how the scheme will
+operate, and how the revenue will be utilised all help address concerns and promote general
+public confidence.
+Communication was all important in the case of the implementation of London’s congestion
+charge. The objectives of the scheme were clearly conveyed via local radio, TV stations,
+newspapers, leaflets (delivered to households) and a dedicated website. The objectives were
+clearly stated throughout the campaign. This was also the case with respect to the
+Nottingham WPL.
+
+27
+De Montfort University Workplace Parking Levy: An evidence-based review of policy and prospects for Leicester
+
+3.2.6 Catalyst for change/leadership and local governance – importance of political stability
+A Policy Champion would appear to be all important with respect to the implementation of
+any new policy initiative, and a WPL is no exception. As Fauth et al (1978) stated over 40 years
+ago, agencies or individuals who act as ‘policy entrepreneurs’ are central in advancing
+concepts and seeking support. It could be argued that a policy champion or protagonist
+focused on the task of implementation is vital in terms of market-based road traffic policy
+measures. The implementation of a WPL will involve a diverse range of stakeholders in a
+fragile alliance and as such a policy champion able to provide leadership and direction is
+required (Ison and Rye 2005).
+
+Relating to the London Congestion Charge, Ken Livingstone’s election manifesto included
+reference to the congestion charge and in terms of implementation the role of the Mayor was
+all important. Scheme implementation was carried out by TfL, acting on direction from the
+Mayor. The Mayor was important in heading off criticism that could have seriously damaged
+the schemes implementation, ensuring that resources were concentrated on the task of
+implementation. Councillor and Officer leadership was also important to the successful
+implementation of the Nottingham WPL and will have a key role to play with respect to a WPL
+in the context of Leicester City Council.
+
+3.2.7 Political Stability
+
+Political stability can be viewed as an integral part of policy implementation. This is the case
+when considering any transport policy initiative that requires a lengthy lead in time and it was
+certainly the case in terms of the introduction of the London congestion charge and also with
+the Nottingham WPL where political stability and continuity were seen to be very important.
+The Labour Council clearly stated their intention to introduce a WPL scheme in three
+consecutive election manifestos and Nottingham City Council politicians were resolute in their
+support for a measure that had not been introduced anywhere in the UK.
+
+3.3 Potential benefits of a WPL in the City of Leicester
+
+The potential benefits of a WPL can be summarised as follows:
+
+• The legislation already exists;
+• Cost to the business community can be mitigated by improved traffic conditions,
+improved traffic-related emissions, enhanced quality of local environment, enhanced
+alternatives to the private car [improved public transport, active travel and an enhanced
+Travel Planning process]. In addition, the cost could be offset if passed on to the
+employees, which would have the benefit of impacting on travel behaviour;
+• A WPL will focus on the main congestion related issue of peak-period commuting;
+• Enhanced quality of transport provision, most notably in terms of connectivity. This would
+be achieved by a WPL releasing funds for enhancing local transport provision;
+• Respondents to a Nottingham survey stated that improvements to the tram provided
+greater access to employment opportunities and greater employment opportunities. The
+employment opportunities in practice meaning access to a workplace;
+
+28
+De Montfort University Workplace Parking Levy: An evidence-based review of policy and prospects for Leicester
+
+• Better public transport options are cited by Dale et al (2017b) to be an attractor to inward
+investment, that is employers locating into the Nottingham City area in that instance;
+• Health benefits through active travel mode shift – which could impact on employee
+productivity;
+• There is the potential for a WPL to free up parking areas and road space which can be
+reallocated to support active travel;
+• The City of Leicester has an issue with air pollution and traffic congestion, like most other
+cities in the UK and worldwide, and the consideration of a WPL, as part of a package of
+measures, is a focused approach for seeking to address it;
+• A parking charge is understood by the general public as a policy option, with some
+employees already being charged to park at the workplace. The Workplace Parking Levy
+can be seen as an extension of this, in fact an incremental approach and certainly
+relatively easier to implement than a road user charge;
+• A WPL can provide complementary support to wider transport policy objectives, for
+example set out in a local transport plan. This could for example support wider sustainable
+and active transport policies and other demand measures such as varying parking tariffs;
+• Act as a spur to companies to evaluate and reassess their workplace parking provision –
+with help from the City Council (as practiced by Nottingham City Council);
+• Act as a demand side measure promoting the more effective use of a scarce resource,
+namely urban land, avoiding the need for supply side measures such as additional road
+infrastructure which is resource intensive;
+• Raise revenue which can be used to support an ambitious LTP at a time of climate
+emergency and population growth. WPL revenue would enhance the capability of the
+Transforming Cities Fund (TCF) and fund projects that have been planned or started;
+• Be easier to implement and administer than a Road User Charge (see Table 3 and the
+discussion).
+
+3.4 A comparison between a Workplace Parking Levy and Road User Charging in relation
+to the City of Leicester
+
+• RUC is a charge for the use of road space. The key issue is how quickly drivers are charged
+for the use of the road space and the extent to which this then impacts on their travel
+behaviour and mode choice. If it is a monthly charge for example then the link between
+use/travel behaviour and charge is broken. If Leicester City Council is seeking to focus
+mainly on addressing congestion then a direct charge for the use of road space would be
+likely to have a bigger impact because it would affect more drivers travelling throughout
+the day.
+
+• A WPL is a charge on a complementary product, namely a charge on workplace parking
+places, thus impacting on the costs of spaces available at the destination point of a
+journey. If the charge is passed on by the organisation to their employee then it is likely
+
+29
+De Montfort University Workplace Parking Levy: An evidence-based review of policy and prospects for Leicester
+
+to have an impact on travel behaviour. A WPL can more easily form part of an integrated
+transport strategy with multiple objectives.
+
+• With both a WPL and a RUC attention needs to be given to the boundary effect which is
+an issue that Leicester City Council will need to consider. If a RUC is adopted then the
+boundary effect is likely to be at the outer edges of the pricing cordon (depending on the
+type of scheme adopted), whereas if it were a WPL then the displaced parking would be
+likely to be more localised – be that nearby street and residential areas.
+
+• Given that both a WPL and RUC seek to impact on the amount of commuting traffic they
+are both likely to have an effect on the level of traffic-related emissions. However, RUC is
+likely to be more impactful.
+
+• Since a RUC means that every motorist (except those that are exempt) will be subject to
+a charge when entering the charging zone during a particular period of the day, the
+revenue raised is likely to be higher than that raised from a WPL which relates only to
+companies, and only to companies with above a predetermined number of workplace
+parking places, if the scheme adopts the way in which Nottingham has administered it.
+As a result, there is likely to be a greater revenue stream from a RUC if Leicester City
+Council were to adopt a RUC.
+
+• The cost of installing, and administering a RUC scheme will be much greater than a WPL
+and as such a WPL scheme is arguably more appropriate for a city such as Leicester.
+
+• Based on the potential political difficulties likely to be experienced through the
+introduction of a RUC scheme it is most likely that a WPL scheme can be introduced in a
+relatively shorter period of time by a City Council thereby delivering earlier transport
+benefits.
+
+• With respect to public acceptance a WPL is likely to be relatively more acceptable than a
+RUC on the basis that it is a Levy on companies as opposed to local people.
+
+• A clear understanding as to how the revenue raised from either market-based option is
+important with respect to both implementation of a RUC or WPL.
+
+30
+De Montfort University Workplace Parking Levy: An evidence-based review of policy and prospects for Leicester
+
+Table 3 WPL and Road User Charging Comparison
+
+IMPACT Workplace Parking Levy Road User Charging
+
+No direct impact on traffic and congestion in that it is
+not a charge for the use of road space but a levy on
+organisations for the number of parking spaces utilised.
+
+However, since there will be a reduction in the number
+of Private Non-Residential Parking (PNRP) spaces there
+is likely to be an impact on overall traffic congestion at
+the city level.
+
+The impact will depend on the level of the charge
+decided upon. Direct impact on congestion by charging for the use of road space
+particularly during the peak period. The likely effect will depend on the
+It will also depend on how employers are stimulated to type of scheme implemented and the level of charge.
+Reduced Congestion react to the WPL in terms of managing their workplaces
+including parking. There may however be a ‘boundary effect’ in the area around the road
+user charge cordon as motorists seek to avoid the charge.
+There may however be an adverse impact at the local
+level as commuters seek to park in adjacent areas.
+There is also likely to be an impact on Parking Search.
+
+As such, this could involve the introduction of
+complementary measures namely an extension of CPZ’s
+and/or charging or controlling on-street parking.
+
+In addition, there is a potential for stimulating through traffic as
+the freeing up of road space encourages those who utilise the
+city routes to travel from A to B.
+Since there will be a reduction in the number of PNRP spaces there Potentially a reduction in air pollution since the introduction of a road
+Lower air pollution and will potentially be a beneficial impact on the overall level of air user charge will reduce the number of vehicles on the road, although the
+carbon emissions pollution at the city level as less motorists commute to work. boundary effect must be considered.
+
+31
+De Montfort University Workplace Parking Levy: An evidence-based review of policy and prospects for Leicester
+
+Hypothecated revenue The impact on congestion and air pollution will depend on the
+Indirect impact on congestion through the use of funds raised through
+used to enhance enhanced package of measures implemented as a result of the
+charging. Potentially higher revenue raising capability than the WPL to
+alternatives to the private revenue generated from the WPL.
+provide for an enhanced package of alternative measures.
+car.
+Higher cost of implementation (the overall cost depending on the type of
+Cost of implementation, Relatively low cost of implementation and efficient management scheme envisaged). Higher operating costs than the WPL and variable
+management and and revenue collection. revenue collecting efficiency depending on the type of scheme envisaged
+revenue collection and the price elasticity of demand of motorists in the Leicester area.
+Depends on issues such as the consultation process but it is likely
+Likely to be longer to implement than the WPL. Clearly this would depend
+to be shorter than that required for the implementation of road
+Timescale to on the type of scheme proposed – whether it be a low-tech solution such
+user charging, in that the technology required is of lower cost it is
+Implementation as with the London Congestion Charge or an Electronic Road Pricing
+a low-tech solution and it is predominantly an administration-
+Scheme as with Singapore.
+based scheme.
+Attraction and retention of
+employers and retail Based on the Nottingham experience of the WPL there is no or
+facilities little impact on the attraction/retention of employment and Difficult to ascertain the likely impact on the attraction/retention of
+retail facilities. employment and retail facilities (depending on the type of scheme and
+package of complementary measures envisaged).
+Less of an impact on accessibility than the implementation of
+road user charging.
+
+Accessibility to work and Less of an impact on accessibility than the implementation of Possible issues relating to accessibility requires measures to address the
+education road user charging. issue of social exclusion for low income groups.
+
+Public acceptance is a major issue in terms of implementing a road user
+charge. For this reason, there are very few schemes world-wide.
+Introduction of a market-based approach, whether it be a In addition, there is something specific about the nature of those areas
+workplace parking levy or road user charge, is likely to meet with that have implemented a RUC making them more suitable - such as
+Public Acceptability the issue of acceptance. In saying this the WPL is likely to prove density as in London, level of congestion throughout the day or the
+more acceptable than a road user charge simply because the WPL political makeup.
+is a Levy on organisations rather than the road using motorist. Issues relating to equity, fairness, provision of alternative modes of
+transport and the cost of implementation are all important. A road user
+charging scheme, as with the WPL is more acceptable if there is
+hypothecation of revenue and as such the provision of alternative modes.
+
+32
+De Montfort University Workplace Parking Levy: An evidence-based review of policy and prospects for Leicester
+
+Employees who choose to travel to work by car will benefit from reduced
+congestion through improved journey times and cleaner air.
+The WPL impacts on business in that they are subject to the Levy.
+Clearly the Levy can be passed on to the employee.
+Business is most likely to benefit from reduced congestion and therefore
+Business Acceptability In the case of both the WPL and road user charging hypothecation improved reliability of employee travel to work time and delivery.
+of revenue to the provision of alternatives to the private car is
+important for both public and business acceptability.
+
+33
+De Montfort University Workplace Parking Levy: An evidence-based review of policy and prospects for Leicester
+
+4. CONCLUSION
+
+4.1 Key issues
+There are a number of key conclusions that can be drawn from this review of evidence relating
+to the WPL in the context of the City of Leicester. Whilst there is a relatively small, but
+growing, academic literature on the WPL, the literature relating to road user charging is
+extensive and covers the economic, technological and political underpinning. As stated in
+Section 2, one of the main issues pertaining to the market-based approach is the acceptance
+of such measures (Ison 1998b and Ison and Rye 2005). In this regard there are a number of
+lessons that can be learnt from road user charging that are of relevance when considering a
+WPL. This section of the Report seeks to address the important aspects relating to WPL
+acceptance.
+
+4.2 Leicester-specific context
+• Leicester continues to devise and deliver ambitious plans for tackling the climate
+emergency, alleviating traffic congestion, improving urban air quality, and sustainably
+accommodating population growth while ensuring the city remains a vibrant and
+attractive place in which to live, work and invest.
+
+• In light of the current economic situation and challenging funding environment, lessons
+from Nottingham suggest that Leicester could use a WPL to raise direct funds to support
+transport infrastructure improvements and leverage additional match funding.
+
+• Other Local Authorities, London Boroughs and major English and Scottish cities are
+considering a WPL and so it could be considered both timely and politic for Leicester to
+be investigating a WPL scheme for the city.
+
+4.3 Practical considerations
+• A WPL is quicker and easier to implement than a road user charge and is generally more
+publicly acceptable.
+
+• A stable political environment has proved to be conducive to the introduction of a WPL in
+Nottingham and the political situation in Leicester is likely to be similarly conducive to a
+WPL in Leicester.
+
+• Whilst a WPL impacts on the business community it does not impact directly on local
+people generally, unlike road user charging.
+
+• Consideration needs to be given to complementary measures such as CPZs and on street
+charging to counter any potential ‘displaced parking’ effect of commuters parking in
+adjacent streets and residential areas.
+
+• Businesses need to be consulted and their input can help shape the nature of the Levy
+and inform priorities for investment.
+
+34
+De Montfort University Workplace Parking Levy: An evidence-based review of policy and prospects for Leicester
+
+4.4 Recommendations
+
+The Workplace Parking Levy could form an important transport intervention supporting the
+delivery of Leicester City Council policy objectives relating to tackling congestion, improving
+air quality, responding to the Climate Emergency and generally improving social equity and
+the quality of life in the City. It would be most effective if set in a holistic set of integrated
+transport policies and interventions planned for the future.
+Based on the experience of WPLs in other cities and the findings from peer-reviewed
+academic research relating to the WPL, the following recommendations are proposed:
+• The need for a WPL in Leicester, and its benefits to the city, will need to be clearly
+explained to all affected businesses and related stakeholders.
+
+• WPL objective/s must be clearly stated and readily quantifiable.
+
+• The geographic boundary of the Levy must be appropriate, clearly defined and
+enforceable.
+
+• Exemptions, and the rationale for them, must be clearly stated and justified.
+
+• The Council will need to clearly state how the hypothecated revenue from the WPL will
+be utilised and provide evidence of subsequent investment in previously published
+transport targets.
+
+• WPL can provide complementary support to wider transport policy objectives, for
+example set out in a local transport plan. This could for example support wider sustainable
+and active transport policies and other demand measures such as varying parking tariffs
+
+• There will be a need for clear and consistent communication and consultation between
+the Council and all affected businesses.
+
+• A Leicester WPL policy champion, who acts as a focal point of the policy, is important.
+
+35
+De Montfort University Workplace Parking Levy: An evidence-based review of policy and prospects for Leicester
+
+REFERENCES
+Brooke, S., Ison, S.G., and Quddus, M.A., (2014) On-Street Parking Search: Review and Future
+Research Direction, Transportation Research Record, TRB, Washington D.C, USA, No 2469, 65-
+75.
+Brooke, S., Ison, S.G., and Quddus, M.A., (2017) 'On-street parking search: A UK local authority
+perspective' Journal of Transport and Land Use, 10(1), 1-13.
+Brooke, S., Ison, S.G., Quddus, M.A., (2018) Analysing Parking Search (Cruising) Time Using
+Generalised Multilevel Structural Equation Modelling, Journal Transport Economics and
+Policy, 52(3), 202-220.
+Budd, L., Ison, S.G., and Budd, T., (2013), An empirical examination of the growing
+phenomenon of off-site residential car parking provision: the situation at UK airports,
+Transportation Research A: Policy and Practice, 54 26–34.
+Bulkeley H and Rayner T (2003) New Realism and Local Realities: Local Transport Planning in
+Leicester and Cambridgeshire Urban Studies, 40(1), 35-55
+Camara, P (1999) Momentum: Mobility Management for the Urban Environment: Leicester
+Demonstration Site, UK Available online at https://trid.trb.org/view/512165
+City Mayor (2015) Healthier Air for Leicester Leicester’s Air Quality Action Plan (2015-2026)
+Leicester City Council
+Civitas (2020) Leicester Retrieved from http://civitas.eu/content/leicester Accessed:
+30/07/2020
+CRIL (2020) Campaign to Re-open the Ivanhoe Line Retrieved from https://ivanhoeline.org/
+on 15/7/2020
+Dale, S., Frost, M.W., Ison, S.G., and Warren, P., (2014) Workplace Parking Levies: The Answer
+to Funding large Scale Local Transport Improvement in the UK? Research in Transportation
+Economics, 48, 410-421
+Dale, S., Frost, M., Ison, S.G., Quddus, M.A and Warren, P, (2017a) Evaluating the Impact of a
+Workplace Parking Levy on Local Traffic Congestion: The Case of Nottingham, UK, Transport
+Policy, 59, 153-164.
+Dale, S., Frost, M., Ison, S.G., Nettleship, K., and Warren, P, (2017b) An evaluation of the
+economic and business investment impact of an integrated package of public transport
+improvements funded by a Workplace Parking Levy, Transportation Research A, 101, 149-162.
+Department of the Environment, Transport and the Regions DETR, (1998a) A New Deal for
+Transport: Better for Everyone, Cm 3950, The Government’s White Paper on the Future of
+Transport, London: The Stationery Office.
+Department of the Environment, Transport and the Regions (DETR). (1998b). Breaking the
+Logjam: The Government's consultation paper on fighting traffic congestion and pollution
+through road user and workplace parking charges. London: The Stationery Office.
+Department for Transport (2020) Restoring your railway fund 2nd July 2020, Retrieved from
+https://www.gov.uk/government/publications/re-opening-beeching-era-lines-and-
+stations/re-opening-beeching-era-lines-and-stations Accessed: 14/7/2020
+
+36
+De Montfort University Workplace Parking Levy: An evidence-based review of policy and prospects for Leicester
+
+Elvy J (2014) Public participation in transport planning amongst the socially excluded: An
+analysis of 3rd generation local transport plans Case Studies on Transport Policy, 2(2)
+September, 41-49.
+Fauth, G., Gomez-Ibanez, J. A., Howitt, A. M., Kain, J. K., and Wilkins, H. C., (1978), Central
+Area Auto Restraint: Boston Case Study, Research Report R78-2, Department of City and
+Regional Planning, Harvard University, Cambridge, Mass.
+Historic England (2020) Porte Cochere, Pedestrian Loggia and Octagonal Turret Forming
+Frontage to Leicester Station Retrieved from https://historicengland.org.uk/listing/the-
+list/list-entry/1300217 Accessed: 14/7/2020
+Inrix (2019) Congestion Costs U.K. Nearly £8 Billion in 2018 Retrieved from
+https://inrix.com/press-releases/scorecard-2018-uk/ on 29/7/2020
+Inrix (2020) Inrix 2019 Global Traffic Scorecard Retrieved from https://inrix.com/scorecard/
+Accessed: 29/07/2020
+Ison, S.G., (1996) Pricing Road Space: Back to the Future? The Cambridge Experience,
+Transport Reviews, 16(1), 109-126.
+Ison, S.G., (1998a) The saleability of urban road pricing, Journal of the Institute of Economic
+Affairs, 18(4), 21-25.
+Ison, S.G., (1998b) A concept in the right place at the wrong time: congestion metering in the
+city of Cambridge, Transport Policy, 5(3), 139-146.
+Ison, S.G., (2004) Road User Charging: Issues and Policies, Ashgate Publishing.
+Ison, S.G. and Rye, T., (2005) Implementing road user charging: the lessons learnt from Hong
+Kong, Cambridge and Central London, Transport Reviews, 25(4), 451-465.
+Ison, S.G., and Mulley, C, (2014) (eds), Parking: Issues and Policies, Emerald Publishing
+Limited, pp 442.
+Jephcote C and Chen H (2012) Environmental injustices of children's exposure to air pollution
+from road-transport within the model British multicultural city of Leicester: 2000–09 Science
+of The Total Environment, 140-151.
+Leicester and Leicestershire Business Survey (2017) Research Report Prepared by BMG
+Research Ltd on behalf of the LLEP
+Leicester City Council (2011a) Leicester’s Local Transport Plan: Planning for People, not Cars,
+2011-2026 Leicester, City Council
+Leicester City Council (2011b) Leicester Car Parking Strategy. Leicester, Leicester City Council
+Leicester City Council (2020a) Choose How You Move
+https://www.choosehowyoumove.co.uk/leicester-city-council/
+Leicester City Council (2020b) Parking in Leicester – Where to Park Retrieved from
+https://www.leicester.gov.uk/transport-and-streets/parking-in-leicester/where-to-park/ on
+28/09/2020
+LLEP [Leicester and Leicestershire Enterprise Partnership] (2014) Strategic Economic Plan
+2014-2020 https://www.lepnetwork.net/media/1120/leicester-leicestershire-sep.pdf
+
+37
+De Montfort University Workplace Parking Levy: An evidence-based review of policy and prospects for Leicester
+
+Ministry of Transport (1964) Road Pricing: The Economic and Technical Possibilities (the
+Smeed Report), London, HMSO.
+National Infrastructure Commission [NIC] (2019) Cost of congestion shows need to enable
+local leaders to tackle the issue 12 February 2019 Retrieved from
+https://www.nic.org.uk/news/cost-of-congestion-shows-need-to-enable-local-leaders-to-
+tackle-the-issue/ Accessed: 29/07/2020
+Newbery, D.M., (1990) ‘Pricing and congestion: Economic principles relevant to pricing roads’,
+Oxford Review of Economic Policy, 6, 22-38.
+Nottingham City Council (NCC) and Nottinghamshire County Council. (2000). Local Transport
+Plan for Greater Nottingham (LTP 1) 2000/2001 to 2005/6. Nottingham: Nottingham City and
+County Council.
+Nottingham City Council (NCC) and Nottinghamshire County Council. (2006). Local Transport
+Plan for Greater Nottingham (LTP 2) 2006/7 to 2010/11. Nottingham: Nottingham City and
+County Council.
+Nottingham City Council (NCC). (2008). Workplace Parking Levy Business Case [online],
+Nottingham: Nottingham City Council, April 2008. Retrieved from:
+https://committee.nottinghamcity.gov.uk/Data/City%20Council/20080512/Agenda/$WPLB
+usCase%20-%2033021.doc.pdf Accessed: 28/07/2020
+Nottingham City Council (NCC). (2013). Nottingham Local Transport Plan 2011 to 2026.
+Nottingham: Nottingham City Council. Retrieved from:
+https://www.transportnottingham.com/wp-content/uploads/2017/10/LTP-3.pdf Accessed:
+21 July, 2020,
+ONS (2019) English indices of deprivation 2019 Available online at London,
+https://www.gov.uk/government/statistics/english-indices-of-deprivation-2019 Office for
+National Statistics Last accessed 19/10/2020
+ORR [Office for Road and Rail] (2020) Busiest Stations in Britain
+https://dataportal.orr.gov.uk/popular-statistics/busiest-stations-in-britain/
+Orton A (2018) Leicester's just been given £6.2m by the EU - here's how the cash is going to
+be spent Leicester Mercury 25th October https://www.leicestermercury.co.uk/news/local-
+news/leicesters-just-been-given-62m-2143584
+Roberts I (2000) Leicester environment city: learning how to make Local Agenda 21,
+partnerships and participation deliver Environment and Urbanization, 12(2), 9-26
+Royal Commission of Environmental Pollution, 1994. Eighteenth Report on Transport and the
+Environment, London Stationery Office, Cm 2674.
+Shoup, D. C. (2006), Cruising for parking, Transport Policy, 13(6), 479-486
+TomTom (2020) Traffic Index 2019 https://www.tomtom.com/en_gb/traffic-index/ranking/
+Accessed: 21/07/2020
+Transport Act 2000, (c.38 Part III Chapter II). London: HMSO. Retrieved from
+http://www.legislation.gov.uk/ukpga/2000/38/part/III/chapter/II Accessed: 21 July, 2020
+United Nations, Department of Economic and Social Affairs, Population Division (2018) World
+Urbanization Prospects: The 2018 Revision, Online Edition.
+
+38
+De Montfort University Workplace Parking Levy: An evidence-based review of policy and prospects for Leicester
+
+Workplace Parking Levy (England) Regulations 2009, SI 2009/2085. London: HMSO. Retrieved
+from http://www.legislation.gov.uk/uksi/2009/2085/contents/made Accessed: 21 July 2020
+Wright D and Burton R (1999) Leicester Environmental Road Tolling Scheme (LERTS) IEE
+Seminar on Electronic Tolling and Congestion Charging
+
+39

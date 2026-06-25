@@ -1,0 +1,12 @@
+{
+  "characters": 13248,
+  "extracted_date": "2026-06-25",
+  "method": "pdftotext-layout",
+  "output_path": "evidence/processed/text/SRC-BCC-0009.txt",
+  "sha256": "cfdf5f4c2ac22bd3967bbf12440f3047e21db838ae1b18097caa7009170964e5",
+  "source_id": "SRC-BCC-0009",
+  "source_path": "evidence/raw/bristol-city-council/src-bcc-0009_committee-report-wpl-october-2025.pdf",
+  "source_status": "downloaded",
+  "title": "Committee Report - WPL October 2025",
+  "url": "https://democracy.bristol.gov.uk/documents/s117954/01.%20Committee%20Report%20-%20WPL%20Oct%202025.pdf"
+}

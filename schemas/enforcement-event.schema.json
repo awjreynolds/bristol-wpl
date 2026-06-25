@@ -1,0 +1,166 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.invalid/bristol-wpl/schemas/enforcement-event.schema.json",
+  "title": "WPL Enforcement Event",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "enforcement_event_id",
+    "premises_reference",
+    "event_type",
+    "event_datetime",
+    "liable_party_ref",
+    "evidence_refs",
+    "case_status",
+    "source_ids"
+  ],
+  "properties": {
+    "enforcement_event_id": {
+      "type": "string",
+      "pattern": "^ENF-[A-Z0-9-]+$"
+    },
+    "licence_id": {
+      "type": "string"
+    },
+    "premises_reference": {
+      "$ref": "parking-inventory.schema.json#/properties/premises_reference"
+    },
+    "event_type": {
+      "type": "string",
+      "enum": [
+        "unlicensed_workplace_parking",
+        "licensed_places_exceeded",
+        "licence_condition_breach",
+        "late_payment",
+        "other"
+      ]
+    },
+    "event_datetime": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "liable_party_ref": {
+      "type": "string"
+    },
+    "evidence_refs": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "string"
+      }
+    },
+    "penalty_charge_notice": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "pcn_id": {
+          "type": "string"
+        },
+        "served_date": {
+          "type": "string",
+          "format": "date"
+        },
+        "service_method": {
+          "type": "string",
+          "enum": ["personal_delivery", "left_at_address", "first_class_post", "body_corporate_officer", "partnership_officer", "agreed_electronic_communication"]
+        },
+        "payment_deadline": {
+          "type": "string",
+          "format": "date"
+        },
+        "penalty_amount": {
+          "type": "number",
+          "minimum": 0
+        },
+        "reduced_amount": {
+          "type": "number",
+          "minimum": 0
+        }
+      }
+    },
+    "representations": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["received_date", "ground", "supporting_evidence_refs", "decision"],
+        "properties": {
+          "received_date": {
+            "type": "string",
+            "format": "date"
+          },
+          "ground": {
+            "type": "string",
+            "enum": ["circumstances_did_not_occur", "wrong_date_time_or_manner", "penalty_exceeds_amount", "other"]
+          },
+          "supporting_evidence_refs": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            }
+          },
+          "decision": {
+            "type": "string",
+            "enum": ["accepted", "partially_accepted", "rejected", "pending", "disregarded_late"]
+          },
+          "decision_notice_ref": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "appeal": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "appeal_made": {
+          "type": "boolean"
+        },
+        "court": {
+          "type": "string"
+        },
+        "outcome": {
+          "type": "string",
+          "enum": ["not_applicable", "pending", "dismissed", "notice_quashed", "withdrawn"]
+        },
+        "order_ref": {
+          "type": "string"
+        }
+      }
+    },
+    "charge_certificate": {
+      "type": "object",
+      "additionalProperties": false,
+      "properties": {
+        "served_date": {
+          "type": "string",
+          "format": "date"
+        },
+        "increased_amount": {
+          "type": "number",
+          "minimum": 0
+        },
+        "payment_deadline": {
+          "type": "string",
+          "format": "date"
+        }
+      }
+    },
+    "recovery_status": {
+      "type": "string",
+      "enum": ["not_required", "pending", "county_court_order_sought", "county_court_order_granted", "recovered", "written_off"]
+    },
+    "case_status": {
+      "type": "string",
+      "enum": ["open", "cancelled", "paid", "appealed", "recovery", "closed"]
+    },
+    "source_ids": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "string",
+        "pattern": "^SRC-[A-Z0-9-]+$"
+      }
+    }
+  }
+}

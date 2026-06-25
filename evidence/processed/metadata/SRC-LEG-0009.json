@@ -1,0 +1,12 @@
+{
+  "characters": 9797,
+  "extracted_date": "2026-06-25",
+  "method": "html-standard-library",
+  "output_path": "evidence/processed/text/SRC-LEG-0009.txt",
+  "sha256": "679a172f7fed254a9426a478bac67a417574439ecc3da1a34f6cdd8dec7df3b4",
+  "source_id": "SRC-LEG-0009",
+  "source_path": "evidence/raw/legislation/src-leg-0009_src-leg-0009-west-of-england-combined-authority-order-2017.html",
+  "source_status": "downloaded",
+  "title": "West of England Combined Authority Order 2017",
+  "url": "https://www.legislation.gov.uk/uksi/2017/126/contents"
+}

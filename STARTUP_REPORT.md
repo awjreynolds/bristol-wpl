@@ -2,7 +2,7 @@
 
 **Date:** 2026-06-25  
 **Mode:** Full simulation with agentic simulation sign-offs.  
-**Status:** Stage 0 bootstrap/discovery baseline completed with conditions.
+**Status:** Stage 0 bootstrap/discovery baseline completed with conditions. Stage 1 source acquisition and simulated assurance completed with conditions.
 
 ## Environment
 
@@ -78,23 +78,53 @@ P1 risks:
 - Parking inventory schema is placeholder-level.
 - OBC/FBC assembly scripts are placeholders.
 
+## Stage 1 Addendum
+
+Stage 1 acquired and extracted priority evidence, added whole-instrument statutory sources, added later Bristol decision/minute/EqIA sources, generated source term scans, expanded legal/statutory controls, created editable OBC/FBC/statutory Markdown templates and upgraded spatial/operations schemas.
+
+Current evidence state:
+
+- `evidence/source_register.csv`: 67 rows.
+- Downloaded and extracted: 49 sources.
+- Seeded but not downloaded: 17 sources.
+- Failed acquisition: 1 source (`SRC-ACADEMIC-0001`).
+- Current extraction state: `evidence/extraction_manifest.csv`.
+
+Stage 1 gate report:
+
+- `review/stage_gate_reports/stage-1-source-acquisition-and-simulated-assurance-report.md`
+
+Stage 1 simulated assurance:
+
+- Legal/statutory powers: simulation sign-off with conditions.
+- Bristol governance: simulation sign-off with conditions.
+- WECA/MCA governance: simulation sign-off with conditions.
+- Appraisal/TAG assurance: simulation sign-off with conditions.
+- Comparator evidence: simulation sign-off with conditions.
+- Spatial/data/operations/enforcement: simulation no-go.
+
+Current hard stop:
+
+No OBC/FBC assembly, preferred scheme, statutory consultation launch, operational readiness or statutory submission readiness is supported until Stage 2 legal/governance, Stage 4 spatial/data and Stage 5 appraisal/model controls are closed.
+
 ## Immediate Next Stage
 
 Proceed to Stage 1 evidence acquisition and Stage 2 legal/governance route work before any OBC/FBC drafting.
 
 Priority outputs:
 
-- acquire and hash current legal, Bristol, WECA/MCA, DfT/TAG and comparator sources;
-- populate legal compliance matrix and statutory crosswalk;
-- complete `statutory_dossier/statutory_route_note.md`;
-- run Legal Review Agent simulation sign-off on Stage 2;
-- replace placeholder parking-inventory schema;
-- create ASR/ASST control checklist.
+- resolve Bristol licensing authority, order-maker and delegation route;
+- resolve current WECA/MCA role and any assurance/funding dependency;
+- complete source notes for acquired priority evidence;
+- produce the ASR/OAR/ASST control pack and model-card framework;
+- acquire authoritative boundary, address/premises and parking-base data sources with licences;
+- produce DPIA scope, lawful-basis analysis and data-flow map;
+- create licensing/enforcement operating procedures, PCN templates, representation workflow, appeals/recovery procedure and service policy.
 
 ## Decisions Required From Project Owner
 
-1. Whether to allow networked source acquisition from the seed URLs in the next stage.
-2. Whether to keep all raw official PDFs under `evidence/raw/**` when no official HTML/DOCX source exists.
-3. Whether to prioritise legal/governance route work before Bristol chronology extraction.
+1. Whether to keep acquiring lower-priority seeded sources now or defer until source notes for priority sources are complete.
+2. Whether to prioritise Bristol constitution/delegation and WECA/MCA current-law role before any additional drafting.
+3. Whether to begin source-note production manually or create a scripted source-note skeleton generator.
 4. Whether to model the simulated scheme as Bristol-only unless Stage 2 proves a WECA/MCA or joint route.
-5. Whether to treat the July 2026 OBC decision point as future/planned until official records are acquired.
+5. Whether to treat July 2026 OBC and October 2026 FBC decision points as future/planned until official records are acquired.

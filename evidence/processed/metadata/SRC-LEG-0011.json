@@ -1,0 +1,12 @@
+{
+  "characters": 22791,
+  "extracted_date": "2026-06-25",
+  "method": "html-standard-library",
+  "output_path": "evidence/processed/text/SRC-LEG-0011.txt",
+  "sha256": "ffc8c37e5742cdaa5b984802f57c96fd29fcb41f3d690a9d67c32c5a90ef5d7e",
+  "source_id": "SRC-LEG-0011",
+  "source_path": "evidence/raw/legislation/src-leg-0011_src-leg-0011-workplace-parking-levy-england-regulations-2009-whole-instrument.html",
+  "source_status": "downloaded",
+  "title": "Workplace Parking Levy (England) Regulations 2009 whole instrument",
+  "url": "https://www.legislation.gov.uk/uksi/2009/2085/made"
+}
