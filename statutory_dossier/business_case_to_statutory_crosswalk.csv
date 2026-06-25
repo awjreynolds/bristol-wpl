@@ -1,0 +1,7 @@
+requirement_id,statutory_requirement,obc_section,fbc_section,statutory_document,evidence_item,owner,reviewer,status
+LEGAL-001,identify licensing authority and order maker,Strategic Case legal governance context,Management Case final governance,statutory_route_note,current law and constitutions,Legal Review Agent,Legal Review Agent,open
+LEGAL-002,confirm initial order confirmation route,Management Case statutory path,Statutory submission readiness,statutory_route_note,Transport Act 2000 DfT route evidence,Legal Review Agent,Legal Review Agent,open
+LEGAL-003,prevent RPI-only variation exemption misuse,Management Case statutory path,Scheme amendment controls,statutory_route_note,WPL England Regulations 2009,Legal Review Agent,Legal Review Agent,working
+LEGAL-004,map required scheme order contents,Commercial Case operating model,Final scheme order,draft_scheme_order,clause-by-clause powers matrix,Legal Review Agent,Legal Review Agent,open
+LEGAL-005,reconcile net proceeds plans and accounting,Financial Case,Financial Case final affordability,financial_and_net_proceeds,Schedule 12 and net proceeds accounting policy,Finance Review Agent,Legal Review Agent,open
+LEGAL-006,resolve WECA MCA role and dependencies,Strategic Case regional governance,Management Case interfaces,legal_authority_and_governance_map,current WECA MCA and Bristol governance evidence,WECA Governance Agent,Legal Review Agent,open

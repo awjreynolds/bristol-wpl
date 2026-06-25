@@ -1,0 +1,7 @@
+risk_id,stage,risk,likelihood,impact,gross_rating,controls,residual_rating,owner,review_date,acceptance_authority,status
+RISK-0001,Stage 2,Bristol licensing authority and delegation route unresolved,high,critical,P0,Legal route note and Legal Review Agent simulation sign-off required,high,Legal Review Agent,2026-06-25,Simulation Gate Authority,open
+RISK-0002,Stage 2,WECA MCA statutory role consent or assurance dependency misstated,high,critical,P0,Current law constitution and decision-record verification required,high,WECA Governance Agent,2026-06-25,Simulation Gate Authority,open
+RISK-0003,Stage 2,DfT engagement confused with Secretary of State confirmation,medium,critical,P0,DfT interaction classification and statutory route note required,high,Legal Review Agent,2026-06-25,Simulation Gate Authority,open
+RISK-0004,Stage 4,Boundary and parking-base data absent before options appraisal,high,critical,P0,Boundary manifest parking-base methodology and DPIA scope required,high,Spatial Data Agent,2026-06-25,Simulation Gate Authority,open
+RISK-0005,Stage 5,OBC drafting begins before SOC-equivalent OAR ASR and ASST controls,medium,major,P1,Stage-gate plan blocks OBC assembly,medium,Appraisal Guidance Agent,2026-06-25,Simulation Gate Authority,open
+RISK-0006,Stage 1,Comparator claims overstate Nottingham transferability before evidence acquisition,medium,major,P1,Comparator source acquisition and transferability matrix required,medium,Comparator Evidence Agent,2026-06-25,Simulation Gate Authority,open

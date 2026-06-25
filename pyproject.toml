@@ -1,0 +1,8 @@
+[project]
+name = "bristol-wpl-simulation"
+version = "0.1.0"
+description = "Full simulation workspace for a Bristol Workplace Parking Levy business case and statutory dossier."
+requires-python = ">=3.12"
+
+[tool.unittest]
+start-directory = "tests"

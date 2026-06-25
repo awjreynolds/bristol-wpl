@@ -1,0 +1,3 @@
+working_crs: EPSG:27700
+web_crs: EPSG:4326
+boundary_manifest_required: true

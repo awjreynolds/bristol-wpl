@@ -1,0 +1,3 @@
+model_run_manifest_required: true
+uncertainty_log_required: true
+single_point_forecasts_allowed: false

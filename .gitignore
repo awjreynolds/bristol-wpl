@@ -1,0 +1,23 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+
+# Restricted or sensitive working data must not be committed.
+data/restricted/**
+consultation/response_data/raw/**
+consultation/response_data/personal/**
+**/*secret*
+**/*credentials*
+**/*.key
+**/*.pem
+**/.env
+.env
+
+# Generated local package scratch.
+.worktrees/
+worktrees/

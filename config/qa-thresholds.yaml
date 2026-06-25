@@ -1,0 +1,4 @@
+material_claim_traceability: 1.0
+financial_total_reconciliation: 1.0
+legal_requirement_mapping: 1.0
+allow_unresolved_p0: false

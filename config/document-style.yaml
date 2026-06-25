@@ -1,0 +1,3 @@
+language: British English
+source_of_truth: markdown
+review_outputs: [docx, html]
