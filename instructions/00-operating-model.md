@@ -12,7 +12,7 @@
 **Required authored formats:** Markdown, DOCX, XLSX, CSV, JSON, HTML, GeoPackage, GeoJSON, SVG and PNG as appropriate  
 **Prohibited authored format:** PDF  
 
-Raw third-party source documents that were published only as PDFs may be stored unchanged as evidence under `evidence/raw/`. Do not create, convert, render or issue any authored business-case, consultation, review or decision document as a PDF.
+Raw third-party source documents that were published only as PDFs may be stored unchanged as evidence under `evidence/raw/`. These raw PDFs are for evidence retention and extraction only, not officer review or distribution copies. Do not create, convert, render or issue any authored business-case, consultation, review, officer-distribution or decision document as a PDF.
 
 ---
 
@@ -239,7 +239,7 @@ Absence of a WECA/MCA decision is not proof of opposition. Strategic mention is 
 
 # 5. Non-negotiable operating rules
 
-1. **No PDF deliverables.** Do not generate PDFs.
+1. **No authored PDF deliverables or officer-distribution PDFs.** Do not generate, convert, render or issue authored PDFs for officers, reviewers, consultation, publication or decisions. Downloaded third-party source PDFs are allowed only as immutable raw evidence under `evidence/raw/**`.
 2. Keep authored narrative in Markdown as the controlled source and produce editable DOCX officer editions.
 3. Use XLSX for officer-editable financial and analytical models, with CSV/Parquet extracts for reproducibility.
 4. Use GeoPackage/GeoJSON for spatial data and SVG/PNG for editable/viewable map outputs.
@@ -757,7 +757,7 @@ Create `evidence/claim_evidence_matrix.csv` with at least:
 
 ## 7.5 Officer editability
 
-Markdown is the controlled narrative source. Produce officer-friendly DOCX files that:
+Markdown is the controlled narrative source. Produce officer-friendly DOCX files, not PDFs, for officer review and distribution. DOCX files must:
 
 - use Word heading styles;
 - have a generated table of contents;
@@ -787,11 +787,11 @@ When an officer returns an edited DOCX:
 - rebuild the DOCX;
 - do not silently overwrite officer wording.
 
-No PDF build target may exist.
+No authored-PDF build target may exist, including any target for officer-review or officer-distribution PDFs.
 
 ## 7.6 DOCX round-trip protocol
 
-DOCX files are officer review copies, not the controlled source. Each issued DOCX must record the source Markdown path, source commit, build command, build timestamp and build manifest ID. Officer edits must be received with tracked changes enabled where practicable. Extract comments and tracked changes into `review/issue_resolution/office-edit-log.csv` with change ID, document ID, section, officer, proposed text, disposition, rationale, owner and closure reviewer. Reconcile accepted changes into Markdown before rebuilding. If two officer edits conflict, preserve both proposals and escalate as a decision issue.
+DOCX files are officer review and distribution copies, not the controlled source. PDFs must not be used as officer review or officer distribution copies. Each issued DOCX must record the source Markdown path, source commit, build command, build timestamp and build manifest ID. Officer edits must be received with tracked changes enabled where practicable. Extract comments and tracked changes into `review/issue_resolution/office-edit-log.csv` with change ID, document ID, section, officer, proposed text, disposition, rationale, owner and closure reviewer. Reconcile accepted changes into Markdown before rebuilding. If two officer edits conflict, preserve both proposals and escalate as a decision issue.
 
 ## 7.7 Accessibility acceptance
 
@@ -3351,7 +3351,7 @@ make gate-fbc
 make all
 ```
 
-`make all` must not generate PDFs.
+`make all` must not generate authored PDFs, including officer-review or officer-distribution PDFs.
 
 Suggested implementation:
 
@@ -3379,7 +3379,7 @@ On receiving this prompt in the blank repo, do the following immediately.
 2. Create the repository architecture.
 3. Create a concise root `AGENTS.md` that:
    - states the mission;
-   - prohibits invented evidence and PDF outputs;
+   - prohibits invented evidence and authored PDF outputs, including officer-distribution PDFs;
    - requires stage gates;
    - links to detailed instructions.
 4. Create local `AGENTS.md` files for evidence, legal, models, business case, spatial, consultation and review.

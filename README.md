@@ -9,6 +9,8 @@ Source of truth:
 
 This is not legal advice, statutory confirmation, financial certification or approval by any public body. All sign-offs are agentic simulation sign-offs unless explicitly replaced in a future real-world process.
 
+Officer review and distribution copies must be editable DOCX/XLSX/HTML or controlled Markdown as appropriate. PDFs are allowed only as downloaded third-party raw evidence under `evidence/raw/**`, never as officer-distribution outputs.
+
 ## Current Status
 
 Stage 0 bootstrap and Stage 1 source acquisition/simulated assurance are complete with conditions.
@@ -50,4 +52,4 @@ python3 scripts/scan_source_terms.py
 python3 scripts/build_document_templates.py
 ```
 
-Network access is required for source acquisition. Raw third-party PDFs must remain only under `evidence/raw/**`.
+Network access is required for source acquisition. Raw third-party PDFs must remain only under `evidence/raw/**` and must not be reused as officer-distribution copies.
