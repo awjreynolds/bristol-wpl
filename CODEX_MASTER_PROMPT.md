@@ -239,7 +239,7 @@ Absence of a WECA/MCA decision is not proof of opposition. Strategic mention is 
 
 # 5. Non-negotiable operating rules
 
-1. **No PDF deliverables.** Do not generate PDFs.
+1. **No authored PDF deliverables.** Do not generate, convert, render or issue authored PDFs. Downloaded third-party source PDFs are allowed only as immutable raw evidence under `evidence/raw/**`.
 2. Keep authored narrative in Markdown as the controlled source and produce editable DOCX officer editions.
 3. Use XLSX for officer-editable financial and analytical models, with CSV/Parquet extracts for reproducibility.
 4. Use GeoPackage/GeoJSON for spatial data and SVG/PNG for editable/viewable map outputs.
@@ -787,7 +787,7 @@ When an officer returns an edited DOCX:
 - rebuild the DOCX;
 - do not silently overwrite officer wording.
 
-No PDF build target may exist.
+No authored-PDF build target may exist.
 
 ## 7.6 DOCX round-trip protocol
 
@@ -3351,7 +3351,7 @@ make gate-fbc
 make all
 ```
 
-`make all` must not generate PDFs.
+`make all` must not generate authored PDFs.
 
 Suggested implementation:
 
