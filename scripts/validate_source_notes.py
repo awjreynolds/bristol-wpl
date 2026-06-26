@@ -23,19 +23,71 @@ CORE_SOURCE_IDS = {
     "SRC-NOTT-0002",
 }
 
+EXPANDED_SOURCE_IDS = {
+    "SRC-BCC-0005",
+    "SRC-BCC-0008",
+    "SRC-BCC-0009",
+    "SRC-BCC-0010",
+    "SRC-BCC-0011",
+    "SRC-BCC-0015",
+    "SRC-BCC-0016",
+    "SRC-BCC-0017",
+    "SRC-BCC-0022",
+    "SRC-BCC-0023",
+    "SRC-BCC-0024",
+    "SRC-BCC-0025",
+    "SRC-BCC-0026",
+    "SRC-BCC-0027",
+    "SRC-BCC-0028",
+    "SRC-BCC-0029",
+    "SRC-BCC-0030",
+    "SRC-BCC-0031",
+    "SRC-BCC-0032",
+    "SRC-BCC-0033",
+    "SRC-BCC-0034",
+    "SRC-BCC-0035",
+    "SRC-BCC-0036",
+    "SRC-LEG-0001",
+    "SRC-LEG-0003",
+    "SRC-LEG-0004",
+    "SRC-LEG-0005",
+    "SRC-LEG-0006",
+    "SRC-LEG-0007",
+    "SRC-LEG-0008",
+    "SRC-LEG-0011",
+    "SRC-LEG-0012",
+    "SRC-LEG-0013",
+    "SRC-LEG-0017",
+    "SRC-LEG-0018",
+    "SRC-LEG-0019",
+    "SRC-LEG-0020",
+    "SRC-LEG-0021",
+    "SRC-LEG-0024",
+    "SRC-LEG-0025",
+    "SRC-LEG-0026",
+    "SRC-LEG-0027",
+}
+
+REQUIRED_SOURCE_IDS = CORE_SOURCE_IDS | EXPANDED_SOURCE_IDS
+
 REQUIRED_FILES = [
     "analysis/evidence/stage-14a-source-note-control-package.md",
+    "analysis/evidence/stage-15a-source-note-expansion-control-package.md",
     "evidence/source_notes/README.md",
     "evidence/source_notes/source-note-coverage-register.csv",
     "evidence/source_notes/source-note-no-go-register.csv",
     "docs/stages/stage-14a-source-notes.md",
+    "docs/stages/stage-15a-source-note-expansion.md",
     "review/peer_review/stage-14a-source-note-review.md",
+    "review/peer_review/stage-15a-source-note-expansion-review.md",
     "review/stage_gate_reports/stage-14a-source-note-control-report.md",
+    "review/stage_gate_reports/stage-15a-source-note-expansion-report.md",
 ]
 
 CSV_HEADERS = {
     "evidence/source_notes/source-note-coverage-register.csv": [
         "source_id",
+        "coverage_stage",
         "workstream",
         "source_title",
         "note_path",
@@ -71,15 +123,19 @@ REQUIRED_NOTE_PHRASES = [
 REQUIRED_NAV_PHRASES = {
     "README.md": [
         "Stage 14A",
+        "Stage 15A",
         "evidence/source_notes/README.md",
         "source-note backlog remains controlled",
     ],
     "docs/stages/README.md": [
         "Stage 14A",
+        "Stage 15A",
         "source-note control",
+        "source-note expansion",
     ],
     "evidence/source_notes/README.md": [
         "Simulation-only source notes",
+        "Stage 15A",
         "source-note backlog remains controlled",
         "Does not close ISS-0007",
     ],
@@ -87,7 +143,35 @@ REQUIRED_NAV_PHRASES = {
         "Accepted for source-note control purposes only",
         "source-note backlog remains controlled",
     ],
+    "review/stage_gate_reports/stage-15a-source-note-expansion-report.md": [
+        "Accepted for expanded source-note control purposes only",
+        "source-note backlog remains controlled",
+    ],
 }
+
+
+def expected_status(source_id: str) -> str | None:
+    if source_id in CORE_SOURCE_IDS:
+        return "pilot_note_created"
+    if source_id in EXPANDED_SOURCE_IDS:
+        return "stage_15a_note_created"
+    return None
+
+
+def expected_stage(source_id: str) -> str | None:
+    if source_id in CORE_SOURCE_IDS:
+        return "Stage 14A"
+    if source_id in EXPANDED_SOURCE_IDS:
+        return "Stage 15A"
+    return None
+
+
+def expected_note_dir(source_id: str) -> str | None:
+    if source_id in CORE_SOURCE_IDS:
+        return "evidence/source_notes/core/"
+    if source_id in EXPANDED_SOURCE_IDS:
+        return "evidence/source_notes/expanded/"
+    return None
 
 
 def read_rows(rel: str) -> list[dict[str, str]]:
@@ -123,6 +207,10 @@ def source_register_rows() -> dict[str, dict[str, str]]:
     return {row["source_id"]: row for row in read_rows("evidence/source_register.csv")}
 
 
+def extraction_manifest_rows() -> dict[str, dict[str, str]]:
+    return {row["source_id"]: row for row in read_rows("evidence/extraction_manifest.csv")}
+
+
 def check_required_files() -> list[str]:
     return [f"missing source-note file: {rel}" for rel in REQUIRED_FILES if not (ROOT / rel).exists()]
 
@@ -149,12 +237,13 @@ def check_coverage_register() -> list[str]:
     rows = read_rows(rel)
     by_source = {row["source_id"]: row for row in rows}
     register_rows = source_register_rows()
+    manifest_rows = extraction_manifest_rows()
     register_ids = set(register_rows)
 
-    for source_id in sorted(CORE_SOURCE_IDS - set(by_source)):
-        errors.append(f"{rel} missing core source_id {source_id}")
-    for source_id in sorted(CORE_SOURCE_IDS - register_ids):
-        errors.append(f"{rel} core source_id {source_id} is absent from source_register.csv")
+    for source_id in sorted(REQUIRED_SOURCE_IDS - set(by_source)):
+        errors.append(f"{rel} missing required source_id {source_id}")
+    for source_id in sorted(REQUIRED_SOURCE_IDS - register_ids):
+        errors.append(f"{rel} required source_id {source_id} is absent from source_register.csv")
 
     for row in rows:
         source_id = row.get("source_id", "")
@@ -162,8 +251,16 @@ def check_coverage_register() -> list[str]:
         if not registered:
             errors.append(f"{rel} {source_id} is absent from source_register.csv")
             continue
-        if row.get("note_status") != "pilot_note_created":
-            errors.append(f"{rel} {source_id} must be pilot_note_created")
+        status = expected_status(source_id)
+        stage = expected_stage(source_id)
+        note_dir = expected_note_dir(source_id)
+        if not status or not stage or not note_dir:
+            errors.append(f"{rel} {source_id} is not in a controlled source-note cohort")
+            continue
+        if row.get("coverage_stage") != stage:
+            errors.append(f"{rel} {source_id} must have coverage_stage {stage}")
+        if row.get("note_status") != status:
+            errors.append(f"{rel} {source_id} must be {status}")
         if row.get("claim_status") != "source_note_control_only":
             errors.append(f"{rel} {source_id} has unsafe claim_status {row.get('claim_status')}")
         if row.get("source_title") != registered.get("title"):
@@ -171,8 +268,8 @@ def check_coverage_register() -> list[str]:
         if "Does not close ISS-0007" not in row.get("no_go_note", ""):
             errors.append(f"{rel} {source_id} missing ISS-0007 no-go note")
         note_path = row.get("note_path", "")
-        if not note_path.startswith("evidence/source_notes/core/"):
-            errors.append(f"{rel} {source_id} note_path must stay under evidence/source_notes/core")
+        if not note_path.startswith(note_dir):
+            errors.append(f"{rel} {source_id} note_path must stay under {note_dir}")
         elif not note_path.endswith(f"{source_id.lower()}.md"):
             errors.append(f"{rel} {source_id} note_path must end with {source_id.lower()}.md")
         elif not (ROOT / note_path).exists():
@@ -181,13 +278,27 @@ def check_coverage_register() -> list[str]:
             note_text = (ROOT / note_path).read_text(encoding="utf-8")
             if registered.get("local_path") not in note_text:
                 errors.append(f"{note_path} missing registered local_path {registered.get('local_path')}")
+            if registered.get("status") == "downloaded_raw_omitted_from_public_repo":
+                required = "raw PDF is deliberately omitted from the public repository"
+                if required not in note_text:
+                    errors.append(f"{note_path} missing raw-omitted public repo control wording")
+        if source_id in EXPANDED_SOURCE_IDS:
+            manifest = manifest_rows.get(source_id)
+            if not manifest:
+                errors.append(f"evidence/extraction_manifest.csv missing {source_id}")
+            elif not manifest.get("status", "").startswith("extracted"):
+                errors.append(f"evidence/extraction_manifest.csv {source_id} is not extracted")
+            elif manifest.get("quality") != "usable":
+                errors.append(f"evidence/extraction_manifest.csv {source_id} is not usable")
     return errors
 
 
 def check_source_notes() -> list[str]:
     errors = []
-    for source_id in sorted(CORE_SOURCE_IDS):
-        path = ROOT / "evidence/source_notes/core" / f"{source_id.lower()}.md"
+    for source_id in sorted(REQUIRED_SOURCE_IDS):
+        note_dir = expected_note_dir(source_id)
+        assert note_dir is not None
+        path = ROOT / note_dir / f"{source_id.lower()}.md"
         if not path.exists():
             errors.append(f"missing source note: {path.relative_to(ROOT)}")
             continue
@@ -230,6 +341,21 @@ def check_required_phrases() -> list[str]:
     return errors
 
 
+def check_backlog_remains_open() -> list[str]:
+    errors = []
+    issue_rows = {row["issue_id"]: row for row in read_rows("governance/issues_register.csv")}
+    gap_rows = {row["gap_id"]: row for row in read_rows("evidence/evidence_gap_register.csv")}
+    if issue_rows.get("ISS-0007", {}).get("status") != "open":
+        errors.append("ISS-0007 must remain open after Stage 15A source-note expansion")
+    if gap_rows.get("EG-0024", {}).get("status") != "open":
+        errors.append("EG-0024 must remain open after Stage 15A source-note expansion")
+    if gap_rows.get("EG-0038", {}).get("status") != "controlled_open":
+        errors.append("EG-0038 must remain controlled_open after Stage 15A source-note expansion")
+    if gap_rows.get("EG-0043", {}).get("status") != "controlled_open":
+        errors.append("EG-0043 must remain controlled_open after Stage 15A source-note expansion")
+    return errors
+
+
 def collect_errors() -> list[str]:
     errors = []
     errors.extend(check_required_files())
@@ -238,6 +364,7 @@ def collect_errors() -> list[str]:
     errors.extend(check_source_notes())
     errors.extend(check_no_go_register())
     errors.extend(check_required_phrases())
+    errors.extend(check_backlog_remains_open())
     return errors
 
 

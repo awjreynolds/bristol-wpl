@@ -23,7 +23,8 @@ This is a controlled simulation. It is not an approved Bristol WPL scheme, not a
 | FBC/statutory gate | Not ready | RED | Stage 11A creates final gate controls only; no FBC, legal sign-off, S151 review, consultation disposition or implementation readiness exists | Complete FBC evidence packet, Monitoring Officer route, Section 151 review, DfT/WECA disposition and decision report |
 | Public repository release | Public but not approval | GREEN for publication controls only | Stage 12A records public GitHub visibility and no-overclaim controls | Re-run public-release QA before external circulation claims |
 | Critical-path handover | Mapped but not approved | GREEN for handover controls only | Stage 13A maps blockers to work packages and a control-only 90-day plan | Use work packages as planning inputs only; obtain real authority before spend or procurement |
-| Source notes | Pilot cohort only | AMBER | Stage 14A creates a source-note pilot; ISS-0007 and EG-0024 remain open | Extend reviewed source notes to every acquired priority source before source-heavy drafting |
+| Source notes | Expanded but still partial | AMBER | Stage 14A creates a pilot and Stage 15A adds 42 legal/governance notes; ISS-0007, EG-0024, EG-0038 and EG-0043 remain open | Extend reviewed source notes to every acquired priority source and add claim-level summaries before source-heavy drafting |
+| Public repo secret-scanning | Repository controls recorded | AMBER | Stage 14B-E record current-tree cleanup, history rewrite and repository-side hosted-alert checks; GitGuardian disposition remains external | Check GitGuardian directly before claiming hosted-alert closure |
 | Data protection and operations | Not ready | AMBER | ISS-0006 and RISK-0007 remain open | DPIA, lawful basis, PCN, appeals, recovery and service controls |
 | Nottingham transfer | Lessons only | AMBER | EG-0004, EG-0008, ISS-0005, RISK-0006 and RISK-0009 remain open | Refreshed Nottingham evidence and Bristol transferability assessment |
 
@@ -39,7 +40,8 @@ This is a controlled simulation. It is not an approved Bristol WPL scheme, not a
 | Stage 11A creates final gate controls. | That FBC approval, statutory submission or implementation can be recommended. |
 | Stage 12A records public repository release controls. | That publication is approval or professional sign-off. |
 | Stage 13A records critical-path handover controls. | That work packages or the 90-day plan approve a programme, spending, procurement or gate passage. |
-| Stage 14A records a source-note pilot. | That source notes verify every claim or close the evidence backlog. |
+| Stage 14A and Stage 15A record source-note cohorts. | That source notes verify every claim, provide legal advice or close the evidence backlog. |
+| Stage 14B-E record public-repository security controls. | That GitGuardian has closed its alert or that WPL readiness has changed. |
 | Nottingham can inform lessons. | That Nottingham impacts transfer to Bristol. |
 
 ## Key Read Paths

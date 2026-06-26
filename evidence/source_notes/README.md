@@ -1,26 +1,28 @@
 # Source Notes
 
-Status: Stage 14A source-note control pilot.
+Status: Stage 15A expanded source-note controls.
 Date: 2026-06-26.
 
 ## What This Is
 
-These are Simulation-only source notes for a first cross-workstream evidence cohort. They are editable Markdown working notes that help future officers, reviewers and agents understand what a source can support and what it must not be used to claim.
+These are Simulation-only source notes for controlled evidence cohorts. They are editable Markdown working notes that help future officers, reviewers and agents understand what a source can support and what it must not be used to claim.
 
-The source-note backlog remains controlled. This pilot does not cover every acquired priority source. Does not close ISS-0007.
+The source-note backlog remains controlled. The Stage 14A pilot and Stage 15A expansion do not cover every acquired priority source. Does not close ISS-0007.
 
-## Current Pilot Cohort
+## Current Controlled Cohorts
 
-- Bristol public narrative and decision trail: `SRC-BCC-0001`, `SRC-BCC-0002`, `SRC-BCC-0003`, `SRC-BCC-0004`, `SRC-BCC-0006`, `SRC-BCC-0007`, `SRC-BCC-0014`
-- Business-case, appraisal and statutory spine: `SRC-DFT-0001`, `SRC-HMT-0001`, `SRC-LEG-0002`
-- WECA assurance context: `SRC-WECA-0007`
-- Nottingham comparator context: `SRC-NOTT-0001`, `SRC-NOTT-0002`
+- Stage 14A pilot: 13 cross-workstream source notes in `evidence/source_notes/core/`.
+- Stage 15A expansion: 42 legal, Bristol governance, Bristol constitution/delegation and equality-update source notes in `evidence/source_notes/expanded/`.
 
 ## Coverage Boundary And Remaining Backlog
 
-This pilot covers 13 source notes. The canonical source universe remains `evidence/source_register.csv`; the extraction state remains `evidence/extraction_manifest.csv`. At the Stage 14A checkpoint the repo has 111 registered sources, 94 extracted sources, 16 seeded-but-not-downloaded sources and 1 failed acquisition.
+The controlled note set now covers 55 source notes. The canonical source universe remains `evidence/source_register.csv`; the extraction state remains `evidence/extraction_manifest.csv`. At the Stage 15A checkpoint the repo has 111 registered sources, 94 extracted sources, 16 seeded-but-not-downloaded sources and 1 failed acquisition.
 
-The remaining backlog is tracked through `ISS-0007`, `EG-0024`, `ISS-0019` and `EG-0038`. A future source-note expansion must use those registers, not this README, as the authority for closure.
+The remaining backlog is tracked through `ISS-0007`, `EG-0024`, `ISS-0019`, `EG-0038`, `ISS-0024` and `EG-0043`. A future source-note expansion must use those registers, not this README, as the authority for closure.
+
+## Raw-Omitted Public Pack Controls
+
+Some Bristol public committee-pack PDFs are omitted from the public repository after the Stage 14B hosted scanner detector-collision incident. Their source notes do not re-authorise raw PDF reliance. They preserve source URL/hash traceability and require raw binary reacquisition outside the public repo before raw-file inspection is relied on.
 
 ## Controls
 

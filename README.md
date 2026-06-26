@@ -6,6 +6,15 @@ This repo is a public, editable simulation of what a government-grade Bristol Wo
 
 This repository is public. Stage 12A records that public visibility is not approval, not an official council publication and does not change the no-go position below.
 
+## Current Workflow Snapshot
+
+| Item | Current position |
+|---|---|
+| Last completed stage | Stage 15A: bounded legal/governance source-note expansion. |
+| What Stage 15A controls | It adds 42 editable source notes for Bristol governance, constitution/delegation, equality-update and WPL statutory sources, with validator checks. |
+| What Stage 15A cannot do | It does not close the source-note backlog, provide legal advice, verify claims, pass an OBC/FBC gate, launch consultation or authorise statutory submission. |
+| Main live blockers | `ISS-0001`, `ISS-0002`, `ISS-0003`, `ISS-0004`, `ISS-0007`, `ISS-0008`, `ISS-0011`, `ISS-0012`, `ISS-0015`, `ISS-0016`, `EG-0038`, `EG-0043`. |
+
 ## Current No-Go Position
 
 The current simulation position is **no-go for approval, consultation, OBC reliance, FBC reliance and statutory submission**.
@@ -57,7 +66,7 @@ You can rely on this repo as a controlled simulation record:
 | Cabinet member or council leader | `docs/officer/assurance-dashboard.md` | One-page decision dashboard with blockers and safe statements. |
 | Officer or programme manager | `docs/officer/programme-risk-briefing.md` | Programme risks, mitigations and next checks. |
 | Officer planning next work | `docs/officer/next-steps-critical-path.md` | Critical path work packages and 90-day planning controls. |
-| Evidence reviewer or drafter | `evidence/source_notes/README.md` | Source-note pilot and claim-use limits; source-note backlog remains controlled. |
+| Evidence reviewer or drafter | `evidence/source_notes/README.md` | Source-note cohorts and claim-use limits; source-note backlog remains controlled. |
 | Public repo maintainer | `review/stage_gate_reports/stage-14b-public-repo-secret-scan-report.md` | GitGuardian/Grafana-token-pattern incident response, source omissions and secret-scan controls. |
 | Maintainer considering history rewrite | `review/stage_gate_reports/stage-14c-history-rewrite-decision-report.md` | Dry-run result, force-push boundary and residual GitGuardian/history risk. |
 | Maintainer checking rewrite completion | `review/stage_gate_reports/stage-14d-live-history-rewrite-completion-report.md` | Live force-push result, local and fresh-remote verification, and residual hosted-alert caveats. |
@@ -70,7 +79,7 @@ You can rely on this repo as a controlled simulation record:
 
 ## Visual Stage Map
 
-The current workflow map is in `docs/visuals/stage-gate-map.mmd`. Stage 9A is the public/officer assurance layer. Stage 7 OBC, Stage 8 consultation launch and Stage 11 FBC/statutory gates remain blocked. Stage 10A is only a control layer for a future statutory dossier; Stage 11A is only a control layer for the final FBC/statutory gate. Stage 12A records the public repository release controls. Stage 13A records the critical-path handover controls; the critical path is not approval. Stage 14A creates a source-note pilot; the source-note backlog remains controlled and open. Stage 14B records public-repo secret-scanning remediation after a GitGuardian detector collision. Stage 14C dry-runs the history-rewrite option. Stage 14D records the approved live history rewrite. Stage 14E records repository-side hosted-alert checks; GitGuardian disposition remains external.
+The current workflow map is in `docs/visuals/stage-gate-map.mmd`. Stage 9A is the public/officer assurance layer. Stage 7 OBC, Stage 8 consultation launch and Stage 11 FBC/statutory gates remain blocked. Stage 10A is only a control layer for a future statutory dossier; Stage 11A is only a control layer for the final FBC/statutory gate. Stage 12A records the public repository release controls. Stage 13A records the critical-path handover controls; the critical path is not approval. Stage 14A creates a source-note pilot; the source-note backlog remains controlled and open. Stage 14B records public-repo secret-scanning remediation after a GitGuardian detector collision. Stage 14C dry-runs the history-rewrite option. Stage 14D records the approved live history rewrite. Stage 14E records repository-side hosted-alert checks; GitGuardian disposition remains external. Stage 15A expands legal/governance source-note coverage; it still does not close the backlog or any WPL readiness gate.
 
 ```mermaid
 flowchart LR
@@ -94,6 +103,7 @@ flowchart LR
     S14B --> S14C["Stage 14C<br/>History rewrite dry run"]
     S14C --> S14D["Stage 14D<br/>Live history rewrite"]
     S14D --> S14E["Stage 14E<br/>Hosted alert disposition"]
+    S14E --> S15A["Stage 15A<br/>Source-note expansion"]
 ```
 
 ## Stage 9A Status
@@ -138,6 +148,7 @@ The stage-by-stage workflow narrative is maintained in `docs/stages/`:
 - `docs/stages/stage-14c-history-rewrite.md`
 - `docs/stages/stage-14d-live-history-rewrite.md`
 - `docs/stages/stage-14e-hosted-alert-disposition.md`
+- `docs/stages/stage-15a-source-note-expansion.md`
 
 Each completed stage package should be committed and pushed before the next stage begins. Detailed discoveries, data points and unresolved issues live in the stage docs and controlled registers.
 
@@ -150,6 +161,7 @@ Each completed stage package should be committed and pushed before the next stag
 - 1 source acquisition failed: `SRC-ACADEMIC-0001`.
 - `evidence/extraction_manifest.csv` is the current extraction state: 91 extracted, 2 extracted with raw PDFs omitted from the public repo, 1 extracted with redacted text and raw PDF omitted, 16 skipped because not downloaded and 1 skipped because acquisition failed.
 - `evidence/extraction_log.csv` is the append-only extraction audit log.
+- `evidence/source_notes/source-note-coverage-register.csv` now tracks 55 controlled source notes: 13 Stage 14A pilot notes and 42 Stage 15A legal/governance expansion notes. The source-note backlog remains open.
 
 ## Controlled Gate Reports
 
@@ -173,6 +185,7 @@ Current gate reports live under `review/stage_gate_reports/`. Key current report
 - `review/stage_gate_reports/stage-14c-history-rewrite-decision-report.md`
 - `review/stage_gate_reports/stage-14d-live-history-rewrite-completion-report.md`
 - `review/stage_gate_reports/stage-14e-hosted-alert-disposition-report.md`
+- `review/stage_gate_reports/stage-15a-source-note-expansion-report.md`
 
 ## Context Discipline
 

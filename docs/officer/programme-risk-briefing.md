@@ -24,6 +24,8 @@ The simulation has mostly completed control architecture, not substantive case e
 | Treating public repo visibility as public-body endorsement | Stage 12A | Public misunderstanding, political overclaim or reliance on simulation sign-offs | Public-release no-go register and `python3 scripts/validate_public_release.py` |
 | Treating the critical path as an approved programme | Stage 13A | False authority to spend procure consult or progress gates | Handover no-go register and `python3 scripts/validate_handover.py` |
 | Treating source notes as verified claim evidence | Stage 14A | False confidence in OBC/FBC drafting and unsupported source-heavy claims | Source-note no-go register and `python3 scripts/validate_source_notes.py` |
+| Treating repository-side secret-scanning remediation as GitGuardian closure | Stage 14B-E | False security or hosted-alert claim | Secret-scan reports, history-rewrite reports and direct GitGuardian follow-up requirement |
+| Treating source-note expansion as legal clearance or complete evidence review | Stage 15A | Legal-route overclaim and premature source-heavy drafting | Coverage-stage register, raw-omitted source controls and `python3 scripts/validate_source_notes.py` |
 
 ## Risk Registers
 

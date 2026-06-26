@@ -24,6 +24,7 @@
 - Added Stage 14C history-rewrite dry-run controls, including a tested temporary-mirror rewrite path, helper script, decision package and gate report while leaving the live force-push blocked pending explicit approval.
 - Added Stage 14D live history-rewrite completion controls after explicit approval, including force-with-lease execution evidence, local all-history scan, fresh remote mirror scan and residual hosted-alert/fork/cache caveats.
 - Added Stage 14E hosted-alert disposition controls, including GitHub metadata/API checks, GitGuardian tooling limitation, and explicit GitGuardian follow-up wording.
+- Added Stage 15A source-note expansion controls, including 42 legal/governance source notes, coverage-stage register rows, extraction-manifest checks, raw-omitted public-pack controls, updated public/officer navigation and a gate report while keeping `ISS-0007`, `EG-0024`, `EG-0038` and `EG-0043` open.
 
 ## 2026-06-25
 

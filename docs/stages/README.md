@@ -11,7 +11,7 @@ Each completed stage package should be committed and pushed before the next stag
 
 ## Current Stage Map
 
-Terminology note: `Stage 10A` is a control-architecture slice for a future statutory confirmation dossier. `Stage 11A` is a control-architecture slice for the final FBC/statutory assurance gate. Neither is a statutory submission or approval. `Stage 12A` is a public-release control stage only. `Stage 13A` is a critical-path handover control stage only. `Stage 14A` is a source-note control pilot only. `Stage 14B` is a public-repo secret-scanning remediation control only. `Stage 14C` is a history-rewrite dry-run and approval-boundary control only. `Stage 14D` is live history-rewrite execution evidence only. `Stage 14E` is hosted-alert disposition tracking only. The future FBC/statutory decision gate remains `Stage 11` in this repo.
+Terminology note: `Stage 10A` is a control-architecture slice for a future statutory confirmation dossier. `Stage 11A` is a control-architecture slice for the final FBC/statutory assurance gate. Neither is a statutory submission or approval. `Stage 12A` is a public-release control stage only. `Stage 13A` is a critical-path handover control stage only. `Stage 14A` is a source-note control pilot only. `Stage 14B` is a public-repo secret-scanning remediation control only. `Stage 14C` is a history-rewrite dry-run and approval-boundary control only. `Stage 14D` is live history-rewrite execution evidence only. `Stage 14E` is hosted-alert disposition tracking only. `Stage 15A` is a source-note expansion control only. The future FBC/statutory decision gate remains `Stage 11` in this repo.
 
 ## Stage Risk Recording
 
@@ -39,6 +39,7 @@ Each stage should leave a register trail, not just a narrative note. The minimum
 | Stage 14C | History rewrite dry run and force-push decision boundary | Dry run complete; live rewrite subsequently completed in Stage 14D | `review/stage_gate_reports/stage-14c-history-rewrite-decision-report.md` |
 | Stage 14D | Live history rewrite execution and post-push verification | Complete as repository-history remediation; hosted alert disposition remains external | `review/stage_gate_reports/stage-14d-live-history-rewrite-completion-report.md` |
 | Stage 14E | Hosted alert disposition and repository-side checks | Repository-side checks complete; GitGuardian disposition remains external | `review/stage_gate_reports/stage-14e-hosted-alert-disposition-report.md` |
+| Stage 15A | Source-note expansion for legal and Bristol governance sources | Complete as source-note expansion; `ISS-0007`, `EG-0024`, `EG-0038` and `EG-0043` remain open | `review/stage_gate_reports/stage-15a-source-note-expansion-report.md` |
 
 ## Detailed Notes
 
@@ -60,6 +61,7 @@ Each stage should leave a register trail, not just a narrative note. The minimum
 - [Stage 14C History Rewrite Decision](stage-14c-history-rewrite.md)
 - [Stage 14D Live History Rewrite](stage-14d-live-history-rewrite.md)
 - [Stage 14E Hosted Alert Disposition](stage-14e-hosted-alert-disposition.md)
+- [Stage 15A Source Note Expansion](stage-15a-source-note-expansion.md)
 
 ## Current Hard Blockers
 
@@ -82,3 +84,4 @@ Each stage should leave a register trail, not just a narrative note. The minimum
 - Stage 14C history-rewrite controls were dry-run and decision-only; they did not themselves close GitGuardian remotely or change any WPL readiness gate.
 - Stage 14D live history-rewrite controls record repository-history remediation only; they do not close GitGuardian remotely, clean forks or old clones, revoke tokens or change any WPL readiness gate.
 - Stage 14E hosted-alert disposition controls record repository-side checks only; they do not close GitGuardian remotely, revoke tokens or change any WPL readiness gate.
+- Stage 15A source-note expansion controls are explanatory and control-only; they do not close the source-note backlog, verify claims, provide legal advice or change any WPL readiness gate.
