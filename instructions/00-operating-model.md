@@ -822,6 +822,8 @@ Context management is a quality control. Do not overload subagents with the full
 - hallucination controls;
 - review criteria.
 
+After Stage 2L, main coordinating agents working on legal, governance, statutory, OBC/FBC, DfT, WECA/MCA, order-change or consultation material must start with `analysis/legal/post-stage-2-legal-governance-context-packet.md`. Use that packet to select the mandatory first-read files, domain add-ons, banned claims and escalation path before opening long reports, full source packs or raw evidence. Subagents should receive bounded task packets rather than the whole context set.
+
 Subagents must not infer from memory when a cited source is available. If a source is unavailable, they must say so and record the gap. A subagent may sign off only the scope in its task packet. The Programme Orchestrator must synthesize subagent outputs and check for contradictions before any stage-gate recommendation.
 
 Every subagent must return a `handover.md` containing:

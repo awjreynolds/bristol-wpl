@@ -11,3 +11,5 @@ Non-negotiables:
 
 Detailed operating instructions live in `instructions/`.
 Start with `instructions/00-operating-model.md` and `instructions/10-stage-gates.md`.
+
+For main-agent legal, governance, statutory, OBC/FBC, DfT, WECA/MCA, order-change or consultation work after Stage 2L, start with `analysis/legal/post-stage-2-legal-governance-context-packet.md` before loading long reports or raw evidence. Subagents should receive bounded task packets rather than the whole context set.
