@@ -8,6 +8,7 @@
 - Added Stage 2J DfT procedural expectations and engagement-classification controls, preserving the WPL-specific DfT process gap while anchoring generic DfT/TAG alignment and bounded GOV.UK search-control evidence.
 - Added Stage 2K revocation, variation and consultation controls, preserving process-readiness gaps while bounding order-change terminology and the narrow RPI-only variation exemption.
 - Added Stage 2L context-management controls, creating a mandatory bounded read packet, banned-claim list and subagent packet criteria for future legal/governance/OBC/FBC/statutory work.
+- Added Stage 3A strategic assessment controls, including problem/baseline/objective/theory-of-change/benefits placeholders, package funding assurance registers and strategic QA validation.
 - Added Stage 4A boundary and parking-inventory control architecture, including spatial QA validation, canonical inventory headers, DPIA/operations link controls and a no-go gate report.
 - Added Stage 5A options and appraisal control architecture, including appraisal QA validation, ASR/ASST controls, model-card stubs, benefits treatment, Nottingham transferability and no-go gate controls.
 

@@ -1,0 +1,2 @@
+package_or_cost_line_id,description,wpl_relationship,funding_sources,weca_mca_trigger_class,formal_decision_source,assurance_route,statutory_wpl_effect,evidence_status,gate_effect,owner,reviewer,notes
+PKG-CTRL-001,package_placeholder,not_selected,not_evidenced,not_classified,not_evidenced,not_assessed,not_assessed,gap,P1,Funding Assurance Agent,Finance Review Agent,Stage 3A control row only.

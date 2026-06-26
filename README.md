@@ -13,13 +13,14 @@ Officer review and distribution copies must be editable DOCX/XLSX/HTML or contro
 
 ## Current Status
 
-Stage 0 bootstrap and Stage 1 source acquisition/simulated assurance are complete with conditions.
+Stage 0 bootstrap and Stage 1 source acquisition/simulated assurance are complete with conditions. Stage 2, Stage 3A, Stage 4A and Stage 5A have also been completed as control/narrowing stages only; they do not create OBC/FBC, consultation, preferred-scheme or statutory-submission readiness.
 
 The stage-by-stage workflow narrative is maintained in `docs/stages/`:
 
 - `docs/stages/README.md`
 - `docs/stages/stage-0-1-foundation.md`
 - `docs/stages/stage-2-legal-governance.md`
+- `docs/stages/stage-3a-strategic-assessment.md`
 - `docs/stages/stage-4a-spatial-data.md`
 - `docs/stages/stage-5a-options-appraisal.md`
 
@@ -37,6 +38,7 @@ Current controlled gate reports:
 - `review/stage_gate_reports/stage-2j-dft-procedural-expectations-report.md`
 - `review/stage_gate_reports/stage-2k-revocation-variation-report.md`
 - `review/stage_gate_reports/stage-2l-context-management-report.md`
+- `review/stage_gate_reports/stage-3a-strategic-assessment-control-report.md`
 - `review/stage_gate_reports/stage-4a-boundary-parking-control-report.md`
 - `review/stage_gate_reports/stage-5a-options-appraisal-control-report.md`
 - `review/stage_gate_reports/stage-2b-current-law-role-map-report.md`
@@ -60,6 +62,7 @@ Open controls include:
 
 - P0 Bristol final WPL licensing-scheme order-maker, statutory submitter and signatory route; Bristol-led authority-status evidence is source-bounded by Stage 2C, OBC/FBC member routing is partly controlled by Stage 2D, and Stage 2I adds final order/submission decision-box controls without closing the route.
 - P0 WECA/MCA current-law role; Stage 2E controls strategic-context and conditional funding/assurance wording, Stage 2F controls that current scoped repo evidence does not identify a WPL-specific transferred/concurrent WECA/MCA order-making function, Stage 2G narrows bounded public meeting-record search, and Stage 2H classifies package-level funding/assurance triggers. None of these settles consent, no-role, consultation-response or final funding-dependency status.
+- P1 strategic assessment and investment-programme readiness; Stage 3A creates problem/baseline/objective/theory-of-change/benefits/package-funding controls but does not create a Strategic Case, completed baseline, final objectives, benefits, investment package, WECA/MCA position or package funding assurance route.
 - P0 authoritative WPL boundary and parking inventory; Stage 4A creates control templates for boundary provenance topology QA parking-inventory canonical data DPIA scope and enforcement linkage but does not select a boundary or create inventory evidence.
 - P0/P1 DPIA/lawful-basis pack and enforcement operating procedure.
 - P0 ASR/OAR/ASST, model cards, model outputs and uncertainty controls; Stage 5A creates options/appraisal control templates, benefits treatment, transferability and model-card stubs but does not create a shortlist, preferred option, BCR, VFM category or model output.
@@ -103,6 +106,14 @@ For Stage 4 spatial and parking-base controls, start with:
 - `spatial/spatial_qa/spatial-assurance-report.md`
 - `review/stage_gate_reports/stage-4a-boundary-parking-control-report.md`
 
+For Stage 3 strategic assessment and package funding controls, start with:
+
+- `analysis/strategic/stage-3a-strategic-assessment-control-package.md`
+- `analysis/strategic/problem-definition.md`
+- `analysis/strategic/benefits-map.md`
+- `investment_programme/funding/package-funding-assurance-classification.csv`
+- `review/stage_gate_reports/stage-3a-strategic-assessment-control-report.md`
+
 For Stage 5 options and appraisal controls, start with:
 
 - `analysis/economic/stage-5a-options-appraisal-control-package.md`
@@ -114,6 +125,7 @@ For Stage 5 options and appraisal controls, start with:
 
 ```bash
 make validate
+make strategic-qa
 make spatial-qa
 make appraisal-qa
 python3 scripts/acquire_sources.py --priority 1_must

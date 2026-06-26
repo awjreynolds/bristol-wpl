@@ -1,1 +1,4 @@
-benefit_id,objective,benefit,measure,baseline,target,owner,evidence,status
+benefit_id,objective,benefit,measure,baseline,target,attribution_route,owner,reviewer,evidence,status,notes
+BEN-0001,not_approved,reduced workplace parking demand,not_defined,not_set,not_set,WPL-only or combined-package not yet evidenced,Strategic Case Review Agent,TAG/Appraisal Review Agent,,control_placeholder,No mode-shift congestion or parking-demand benefit claim is approved.
+BEN-0002,not_approved,transport investment benefits,not_defined,not_set,not_set,transport-investment-only or combined-package not yet evidenced,Strategic Case Review Agent,TAG/Appraisal Review Agent,,control_placeholder,No investment benefit is quantified or approved.
+BEN-0003,not_approved,net proceeds for transport policies or proposals,not_defined,not_set,not_set,transfer_public_cash_flow_not_economic_benefit,Finance Review Agent,TAG/Appraisal Review Agent,,control_placeholder,Gross levy receipts are a transfer or public cash-flow item and not an economic benefit.

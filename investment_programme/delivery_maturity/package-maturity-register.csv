@@ -1,0 +1,5 @@
+package_id,maturity_dimension,current_status,required_evidence,owner,reviewer,gate_effect,notes
+PKG-CTRL-001,scope,not_defined,package scope and exclusions,Funding Assurance Agent,Integrated Case Review Agent,P1,No package selected.
+PKG-CTRL-001,cost,not_costed,cost estimate inflation basis risk and contingency,Finance Review Agent,Finance Review Agent,P1,No cost evidence.
+PKG-CTRL-001,approval,not_approved,sponsor approval funding approval assurance route and decision source,Funding Assurance Agent,WECA Governance Agent,P1,No approval evidence.
+PKG-CTRL-001,benefits,not_quantified,benefit measures baseline target attribution and uncertainty,Strategic Case Review Agent,TAG/Appraisal Review Agent,P1,No benefit evidence.

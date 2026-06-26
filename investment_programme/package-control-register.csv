@@ -1,0 +1,2 @@
+package_id,package_name,stage,status,sponsor,objective,scope,maturity,approval_status,cost_status,funding_status,wpl_dependency,delivery_timetable_status,benefits_status,procurement_status,risk_status,scale_or_defer_option,owner,reviewer,notes
+PKG-CTRL-001,package_placeholder,Stage 3A,control_placeholder,not_selected,not_defined,not_defined,not_assessed,not_approved,not_costed,not_funded,not_assessed,not_assessed,not_quantified,not_assessed,not_assessed,not_assessed,Funding Assurance Agent,Integrated Case Review Agent,No package selected.

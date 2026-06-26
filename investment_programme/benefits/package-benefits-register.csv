@@ -1,0 +1,2 @@
+package_benefit_id,package_id,benefit_area,measure,baseline,target,attribution_route,evidence_refs,uncertainty,owner,reviewer,status,notes
+PBR-001,PKG-CTRL-001,placeholder,not_defined,not_set,not_set,not_assessed,,not_assessed,Strategic Case Review Agent,TAG/Appraisal Review Agent,control_placeholder,No package benefit quantified.

@@ -16,13 +16,15 @@ Each completed stage package should be committed and pushed before the next stag
 | Stage 0 | Repo architecture, operating model, registers and validation baseline | Complete with conditions | `review/stage_gate_reports/stage-0-architecture-and-controls-report.md` |
 | Stage 1 | Source acquisition, extraction and first simulated assurance | Complete with conditions | `review/stage_gate_reports/stage-1-evidence-baseline-report.md` |
 | Stage 2 | Legal, governance, WECA/MCA, DfT and statutory route controls | Complete as a narrowing/control stage; no-go remains | `review/stage_gate_reports/stage-2l-context-management-report.md` |
+| Stage 3A | Strategic assessment, objectives, benefits and package-funding controls | Complete as control architecture; Stage 3 no-go remains | `review/stage_gate_reports/stage-3a-strategic-assessment-control-report.md` |
 | Stage 4A | Boundary, parking-inventory, DPIA and operations data-control architecture | Complete as control architecture; Stage 4 no-go remains | `review/stage_gate_reports/stage-4a-boundary-parking-control-report.md` |
-| Stage 5A | Options, OAR, ASR, ASST, model-card and appraisal-control architecture | In current work package until committed | `review/stage_gate_reports/stage-5a-options-appraisal-control-report.md` |
+| Stage 5A | Options, OAR, ASR, ASST, model-card and appraisal-control architecture | Complete as control architecture; Stage 5 no-go remains | `review/stage_gate_reports/stage-5a-options-appraisal-control-report.md` |
 
 ## Detailed Notes
 
 - [Stage 0 and Stage 1 Foundation](stage-0-1-foundation.md)
 - [Stage 2 Legal and Governance](stage-2-legal-governance.md)
+- [Stage 3A Strategic Assessment Controls](stage-3a-strategic-assessment.md)
 - [Stage 4A Spatial and Parking Data Controls](stage-4a-spatial-data.md)
 - [Stage 5A Options and Appraisal Controls](stage-5a-options-appraisal.md)
 
@@ -31,6 +33,7 @@ Each completed stage package should be committed and pushed before the next stag
 - Bristol final WPL order-maker, statutory submitter and signatory route remains unresolved.
 - WECA/MCA role, consent, consultation-response and final funding-dependency status remain unresolved.
 - DfT WPL-specific process and any formal DfT response remain unresolved.
+- Strategic problem definition, baseline, final objectives, theory of change, benefit claims and investment package remain unresolved.
 - Authoritative boundary, spatial licences and workplace parking inventory are absent.
 - DPIA, lawful basis and operating procedures are not complete.
 - OAR, agreed ASR, completed ASST, completed/decision-grade model cards, model outputs, BCR and VFM category do not exist.

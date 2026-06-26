@@ -1,6 +1,6 @@
 # Stage 5A Options and Appraisal Controls
 
-Status: current control architecture work package. Stage 5 no-go remains.
+Status: completed as control architecture. Stage 5 no-go remains.
 
 ## Purpose
 
@@ -57,4 +57,3 @@ Stage 5A creates the options and appraisal control architecture needed before de
 - `EG-0012` remains partially closed for guidance/source-note acquisition.
 - `EG-0013` is partially closed only; reappraisal controls exist but no agreed ASR or model outputs exist.
 - Stage 4 boundary and parking-base blockers continue to block revenue and transport appraisal.
-

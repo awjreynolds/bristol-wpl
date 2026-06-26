@@ -1,0 +1,6 @@
+evidence_status_id,strategic_area,current_status,required_evidence,owner,reviewer,gate_effect,notes
+SES-001,problem_definition,not_evidenced,observed Bristol transport accessibility environmental fiscal and equity evidence,Strategic Case Review Agent,Red Team,P1,Do not state WPL is necessary.
+SES-002,baseline_and_trends,not_evidenced,baseline and trends across travel demand parking public transport business equality and cross-boundary patterns,Strategic Case Review Agent,Analytical Assurance Agent,P1,No target setting.
+SES-003,objectives_and_csfs,control_only,evidenced SMART objectives and non-predetermined CSFs,Strategic Case Review Agent,Integrated Case Review Agent,P1,No final weighting.
+SES-004,theory_of_change,control_only,evidenced causal chain with disbenefits and failure modes,Strategic Case Review Agent,Red Team,P1,No benefits claim.
+SES-005,investment_programme,control_only,named packages cost maturity funding assurance and benefits evidence,Funding Assurance Agent,Finance Review Agent,P1,No package selected.
