@@ -4,9 +4,9 @@ title: Initial Legal Questions
 programme: Bristol Workplace Parking Levy
 stage: discovery
 status: working
-version: 0.1
-date: 2026-06-25
-evidence_cutoff: 2026-06-25
+version: 0.2
+date: 2026-06-26
+evidence_cutoff: 2026-06-26
 directorate: Growth and Regeneration
 audience: internal-review
 issue_purpose: review
@@ -53,5 +53,5 @@ Status: working simulation issue list. This is not legal advice.
 
 ## P1 Controls From D1 Discovery
 
-- Confirm revocation route and any confirmation/consultation requirements.
+- Stage 2K partially controls revocation and variation terminology; complete publication, objections, notice, DfT process, public-law consultation trigger and Bristol decision/signatory route mapping before closure.
 - Settle consultation, inquiry, exemptions/discounts, enforcement, data, equality, subsidy/procurement and environmental-law implications.

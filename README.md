@@ -25,17 +25,18 @@ Current controlled gate reports:
 - `review/stage_gate_reports/stage-2h-package-funding-assurance-report.md`
 - `review/stage_gate_reports/stage-2i-final-order-submission-route-report.md`
 - `review/stage_gate_reports/stage-2j-dft-procedural-expectations-report.md`
+- `review/stage_gate_reports/stage-2k-revocation-variation-report.md`
 - `review/stage_gate_reports/stage-2b-current-law-role-map-report.md`
 - `review/stage_gate_reports/stage-2a-governance-evidence-refinement-report.md`
 - `review/stage_gate_reports/stage-2-legal-governance-technical-baseline-report.md`
 
 Current evidence state:
 
-- `evidence/source_register.csv` contains 109 rows.
-- 92 sources are downloaded.
+- `evidence/source_register.csv` contains 111 rows.
+- 94 sources are downloaded.
 - 16 sources remain seeded but not downloaded.
 - 1 source acquisition failed (`SRC-ACADEMIC-0001`).
-- `evidence/extraction_manifest.csv` is the current extraction state: 92 extracted, 16 skipped because not downloaded, and 1 skipped because acquisition failed.
+- `evidence/extraction_manifest.csv` is the current extraction state: 94 extracted, 16 skipped because not downloaded, and 1 skipped because acquisition failed.
 - `evidence/extraction_log.csv` is the append-only extraction audit log.
 
 ## Current Gate Position
@@ -50,6 +51,7 @@ Open controls include:
 - P0/P1 DPIA/lawful-basis pack and enforcement operating procedure.
 - P0 ASR/OAR/ASST, model cards, model outputs and uncertainty controls.
 - P1 DfT engagement evidence and WPL-specific procedural expectation classification; Stage 2J controls generic DfT business-case/TAG alignment and bounded GOV.UK search-control evidence but does not identify an accepted WPL confirmation dossier route.
+- P1 revocation, variation, publication and consultation process controls; Stage 2K controls order-change terminology and the narrow RPI-only variation exemption but keeps revocation process readiness open.
 
 For WECA/MCA funding and assurance context, start with:
 
@@ -66,6 +68,13 @@ For DfT engagement and confirmation-route controls, start with:
 - `statutory_dossier/dft_pre_application/questions_for_dft.md`
 - `statutory_dossier/dft_pre_application/confirmation_dossier_checklist.md`
 - `review/stage_gate_reports/stage-2j-dft-procedural-expectations-report.md`
+
+For order-change, variation, revocation and consultation controls, start with:
+
+- `analysis/legal/stage-2k-revocation-variation-and-consultation-control.md`
+- `statutory_dossier/draft_scheme_order/scheme_order_working_draft.md`
+- `statutory_dossier/consultation_statement/consultation_statement.md`
+- `review/stage_gate_reports/stage-2k-revocation-variation-report.md`
 
 ## Repeatable Commands
 

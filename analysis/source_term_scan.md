@@ -2,7 +2,7 @@
 
 Generated from extracted text under `evidence/processed/text`. Counts are triage aids, not substantive findings.
 
-- Extracted sources scanned: 92
+- Extracted sources scanned: 94
 - Sources with WPL references: 43
 - Sources with WECA/Combined Authority references: 47
 
@@ -72,3 +72,5 @@ Generated from extracted text under `evidence/processed/text`. Counts are triage
 | SRC-LEG-0023 | 0 | 0 | 0 | 0 | 1 | 0 | West of England Combined Authority Order 2017 article 8 current revised text |
 | SRC-LEG-0024 | 7 | 0 | 0 | 0 | 0 | 0 | Avon (Structural Change) Order 1995 |
 | SRC-LEG-0025 | 1 | 0 | 0 | 0 | 0 | 0 | Transport Act 2000 section 163 road user charging schemes preliminary |
+| SRC-LEG-0026 | 1 | 0 | 0 | 3 | 1 | 0 | Transport Act 2000 section 183 licensing schemes to be made by order |
+| SRC-LEG-0027 | 1 | 3 | 0 | 10 | 4 | 0 | Transport Act 2000 section 185 licensing schemes consultation and inquiries |

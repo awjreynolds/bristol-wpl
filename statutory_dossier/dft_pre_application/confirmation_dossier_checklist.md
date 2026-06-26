@@ -57,6 +57,7 @@ Status: Stage 2 technical baseline. Simulation only; not a live submission check
 | DFT-CD-018 | Reconsultation and modification log | Material-change assessment and decision record | absent | P1 |
 | DFT-CD-019 | Simulated assurance pack | Legal, finance, model, equality, operations, red-team and integrated reviews | partial | P1 |
 | DFT-CD-020 | DfT engagement classification and procedural-expectation evidence | Engagement log, DfT response or authoritative WPL-specific DfT procedural source, Stage 2J classification note | narrowed-open | P1 |
+| DFT-CD-021 | Order-change route note | Making, ordinary variation, RPI-only variation, revocation, publication, objections, consultation, inquiry and signatory controls | partially controlled | P1 |
 
 ## Current Gate Use
 

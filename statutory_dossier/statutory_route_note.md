@@ -60,9 +60,9 @@ The current baseline is therefore:
 | Route | Working Treatment | Status |
 | --- | --- | --- |
 | Initial Bristol order | Treat Secretary of State confirmation as required unless current law establishes otherwise. | controlled route rule, but promoter/submission route P0 open |
-| Ordinary variation | Treat confirmation as required unless a specific exception applies. | P1 review required |
+| Ordinary variation | Treat confirmation as required unless a specific exception applies. | Stage 2K partially controlled |
 | RPI-only variation | Narrow 2009 Regulations exemption; not for an initial scheme. | controlled prohibition |
-| Revocation | Distinct route requiring separate review. | P1 review required |
+| Revocation | Distinct order-change route; section 183 supports revocation by order, but publication, consultation, DfT process and Bristol route remain open. | Stage 2K partially controlled |
 | Joint scheme | Possible only if legal/governance analysis supports it. | P0 if implicated |
 
 ## Evidence Classification
@@ -75,6 +75,8 @@ The current baseline is therefore:
 | `SRC-LEG-0024` | Supports Bristol structural-change, county and transferred county-function status. | Does not allocate WPL order-making or submission within Bristol. |
 | `SRC-LEG-0025` | Confirms non-metropolitan local traffic authority construction by reference to a local traffic authority outside Greater London. | Does not identify Bristol's internal decision-maker. |
 | `SRC-LEG-0011` | Confirms RPI-only variation exception and enforcement controls. | Does not remove initial-order confirmation. |
+| `SRC-LEG-0026` | Confirms making, variation and revocation of licensing schemes by order and regulation-making powers for order procedure. | Does not close publication, objections, notice or Bristol decision route. |
+| `SRC-LEG-0027` | Confirms consultation and inquiry powers for making, variation and revocation. | Does not make consultation readiness complete; public-law consultation remains fact-sensitive. |
 | `SRC-BCC-0004`, `SRC-BCC-0022` | Evidence September 2024 Stage One/OBC development approval. | Do not approve implementation, consultation launch, FBC, boundary, charge, threshold or exemptions. |
 | `SRC-LEG-0009`, `SRC-LEG-0010` | Evidence WECA Order and 2026 amendment trigger. | Do not by themselves settle WPL role without consolidated function mapping. |
 
@@ -99,7 +101,7 @@ No source may be described as approval or confirmation unless it identifies the 
 ## P1 Questions
 
 - Acquire and classify current DfT procedural expectations.
-- Confirm revocation route and any confirmation or consultation requirements.
+- Complete revocation and variation process mapping for publication, objections, notice, DfT expectations, public-law consultation triggers and Bristol decision/signatory route.
 - Complete scheme order contents matrix.
 - Complete consultation, inquiry, exemptions/discounts, enforcement, data, equality, subsidy/procurement and environmental-law issue notes.
 - Complete net-proceeds accounting policy and transport programme controls.

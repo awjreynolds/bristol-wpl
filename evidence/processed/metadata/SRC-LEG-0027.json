@@ -1,0 +1,12 @@
+{
+  "characters": 14797,
+  "extracted_date": "2026-06-26",
+  "method": "html-standard-library",
+  "output_path": "evidence/processed/text/SRC-LEG-0027.txt",
+  "sha256": "e8d4e65fe4f1a56883d2c8ff11d1e35069a4baf445107f5ca411cc484bcd4e29",
+  "source_id": "SRC-LEG-0027",
+  "source_path": "evidence/raw/legislation/src-leg-0027_src-leg-0027-transport-act-2000-section-185-consultation-inquiries.html",
+  "source_status": "downloaded",
+  "title": "Transport Act 2000 section 185 licensing schemes consultation and inquiries",
+  "url": "https://www.legislation.gov.uk/ukpga/2000/38/section/185"
+}
