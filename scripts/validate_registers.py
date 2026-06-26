@@ -27,6 +27,8 @@ REQUIRED = {
     "handover/controls/critical-path-work-package-register.csv": ["work_package_id", "workstream", "current_status"],
     "handover/controls/blocker-to-workstream-map.csv": ["blocker_id", "work_package_id", "current_status"],
     "handover/controls/handover-no-go-register.csv": ["claim_id", "prohibited_claim", "current_status"],
+    "evidence/source_notes/source-note-coverage-register.csv": ["source_id", "note_path", "note_status"],
+    "evidence/source_notes/source-note-no-go-register.csv": ["claim_id", "prohibited_claim", "current_status"],
 }
 
 def read_header(path: Path) -> list[str]:

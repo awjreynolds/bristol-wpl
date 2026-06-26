@@ -12,7 +12,7 @@ Date: 2026-06-26.
 | `business_case/` | Editable OBC/FBC structure and placeholders | Completed OBC/FBC |
 | `statutory_dossier/` | Scheme order, legal compliance and confirmation dossier controls | Ready statutory submission |
 | `analysis/` | Source-linked analysis and stage-control packages | Final advice |
-| `evidence/` | Source register, raw evidence and extraction manifests | Uncontrolled claim library |
+| `evidence/` | Source register, raw evidence, extraction manifests and source-note controls | Uncontrolled claim library |
 | `governance/` | Risks, issues, decisions, approvals, sign-offs and requirements | Real public-body approvals |
 | `review/` | Simulated peer review, red team and stage-gate reports | Real officer/legal sign-off |
 | `models/` | Model controls, cards, inputs and outputs | Completed model outputs |

@@ -20,6 +20,7 @@ This is a simulation control map. It is not approval, legal advice, consultation
 | FBC/statutory gate | Final FBC evidence packet, legal sign-off, Section 151 review, DfT/WECA disposition, operations readiness and residual-risk decision pack | Monitoring Officer Simulation Agent, Section 151 Simulation Agent, Integrated Review Agent, Legal Review Agent, Finance Review Agent, Operations Design Agent and Red Team | Stage 11A controls and Stage 11 gate |
 | Public repository release | GitHub visibility, public no-go wording, no authored PDFs, restricted-path scan and blocked WPL gates | Public Release Review Agent, Officer Readability Agent and Red Team | Stage 12A controls |
 | Critical-path handover | Work package register, blocker map, 90-day control plan and handover no-go claims | Handover Review Agent, Programme Controls Agent and Red Team | Stage 13A controls |
+| Source notes | Source-note coverage register, source-use limits, no-go claims and claim-evidence linkage | Evidence Librarian, Evidence/Citation Agent and Red Team | Stage 14A controls |
 
 ## Registers
 
@@ -39,6 +40,7 @@ This is a simulation control map. It is not approval, legal advice, consultation
 - `make fbc-statutory-qa`
 - `make public-release-qa`
 - `make handover-qa`
+- `make source-notes-qa`
 - `python3 scripts/validate_statutory_dossier.py --gate`
 - `python3 scripts/validate_fbc_statutory_gate.py --gate`
 - `python3 scripts/stage_gate_check.py --gate obc`

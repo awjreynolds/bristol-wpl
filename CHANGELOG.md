@@ -19,6 +19,7 @@
 - Added Stage 11A FBC/statutory gate controls, including final gate checklist, assurance panel, no-go register, decision-report control, red-team packet, validator and no-go final gate report.
 - Added Stage 12A public-release controls, including repository visibility evidence, publication checklist, public-release no-go register, scan register, validator and gate report.
 - Added Stage 13A critical-path handover controls, including blocker-to-workstream mapping, work-package register, 90-day control plan, no-go register, next-steps briefing, validator and no-go handover gate report.
+- Added Stage 14A source-note controls, including a cross-workstream pilot source-note cohort, coverage register, source-note no-go register, validator and gate report while keeping the full source-note backlog open.
 
 ## 2026-06-25
 

@@ -18,10 +18,11 @@ Status: working simulation scaffold.
 12. FBC/statutory gate controls after Stage 11A; no FBC approval, statutory submission or implementation recommendation until the Stage 11 gate passes.
 13. Public-release controls after Stage 12A; public visibility is not approval and does not close any WPL gate.
 14. Critical-path handover controls after Stage 13A; work packages and 90-day plans do not close blockers or authorise spend.
+15. Source-note controls after Stage 14A; pilot source notes do not verify every claim or close the source-note backlog.
 
 ## Current Assembly Status
 
-Stage 6A creates OBC readiness and assembly-blocking controls only. Stage 7A creates OBC assurance-gate controls only. Stage 10A creates statutory dossier controls only. Stage 11A creates final FBC/statutory gate controls only. Stage 12A records public-release controls only. Stage 13A records critical-path handover controls only. Stage 5A creates options and appraisal control architecture only; it does not create an agreed OAR, ASR, ASST, model output, shortlist or value-for-money conclusion. No assembled OBC or FBC should be generated until legal route, statutory crosswalk, strategic assessment, spatial/data baseline, agreed ASR, model assurance, commercial readiness, financial readiness, management-case controls and Stage 7 assurance evidence exist.
+Stage 6A creates OBC readiness and assembly-blocking controls only. Stage 7A creates OBC assurance-gate controls only. Stage 10A creates statutory dossier controls only. Stage 11A creates final FBC/statutory gate controls only. Stage 12A records public-release controls only. Stage 13A records critical-path handover controls only. Stage 14A records source-note controls only. Stage 5A creates options and appraisal control architecture only; it does not create an agreed OAR, ASR, ASST, model output, shortlist or value-for-money conclusion. No assembled OBC or FBC should be generated until legal route, statutory crosswalk, strategic assessment, spatial/data baseline, agreed ASR, model assurance, commercial readiness, financial readiness, management-case controls, source-note and claim-evidence review, and Stage 7 assurance evidence exist.
 
 ## No-PDF Rule
 

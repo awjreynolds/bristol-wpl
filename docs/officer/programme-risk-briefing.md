@@ -23,6 +23,7 @@ The simulation has mostly completed control architecture, not substantive case e
 | Treating final FBC/statutory gate controls as approval to submit or implement | Stage 11A | False FBC approval, procurement authority, legal sign-off or implementation recommendation | FBC/statutory no-go register and `python3 scripts/validate_fbc_statutory_gate.py --gate` |
 | Treating public repo visibility as public-body endorsement | Stage 12A | Public misunderstanding, political overclaim or reliance on simulation sign-offs | Public-release no-go register and `python3 scripts/validate_public_release.py` |
 | Treating the critical path as an approved programme | Stage 13A | False authority to spend procure consult or progress gates | Handover no-go register and `python3 scripts/validate_handover.py` |
+| Treating source notes as verified claim evidence | Stage 14A | False confidence in OBC/FBC drafting and unsupported source-heavy claims | Source-note no-go register and `python3 scripts/validate_source_notes.py` |
 
 ## Risk Registers
 

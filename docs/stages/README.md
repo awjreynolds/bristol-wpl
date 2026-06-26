@@ -11,7 +11,11 @@ Each completed stage package should be committed and pushed before the next stag
 
 ## Current Stage Map
 
-Terminology note: `Stage 10A` is a control-architecture slice for a future statutory confirmation dossier. `Stage 11A` is a control-architecture slice for the final FBC/statutory assurance gate. Neither is a statutory submission or approval. `Stage 12A` is a public-release control stage only. `Stage 13A` is a critical-path handover control stage only. The future FBC/statutory decision gate remains `Stage 11` in this repo.
+Terminology note: `Stage 10A` is a control-architecture slice for a future statutory confirmation dossier. `Stage 11A` is a control-architecture slice for the final FBC/statutory assurance gate. Neither is a statutory submission or approval. `Stage 12A` is a public-release control stage only. `Stage 13A` is a critical-path handover control stage only. `Stage 14A` is a source-note control pilot only. The future FBC/statutory decision gate remains `Stage 11` in this repo.
+
+## Stage Risk Recording
+
+Each stage should leave a register trail, not just a narrative note. The minimum stage trail is: issue row where a blocker or drift risk exists, risk row, requirements row, decision-log row, claim-evidence row, evidence-gap row where evidence remains incomplete, pitfall/checks row where overclaim risk exists, simulated sign-off row, approvals row and a stage-gate report. The stage risk matrix provides the cross-stage view.
 
 | Stage | Purpose | Current status | Main gate report or control |
 |---|---|---|---|
@@ -30,6 +34,7 @@ Terminology note: `Stage 10A` is a control-architecture slice for a future statu
 | Stage 11 | Future combined FBC/statutory decision gate | Blocked; no FBC approval, statutory submission, procurement approval or implementation recommendation | `python3 scripts/validate_fbc_statutory_gate.py --gate` |
 | Stage 12A | Public repository release and no-overclaim controls | Complete as publication control; no WPL gate closes | `review/stage_gate_reports/stage-12a-public-release-gate-report.md` |
 | Stage 13A | Critical-path handover, blocker mapping and 90-day planning controls | Complete as handover control; no WPL gate closes | `review/stage_gate_reports/stage-13a-critical-path-handover-gate-report.md` |
+| Stage 14A | Source-note control pilot and source-use no-go controls | Complete as source-note control; `ISS-0007` remains open | `review/stage_gate_reports/stage-14a-source-note-control-report.md` |
 
 ## Detailed Notes
 
@@ -46,6 +51,7 @@ Terminology note: `Stage 10A` is a control-architecture slice for a future statu
 - [Stage 11A FBC And Statutory Gate Controls](stage-11a-fbc-statutory-gate.md)
 - [Stage 12A Public Release Controls](stage-12a-public-release.md)
 - [Stage 13A Critical Path Handover Controls](stage-13a-critical-path-handover.md)
+- [Stage 14A Source Note Controls](stage-14a-source-notes.md)
 
 ## Current Hard Blockers
 
@@ -63,3 +69,4 @@ Terminology note: `Stage 10A` is a control-architecture slice for a future statu
 - Stage 11A final gate controls are explanatory and control-only; no FBC approval, statutory submission, procurement approval or implementation recommendation exists.
 - Stage 12A public-release controls are explanatory and control-only; public visibility does not approve the WPL or close any readiness gate.
 - Stage 13A critical-path controls are explanatory and control-only; work packages and the 90-day plan do not approve a programme, authorise spend or close blockers.
+- Stage 14A source-note controls are explanatory and control-only; source notes do not verify all claims or close the acquired-source note backlog.
