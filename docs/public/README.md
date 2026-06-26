@@ -76,6 +76,7 @@ The simulation currently says:
 | Checking whether sources are still usable | `docs/public/source-link-and-freshness-status.md` | Link status, last-check dates, refresh flags and source-use limits |
 | Source-link QA maintainer | `scripts/validate_external_liveness.py` | Offline validation of recorded source-link reachability metadata |
 | Register integrity reviewer | `scripts/validate_register_references.py` | Cross-register ID and selected control-path checks |
+| Dashboard consistency reviewer | `scripts/validate_dashboard_consistency.py` | README and officer-dashboard blocker surfacing checks |
 | Officer or programme manager | `docs/officer/programme-risk-briefing.md` | Risks, mitigations and next checks |
 | Anyone asking what happens next | `docs/officer/next-steps-critical-path.md` | Critical path work packages; critical path is not approval |
 | Evidence reviewer or drafter | `evidence/source_notes/README.md` | Source-note cohorts; source notes do not verify every claim |

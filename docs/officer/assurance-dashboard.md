@@ -31,6 +31,7 @@ RAG colours describe repository control status, not real-world WPL readiness. `G
 | Public repo secret-scanning | Repository controls recorded | AMBER | Stage 14B-E record current-tree cleanup, history rewrite and repository-side hosted-alert checks; GitGuardian disposition remains external | Check GitGuardian directly before claiming hosted-alert closure |
 | Source-link and currentness controls | Reader route mapped; reliance still source-specific | GREEN for navigation only / AMBER for reliance | Stage 22A exposes the route but EG-0049 and EG-0050 remain open for source-by-source external liveness, content and currentness assurance | External URL checks, retrieval dates, currentness review, refreshed source notes or claim summaries and professional review for decision-grade claims |
 | Register reference integrity | Scoped ID/path checks exist; substance still review-specific | GREEN for linkage control-only / AMBER for reliance | Stage 23A resolves selected issue risk gap approval and simulation sign-off references but EG-0051 remains open for substantive register correctness | Human review of row meaning risk ratings mitigation adequacy and evidence support |
+| Dashboard blocker consistency | Visible blocker IDs resolve and latest Stage 24A blockers are surfaced | GREEN for blocker-surfacing control-only / AMBER for reliance | Stage 24A records dashboard blocker consistency checks. `ISS-0034`, `EG-0052` and `RISK-0037` remain open controls; the check is not exhaustive and does not prove risk adequacy or readiness. | Use `scripts/validate_dashboard_consistency.py`; review full issue, risk, gap and stage-risk registers before relying on dashboard substance |
 | Data protection and operations | Not ready | AMBER | ISS-0006 and RISK-0007 remain open | DPIA, lawful basis, PCN, appeals, recovery and service controls |
 | Nottingham transfer | Not transferable to Bristol yet | RED for reliance / AMBER for lessons control | EG-0004, EG-0008, EG-0046, ISS-0005, RISK-0006 and RISK-0009 remain open; no Bristol outcome, mitigation package or CPZ/RPZ readiness follows from comparator evidence | Refreshed Nottingham evidence, Bristol transferability assessment and mitigation options to assess, not selected mitigation |
 
@@ -54,6 +55,7 @@ RAG colours describe repository control status, not real-world WPL readiness. `G
 | Stage 21A records repo-local navigation integrity controls. | That external links are reachable, evidence is correct, content is true or any readiness gate can pass. |
 | Stage 22A records where to find source-link status, check dates and refresh flags. | That externally hosted sources are reachable now, legally/currently sufficient, accurate, complete, official for the intended claim or decision-grade. |
 | Stage 23A records scoped register-ID and control-path reference checks. | That register row substance, risk ratings, mitigations, evidence support or readiness judgements are correct. |
+| Stage 24A records dashboard blocker consistency checks. | That the blocker list is exhaustive or that risk ratings mitigations evidence support or readiness judgements are correct. |
 | Stage 14B-E record public-repository security controls. | That GitGuardian has closed its alert or that WPL readiness has changed. |
 | Nottingham can inform lessons. | That Nottingham impacts transfer to Bristol. |
 
@@ -70,6 +72,7 @@ RAG colours describe repository control status, not real-world WPL readiness. `G
 - Source-link/freshness status: `docs/public/source-link-and-freshness-status.md`
 - External-source liveness QA: `scripts/validate_external_liveness.py`
 - Register reference integrity QA: `scripts/validate_register_references.py`
+- Dashboard consistency QA: `scripts/validate_dashboard_consistency.py`
 - Next steps: `docs/officer/next-steps-critical-path.md`
 - Source notes: `evidence/source_notes/README.md`
 - Nottingham lessons: `docs/officer/nottingham-and-comparator-lessons.md`

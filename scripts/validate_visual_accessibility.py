@@ -64,6 +64,7 @@ REQUIRED_MERMAID_PHRASES = {
         "Stage 21A",
         "Stage 22A",
         "Stage 23A",
+        "Stage 24A",
     ],
     "docs/visuals/risk-control-atlas.mmd": [
         "flowchart",
@@ -74,6 +75,7 @@ REQUIRED_MERMAID_PHRASES = {
         "Visual/accessibility QA",
         "Source-link/freshness status",
         "Register reference integrity",
+        "Dashboard blocker consistency",
         "Legend",
     ],
 }

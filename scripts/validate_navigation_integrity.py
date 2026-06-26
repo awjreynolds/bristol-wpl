@@ -35,7 +35,8 @@ REQUIRED_NAV_REFERENCES = {
         "scripts/validate_external_liveness.py",
         "scripts/validate_navigation_integrity.py",
         "scripts/validate_register_references.py",
-        "review/stage_gate_reports/stage-23a-register-reference-integrity-report.md",
+        "scripts/validate_dashboard_consistency.py",
+        "review/stage_gate_reports/stage-24a-dashboard-blocker-consistency-report.md",
     ],
     "docs/public/README.md": [
         "docs/public/how-to-read-this-repo.md",
@@ -46,16 +47,18 @@ REQUIRED_NAV_REFERENCES = {
         "scripts/validate_external_liveness.py",
         "scripts/validate_navigation_integrity.py",
         "scripts/validate_register_references.py",
+        "scripts/validate_dashboard_consistency.py",
     ],
     "docs/officer/document-map.md": [
         "docs/public/source-link-and-freshness-status.md",
         "scripts/validate_register_references.py",
+        "scripts/validate_dashboard_consistency.py",
         "docs/officer/risk-control-crosswalk.csv",
         "docs/visuals/visual-accessibility-qa-register.csv",
     ],
     "docs/stages/README.md": [
-        "stage-23a-register-reference-integrity.md",
-        "review/stage_gate_reports/stage-23a-register-reference-integrity-report.md",
+        "stage-24a-dashboard-blocker-consistency.md",
+        "review/stage_gate_reports/stage-24a-dashboard-blocker-consistency-report.md",
     ],
 }
 
@@ -66,6 +69,7 @@ REQUIRED_STAGE_REPORTS = [
     "review/stage_gate_reports/stage-21a-link-navigation-integrity-report.md",
     "review/stage_gate_reports/stage-22a-external-source-liveness-currentness-report.md",
     "review/stage_gate_reports/stage-23a-register-reference-integrity-report.md",
+    "review/stage_gate_reports/stage-24a-dashboard-blocker-consistency-report.md",
 ]
 
 LINK_PATTERN = re.compile(r"\[[^\]]+\]\(([^)]+)\)")
@@ -153,10 +157,10 @@ def check_required_nav_references() -> list[str]:
 def check_latest_stage_alignment() -> list[str]:
     errors = []
     expectations = {
-        "README.md": "Stage 23A",
-        "docs/stages/README.md": "Stage 23A",
-        "docs/visuals/stage-gate-map.mmd": "Stage 23A",
-        "docs/visuals/risk-control-atlas.mmd": "Register reference integrity",
+        "README.md": "Stage 24A",
+        "docs/stages/README.md": "Stage 24A",
+        "docs/visuals/stage-gate-map.mmd": "Stage 24A",
+        "docs/visuals/risk-control-atlas.mmd": "Dashboard blocker consistency",
     }
     for rel, phrase in expectations.items():
         path = ROOT / rel

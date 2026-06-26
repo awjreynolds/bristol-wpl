@@ -17,6 +17,7 @@ flowchart TD
     Dash --> NavigationQA["Link/navigation integrity<br/>ISS-0031 EG-0049 RISK-0034"]
     Dash --> SourceFreshness["Source-link/freshness status<br/>ISS-0032 EG-0050 RISK-0035"]
     Dash --> RegisterIntegrity["Register reference integrity<br/>ISS-0033 EG-0051 RISK-0036"]
+    Dash --> DashboardConsistency["Dashboard blocker consistency<br/>ISS-0034 EG-0052 RISK-0037"]
 
     Legal --> NoGo["No-go for approval<br/>until real evidence and authority exist"]
     WECA --> NoGo
@@ -31,6 +32,7 @@ flowchart TD
     NavigationQA --> NoGo
     SourceFreshness --> NoGo
     RegisterIntegrity --> NoGo
+    DashboardConsistency --> NoGo
 
     Legal -. "next proof: Monitoring Officer route and statutory submitter evidence" .-> Proof["Future real-world proof"]
     WECA -. "next proof: current-law role and funding/consent disposition" .-> Proof
@@ -45,6 +47,7 @@ flowchart TD
     NavigationQA -. "next proof: external-link checks, content review, and evidence accuracy review" .-> Proof
     SourceFreshness -. "next proof: content diff, legal-currentness review, refreshed notes and claim summaries" .-> Proof
     RegisterIntegrity -. "next proof: human review of row substance, risk ratings, mitigations and evidence support" .-> Proof
+    DashboardConsistency -. "next proof: full register review of blocker completeness, risk ratings and mitigations" .-> Proof
 
     classDef start fill:#ddf4ff,stroke:#005f99,color:#111111;
     classDef blocked fill:#ffdddd,stroke:#990000,color:#111111;
@@ -52,5 +55,5 @@ flowchart TD
     classDef future fill:#eeeeee,stroke:#555555,color:#111111;
 
     class Start,Dash,Caption,Legend guide;
-    class Legal,WECA,Spatial,Appraisal,Consult,FBC,Nottingham,Authoring,Comprehension,VisualQA,NavigationQA,SourceFreshness,RegisterIntegrity,NoGo blocked;
+    class Legal,WECA,Spatial,Appraisal,Consult,FBC,Nottingham,Authoring,Comprehension,VisualQA,NavigationQA,SourceFreshness,RegisterIntegrity,DashboardConsistency,NoGo blocked;
     class Proof future;

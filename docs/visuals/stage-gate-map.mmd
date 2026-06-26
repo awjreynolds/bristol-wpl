@@ -33,6 +33,7 @@ flowchart TD
     Y --> Z["Stage 21A: Link/navigation integrity controls<br/>Repo-local links only"]
     Z --> AA["Stage 22A: Source-link/freshness controls<br/>Metadata only"]
     AA --> AB["Stage 23A: Register reference integrity<br/>Linkage only"]
+    AB --> AC["Stage 24A: Dashboard blocker consistency<br/>Surfacing only"]
 
     B -. "P0: Bristol route and WECA/MCA role" .-> G
     D -. "P0: boundary and inventory" .-> G
@@ -70,11 +71,12 @@ flowchart TD
     Z -. "Navigation checks do not prove external links evidence truth or readiness" .-> K2
     AA -. "Reachability metadata does not prove source truth legal currentness or readiness" .-> K2
     AB -. "Resolved register links do not prove row substance or readiness" .-> K2
+    AC -. "Visible blockers do not prove blocker completeness or risk adequacy" .-> K2
 
     classDef blocked fill:#ffdddd,stroke:#990000,color:#111111;
     classDef control fill:#fff4cc,stroke:#996600,color:#111111;
     classDef current fill:#ddf4ff,stroke:#005f99,color:#111111;
 
     class G,I,K blocked;
-    class A,B,C,D,E,F,F2,H,J,J2,K2,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z,AA,Caption,Legend control;
-    class AB current;
+    class A,B,C,D,E,F,F2,H,J,J2,K2,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z,AA,AB,Caption,Legend control;
+    class AC current;
