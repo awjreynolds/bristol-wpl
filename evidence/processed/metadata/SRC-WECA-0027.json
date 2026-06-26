@@ -1,0 +1,12 @@
+{
+  "characters": 135077,
+  "extracted_date": "2026-06-26",
+  "method": "pdftotext-layout",
+  "output_path": "evidence/processed/text/SRC-WECA-0027.txt",
+  "sha256": "c9bc2c082114b7f8edc236fae2ab46a5ba83c1b5e293c58b4880f6105954a294",
+  "source_id": "SRC-WECA-0027",
+  "source_path": "evidence/raw/west-of-england-mca/src-weca-0027_joint-meeting-2026-06-05-mca-mayoral-budget-outturn.pdf",
+  "source_status": "downloaded",
+  "title": "Joint meeting 5 June 2026 MCA and mayoral budget outturn",
+  "url": "https://westofengland-ca.moderngov.co.uk/documents/s11517/Item%2008%20-%20MCA%20Mayoral%20Budget%20Outturn.pdf"
+}

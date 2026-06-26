@@ -89,5 +89,5 @@ Stage 2C narrows `RISK-0001`, `ISS-0001` and `EG-0019` but does not close them. 
 
 1. Produce a Bristol internal decision-route map showing committee, Full Council and officer-delegation options for OBC, consultation, FBC, final scheme order and Secretary of State submission.
 2. Identify the Monitoring Officer, Director Legal and Democratic Services, Chief Finance Officer and committee-report advice checkpoints that simulated agents must test before any route sign-off.
-3. Complete WECA/MCA current-law and meeting-record search before concluding no-role, consent, assurance or funding-dependency status.
+3. Use Stage 2G as bounded public meeting-record evidence only and complete WECA/MCA current-law, no-role, consent, assurance and funding-dependency checks before any route conclusion.
 4. Keep all downstream OBC/FBC drafting source-bounded and conditional.

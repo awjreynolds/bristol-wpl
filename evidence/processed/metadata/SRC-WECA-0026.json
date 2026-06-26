@@ -1,0 +1,12 @@
+{
+  "characters": 154150,
+  "extracted_date": "2026-06-26",
+  "method": "pdftotext-layout",
+  "output_path": "evidence/processed/text/SRC-WECA-0026.txt",
+  "sha256": "dca40b317372ae37a54bc87c8afc592004331c742d08e143616f5753fd049990",
+  "source_id": "SRC-WECA-0026",
+  "source_path": "evidence/raw/west-of-england-mca/src-weca-0026_joint-meeting-2026-06-05-statements.pdf",
+  "source_status": "downloaded",
+  "title": "Joint meeting 5 June 2026 statements",
+  "url": "https://westofengland-ca.moderngov.co.uk/documents/s11626/FINAL%20-%20Statements%20to%20WECA%20WEJC.pdf"
+}

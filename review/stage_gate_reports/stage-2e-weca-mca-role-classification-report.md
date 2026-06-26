@@ -49,7 +49,7 @@ Stage 2E tests WECA/MCA role evidence. It does not resolve Bristol final WPL ord
 - Current scoped sources do not support a transferred or concurrent WECA/MCA WPL function, but no-role and no-consent conclusions remain blocked pending consolidated current-law mapping.
 - No WPL-specific WECA/MCA consultation requirement or formal consultation response is evidenced in scoped sources.
 - Current-law role after the 2026 amendments remains unresolved.
-- A current meeting-record search and funding/assurance dependency matrix are required before Stage 2 can pass.
+- Stage 2G later completed a bounded public ModernGov meeting-record search; funding/assurance dependency classification and no-role/consent status remain required before Stage 2 can pass.
 
 ## Gate Decision
 
@@ -75,7 +75,7 @@ The following statements remain blocked:
 
 ## Next Work
 
-1. Complete a current WECA/MCA and Joint Committee meeting-record search.
-2. Produce a consolidated current-law function map after the 2026 amendments.
+1. Use Stage 2G as a bounded public-record search control only.
+2. Complete no-role or consent classification only if supported by source-controlled current-law and funding evidence.
 3. Add funding-source and MCA assurance-trigger rows for every proposed WPL-funded package.
 4. Complete DfT pre-application procedural expectations and Bristol final order/submission route.

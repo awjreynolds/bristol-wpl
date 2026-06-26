@@ -47,7 +47,7 @@ The Stage 2E pack is acceptable for simulation drafting because it:
 - treats Bristol Transport Board/WPL Steering Group material as programme governance only;
 - keeps current-law WECA/MCA role unresolved after 2026 amendments;
 - blocks no-role language;
-- requires a current meeting-record search and funding-dependency matrix before Stage 2 can pass.
+- requires Stage 2G bounded public-search controls and funding-dependency classification before Stage 2 can pass.
 
 ## Findings
 
@@ -59,9 +59,9 @@ The Stage 2E pack is acceptable for simulation drafting because it:
 | Bristol Transport Board/WPL Steering Group evidence is programme governance context only. | P1 controlled | Do not treat as committee, MCA or Secretary of State approval. |
 | No formal WECA/MCA approval, support, objection, consent, sponsorship or funding decision is evidenced in repo-local sources. | P1 controlled | Do not claim formal WECA/MCA status. |
 | Current scoped sources do not support a transferred or concurrent WECA/MCA WPL function, but no-role and no-consent conclusions are not established. | P0/P1 | Keep current-law function-map condition. |
-| No WPL-specific WECA/MCA consultation requirement or formal consultation response is evidenced in scoped sources. | P1 controlled | Do not claim consultation status without meeting-record search. |
+| No WPL-specific WECA/MCA consultation requirement or formal consultation response is evidenced in scoped sources or Stage 2G bounded public ModernGov search. | P1 controlled | Do not claim consultation status without a formal response source. |
 | Current-law role after 2026 amendments is not closed. | P0 | Keep `RISK-0002`, `ISS-0002`, `EG-0003`, `EG-0010` and `EG-0011` open or partially open. |
-| No-role language is not supportable. | P0/P1 | Prohibit until legal and meeting-record checks are complete. |
+| No-role language is not supportable. | P0/P1 | Prohibit until legal funding and consent checks are complete. |
 
 ## Conditions
 

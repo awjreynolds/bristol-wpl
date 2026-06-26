@@ -1,0 +1,3056 @@
+REPORT TO: WEST OF ENGLAND MAYORAL COMBINED AUTHORITY
+COMMITTEE
+
+DATE: 5 JUNE 2026
+
+REPORT MAYORAL COMBINED AUTHORITY AND MAYORAL BUDGET
+TITLE: OUTTURN 2025/26
+
+RESPONSIBLE DIRECTOR OF FINANCE, INVESTMENTS AND COMMERCIAL
+OFFICER: (S73 OFFICER)
+
+Key Decision No
+
+Purpose of Report
+
+This report represents the revenue and capital outturn for the West of England Mayoral
+Combined Authority Committee for the financial year 2025/26 based on data from the period
+April 2025 to March 2026 for both the West of England Mayoral Combined Authority and
+Mayoral budgets.
+
+Recommendation
+
+That Committee:
+
+1) Notes the Outturn position for the West of England Mayoral Combined Authority
+Revenue Budget as set out in Figure 1 including reserves, the outturn position for
+the Mayoral Revenue Budget as set out in Figure 12, the Capital Outturn as set out
+in Figure 10 and the Treasury Outturn as set out in Appendix 9.
+
+Reasons for recommendation
+
+ Statutory Requirements and Recommended Best Practice.
+
+Voting arrangements
+
+Recommendation 1: None required – Recommendations are for noting with any comments.
+
+Publication Requirements
+
+For Publication.
+
+Background
+1. In accordance with the regular reporting timetable for updating the committee with budget
+monitoring information, this report sets out the financial outturn position for both revenue
+and capital budgets. Members of the committee are asked to note the outturn financial
+positions set out in this report.
+Revenue Outturn - West of England MCA
+
+2. The 2025/26 West of England MCA Revenue Budget was originally set in January 2025
+with income and expenditure of £173.9m, resulting in a balanced budget. This report
+summarises the movement from the original budget through in-year forecasts to the final
+outturn position.
+
+3. Since the budget was set, the MCA has received new funding awards and reallocated
+unused funds from previous years, increasing the current budget to £182.0m. As the year
+progressed, delivery plans were refined and aligned to programme readiness, resulting
+in a reduction in both expenditure and income to £174.0m at outturn. Further detail by
+delivery theme is provided in Figure 2 and 3, with a breakdown of grant utilisation included
+in Appendix 2.
+
+4. The reduction in expenditure has increased the amount of cash available for investment,
+boosting the treasury management surplus for 2025/26, as shown in Figure 6. This
+surplus will be transferred to both the General Reserves and the Programme Risk
+Reserve (Appendix 5) to strengthen the Authority’s financial resilience over the medium
+term as we begin delivering major capital schemes and managing associated risks.
+
+5. The table below summarises the revenue outturns against the approved budget (January
+2025 committee) and the current budget. Movements reflect reprofiling of funding,
+confirmation of new awards, and the firming up of estimates that were provisional at the
+time of budget setting, now replaced with confirmed figures.
+
+Figure 1: Revenue Outturn Summary
+Outturn vs
+Approved Current Q1 Q2 Q3
+Outturn Current
+budget Budget Forecast Forecast Forecast
+Budget
+Revenue Budget £000s £000s £000s £000s £000s £000s %
+Delivery Sub Total 134,708 140,591 132,069 131,283 123,648 117,940 84%
+
+Corporate Sub Total 17,009 17,964 17,661 18,724 17,080 15,947 89%
+
+Net Expenditure 151,717 158,555 149,730 150,008 140,729 133,887 84%
+
+Other Sub Total 22,172 23,435 24,545 28,724 31,387 40,109 171%
+
+Total Expenditure 173,889 181,990 174,275 178,731 172,115 173,996 96%
+
+MCA Revenue Funding (173,889) (181,990) (174,275) (178,731) (172,115) (173,996) 96%
+
+(Surplus) / Deficit - - - - - - 0%
+
+6. The final revenue outturn for 2025/26 is £174.0m, which is £8.0m (4%) lower than the
+Current Budget of £182.0m and £1.9m (1%) higher than the Q3 Forecast. The
+underspend is primarily driven by reduced delivery across programme areas as schemes
+have been reprofiled to align with delivery readiness.
+7. The most significant variances are within Delivery, which underspent by £22.7m (16%)
+against the current budget, alongside a £2.0m (11%) underspend within Corporate.
+These reductions are partially offset by higher than anticipated movements within Other,
+including increased reserves movements, resulting in an overall balanced position.
+
+8. At a delivery theme level, the largest variances are within Economy & Skills and
+Transport, reflecting changes in delivery profiles. Further detail is provided in the theme
+breakdown below.
+
+Figure 2: Outturn by Delivery Theme
+Outturn vs
+Approved Current Q1 Q2 Q3
+Outturn Current
+budget Budget Forecast Forecast Forecast
+Budget
+Revenue Budget £000s £000s £000s £000s £000s £000s %
+Economy & Skills 61,940 52,444 44,804 42,584 39,126 40,605 77%
+Environment 4,907 7,237 6,256 6,626 5,818 6,543 90%
+Transport 61,605 66,704 69,538 67,887 65,196 58,231 87%
+Homes & Regeneration 1,424 5,975 3,012 4,180 6,206 6,003 100%
+Strategy 1,036 1,083 1,132 1,004 999 564 52%
+Grant Management & Assurance 3,796 7,147 7,327 9,003 6,303 5,995 84%
+
+Delivery Sub Total 134,708 140,591 132,069 131,283 123,648 117,940 84%
+
+9. A summary of the underlying key variances by theme is set out in the following
+paragraphs:
+
+10. Economy and Skills Delivery: The £11.8m (23%) variance is largely attributable to Skills
+Bootcamps (£7.0m). Smaller variances arise across the Mayoral Priority Scheme
+(£1.0m), Business Innovation (£0.8m), Connect to Work (£0.7m), UKSPF (£0.6m), Adult
+Skills Fund (£0.3m), Business Support Programme (£0.3m), Youth Guarantee (£0.3m)
+and other smaller project variance coming to (£0.8m). The Skills Bootcamps variance
+reflects the gap between the original budget assumption, based on 100% learner
+completion and delivery of outcomes in line with Department for Education grant
+conditions.
+
+11. Environment Delivery: The £0.7m (10%) variance is primarily driven by the Green
+Growth West Impact Fund of £0.4m, reflecting the early closure of the programme.
+Unspent funding has been returned to the Investment Fund for reallocation. The
+remainder relates to regional delivery on Low Carbon and Retrofit activity (£0.1m), with
+other small variances across projects making up the remaining variance (£0.2m).
+
+12. Transport Delivery: The variance of £8.47m (13%) against current budget is split
+between Transport Operations of £5.6m, Transport Strategy of £0.7m & Transport
+Delivery teams of £2.13m. Transport operations, covering buses, has seen a net
+reduction over bus grant, BISP & the levy allowing £8.0m to be added into reserves,
+helping to mitigate forecast cost pressures in 2026/27. Transport strategy has seen
+underspend across the majority of its projects, which will be reprofiled into next financial
+year. In Transport Delivery, spend on the West Rapid Transport project was £1.7m lower
+than the budget, and this underspend has now been profiled into future years.
+
+13. Homes & Regeneration Delivery: This area finished the year in line with budget, and
+successfully secured additional funding during the year, including £0.5m from Homes
+England in the final quarter. This funding supported the progression of the Hicks Gate
+masterplanning work and the development of the Western Innovation Arc plan.
+
+14. Strategy Delivery: The £0.5m (48%) variance is primarily driven by underspend within
+the Digital Office project (£0.4m) due to reprofiling. The remaining variance is due to in
+UK Mayors arising from staff vacancies through 2025/26, and the Regional Evidence
+Portal Pilot arising in the current financial year pending completion of a change request.
+The associated expenditure will be reprofiled into the next financial year.
+
+15. Grant Management Delivery: The £1.2m (16%) variance reflects lower than budgeted
+expenditure across several projects, primarily Somer Valley (£0.7m), Capricorn Quay
+(£0.4m), and Western Harbour (£0.3m), partly offset by smaller movements elsewhere.
+These variances relate to timing differences within agreed funding envelopes rather than
+changes to the overall funding available.
+
+Figure 3: Outturn by Corporate Functions
+Outturn vs
+Approved Current Q1 Q2 Q3
+Outturn Current
+budget Budget Forecast Forecast Forecast
+Budget
+Revenue Budget £000s £000s £000s £000s £000s £000s %
+
+Corporate Office 6,543 8,042 8,092 8,035 6,874 6,456 80%
+Finance, Investments & Commercial 4,689 4,748 4,160 4,952 5,039 4,272 90%
+Law, Governance & Operations 3,362 3,233 3,366 3,615 3,141 3,279 101%
+Strategy 2,415 1,941 2,042 2,123 2,027 1,941 100%
+
+Corporate Sub Total 17,009 17,964 17,661 18,724 17,080 15,947 89%
+
+Net Expenditure 151,717 158,555 149,730 150,008 140,729 133,887 84%
+
+Business Rates Retention 23,078 23,360 23,360 23,608 23,360 23,360 100%
+Net Reserves Movement 5,712 6,301 7,264 9,452 12,104 20,644 328%
+Recharges Income (6,618) (6,226) (6,079) (4,336) (4,078) (3,895) 63%
+
+Other Sub Total 22,172 23,435 24,545 28,724 31,387 40,109 171%
+
+Total Expenditure 173,889 181,990 174,275 178,731 172,115 173,996 96%
+
+16. Corporate Functions: This area covers Corporate Office, Finance, Investments &
+Commercial, Law and Governance, Operations, and Strategy, which together provide the
+Authority’s core corporate, financial, legal, democratic, and strategic functions.
+17. The Corporate Office: The £1.6m (20%) variance is mainly driven by lower in-year spend
+against the Organisational Improvement Plan (£0.8m), work is due to continue into
+2026/27 and this underspend has been transferred to an earmarked reserve to cover this.
+Other smaller variance exists across the various service areas such as Premises,
+Programme Management Office and Corporate Communications but are not considered
+material to the overall delivery of those functions.
+
+18. Finance, Investment & Commercial: The £0.5m (10%) variance is primarily attributable
+to centrally held corporate funding pots not utilised in year, including the write-off
+provision.
+
+19. Law, Governance & Operation: There is a small variance of 1%, due to pressures within
+Legal, partly offset by lower spend on IT.
+
+20. Strategy: Is in line with the current budget. Minor variances across service areas within
+the directorate have offset each other, resulting in an overall position in line with budget.
+
+21. The outturn is also presented by cost category below, showing how resources are
+allocated across different types of expenditure and supporting consistent tracking of
+movements.
+
+22. Figures 4 and 5 illustrate the main variances by cost category.
+Figure 4: Cost Categories – Budget vs Outturn (£000s)
+
+23,916
+Employee Costs 24,438
+1,433
+Premises Costs 1,279
+27,672
+Supplies and Services 17,263
+128,527
+Third-Party Payments 114,054
+366
+Minimum Revenue Provision 212
+6,301
+Net Transfers to / (from) Reserves 20,648
+(6,226)
+Recharge Income (3,895)
+(20,000) - 20,000 40,000 60,000 80,000 100,000 120,000 140,000
+
+Current Budget Outturn
+
+Figure 5: Variance Cost Categories – Budget vs Outturn (£000s)
+
+Employee Costs 522
+
+Premises Costs (154)
+
+Supplies and Services (10,409)
+
+Third-Party Payments (14,473)
+
+Minimum Revenue Provision (154)
+
+Net Transfers to / (from) Reserves 14,348
+
+Recharge Income 2,330
+
+(20,000) (15,000) (10,000) (5,000) - 5,000 10,000 15,000 20,000
+
+Expenditure
+
+23. Employee Costs: The variance shows a £0.5m (2%), increase compared to budget, due
+to lower vacancy rates than anticipated. This was funded through the vacancy factor
+reserve and project funding where applicable.
+
+24. Premises Costs: The variance shows a reduced cost of £0.2m (11%) which reflects
+routine fluctuations with no material impact.
+
+25. Supplies and Services: The £10.4m (38%) variance reflects the phasing of delivery, with
+lower levels of activity taking place in-year across both delivery and corporate themes.
+Key reductions across Economy & Skills of £4.7m include UKSPF (£1.8m), Youth
+Guarantee (£0.9m), Business Growth (£0.7m), and a net reduction in Transport of £3.4m,
+primarily reflecting lower spend on Integrated Transport and Mass Transit of (£1.7m).
+26. Third Party Payments: The variance of £14.5m (11%) is largely due to lower than
+budgeted expenditure on key grant funded schemes such as Skills Bootcamps (£6.8m)
+which is dependent on partner performance and Bus Grant (£6.2m) where we have the
+option to roll funding into the next financial year.
+
+27. Net Transfer to Reserves: Net movement increase of £14.4m (228%) reflects additional
+contributions to reserves from the treasury management surplus (Figure 7), alongside
+drawdowns from earmarked reserves to support delivery. Further details are set out in
+Appendix 5.
+
+28. Recharge Income: The reduced recharge of £2.3m (37%) reflects revised recharging
+between Revenue, Capital, and Joint Budgets.
+Income
+
+29. Total income for 2025/26 at outturn is £174.0m, which is £8.0m (4%) lower than the
+current budget of £182.0m. The reflects reductions in grant income utilised in year partly
+offset by stronger treasury returns. Figure 6 shows the overall scale of income streams
+with Figure 7 showing the variance versus Budget.
+
+Figure 6: Revenue Income Streams – Budget vs Outturn (£000s)
+
+113,672
+Grant Funding 97,202
+20,253
+Transport Levy 20,253
+24,757
+Business Rates Retention 25,282
+4,358
+Contributions, Fees & Charges 5,481
+4,640
+Sales & Commissions 4,249
+15,318
+Treasury 22,260
+(1,008)
+Recharges (730)
+(20,000) - 20,000 40,000 60,000 80,000 100,000 120,000
+
+Current Budget Outturn
+
+Figure 7: Variance in Revenue Income Streams – Budget vs Outturn (£000s)
+
+Grant Funding (16,470)
+
+Transport Levy 0
+
+Business Rates Retention 524
+
+Contributions, Fees & Charges 1,123
+
+Sales & Commissions (391)
+
+Treasury 6,942
+
+Recharges 278
+
+(20,000) (15,000) (10,000) (5,000) - 5,000 10,000
+
+30. Grant Funding: Grant funding remains the largest source of income at £97.2m, though
+this is £16.5m (14%) below the current budget. The main movements include:
+ Skills bootcamp reduced by £6.9m. The Skills Bootcamps budget assumed that
+100% of learners would complete training and achieve outcomes in line with the
+Department for Education (DfE) grant, whereas the outturn reflects lower actual
+learner take-up and completion.
+ Investment Fund income reduced by £6.7m as project delivery plans were revised
+and change requests submitted.
+ Adult Skills Fund income reduced by £1.4m following a reduction in grant from the
+DfE. The shortfall has been funded from earmarked reserves.
+
+31. Please see Appendix 2 for a full breakdown by individual grants.
+
+32. Transport Levy: The Transport Levy includes an agreed £0.3m uplift for 2025/26 and a
+further £0.4m underwrite provision, funded from external contributions, which was fully
+utilised in-year.
+
+33. The Levy continues to be subject to significant inflationary pressures and growth in
+concessionary travel, particularly in relation to bus services. While resources have been
+managed effectively to maintain service levels in 2025/26, these pressures are expected
+to remain significant as services come up for renewal in 2026/27. Collaborative planning
+with UAs will therefore be essential in developing a sustainable approach for future years,
+review and engagement has already begun on this.
+
+34. There was a £1.0m overspend in the Levy in 2025/26. The variance is primarily driven by
+a £1.3m overspend in supported services, offset by variances across the other delivery
+functions of Concessionary Fares (£0.2m), Community Transport (£0.3m), and Team and
+Operational Costs (£0.2m). The other delivery functions have a combined variance of
+£0.1m.
+
+35. The increase in costs have been offset by £1.1m additional funding from S106, Clean Air
+Zone (CAZ) funding, residual Local Transport Fund (LTF), and £0.1m income from non-
+levy projects.
+
+36. The net position of the Levy, resulted in a £0.6m transfer to reserves, which will be used
+to alleviate any cost pressure moving into 2026/27.
+
+37. Interest and Treasury Management: The Treasury return outturn is £22.3m, which is
+£6.9m (45%) higher than budget. This reflects stronger cash balances available for
+investment and higher interest rates than originally assumed.
+
+38. Contributions, Fees and Charges: The outturn is £5.5m, which is £1.2m (26%) higher
+than budget. This reflects updated delivery plans and revised assumptions on
+contributions. Largest of these relates to supported buses (£0.5m), other smaller
+variances largely offset each other.
+
+39. Sales and Commission: Variance of £0.4m (8%) driven by renegotiation on the IMS
+scooter contract to improve service and continuity for the area.
+
+40. Business Rates: Business Rates income has increased by £0.5m (2%), reflecting
+reconciliation adjustments following completion of prior-year NNDR3 and an additional
+business rates relief payment. This additional income has been transferred to the
+Business Rates Reserve to help mitigate future pressures associated with the anticipated
+baseline reset in 2026/27.
+
+There may still be further technical adjustments following submission of finalised NNDR3
+returns by UA partners, with any subsequent movements expected to flow through
+reserves.
+
+Investment Fund
+
+41. The Investment Fund outturn is £24.2m in 2025/26 compared to a current budget of
+£30.9m, representing a variance of £6.7m (22%). This reduction primarily reflects the
+reprofiling of projects into later years as delivery plans have been updated.
+
+42. Figure 8 illustrates the outturn position by delivery theme.
+
+43. Some of the key projects being delivered in 2025/26 included the Employment & Skills
+Service Delivery (£1.8m), West of England Business Support Programme (£1.8m),
+Retrofit Accelerator (£2.1m), The Regional Low Carbon Delivery (£1.1m) and MetroWest
+1 & 2 Revenue Funding (£1.9m).
+
+44. A full breakdown by Projects is provided in Appendix 4.
+
+Figure 8: Investment Fund Outturn by Theme
+
+Investment Fund Outturn by Theme (£000s)
+
+Economy & Skills
+5,334, 22%
+Environment
+8,093, 33%
+
+543, 2% Homes & Regeneration
+
+Transport
+3,005, 12%
+
+Strategy
+
+5,963, 25% Grant Management & Assurance
+1,223, 5%
+
+Reserves
+
+45. On 26 January 2024, the West of England MCA Committee agreed to build general
+reserves to a minimum target of 5% of the Revenue Expenditure Budget, in line with
+advice from Grant Thornton.
+
+46. The table in Figure 9 sets out the position on general and earmarked reserves over recent
+years, together with the outturn at the end of 2025/26.
+
+47. The outturn indicates that general reserves will stand at £9.6m by the end of 2025/26,
+compared to a minimum target of £8.7m. This represents a strengthening of the
+Authority’s financial resilience above the minimum recommended level.
+
+48. Key in year movements include:
+ £1.9m added to general reserves, increasing the balance to around 6% of
+expenditure.
+ £10.9m increase to the Programme Risk Reserve, safeguarding the Authority’s
+position as we move into the delivery stage of several large capital schemes,
+particularly in Transport.
+ A £2.4m drawdown from the Mayoral Election Reserve to fund the election that
+took place in May 2025.
+ A £1.2m drawdown from Integrated Transport Reserves
+ £8.0m was transferred into a new Bus Operations Reserve, to help manage future
+bus network pressures and ongoing increases in service and reimbursement
+costs.
+
+49. Further details of individual reserves are provided in Appendix 5.
+
+Figure 9: General & Useable Reserves balances
+
+General & Usable Reserves (£000s)
+60,000
+
+50,000
+
+40,000
+
+30,000 39,272
+
+20,000 22,962
+
+13,577
+10,000
+7,433 9,568
+4,776 7,654
+- 2,474
+22/23 23/24 24/25 25/26
+
+General Reserves Usable Reserves
+
+The West of England MCA Capital Programme Outturn
+
+50. Capital project expenditure is £203.7m for 2025/26, which is £35.2m (15%) lower than
+the current budget of £238.9m.
+
+51. Additionally, there was £0.4m spent on ICT and Office refurbishment during the year, a
+£0.4m (50%) saving versus budget. It is expected that this expenditure will now take place
+in 2026/27 and funding has been moved to ICT Costs Reserve.
+
+52. Figure 10 shows the outturn by delivery theme compared with the current budget. The
+most significant change is in Transport (£76.2m, 34%), driven by the rephasing of CRSTS
+and Rail programmes. The budget represents an indicative start-of-year forecast,
+primarily used as a baseline for in-year monitoring and tracking of capital expenditure.
+However, the CRSTS programme (forming the majority of the Transport capital budget)
+has been through a re-baselining exercise to establish firm delivery plans for the
+completion of the settlement through to March 2029. This ensures resources are directed
+towards maximising delivery within the available funding window.
+
+53. Major changes since 2025/26 budget setting include reductions for Bristol to Bath
+Strategic Corridor which was expecting to go into construction in this financial year
+(£18.0m), Thornbury to North Bristol (£10.1m), and Charfield Station (£8.5m).
+
+54. Figure 11 highlights the key variances by delivery theme. The reduction in Transport is of
+£76.3m is partly offset by the release of part of the optimism bias provision (£55.1m),
+reflecting lower risk levels as projects progress. Other movements include a reduction in
+Grant Managed projects of £12.2m (20%) as well as a £1.3m (36%) reduction in
+Environment.
+
+55. A detailed breakdown of the capital budget can be found in Appendix 6 with a project
+level breakdown in Appendix 7.
+
+Figure 10: Capital Programme – Budget vs Outturn (£000s)
+
+2,378
+Economy & Skills
+1,891
+
+3,623
+Environment
+2,310
+
+225,394
+Transport
+149,130
+
+967
+Homes & Regeneration
+967
+
+61,646
+Grant Management & Assurance
+49,403
+
+(55,086)
+Optimisim Bias Factor
+-
+
+(100,000) (50,000) - 50,000 100,000 150,000 200,000 250,000
+
+Budget Outturn
+Figure 11: Variance in Capital Programme – Budget vs Outturn (£000s)
+
+Economy & Skills (487)
+
+Environment (1,313)
+
+Transport (76,264)
+
+Homes & Regeneration -
+
+Grant Management & (12,244)
+Assurance
+
+Optimisim Bias Factor 55,086
+
+(100,000) (50,000) - 50,000 100,000
+
+Mayoral Fund Revenue Outturn
+
+56. The 2025/26 Mayoral Budget was approved in January 2025 on a balanced basis, with
+total expenditure of £3.7m. This includes £3.4m for Mayoral Election costs, funded by a
+£3.1m drawdown from the Mayoral Election Reserve and a £0.3m contribution from the
+Investment Fund. The remaining budget covers running costs, also supported by the
+Investment Fund. The final outturn position for the Mayoral Fund is summarised in Figure
+12.
+
+57. The Mayoral Election Costs came in £0.7m below budget.
+
+58. Mayoral running costs are £0.3m, which is £0.1m (22%) under budget. This underspend
+is primarily due to lower staffing costs resulting from vacant posts in the first quarter, along
+with reduced expenditure on supplies and services.
+
+59. Overall, the Mayoral Fund is to remain in balance, with the underspend in running costs
+matched by a reduced call on Investment Fund contributions.
+
+Figure 12: Mayoral Fund Revenue Outturn
+
+Outturn vs
+Approved Current Q1 Q2 Q3 Current
+Mayoral Forecast budget Budget Forecast Forecast Forecast Outturn Budget
+£000s £000s £000s £000s £000s £000s %
+
+Mayoral Running Costs 359 359 301 291 279 279 78%
+Mayoral Election Costs 3,388 3,388 3,388 2,755 2,676 2,676 79%
+
+Mayoral Election and Running Costs 3,747 3,747 3,689 3,045 2,955 2,955 79%
+
+Investment Funding (693) (693) (635) (625) (535) (535) 77%
+Net Reserves Movement (3,054) (3,054) (3,054) (2,420) (2,420) (2,420) 79%
+
+Mayoral Funding (3,747) (3,747) (3,689) (3,045) (2,955) (2,955) 79%
+
+(Surplus) / Deficit - - - - - - 0%
+
+Alternative Options Considered
+
+60. Value for Money and appropriate use of resources are constantly considered when
+allocating, monitoring and managing all revenue and capital budgets.
+
+Consultation and Engagement
+
+61. Consultation has been carried out with Unitary Authority Leaders and Chief Executives
+as part of the drafting and review process for this report.
+
+Key Risks
+
+62. This report forms a core part of the governance and risk management process. The
+outturn presented in this report takes account of known financial risks and their potential
+impact on the financial position for the financial year.
+
+63. Treasury Management Income is currently being used to fund the increase in core staffing
+costs, which is not a sustainable approach. As balances decline with ongoing delivery or
+if interest rates fall, the available funding for core costs will decrease, requiring the
+authority to either reduce staff or identify alternative funding sources.
+
+64. The West of England MCA will continue to put forward a case to government to establish
+sustainable core funding for Combined Authorities beyond the current annual allocations
+(Mayoral Capacity Fund and Business Rates Pilot Scheme) and taking account of the
+high inflationary environment that builds into base costs without inflated funding.
+65. The organisation has been building a General Fund Reserve, in line with recommended
+best practice, to manage / mitigate any future financial risks. However, the reserve
+remains at a relatively low level being circa 6% of the 2025/26 revenue budget.
+
+Diversity, Equity and Inclusion (DEI) Implications
+
+66. The proposals outlined in this paper present an opportunity to support inclusive growth
+across the region. Consideration should be given to how different communities may
+experience or benefit from these outcomes, particularly those who face existing barriers
+related to access, socio-economic disadvantage or protected characteristics. Ensuring
+that engagement, delivery and evaluation approaches are inclusive and informed by
+diverse resident needs will strengthen both the impact and fairness of the work. Ongoing
+monitoring of outcomes across different groups will also be important to identify and
+address any unintended disparities.
+
+Health Improvement and Health Inequalities
+
+67. The recommendations within this report are primarily financial and governance related
+and do not give rise to any direct health implications.
+
+68. The Authority’s delivery programmes may contribute to wider health and wellbeing
+outcomes, with any specific impacts considered through individual programme and
+project approval processes.
+
+Climate Change Implications
+
+69. The MCA has committed to tackling the climate and ecological emergencies, and is intent
+on embedding climate and nature into the growth strategy. Funding for climate and nature
+outcomes will also be integrated into budgets across other delivery areas of the MCA,
+especially transport and spatial planning. Where funds are allocated as grants to local
+businesses and organisations, the criteria used to prioritise funding allocations will
+incorporate carbon management and where appropriate, consideration of nature recovery
+and climate resilience opportunities.
+
+70. The MCA will continue to work with its Treasury Advisors, Arlingclose, for support and
+advice through its Environmental, Social and Governance (ESG) and responsible
+investment service. As part of this process, we will ensure it aligns with our developing
+Corporate Carbon Management approach.
+
+Finance Implications
+
+71. All financial implications are contained within the body of the report.
+
+72. General and earmarked reserves available to meet potential future risks remain
+comparatively low, and the West of England MCA will continue to manage those risks
+and place a strong focus on building the levels of reserves to the required levels in line
+with the approved reserves policy.
+Legal Implications
+
+73. This report monitors how the West of England MCA and the Mayoral Fund has performed
+against the financial targets set in January 2025 through the Budget setting process.
+
+74. The Budget proposals set out in this Report have been developed in accordance with
+appropriate Local Government legislation and regulations, including the specific funding
+and related governance requirements set out in a) Part 2 of the Local Government Act
+2003 (Financial Administration); b) The West of England MCA Order 2017; and c) The
+Combined Authorities (Finance) Order 2017.
+
+Human Resources Implications
+
+75. The outturn position reflects improved workforce stability, with employee costs £0.5m
+(2%) higher than budget due to lower vacancy rates than anticipated. This has
+supported increased organisational capacity to deliver core activity and programme
+priorities.
+
+76. As the Authority transitions into a delivery-focused phase, workforce planning is shifting
+from reliance on vacancy factors to a more strategic approach aligned to the Target
+Operating Model (TOM), programme delivery requirements, and PMO-led oversight.
+This includes ensuring clarity between core and programme-funded roles and
+maintaining flexibility to respond to changing delivery timelines.
+
+77. The continued roll forward of Organisational Improvement Plan activity into 2026/27
+confirms the need for ongoing HR, organisational development, and change capability
+to support structural design, consultation, and implementation.
+
+78. A key risk remains the reliance on Treasury Management income to support core
+staffing costs, which is not sustainable in the long term. This will require continued focus
+on aligning workforce size and structure to a sustainable funding envelope, supported
+by robust workforce planning and scenario modelling.
+
+79. Equality, diversity and inclusion considerations remain important, with a focus on
+ensuring that recruitment, organisational change, and workforce planning are delivered
+in an inclusive and equitable way.
+
+Land/property Implications
+
+80. The West of England MCA does not currently own any land or material assets. The West
+of England MCA office lease at 70 Redcliff Street is accounted for within the outturn.
+
+Commercial Implications
+
+81. There are no direct Commercial implications arising from this report.
+
+82. Commercial will continue to support the MCA to drive efficient and effective solutions
+across the MCA and directly through third party suppliers and their supply chain.
+Appendices
+ Appendix 1 Breakdown by Cost Category
+ Appendix 2 Revenue Grants
+ Appendix 3 Transport Levy
+ Appendix 4 Revenue Investment Fund Programme
+ Appendix 5 Reserves
+ Appendix 6 Capital Programme
+ Appendix 7 Capital Projects
+ Appendix 8 Treasury Outturn
+ Appendix 9 Project Descriptions
+
+Background papers:
+ MCA Budget Setting Report 2025/26 – Committee 30 January 2025
+ Budget Forecast Reports to Committee throughout 2025 and 2026
+
+West of England Mayoral Combined Authority Contact:
+
+Report Author: James Cunnane-Neilan
+Contact Details: James.Cunnane-Neilan@westofengland-ca.gov.uk
+Appendix 1: Breakdown by Cost Category
+
+Outturn vs
+Approved Current Q1 Q2 Q3
+Outturn Current
+budget Budget Forecast Forecast Forecast
+Expenditure Category Budget
+£000s £000s £000s £000s £000s £000s £000s
+
+Employee Costs 23,457 23,916 23,667 23,767 24,244 24,438 102%
+Premises Costs 1,433 1,433 1,380 1,309 1,291 1,279 89%
+Supplies and Services 31,634 27,672 32,781 34,351 30,262 17,263 62%
+Third-Party Payments 117,904 128,527 114,895 113,822 107,926 114,054 89%
+Minimum Revenue Provision 366 366 366 366 366 212 58%
+Net Transfers to / (from) Reserves 5,712 6,301 7,264 9,452 12,104 20,673 328%
+
+Total Expenditure 180,507 188,216 180,354 183,068 176,193 177,921 95%
+
+Recharge Income (6,618) (6,226) (6,079) (4,336) (4,078) (3,895) 63%
+
+Net Expenditure 173,889 181,990 174,275 178,731 172,115 174,026 96%
+
+Outturn vs
+Approved Current Q1 Q2 Q3
+Outturn Current
+budget Budget Forecast Forecast Forecast
+Budget
+Income Category £000s £000s £000s £000s £000s £000s £000s
+
+Grant Funding 109,989 113,672 105,340 106,872 100,329 97,202 86%
+Transport Levy 20,253 20,253 20,228 23,487 20,253 20,253 100%
+Business Rates Retention 25,278 24,757 24,757 24,872 25,101 25,282 102%
+Contributions, Fees & Charges 3,074 4,358 4,351 3,177 3,474 5,510 126%
+Sales & Commissions 1,275 4,640 1,269 1,275 2,037 4,249 92%
+Treasury 15,094 15,318 19,261 20,000 21,823 22,260 145%
+Recharges (1,075) (1,008) (931) (951) (903) (730) 72%
+
+Total Income 173,889 181,990 174,275 178,731 172,115 174,026 96%
+Appendix 2: Revenue Grants
+
+Outturn
+vs
+Approve Current Q1 Q2 Q3 Current
+d budget Budget Forecast Forecast Forecast Outturn Budget
+Revenue Grants £000s £000s £000s £000s £000s £000s %
+
+Active Travel Fund 130 265 792 837 694 43 16%
+Adult Skills Fund 17,070 17,185 15,973 16,038 15,979 15,780 92%
+Biodiversity Net Gain - 27 27 27 40 27 100%
+Bus Service Improvement Grant (BSIP) 27,799 14,083 14,776 16,111 14,707 14,731 105%
+Bus Grant - 13,716 13,694 12,383 13,591 13,716 100%
+Bus Service Operator Grant (BSOG) 1,148 1,148 1,148 1,148 1,148 1,148 100%
+Best Value Notice Improvement Panel - 25 - 25 25 19 76%
+Central West of England Nature Partnership (WENP) - 138 83 127 87 (0) (0%)
+City Region Sustainable Transport Settlement (Revenue) 2,648 4,856 3,636 5,008 5,736 4,464 92%
+Connect to Work 5,300 1,214 1,208 1,212 694 480 40%
+Create Growth Programme - 509 - - - - 0%
+Cultural Strategy - Arts Council - - - - - 21 100%
+Culture West Arts Council 354 354 386 442 423 428 121%
+Cyber Assessment Framework - - - - 15 15 100%
+DBT - Low Carbon Business Support - Revenue - 24 - - - 24 100%
+Delivery Programme Risk - - 509 - - - 100%
+Digital Adoption Pilot - 238 - 238 238 107 45%
+Get Britain Working Trailblazer (Youth Guarantee) 5,000 4,951 4,467 4,262 3,921 4,752 96%
+Great Western Railway CCI Fund - 24.25 Wayfinding Pilot - 14 - 14 - - 0%
+GWR Contribution - Filton Bank - 260 301 305 170 170 65%
+Homes England – Devolution (Place) - 30 - 115 664 271 904%
+Infrastructure & Investment Plan - 90 172 - - - 0%
+Investment Fund 28,561 30,846 32,254 33,666 27,254 24,161 78%
+Local Electric Vehicle Infrastructure (LEVI) Grant 304 304 - - 463 72 24%
+Local Growth Capacity Support - 35 87 150 137 129 363%
+Local Nature Recovery Strategies Grant 2025/26 - 235 - 75 136 92 39%
+Local Nature Recovery Strategies Preparation - 27 - - 27 27 100%
+Local Transport Fund (LTF) 1,376 1,436 1,436 - 1,851 1,805 126%
+Made Smarter Adoption Programme 1,100 653 645 665 648 680 104%
+Mayoral Capacity Fund 1,000 1,500 1,500 1,500 1,500 1,500 100%
+MHCLG Homelessness & Rough Sleeping - 100 - 100 100 99 99%
+MHCLG Local Remediation Acceleration Plan - - - 348 249 335 100%
+One Word Project - - - - - 59 100%
+Spatial Development Strategies - 675 - - - 210 31%
+Skills Bootcamps 15,186 15,186 8,496 7,598 6,418 8,335 55%
+Staffing NI - - - 509 509 509 100%
+Tidal Energy - - - - 97 20 100%
+The UK Shared Prosperity Fund (UKSPF) 2,717 2,718 2,723 2,678 1,936 2,078 76%
+Western Gateway 295 816 1,025 1,086 872 700 86%
+Western Gateway Contribution to Filton Bank - 10 - - - 9 88%
+Woodland Creation Accelerator Fund - 3 - - 3 3 100%
+Zero Emissions Transport City - - - 202 - 183 100%
+
+Total 109,989 113,672 105,340 106,872 100,329 97,202 86%
+Appendix 3: Transport Levy
+
+Outturn
+Current Q1 Q2 vs
+Budget Forecast Forecast Q3 Forecast Outturn Current
+Transport Levy £000's £000's £000's £000's £000's £000's
+Team and Operational Costs 1,604 1,589 1,702 1,821 1,714 107%
+Contribution from the Combined Authority (511) (511) (511) (511) (511) 100%
+BSIP Contribution - Staffing (120) (120) (120) (120) (120) 100%
+Community Grants 1,966 1,935 1,935 2,004 1,643 84%
+Concessionary Fares 13,502 13,460 13,460 14,413 13,268 98%
+Real Time Information (RTI) 444 415 415 599 498 112%
+Supported Bus Services 5,966 7,592 5,900 6,566 7,312 123%
+Metrobus 75 125 125 124 124 166%
+Updating Bus Stop Information 241 261 261 238 222 92%
+Travelwest 23 23 23 23 54 233%
+Concessionary Fares Back Office 195 159 195 227 175 90%
+Gross Spend 23,385 24,928 23,385 25,384 24,379 104%
+
+Transport Levy Income (20,253) (20,253) (20,253) (20,253) (20,253) 100%
+
+S106 Funding (421) (421) (421) (421) (1,045) 248%
+Clean Air Zone Funding (CAZ) - (1,271) - (418) (491) 100%
+Bus Service Operator Grant (BSOG) (1,148) (1,148) (1,148) (1,148) (1,148) 100%
+Local Transport Fund (LTF) (1,376) (1,376) (1,376) (1,805) (1,805) 131%
+Income from Non-Levy Projects - - - (110) (260) 0%
+Additional Income (2,945) (4,216) (2,945) (3,902) (4,748) 161%
+
+Total Levy Income (23,198) (24,469) (23,198) (24,155) (25,001) 108%
+
+Deficit / (Surplus) - transfer to/from reserves 187 459 187 1,229 (622) (333%)
+Appendix 4 Revenue Investment Fund Programme
+
+Outturn
+vs
+Approved Current Q1 Q2 Q3 Current
+budget Budget Forecast Forecast Forecast Outturn Budget
+Project £000s £000s £000s £000s £000s £000s %
+
+E&C: Business Growth Grants - 47 41 59 47 47 100%
+E&C: Careers Hub Sept 25 - Aug 27 - 145 - 208 175 160 111%
+E&C: Cultural Compact Start-Up Investment 271 236 161 208 214 151 64%
+E&C: Culture - Creative Recovery Programme - - - - 31 35 100%
+E&C: Culture West - Arts 550 - - - - - 0%
+E&C: Culture West - Investment Fund 564 728 723 779 676 682 94%
+E&C: Employment & Skills Resource 210 210 186 185 177 170 81%
+E&C: Employment & Skills Service - Delivery 2,053 2,053 1,948 2,002 1,870 1,846 90%
+E&C: Employment & Skills Service – Hub (Website) 304 304 359 282 254 234 77%
+E&C: Future Bright Phase 3 - 102 102 102 102 102 100%
+E&C: Future Bright Plus 25 25 23 23 23 19 76%
+E&C: Green Funding Future 113 113 129 133 132 119 105%
+E&C: I4R+O B(non-ERDF) 1,082 1,082 1,142 360 360 331 31%
+E&C: I4R+O Made Smarter/Supply Chain 345 345 354 354 306 239 69%
+E&C: JB We Work for Everyone Phase 3 843 - - - - - 0%
+E&C: FS - Business Start Up - 8 8 8 8 8 100%
+E&C: GF - WoE Business Support Programme 3,356 1,944 2,403 2,026 1,775 1,847 95%
+E&C: IL Visit West 550 550 550 550 550 550 100%
+E&C: Innovation Infrastructure 75 75 75 75 40 - 0%
+E&C: IP for Growth 209 209 348 119 127 113 54%
+E&C: Local Innovation Partnership 40 40 36 36 36 31 76%
+E&C: Mission Maker 73 73 71 9 7 - 0%
+E&C: Priority Skills Fund 745 777 475 529 583 335 43%
+E&C: Priority Skills Fund – Round 2 3,239 791 646 644 637 216 27%
+E&C: Productivity Challenge 816 630 921 623 638 639 101%
+E&C: Professional Innovation Zone - 4 - 4 2 0 6%
+E&C: Recovery Fund - 21 17 21 21 21 100%
+E&C: Retrofit & Green Skills (part of Regional Low Carbon Delivery) - 112 110 115 112 109 97%
+E&C: Retrofit Skills and Green Skills 37 37 21 21 21 21 56%
+E&C: Sector Evidence (defence) 50 50 50 50 51 29 57%
+E&C: Skills Connect - 125 128 121 120 39 31%
+ENV: BV - Strategic Green Infrastructure - 18 23 23 (24) 23 125%
+ENV: GS - Green Recovery Fund Resources 267 210 210 213 238 245 116%
+ENV: HE - Regional Engagement on the Environment 119 (18) - - (18) (18) 100%
+ENV: HJ - Resourcing Climate Resilience Work Programme 100 83 203 204 86 86 104%
+ENV: HO - Green Infrastructure Funding 150 326 342 378 326 316 97%
+ENV: HR - Heat from Mines Revenue 357 174 409 413 243 200 115%
+ENV: IQ - WoE Wildlife Index Revenue - 179 196 165 181 171 95%
+ENV: JA - Future of Regional Resourcing for the Environment - 295 312 180 245 251 85%
+ENV: JF Local Wildlife Sites and 30 by 30 - 91 - - 95 23 25%
+ENV: GRF Energy Projects - Revenue 507 652 618 612 612 648 99%
+ENV: HZ - Green Recovery Fund - Health and Nature Strategy Revenue 23 23 23 61 47 48 209%
+ENV: EO - Community Pollinator Fund 370 117 131 113 113 115 99%
+ENV: IM - Green Growth Fund Revenue 263 831 234 529 391 391 47%
+ENV: Local Energy Advice Support - 146 109 105 105 142 98%
+ENV: Low Carbon Challenge – Recovery Fund Revenue (Team funding) 61 179 140 140 140 124 69%
+ENV: Regional Low Carbon Delivery - Revenue 809 1,454 854 1,141 1,150 1,128 78%
+ENV: Retrofit Accelerator - Revenue 1,181 1,444 2,043 1,928 1,397 2,069 143%
+ENV: West of England Wildlife Index Revenue 147 - - - - - 0%
+GMA: Bath Creative Quarter - - - - - (37) (100%)
+GMA: Bristol City Council Capacity 320 - - - - - 0%
+GMA: EF - Midsomer Norton High Street Market Square Project - 25 - 37 37 37 146%
+GMA: EX - LOHS Bath Local Centres - - - 29 29 29 100%
+GMA: FE - Chew Valley Lake Recreational Trail (Southern Section) - 5 - 138 6 6 127%
+GMA: AG - Somer Valley EZ Development (Non-Highways) - - - - 153 (399) (100%)
+GMA: BA - Working Well Institute 200 - - - - - 0%
+GMA: BJ - Centre for Digital Engineering Technology & Innovation - 31 31 31 31 11 37%
+GMA: BT - Strategic Master Planning - North Keynsham 100 42 42 42 42 42 100%
+GMA: BZ - Reboot West - - - 15 15 15 100%
+GMA: CI Milsom Quarter Masterplan - 750 958 958 750 474 63%
+GMA: DK Common Connections 131 139 139 191 191 137 99%
+GMA: DW - Temple Quarter Regeneration Programme - 1,304 - - - 465 36%
+GMA: EH B&NES Housing & Regeneration Enabling Fund (Masterplanning) 191 342 342 390 390 252 74%
+GMA: EQ - BANES Strategic Masterplanning - - - - - 271 100%
+GMA: ET - Spatial Development Strategy to Local Plan Making - - 43 43 - 43 100%
+GMA: FM - Western Harbour Feasibility - - - - (315) (315) (100%)
+GMA: FN – Bristol Harbour Place Shaping Strategy - 35 35 35 35 33 95%
+GMA: FR - South Gloucestershire Catalyst High Street Funding 364 175 175 175 175 158 90%
+GMA: GQ Keynsham to Willsbridge Path - 194 - (42) 194 163 84%
+GMA: GT Western Harbour Masterplan and Infrastructure Delivery Plan 200 357 1,428 1,435 350 300 84%
+GMA: GV Hanham Community/Skills Hub - - - 2 2 2 100%
+GMA: IY - Local Nature Recovery Strategy Resourcing - 28 28 28 28 28 98%
+GMA: IZ - Green Heritage Home Phase II - 70 70 70 70 70 100%
+GMA: JM Net Zero Growth Planning – Local Industrial Decarbonisation Plan - - - - (41) 41 100%
+GMA: Mayoral Funding 693 693 630 620 530 504 73%
+GMA: GH - GRF round 1 – Somer Valley Rediscovered 228 143 261 522 (146) (134) (94%)
+GMA: GK - GRF Nature Recovery - River Frome Reconnected - 93 93 93 93 173 185%
+GMA: HS CRSTS Mobilisation B&NES (Revenue) - - - 123 - - 0%
+GMA: HV -Managing More Greenspace for Nature - 410 345 373 369 343 84%
+GMA: BY South Bristol Industrial Light Workspace - - - - - 3 100%
+GMA: CG - Bottle Yard Studios - Hawkfield Business Park - 25 50 147 25 25 100%
+GMA: DI - Bath City Centre High Streets Renewal Project 13 30 30 - 97 101 342%
+GMA: DJ Bristol City Centre & High Streets 40 197 470 470 197 191 97%
+GMA: DN - South Gloucestershire Council Capacity Scheme - 65 65 65 65 65 100%
+GMA: FW - Hydrogen Sustainable Transport Economy Accelerator 194 194 194 194 194 594 306%
+GMA: GA - Waterspace Connected Phase 1 - 220 220 220 219 192 87%
+GMA: GE ISTART Phase 0 - - - 839 839 660 100%
+GMA: GI - Capricorn Quay - Round 1 82 25 25 25 25 (362) (1447%)
+GMA: GJ Green Recovery Fund Nature Recovery – Forest of Avon - - - - - 74 100%
+GMA: GL - Tree Canopy - Round 1 343 387 343 426 426 462 119%
+GMA: GN - Bath Central Riverside 73 173 272 386 173 171 99%
+GMA: HU Bathscape Landscape City Framework 118 53 153 92 53 53 100%
+GMA: HY - Pollinator Pathways Avon Wildlife Trust 171 171 171 171 176 146 86%
+GMA: IR - Farmer Led Nature Recovery 99 100 100 100 98 95 95%
+GMA: Investment Fund Gateway Review 2 66 66 132 70 40 40 60%
+GMA: Linking The Levels - South Gloucestershire 193 178 193 193 178 177 99%
+GMA: Lower Chew Forest - - - - - (66) (100%)
+H&R: Bristol Temple Quarter (BTQ) Joint Delivery Team 1,304 405 1,848 1,808 1,984 720 178%
+H&R: City and Town Centre Evidence Base 90 166 104 104 104 83 50%
+H&R: Local Growth Plan Regeneration - 450 - 450 450 420 93%
+H&R: Local Remediation Acceleration Plan (LRAP) - 370 249 - - - 0%
+H&R: SDS Spatial Development Strategy - - - 600 408 - 0%
+H&R: Strategic Green Belt Assessment - 350 336 - - - 0%
+STR: Digital Inclusion - 30 30 27 25 18 60%
+STR: HA - Regional Evidence Portal Pilot 25 43 25 61 8 5 11%
+STR: HM - Digital Office Pilot 829 942 866 845 933 519 55%
+STR: I4R+O Feasibility and Development 65 1 70 47 1 1 100%
+STR: Short Term Strategic Priorities 102 0 122 0 0 0 100%
+TRA: Bus Improvement Option Report 500 0 102 338 (0) - 0%
+TRA: Demand Responsive Transport (DDRT) - - - - 340 340 100%
+TRA: BF Transport Evidence Base 400 - 1,092 - - - 0%
+TRA: CK - 10 Year Rail Delivery Plan 278 14 221 - - - 0%
+TRA: GO Walking and Cycling Scheme Development - - 238 - - - 0%
+TRA: Integrated Mobility Scooters (IMS) Phase 2 - 218 455 254 145 224 103%
+TRA: Local Electric Vehicle Infrastructure (LEVI) Capability Grant 36 120 609 852 120 139 116%
+TRA: MetroWest 1 1,015 1,015 781 781 937 898 88%
+TRA: Metrowest 2 Revenue - 937 937 936 703 1,015 108%
+TRA: Rail Electrification (Filton Bank) 20 20 - - - - 0%
+TRA: South Gloucestershire Council Specialist Support – CRSTS R 174 - - - - - 0%
+TRA: West Rapid Transport (Future4West) - 2,005 257 2,005 879 388 19%
+
+Total 28,561 30,846 32,254 33,666 27,254 24,161 78%
+Appendix 5 Reserves
+
+Balance Balance Balance Movement Balance
+2022/23 2023/24 2024/25 2025/26 2025/26
+£000's £000's £000s £000s £000s
+
+Total Usable General Reserves* 2,474 4,776 7,654 1,914 9,568
+
+Business Rate Reserve 777 777 777 524 1,301
+Integrated Transport Auth Reserve 616 900 900 (900) -
+Integrated Transport Bus Reserve 783 783 332 (332) -
+Bus Operations Reserve - - - 8,006 8,006
+Mayoral Capacity Funding Reserve 42 20 - - -
+Housing Capacity Funding 502 216 - - -
+Programme Delivery O/Hd Reserve 822 822 822 - 822
+Treasury Management Reserve 1,574 4,229 5,000 - 5,000
+UK Mayors 105 106 106 164 270
+Mayoral Election Reserve 466 812 3,054 (2,420) 634
+Adult Education Reserve 1,468 1,872 2,590 (822) 1,768
+Programme Risk Reserve - 624 4,179 10,861 15,040
+Transformation Programme Reserve - 1,000 495 (406) 89
+IMS Investment Fund - 459 1,153 161 1,314
+IMS Concessionary Reserve - 203 315 192 507
+Redundancy Reserve - 389 2,000 (190) 1,810
+4% Vacancy Factor - - 463 (329) 134
+Legal Reserve - - 500 (33) 467
+Organisational Improvement Plan Reserve - - - 769 769
+ICT Costs Reserve - - - 1,101 1,101
+Other Reserves 275 365 276 (36) 240
+
+Total Usable Earmarked Reserves 7,433 13,577 22,962 16,310 39,272
+
+Total Usable reserves 9,907 18,353 30,616 18,224 48,840
+
+ Business Rates Reserve: Held to offset potential volatility in NNDR income from
+changes to rateable values, exemptions, or collection rates.
+ Integrated Transport Authority Reserve: Smooths variances in concessionary
+fares and other transport costs between years, maintaining a revenue-neutral position
+with Unitary Authorities.
+ Integrated Transport Bus Reserve: A one-off £1.3m transport underspend from
+2021/22 earmarked to protect bus routes, especially in rural areas.
+ Bus Operations Reserve: Smooths variances in bus operation costs between years,
+maintaining a revenue-neutral position.
+ Mayoral and Housing Capacity Reserves: Support delivery of infrastructure and
+strategic housing programmes by carrying forward unspent balances from national
+funding allocation.
+ Programme Delivery Overhead Recovery Reserve: Arises from central overhead
+savings due to delays in programme delivery.
+ Treasury Management Reserve: Mitigates financial risks from changes in interest
+rates, cash balances, or pooled investment values. This includes the potential impact
+of IFRS 9, should the statutory override expire in March 2029 — which could require
+any future investment losses to be charged to revenue.
+ UK Mayors Reserve: Ring-fenced for the M10 network of Mayoral Combined
+Authorities, supporting joint working through a dedicated secretariat.
+ Adult Education Reserve: Ring-fenced for future expenditure on adult education
+services.
+ Programme Risk Reserve: Provides critical cover against slippage, delay or
+cancellation of capital schemes. With projected annual capital spend exceeding
+£130.0m, maintaining a robust risk reserve is essential.
+ Transformation Programme Reserve: Supports the ongoing organisational
+transformation of the Authority.
+ Integrated Mobility Fund (IMS): Accumulates revenue share from the Tier
+micromobility contract. Funds will be drawn down once future use is formally agreed.
+ Redundancy Reserve: Covers potential redundancy costs as short-term funding
+streams end without confirmed replacement.
+ 4% Vacancy Factor Reserve: Reflects the Authority’s approach of budgeting staff
+costs at 96% to account for natural turnover and recruitment lead-in times.
+ Legal Reserve: Protects against unforeseen legal costs, safeguarding core budgets
+and supporting robust governance.
+ Organisational Improvement Plan Reserve: Established from underspend against
+budget in year 1 to fund programme activity in year 2.
+ ICT Costs Reserve: Established from underspends on budget in year to fund activity
+that is planned in 2026/27.
+ Other Reserves: Includes smaller earmarked balances such as the Brexit Fund,
+Cultural programmes, Solar Together, and Rent Rebate reserves.
+
+Appendix 6 Capital Programme
+
+Outturn vs
+Approved Current Q1 Q2 Q3 Current
+budget Budget Forecast Forecast Forecast Outturn Budget
+Capital Budget £000s £000s £000s £000s £000s £000s %
+
+Economy & Skills 1,349 2,378 2,340 2,386 1,398 1,891 80%
+Environment 3,324 3,623 3,535 4,713 2,360 2,310 64%
+Transport 190,434 225,394 170,717 134,085 159,133 149,130 66%
+Homes & Regeneration - 967 - - - 967 100%
+Grant Management & Assurance 66,133 61,646 73,495 85,492 62,167 49,403 80%
+Optimisim Bias Factor (55,086) (55,086) (46,491) (19,489) (15,754) - 0%
+
+Delivery Sub Total 206,155 238,923 203,595 207,189 209,304 203,701 85%
+
+Law, Governance & Operations 824 824 901 707 681 434 53%
+
+Corporate Sub Total 824 824 901 707 681 434 53%
+
+Total Expenditure 206,979 239,747 204,496 207,895 209,984 204,135 85%
+Appendix 7 Capital Projects
+
+Outturn vs
+Approve Current Q1 Q2 Q3 Current
+d budget Budget Forecast Forecast Forecast Outturn Budget
+Project £000s £000s £000s £000s £000s £000s %
+
+E&C: IF IS - Kingsley Hall - 200 150 150 150 200 100%
+E&C: Made Smarter - Capital - 125 137 137 185 58 46%
+E&C: Made Smarter Adoption Programme - Capital - 455 455 435 452 443 97%
+E&C: Rural England Prosperity Fund (Capital) - 25/26 - 249 249 249 128 169 68%
+E&C: UK Shared Prosperity Fund (UKSPF) Capital 1,349 - - 8 8 8 100%
+E&C: The UK Shared Prosperity Fund (UKSPF) - 1,349 1,349 1,408 475 1,013 75%
+ENV: DBT - Low Carbon Business Support - Capital - 525 - - - 105 20%
+ENV: Mayoral Renewables Fund Capital - 700 - - - 700 100%
+ENV: FEAS HR - Heat from Mines Capital 990 - 990 - - - 0%
+ENV: FEAS HZ - Green Recovery Fund - Health and Nature Strategy Capital 16 16 - 20 39 19 117%
+ENV: FEAS IQ - WoE Wildlife Index Capital 15 5 5 5 5 2 46%
+ENV: Green Recovery Fund Investment Advisory Service 208 208 208 - - - 0%
+ENV: GRF Energy Projects - Capital - 30 63 173 140 30 100%
+ENV: Low Carbon Challenge - Green Recovery Fund Capital 1,547 - - - - - 0%
+ENV: Low Carbon Challenge - Recovery Fund Capital Grant 298 237 441 881 411 311 131%
+ENV: Regional Low Carbon Delivery - Capital 250 1,902 1,828 3,634 1,766 1,142 60%
+GMA: Additional Pothole Grant 6,733 6,733 6,733 6,733 6,733 6,732 100%
+GMA: ATF3 Park Row/Upper Maudlin - 7 - - - (7) (100%)
+GMA: ATF4 BCC Filwood Quietway (Capital) - - - - - 43 100%
+GMA: ATF4 BCC Malago Greenway (Capital) - 12 12 - - 12 100%
+GMA: ATF4 BCC Old Market Quietway (Capital) - - - - 20 20 100%
+GMA: CRSTS Mobilisation B&NES (Capital) - 419 419 419 - - 0%
+GMA: EX - LOHS Bath Local Centres (capital) - - - - 4 4 100%
+GMA: FEAS DK - Common Connections Capital 50 240 240 427 240 239 100%
+GMA: FEAS DX - Fielding´s Bridge - - - - - 46 100%
+GMA: FEAS EC - Grovesend Road - Gillingstool - 219 219 251 219 127 58%
+GMA: FEAS G-AG – Somer Valley Enterprise Zone 8,724 2,248 8,984 8,724 2,248 2,629 117%
+GMA: GH - GRF Nature Recovery - Somer Valley 228 266 261 261 273 178 67%
+GMA: GK - GRF Nature Recovery - River Frome Reconnected - 1,005 1,005 1,005 1,005 897 89%
+GMA: Highways Maintenance Grants 25,000 25,000 25,000 25,000 25,000 25,000 100%
+GMA: HV Managing More Greenspace for Nature 311 0 0 - - - 0%
+GMA: IF BY - South Bristol Industrial Light Workspace - 35 70 35 35 19 54%
+GMA: IF CG - Bottle Yard Studios - Hawkfield Business Park - 10 10 - 5 5 47%
+GMA: IF CH - North Keynsham Land Acquisition Fund - 107 - 107 107 39 37%
+GMA: IF CI - Milsom Quarter (capital) - 247 463 671 247 314 127%
+GMA: IF DH – Chew Valley Recreational Trail - - 137 96 96 (96) 0%
+GMA: IF DI - Bath City Centre High Streets Renewal Project 237 888 888 946 888 739 83%
+GMA: IF DJ Bristol City Centre High Street Recovery & Renewal - 136 460 920 136 41 30%
+GMA: IF EJ - Kingswood Regeneration Project - 807 807 4,305 807 822 102%
+GMA: IF EL - Portway Park and Ride - - - 131 3 3 100%
+GMA: IF ES - Bath River Line Phase 1 - 933 733 733 933 279 30%
+GMA: IF GI - Capricorn Quay - Round 1 385 - - - 441 441 100%
+GMA: IF GL - Tree Canopy - Round 1 - 50 - - 273 - 0%
+GMA: IF GM - Arena Infrastructure Package 5,349 410 5,349 5,349 410 356 87%
+GMA: IF HU Bathscape Landscape City Framework - - - - (43) (43) (100%)
+GMA: IF HY - Pollinator Pathways Avon Wildlife Trust 38 38 38 41 41 78 205%
+GMA: IF IM - Green Growth Fund Capital 2,000 2,000 2,000 10,000 2,000 - 0%
+GMA: IF IR - Farmer Led Nature Recovery 231 280 280 280 300 82 29%
+GMA: IF M - Hengrove Park Enabling Infrastructure 5,336 7,262 7,262 7,262 7,262 330 5%
+GMA: Midsomer Norton High Street Market Square Project - 170 - 201 170 (164) (97%)
+GMA: Quantum Technologies Innovation Centre (QTIC+) 11,511 12,124 12,124 11,511 12,124 10,047 83%
+GMA: Bristol Avon Flood Strategy-Active Travel & Green Infrastructure Greenway - - - 84 192 192 100%
+H&R: Bristol Eastern Entrance (BTM) - 500 637 500 487 464 93%
+H&R: Bristol Temple Quarter (BTQ) GFA - 91 - - - 91 100%
+H&R: Bristol Temple Quarter (BTQ) Northern Entrance - 876 - - - 876 100%
+TRA: A4 Portway Sustainable Transport Corridor 6,555 6,555 4,813 5,014 4,770 3,844 59%
+TRA: A4018 Corridor Improvements 2,552 2,552 2,707 1,994 - 711 28%
+Outturn vs
+Approve Current Q1 Q2 Q3 Current
+d budget Budget Forecast Forecast Forecast Outturn Budget
+Project £000s £000s £000s £000s £000s £000s %
+TRA: Access for all - DFT - 92 78 (35) 103 86 93%
+TRA: Active Travel Fund T3 - - - - - (710) (100%)
+TRA: ATF Tranche 4 Concord Way Phase 1 - - - - - 51 100%
+TRA: ATF3 Kingswood Town Centre Link - 860 1,373 943 159 873 101%
+TRA: ATF4 BCC Deanery Road (Capital) - 24 4 (24) (22) (22) (88%)
+TRA: ATF4 Cycle Hangars: Phase 1 and 2 - 276 27 276 45 94 34%
+TRA: ATF4 SGC Warmley to Longwell Green (Capital) - 177 177 177 177 177 100%
+TRA: ATF5 Clapton Road - - - - - 31 100%
+TRA: Active Travel Fund T6 - - - - - 19 100%
+TRA: B&NES Liveable Neighbourhoods 2,699 2,699 3,237 1,552 2,417 1,128 42%
+TRA: Bath City Centre Phase 3 - - - - - 12 100%
+TRA: Bath City Centre Sustainable Corridor – Phase Two 1,632 1,632 642 642 511 218 13%
+TRA: Bath City Centre Sustainable Corridor Phase 1 1,713 1,713 1,374 46 653 1,118 65%
+TRA: Bath Sustainable Walking & Cycling Links 2,588 2,588 475 475 900 776 30%
+TRA: Bristol Bridge & VMS -acceleration of CRSTS minor advanced works - junction improvements to facilitate
+- bus corridors for -
+- Bristol City -
+Centre Sustainable 26
+25 Transport Corridor)
+100%
+TRA: Bristol City Centre 17,648 17,648 719 3,129 1,475 1,429 8%
+TRA: Bristol City Centre - Bedminster Bridges - City Centre Strategic corridor - 737 - - 856 546 74%
+TRA: Bristol City Centre - Bond Street - - - - 222 - 0%
+TRA: Bristol City Centre – Harbour Walkway - 3,500 - - 1,961 3,500 100%
+TRA: Bristol City Centre - Redcliffe Roundabout - - - - 355 109 100%
+TRA: Bristol City Centre - Union Street - 4,200 - - 8,512 1,126 27%
+TRA: Bristol Regional Cycling Hub 30 30 1,103 3,403 1,184 1,167 3892%
+TRA: Bristol to Hartcliffe Corridor - Metrobus Extension A38S - - - - 72 129 100%
+TRA: Bristol to Hengrove Metrobus extension corridor –Bedminster works at A38 and Whitehouse Lane1,384 1,384 1,776 1,917 1,730 1,669 121%
+TRA: Bristol to Hengrove Metrobus Extension –Outline Business Case 106 106 174 1,088 813 25 23%
+TRA: Charfield Station (capital) 23,517 23,517 15,750 9,825 14,652 15,057 64%
+TRA: Concorde Way MOD path ATF5 - - - - - 445 100%
+TRA: Cotham Hill - - - - - 115 100%
+TRA: CRSTS – B2B Keynsham to Bath STC 22,399 22,399 7,568 4,113 6,288 4,400 20%
+TRA: CRSTS 2 - 183 - 181 - (92) (50%)
+TRA: CRSTS AB – Capacity Building Fund Bristol (capital) - - - - - 332 100%
+TRA: CRSTS AC - Midsomer Norton & Westfield Walking, Wheeling and Cycling Links 1,382 1,382 1,994 2,502 156 73 5%
+TRA: CRSTS AE – Portway Access & Egress 1,529 1,529 2,079 1,254 1,888 1,457 95%
+TRA: CRSTS AF South Bristol Liveable Neighbourhood 100 100 26 406 601 469 469%
+TRA: CRSTS AK Bradley Stoke Multi Modal Corridor - 13,885 13,885 9,523 11,791 10,785 78%
+TRA: CRSTS AL A4174 Multimodal Corridor - 13,382 - 3,742 11,932 13,063 98%
+TRA: CRSTS AT Thornbury to North Bristol A38 - 21,253 21,253 12,524 14,200 11,117 52%
+TRA: CRSTS BB – Bristol City Centre Sustainable Corridor – Temple Way - 1,256 1,256 1,197 1,263 402 32%
+TRA: CRSTS D - Thornbury to North Bristol Corridor Development Costs 25,404 - - - (515) 471 (100%)
+TRA: CRSTS E & BD A432 Multimodal Corridor Badminton Road 13,382 6,922 9,125 5,365 9,089 5,873 85%
+TRA: CRSTS H SGC Bristol Bath Railway Path 383 383 462 329 113 117 31%
+TRA: CRSTS Ja Yate Liveable Neighbourhoods 527 527 620 195 194 188 36%
+TRA: CRSTS Jb Thornbury Liveable Neighbourhoods 484 484 553 487 250 178 37%
+TRA: CRSTS TBC A432 Multimodal Corridor Station Road - 586 586 209 289 298 51%
+TRA: CRSTS Top Slice 3,400 3,400 5,089 3,427 5,056 4,042 119%
+TRA: CRSTS U – Stockwood to Cribbs Corridor (A37/A4018) Bristol Southern Section 2,750 2,750 3,066 1,293 1,612 1,353 49%
+TRA: CRSTS U – Stockwood to Cribbs Corridor (A37/A4018) Central (Northern) Section - WP3 Park St 3,750 3,750 2,645 2,898 1,038 1,267 34%
+TRA: CRSTS U – Stockwood to Cribbs Corridor (A37/A4018) Victoria St & Colston Avenue 4,491 4,491 3,862 2,761 4,956 3,649 81%
+TRA: CRSTS V - Streetspace 1 (Overton Road and Princess Victoria Road) 740 740 1,036 642 982 936 126%
+TRA: CRSTS W - Streetspace 2 (Rosemary Lane, Chandos Road and Denmark Street) 1,300 1,300 43 202 241 224 17%
+TRA: FEAS CS – Bath Quays Bridge Cycle/Pedestrian Links 1,454 1,454 2,392 264 2,274 997 69%
+TRA: FEAS CU – Old City and King Street - - - - 2 53 100%
+TRA: FEAS CV – St George Liveable Neighbourhood 1,648 1,648 1,188 1,063 1,494 1,729 105%
+TRA: FEAS CX – Strategic Cycle Route Connecting Yate with the East Fringe (Yate Spur) 3,226 3,226 3,273 1,216 891 191 6%
+TRA: FEAS EB - Concorde Way / Dovercourt - 49 - 182 450 146 300%
+TRA: FEAS EP - EV Charging Infrastructure Capital 1,680 2,148 1,775 1,692 1,626 389 18%
+TRA: FEAS FL - Alveston Hill Cycleway - 4,096 - 3,108 3,849 1,958 48%
+TRA: FEAS GB - Scholars Way Walking and Cycling Route - 2,922 2,922 1,893 635 1,692 58%
+TRA: FEAS GP - Muller Road Phase 2 - - - - - 114 100%
+TRA: FEAS GP Muller Road - - - - - 174 100%
+Outturn vs
+Approve Current Q1 Q2 Q3 Current
+d budget Budget Forecast Forecast Forecast Outturn Budget
+Project £000s £000s £000s £000s £000s £000s %
+TRA: FEAS HF Rail Electrification (Filton Bank) 20 - - - - - 0%
+TRA: FEAS RB - Mass Transit - Bristol to Bath Strategic Corridor (Long Term) 1,010 1,010 2,234 973 1,213 739 73%
+TRA: FEAS RB - Mass Transit - Bristol to Bath Strategic Corridor (Short Term) 3,664 3,664 4,769 3,791 3,938 2,645 72%
+TRA: FTZ - E-scooters - 564 564 396 430 428 76%
+TRA: FTZ - Innovation and Enhancements - 703 660 660 660 - 0%
+TRA: FTZ - Knowledge Hub - 82 82 81 82 65 79%
+TRA: FTZ - Monitoring & Evaluation - 232 248 201 166 134 58%
+TRA: FTZ - Urban Freight 150 150 229 193 174 177 118%
+TRA: Future Transport Zones - Data Hub 837 837 989 1,010 1,035 1,068 128%
+TRA: Future Transport Zones - MaaS 293 293 1,396 1,197 1,183 1,309 447%
+TRA: Future Transport Zones - Mobility Zones 584 584 1,592 1,481 1,485 1,000 171%
+TRA: Future Transport Zones – Programme Management Capital 457 457 358 432 403 423 93%
+TRA: IF EM - Somer Valley Links 5,587 5,587 6,330 2,123 2,279 2,392 43%
+TRA: IF EM - Somer Valley to Bristol and Bath - - - - - 1,335 100%
+TRA: IF GC - Old Market Gap - 9 - 9 - (164) (1726%)
+TRA: IF GX CRSTS Specialist Support 190 - - 190 190 - 0%
+TRA: M32 Sustainable Transport Corridor and Hub 4,674 4,674 3,217 1,641 1,734 1,165 25%
+TRA: Maintenance Challenge Fund – Manvers Street Cleveland Bridge 1,947 1,947 2,272 6,516 1,257 362 19%
+TRA: Maintenance Challenge Fund – New Cut Bridges 4,768 4,768 4,768 3,576 3,576 5,207 109%
+TRA: Maintenance Challenge Fund – SGC – A38 & A432 2,000 2,000 3,493 3,014 5,180 4,418 221%
+TRA: Metrowest 1 - NR - 6,436 - - 2,140 5,363 83%
+TRA: MetroWest Phase 1 9,657 516 13,789 10,441 3,573 528 102%
+TRA: SGC Cycle Storage - - - - - 105 100%
+TRA: Step Free Stations (Capital) - FEAS BX / CRSTS C 1,509 1,509 1,372 1,835 2,057 1,204 80%
+TRA: Tap on Tap Off - IF EI / CRSTS A 800 800 263 51 51 3 0%
+TRA: West of England Regional Transport Model (WERTM) 220 120 327 683 208 124 103%
+TRA: West Rapid Transport (Future4West) 1,613 - - - - - 0%
+TRA: Zero Emission Bus Funding (ZEBRA 2) - 1,418 - - 1,418 16,844 1188%
+
+Sub-total 261,241 294,009 250,086 226,677 225,058 203,701 69%
+
+Optimism Bias Factor (55,086) (55,086) (46,491) (19,489) (15,754) - 0%
+
+Sub-total (55,086) (55,086) (46,491) (19,489) (15,754) - 0%
+
+Total 206,155 238,923 203,595 207,189 209,304 203,701 85%
+Appendix 8 Treasury Outturn
+
+Performance against Treasury Management Indicators
+(as approved in the Treasury Management Strategy Statement)
+
+The Mayoral Combined Authority measures and manages its exposure to treasury
+management risks using the following indicators.
+
+1. Security
+The Mayoral Combined Authority has adopted a voluntary measure of its exposure to credit
+risk by monitoring the value-weighted average credit rating of its investment portfolio. This is
+calculated by applying a score to each investment (AAA=1, AA+=2, etc.) and taking the
+arithmetic average, weighted by the size of each investment.
+
+Credit risk indicator Target Actual
+Minimum portfolio average credit rating A- A+
+
+2. Liquidity
+The Mayoral Combined Authority has adopted a voluntary measure of its exposure to liquidity
+risk by monitoring the amount it can borrow each quarter without giving prior notice.
+
+Liquidity risk indicator Target Actual
+Total sum borrowed in past 3 months without prior notice £40m £0m
+
+3. Interest Rate Exposure
+This indicator is set to control the Mayoral Combined Authority’s exposure to interest rate risk.
+The upper limits on the one-year revenue impact of a 1% rise or fall in interest rates will be:
+
+Interest rate risk indicator Limit Actual
+Upper limit on one-year revenue impact of a 1% fall in
+£2m £1.97m
+interest rates
+
+4. Principal sums invested for periods longer than a year:
+The purpose of this indicator is to control the Mayoral Combined Authority’s exposure to the
+risk of incurring losses by seeking early repayment of its investments. The limits on the long-
+term principal sum invested to final maturities beyond the period end will be:
+
+2025/26 2025/26 2026/27 2026/27 2027/28 2027/28 +3 Years +3 Years
+Price risk indicator
+Target Actual Target Actual Target Actual Target Actual
+Limit on principal invested beyond 364 days as
+50% 14% 30% 14% 20% 11% 20% 11%
+% of total cash balance
+Long term investments 3 years plus include strategic pooled funds and real estate investment trusts
+with no fixed maturity.
+The Mayoral Combined Authority’s Investment position as at 31st March 2026
+
+Table: 1 Investments by Type
+
+31-Mar-25 Net 31-Mar-26 31-Mar-26
+Actual Actual Average
+Movement
+Portfolio Portfolio Rate
+£m £m £m %
+Treasury investments by type:
+Banks & building societies (unsecured) 10.0 -5.8 4.2 2.0
+Government (incl. local authorities) 351.0 9.0 360.0 4.7
+Registered Providers 10.0 0 10.0 4.8
+Money Market Funds 39.3 -12.9 26.4 4.0
+Social Housing Real Estate Investment
+5.00 0 5.00 3.2
+Trust
+Other pooled funds:
+CCLA Property Fund 10.0 0 10.0 4.3
+Investec 10.0 0 10.0 4.2
+Kames 10.0 0 10.0 5.3
+Threadneedle 3.5 0 3.5 5.4
+M&G 3.5 0 3.5 5.9
+Royal London Enhanced Cash Plus Fund 10.0 0 10.0 4.1
+Total treasury investments 462.3 -9.7 452.6 4.6
+Table: 2 Term of investments
+Balance at 31st
+March 2026
+£000s
+
+Notice (instant access funds) 30,650
+
+Up to 1 month 50,000
+
+1 month to 3 months 105,000
+
+4 to 6 months 75,000
+
+6 to 12 months 120,000
+
+More than 12 months 20,000
+
+Pooled Funds * 51,957
+
+Total 452,607
+
+The Mayoral Combined Authority had a total average net positive balance of £494m during
+the period April 2025 to March 2026
+
+* Notice period 4 days except property fund which is 90 days
+
+Table 3: Pooled Funds as at 31/03/2026
+
+Capital
+Purchase Value Fair Value as at Income
+Fund Name Asset Class Growth/(Loss
+£000s 31/03/26 £000s Return In Year
+) £000s
+CCLA Property Fund Property 9,956 8,856 -1,100 4.30%
+Ninety One Diversified Income Fund (Investec) Multi Asset 10,000 9,018 -982 4.15%
+Aegon Diversified Monthly Income Fund (Kames) Multi Asset 10,000 9,576 -424 5.29%
+Threadneedle Strategic Bond Fund Bond 3,500 3,121 -379 5.37%
+M&G UK Income Distribution Fund Equity - UK 3,500 4,123 623 5.89%
+Royal London Short Term Enhanced Cash Fund Cash Plus 10,000 10,207 207 4.05%
+Fundamentum Social Housing REIT Property 5,000 3,048 -1,952 3.21%
+51,956 47,949 -4,007 4.61%
+Chart 1 : West of England Mayoral Combined
+Authority Investments by Funding Source
+(£452.607m) at 31st March 2026
+Other,
+£181,315,772,
+28%
+
+Gainshare,
+£266,538,533,
+RIF, £16,508,987, 69%
+3%
+
+Chart 2: West of England Mayoral Combined
+Authority Investments per lowest equivalent Long
+Term credit rating (£452.607m) at 31st March 2026
+A+ Rated,
+£30,650,000
+
+Unrated,
+£51,956,738
+
+Other Local
+Authorities/Gov/
+HA, £370,000,000
+
+Unrated investments are the Pooled Funds
+Chart 3: West of England Mayoral Combined Authority
+UK Banks,
+£4,250,000 Property/MAF Fund
+, £51,956,738
+
+Money Market
+Funds, £26,400,000
+Building Societies,
+£0
+
+Other Local
+Authorities/Gov/HA
+, £370,000,000
+Appendix 9: Project descriptions
+Appendix Grouping Key:
+RIFP: Revenue Investment Fund Programme
+CP: Capital Programme
+
+Appendix
+Appendix Name Description
+Grouping
+Provides investment in developing a creative quarter
+GMA: Bath Creative Quarter RIFP to support cultural industries, regenerate the area,
+and drive economic growth
+Capacity funding to support Bristol City Council’s
+ability to develop and deliver major
+GMA: Bristol City Council
+RIFP regeneration/investment programmes. Funding to
+Capacity
+build internal capability to progress the Local Growth
+Plan and large-scale regeneration.
+Staff resource dedicated to managing and delivering
+the Bristol Temple Quarter and St Philip’s Marsh
+H&R: Bristol Temple Quarter
+RIFP regeneration programme on behalf of the partners.
+(BTQ) Joint Delivery Team
+Supports programme management and delivery of
+the next stage of the programme.
+Commissioned options work to identify and appraise
+TRA: Bus Improvement potential bus improvement measures in the West of
+RIFP
+Option Report England. Intended to inform investment decisions
+and future programme development.
+Funding provides grants to SMEs to invest in
+E&C: Business Growth
+RIFP expansion, innovation, and productivity
+Grants
+improvements to drive sustainable business growth
+Continues the West of England Careers Hub, working
+with schools, colleges and employers to improve
+careers education and young people’s encounters
+E&C: Careers Hub Sept 25 -
+RIFP with the workplace. Funding supports coordination
+Aug 27
+such as employer engagement and careers activity
+so education providers can better align with local
+labour-market needs.
+Feasibility and development work to create an
+evidence base for the West of England. Intended to
+H&R: City and Town Centre
+RIFP inform regeneration priorities and investment by
+Evidence Base
+analysing data on footfall, vacancies, viability and
+place-based needs.
+Start-up investment to deliver the West of England
+Cultural Compact programme and associated
+E&C: Cultural Compact regional cultural work. The funding supports
+RIFP
+Start-Up Investment capacity, governance and programme development
+so culture can drive economic success, placemaking
+and community wellbeing across the region.
+Funding supports cultural and creative sector
+E&C: Culture - Creative recovery initiatives to stabilise organisations, sustain
+RIFP
+Recovery Programme jobs, and drive economic regeneration through arts
+and culture-led activity
+Two-year Culture West programme designed to
+widen access to creative opportunities and diversify
+the region’s creative workforce. It funds activities
+E&C: Culture West - Arts RIFP
+such as grants, commissions and partnerships to
+support freelancers and engage communities in arts
+and cultural experiences.
+Grant-funding element of Culture West used to
+commission and support creative freelancers and
+E&C: Culture West -
+RIFP organisations. It provides small grants/commissions
+Investment Fund
+and delivery resource to build a more resilient,
+diverse creative sector and reach new audiences.
+Part of FTZ Programme - Demand Responsive
+Transport (DDRT) is a flexible, on-demand public
+transport service where routes are dynamically
+generated, with funding supporting vehicles, digital
+TRA: Demand Responsive
+RIFP booking and routing systems, and integration with
+Transport (DDRT)
+wider transport networks. Looks to provide
+accessible alternatives to fixed bus services, improve
+connectivity in underserved areas, and encourage
+modal shifts.
+Funding supports initiatives to improve access to
+digital technologies, connectivity, and skills for
+STR: Digital Inclusion RIFP residents and businesses to reduce digital exclusion,
+improve employability, and ensure equal access to
+online services and opportunities
+GMA: EF - Midsomer Norton Funds regeneration of public realm and market
+High Street Market Square RIFP space to revitalise the high street and support local
+Project economic activity
+Internal resource to administer and coordinate the
+E&C: Employment & Skills
+RIFP West of England’s Employment & Skills Investment
+Resource
+Fund programmes.
+Core delivery resource for the West of England’s
+integrated employment and skills system
+E&C: Employment & Skills (sometimes described as a Regional Employment
+RIFP
+Service - Delivery Service). It supports coordination across partners
+and delivery of programmes so residents can access
+advice, training and employment support.
+Development and maintenance of the central online
+‘hub’ for the regional employment and skills system.
+E&C: Employment & Skills
+RIFP Intended to provide a single place for residents and
+Service – Hub (Website)
+employers to find support, including labour-market
+information and signposting to services.
+Provides investment in enhancing local high streets
+GMA: EX – Love Our High
+RIFP and centres in Bath to boost economic activity and
+Streets Bath Local Centres
+community vibrancy
+GMA: FE - Chew Valley Lake Supports development of recreational infrastructure
+Recreational Trail (Southern RIFP to improve access, tourism, and environmental
+Section) engagement around Chew Valley Lake
+GMA: AG - Somer Valley EZ Supports feasibility and development work for
+Development (Non- RIFP Enterprise Zone sites in Somer Valley to unlock
+Highways) commercial space and regional economic growth
+Feasibility and development funding to develop the
+Working Well Institute proposal. To deliver an
+GMA: BA - Working Well
+RIFP inclusive skills programme aligned to regional and
+Institute
+employer needs to support high quality employment
+and research led solutions to local challenges.
+Feasibility and development work to produce
+transport evidence to support the Spatial
+TRA: BF - Transport
+RIFP Development Strategy (SDS). Includes modelling,
+Evidence Base
+data analysis and identification of transport
+interventions aligned to planned growth.
+GMA: BJ - Centre for Digital Funds feasibility and development planning for a
+Engineering Technology & RIFP centre focused on digital engineering and innovation
+Innovation to support skills, R&D, and sector growth
+Feasibility and development funding for strategic
+GMA: BT - Strategic Master
+RIFP masterplanning work in North Keynsham to support
+Planning - North Keynsham
+regeneration and housing growth.
+Funds planning and development of green
+ENV: BV - Strategic Green infrastructure such as parks, green corridors, and
+RIFP
+Infrastructure natural assets to improve resilience to climate
+change, support wellbeing, and enhance ecosystems
+Reboot West is a regional employability programme
+supporting care-experienced young people. It helps
+participants access and sustain education, training
+GMA: BZ - Reboot West RIFP
+and employment through coaching and support.
+Aiming to improve skills, reducing NEET levels and
+supporting inclusive growth.
+Supports masterplanning to guide regeneration and
+GMA: CI Milsom Quarter
+RIFP redevelopment of Milsom Quarter, enhancing
+Masterplan
+economic vitality and urban environment
+Development of a 10-year rail delivery plan setting
+out priorities, schemes and sequencing for improving
+TRA: CK - 10 Year Rail rail across the West of England. Supports
+RIFP
+Delivery Plan engagement with Network Rail/operators and
+provides a roadmap for business case development
+and funding bids.
+Feasibility and development work linked to the
+Common Connections nature recovery project,
+GMA: DK Common which improves habitat connectivity across the
+RIFP
+Connections region. Funding supports planning/design work and
+coordination with partners to deliver nature-based
+interventions.
+Supports strategic planning and feasibility for large-
+GMA: DW - Temple Quarter
+RIFP scale regeneration at Temple Quarter to unlock
+Regeneration Programme
+housing, jobs, and transport improvements
+Funding to enable B&NES housing and regeneration
+masterplanning activity, supporting early-stage site
+GMA: EH B&NES Housing &
+planning and development work. This will include
+Regeneration Enabling Fund RIFP
+supporting feasibility, technical work and funding bid
+(Masterplanning)
+development to reach housing and regeneration
+objectives.
+Funds strategic masterplanning work across Bath
+GMA: EQ - BANES Strategic
+RIFP and North East Somerset to guide sustainable growth
+Masterplanning
+and place development
+Funding to support the creation of a robust evidence
+GMA: ET - Spatial
+base needed to move away from a strategic, region-
+Development Strategy to RIFP
+wide planning document (SDS) toward more locally
+Local Plan Making
+led planning via individual Local Plans
+Supports strategic planning and feasibility for large-
+GMA: F - Temple Meads
+RIFP scale regeneration at Temple Quarter to unlock
+Masterplan
+housing, jobs, and transport improvements
+Supports feasibility work exploring redevelopment
+GMA: FM - Western Harbour
+RIFP options for Western Harbour to unlock housing, jobs,
+Feasibility
+and infrastructure improvements
+Funds development of a strategic framework to guide
+GMA: FN – Bristol Harbour
+RIFP future use, regeneration, and placemaking around
+Place Shaping Strategy
+Bristol Harbour
+Development funding for South Gloucestershire’s
+GMA: FR - South
+High Streets Catalyst work (Phase 2), supporting
+Gloucestershire Catalyst RIFP
+programme development and/or business case
+High Street Funding
+preparation to renew town centres.
+Funding early-stage development of active travel
+TRA: GO Walking and
+schemes supporting feasibility, design and business
+Cycling Scheme RIFP
+case work to prepare projects for future capital
+Development
+investment.
+Funding feasibility work to assess a new active travel
+GMA: GQ Keynsham to route connecting Keynsham to Willsbridge to
+RIFP
+Willsbridge Path improve cycling/walking links, connectivity, and
+reduce car reliance
+Internal programme resource to manage and deliver
+ENV: GS - Green Recovery the Green Recovery Fund portfolio. Supports
+RIFP
+Fund Resources governance, commissioning, assurance and
+monitoring of funded projects.
+Funding to develop the Western Harbour masterplan
+GMA: GT Western Harbour and associated infrastructure delivery plan in Bristol,
+Masterplan and RIFP setting out how the area will be regenerated and what
+Infrastructure Delivery Plan enabling infrastructure is required. Supports
+technical studies, engagement and delivery planning.
+Funding feasibility for a community and skills hub in
+GMA: GV Hanham
+RIFP Hanham to support local skills development,
+Community/Skills Hub
+employment access, and community services
+Pilot to develop a regional platform to enabling
+partners to access and use shared datasets for
+STR: HA - Regional Evidence
+RIFP strategy and investment decisions. Intended to
+Portal Pilot
+improve consistency of evidence and analytics
+across the West of England.
+Programme to build regional collaboration and
+ENV: HE - Regional engagement on environmental priorities. Funding
+Engagement on the RIFP supports convening partners, developing shared
+Environment approaches and communicating opportunities for
+nature and climate action.
+Work programme resource to develop and
+ENV: HJ - Resourcing coordinate climate resilience/adaptation activity.
+Climate Resilience Work RIFP Supports evidence, partnerships and projects that
+Programme help communities, businesses and infrastructure
+prepare for climate impacts.
+Pilot to establish a ‘digital office’ capability to
+coordinate digital transformation work across the
+STR: HM - Digital Office Pilot RIFP
+West of England. Supports shared approaches to
+data, digital services and enabling infrastructure.
+Feasibility and development funding to implement
+the region’s green infrastructure strategy by
+ENV: HO - Green developing a pipeline of projects and delivery
+RIFP
+Infrastructure Funding mechanisms. Supports planning, stakeholder
+engagement and business case work to increase
+access to and quality of green spaces.
+Feasibility and development work exploring
+mine-water geothermal (‘heat from mines’) as a
+ENV: HR - Heat from Mines low-carbon heating source. Funding supports
+RIFP
+Revenue studies and stakeholder work to identify viable sites,
+delivery models and next steps toward demonstrator
+projects.
+Resource for Bath & North East Somerset Council to
+support delivery of the CRSTS programme. Covers
+GMA: HS B&NES CRSTS
+RIFP capacity needed to develop and deliver CRSTS
+Capacity Funding
+schemes (e.g., programme management,
+engagement, property)
+Funding for development and maintenance of a
+Wildlife Index to measure environmental
+ENV: IQ - WoE Wildlife Index
+RIFP performance across the West of England, to provide
+Revenue
+robust data and evidence to inform environmental
+policy, biodiversity protection, and decision-making
+Funding feasibility/resource work to support
+GMA: IY - Local Nature
+development of the Local Nature Recovery Strategy,
+Recovery Strategy RIFP
+to identify priorities, resourcing needs, and delivery
+Resourcing
+approach for biodiversity and habitat recovery
+Funding feasibility for phase 2 of a programme
+GMA: IZ - Green Heritage retrofitting heritage homes to improve energy
+RIFP
+Home Phase II efficiency while preserving historic buildings and
+reducing carbon emissions
+Supports research and strategic planning around
+ENV: JA - Future of Regional
+environmental resourcing across the region to ensure
+Resourcing for the RIFP
+long-term sustainable funding and capacity for
+Environment
+environmental priorities.
+Provides funding to support the identification,
+assessment and development of nature recovery
+ENV: JF Local Wildlife Sites projects, contributes to the “30 by 30” target to
+RIFP
+and 30 by 30 protect and manage 30% of land for nature, with
+funding used to build the evidence base and develop
+projects for future investment
+Funding feasibility work to develop a local industrial
+GMA: JM Net Zero Growth
+decarbonisation plan to support businesses in
+Planning – Local Industrial RIFP
+reducing emissions and align economic growth with
+Decarbonisation Plan
+net zero targets
+
+Future Transport Zones funding to test technology-
+enabled approaches that make journeys easier and
+TRA: FTZ Mobility as a reduce congestion & emissions. Funding to develop
+RIFP
+Service (MaaS) Revenue Mobility as a Service (MaaS) capability so users can
+plan and pay for multimodal travel through one
+integrated digital platform/app.
+Coaching and progression support for low-income
+residents who are in work. Provides one-to-one
+E&C: Future Bright Phase 3 RIFP holistic coaching and training to increase
+confidence, skills and earnings, helping people
+progress in employment.
+Coaching and progression support for low-income
+residents who are in work. Provides one-to-one
+E&C: Future Bright Plus RIFP holistic coaching and training to increase
+confidence, skills and earnings, helping people
+progress in employment.
+Green Recovery Fund project to restore and connect
+nature in the Somer Valley through habitat
+GMA: GH - GRF round 1 –
+RIFP improvements and community engagement.
+Somer Valley Rediscovered
+Supports landscape-scale nature recovery work and
+improved access to nature.
+Funding delivery of nature recovery works along the
+GMA: GK - GRF Nature
+River Frome through the Green Recovery Fund,
+Recovery - River Frome RIFP
+aiming to restore river habitats, improve biodiversity,
+Reconnected
+and enhance climate resilience
+Linked to green careers/curriculum activity delivered
+through schools and the Careers Hub (often
+E&C: Green Funding Future RIFP
+referenced publicly as the Green Futures
+Project/Fund).
+Revenue support for delivery of Green Recovery Fund
+ENV: GRF Energy Projects - energy projects (local energy/renewables,
+RIFP
+Revenue decarbonised heat and related programme
+development).
+ENV: HZ - Green Recovery Revenue support for developing and delivering the
+Fund - Health and Nature RIFP Green Recovery Fund’s health and nature strategy
+Strategy Revenue work.
+Business Innovation Fund activity within the
+Innovation for Renewal and Opportunity (I4R+O)
+E&C: I4R+O BIF (non-ERDF) RIFP portfolio, focused on helping SMEs innovate and
+grow. This for non-European Regional Development
+Fund (ERDF) elements.
+Feasibility and development funding to scope, design
+and prepare Innovation for Renewal and Opportunity
+STR: I4R+O Feasibility and
+RIFP (I4R+O) projects and business cases. Used for early-
+Development
+stage research, partner engagement and pipeline
+development.
+Part of the Innovation for Renewal and Opportunity
+(I4R+O) portfolio, focused on boosting productivity by
+E&C: I4R+O Made
+RIFP helping manufacturers and supply chains adopt
+Smarter/Supply Chain
+industrial digital technologies through advice,
+adoption projects and delivery capability.
+GMA: HS CRSTS
+Funding to mobilise programme delivery including
+Mobilisation B&NES RIFP
+early works for B&ANES programmes
+(Revenue)
+Project to improve management of additional
+greenspaces for biodiversity, including practical
+GMA: HV -Managing More
+RIFP habitat enhancements and better long-term
+Greenspace for Nature
+stewardship. Aims to increase nature recovery
+outcomes through improved land management.
+Specialist employment support programme focused
+on helping people with learning disabilities and/or
+E&C: IF - JB We Work for autism move into and sustain paid work. Phase 3
+RIFP
+Everyone Phase 3 funding supports delivery (coaching, employer
+engagement and in-work support) to improve
+outcomes for participants.
+Provides investment to develop light industrial
+GMA: BY South Bristol
+RIFP workspace in South Bristol to support SMEs, jobs,
+Industrial Light Workspace
+and inclusive economic growth
+GMA: CG - Bottle Yard Funds expansion and development of film and TV
+Studios - Hawkfield RIFP production facilities to grow the creative industries
+Business Park and attract inward investment
+GMA: DI - Bath City Centre Investment to renew and revitalise Bath city centre
+High Streets Renewal RIFP high streets, improving public realm and supporting
+Project local businesses and footfall.
+Investment to support Bristol city centre and high
+GMA: DJ Bristol City Centre
+RIFP streets recovery and renewal through targeted
+& High Streets
+improvements and activation.
+GMA: DN - South Provides funding to enhance local authority capacity
+Gloucestershire Council RIFP to deliver housing, infrastructure, and economic
+Capacity Scheme development projects for South Gloucestershire
+Fund supporting community-led actions to improve
+habitats for pollinators and make the West of
+ENV: EO - Community
+RIFP England ‘bee and pollinator capital’. Provides grants
+Pollinator Fund
+and support to local organisations to create
+pollinator-friendly spaces and raise awareness.
+Supports start-up programmes offering advice,
+E&C: IF FS - Business Start
+RIFP mentoring, and financial support to encourage
+Up
+entrepreneurship and new business creation
+Revenue support aimed at developing a hydrogen
+GMA: FW - Hydrogen
+transport ecosystem in the region. Funds programme
+Sustainable Transport
+RIFP delivery, partnership work and early-stage project
+Economy Accelerator
+development to enable hydrogen trials and
+(revenue)
+infrastructure.
+Supports delivery of waterside infrastructure
+GMA: GA - Waterspace
+RIFP improving connectivity, public access, and economic
+Connected Phase 1
+use of waterways
+Phase 0 development funding for the I-START
+programme, supporting early-stage programme
+design, partner mobilisation and preparation for
+GMA: GE ISTART Phase 0 RIFP
+delivery. ISTART will increase skills development and
+research to upskill residents, promote green
+innovation, and support inclusive regional growth.
+
+Universal business support programme providing
+E&C: IF GF - WoE Business tailored advice and specialist support to SMEs
+RIFP
+Support Programme across the West of England. Typically includes
+access to expertise (leadership/management,
+finance, HR, IP) and signposting to grants and other
+support.
+
+Nature recovery project improving the Capricorn
+GMA: GI - Capricorn Quay - Quay area, creating habitat and enhancing access to
+RIFP
+Round 1 nature as well as ecological enhancements and
+community engagement.
+GMA: GJ Green Recovery Fund money allocated to environmental programmes
+Fund Nature Recovery – RIFP delivered through Forest of Avon to support nature
+Forest of Avon recovery, tree planting and economic growth
+Programme to increase tree canopy cover through
+planting and tree management, improving
+GMA: GL - Tree Canopy -
+RIFP biodiversity and climate resilience. Funds delivery of
+Round 1
+planting and associated engagement/maintenance
+activities.
+Funding linked to the Bath Central Riverside
+GMA: GN - Bath Central regeneration programme, aiming to enhance the area
+RIFP
+Riverside east of Bath city centre with mixed-use development
+and improved public realm.
+Project to develop a landscape city framework for
+Bath, integrating nature, heritage and place-based
+GMA: HU Bathscape
+RIFP improvements. Supports planning and coordination
+Landscape City Framework
+to deliver nature-based as well as cultural & heritage
+outcomes.
+Pollinator Pathways project led by Avon Wildlife Trust
+GMA: HY - Pollinator
+to create connected pollinator-friendly habitats
+Pathways Avon Wildlife RIFP
+across the region. Funds habitat creation,
+Trust
+community engagement and monitoring.
+Revenue line supporting development/operation of a
+ENV: IM - Green Growth
+RIFP green growth or impact investment fund for the West
+Fund Revenue
+of England.
+Farmer-led nature recovery project supporting land
+GMA: IR - Farmer Led Nature managers to deliver biodiversity improvements on
+RIFP
+Recovery farmland. Funds coordination, advice and delivery of
+nature-based interventions.
+Regional visitor-economy programme delivered with
+Visit West to grow the West of England’s tourism
+offer and spread visitor spend. It focuses on product
+E&C: IL Visit West RIFP
+& experience development, marketing and
+partnership working to increase the value and
+sustainability of the visitor economy.
+Revenue funding supporting IMS programme
+TRA: Integrated Mobility delivery, technical development and stakeholder
+RIFP
+Scooters (IMS) Phase 2 engagement for Phase 2, ensuring projects are
+effectively managed and ready for implementation
+Investment planning work related to innovation
+E&C: Innovation
+RIFP infrastructure (facilities, networks, testbeds and/or
+Infrastructure
+platforms) that support R&D and business growth.
+Assurance activity to review Investment Fund
+GMA: Investment Fund arrangements and/or scheme pipelines, checking
+RIFP
+Gateway Review 2 value for money, delivery confidence and risk
+management.
+Business support offer helping SMEs understand,
+protect and commercialise intellectual property.
+E&C: IP for Growth RIFP Provides advice, workshops and specialist support
+so businesses can use IP strategically to grow and
+attract investment.
+Nature recovery project to connect habitats across
+GMA: Linking The Levels - lowland landscapes in South Gloucestershire (the
+RIFP
+South Gloucestershire Levels). Supports habitat restoration & creation to
+improve ecological connectivity and resilience.
+Revenue grant that funds officer capacity and
+specialist support to plan and deliver local EV
+TRA: Local Electric Vehicle
+charging infrastructure, especially for residents
+Infrastructure (LEVI) RIFP
+without off-street parking. Supports procurement,
+Capability Grant
+partnerships and pipeline development for charge
+point rollout.
+Supports advisory services helping households and
+businesses improve energy efficiency and reduce
+ENV: Local Energy Advice
+RIFP energy costs, aim to reduce carbon emissions, tackle
+Support
+fuel poverty, and support transition to a low-carbon
+economy
+Supports development of regeneration plans to drive
+H&R: Local Growth Plan
+RIFP inclusive economic growth and place-based
+Regeneration
+investment
+Work to develop a Local Innovation Partnership
+proposition for the West of England and engage with
+E&C: Local Innovation
+RIFP national funders and local stakeholders. Intended to
+Partnership
+secure longer-term innovation investment by aligning
+regional strengths, missions and delivery capacity.
+Funds projects that accelerate low-carbon
+ENV: Low Carbon Challenge
+innovation and economic recovery to stimulate green
+– Recovery Fund Revenue RIFP
+growth, create jobs, and reduce regional carbon
+(Projects)
+footprint
+ENV: Low Carbon Challenge Revenue support & team funding for low carbon
+– Recovery Fund Revenue RIFP programmes, intended to coordinate & enable
+(Team funding) decarbonisation activity across the region
+Funds development of new woodland to support
+GMA: Lower Chew Forest RIFP carbon capture, biodiversity, and public access to
+green space
+Project to reopen the Portishead Branch Line and
+improve local rail services, including infrastructure
+TRA: MetroWest 1 RIFP upgrades and operational readiness for passenger
+services. Aims to increase rail capacity, connectivity
+and resilience in the West of England.
+Revenue support for operational costs related to the
+MetroWest Phase 2 programme, which aims to
+TRA: Metrowest 2 Revenue RIFP
+enhance local rail services and capacity through
+targeted infrastructure and service changes.
+
+Activity to create and support innovation ‘missions’—
+bringing partners together around priority challenges
+E&C: Mission Maker RIFP and opportunities. Funding supports programme
+design, stakeholder engagement and the
+development of mission-led projects.
+Priority Skills Fund investment to address skills gaps
+and improve access to training, including for people
+E&C: Priority Skills Fund RIFP who are unemployed or at risk of becoming
+unemployed. Funding supports targeted
+programmes aligned to local labour-market needs.
+Second round/extension of the Priority Skills Fund,
+E&C: Priority Skills Fund –
+RIFP providing further allocations to tackle priority skills
+Round 2
+gaps and improve employability.
+Programme to develop and deliver interventions that
+E&C: Productivity Challenge RIFP raise productivity across the West of England
+economy.
+Funding supports development of innovation zones
+E&C: Professional
+RIFP that bring together businesses, academia, and talent
+Innovation Zone
+to boost productivity and high-value sector growth
+Feasibility and business-case work to progress
+electrification of the Filton Bank corridor between
+TRA: Rail Electrification Bristol Parkway and Bristol Temple Meads. The aim is
+RIFP
+(Filton Bank) to reduce electrification costs through
+innovation/value engineering and enable wider rail
+decarbonisation benefits.
+Supports a range of economic recovery initiatives
+aimed at strengthening business resilience,
+E&C: Recovery Fund RIFP
+safeguarding jobs, and accelerating post-pandemic
+growth
+Programme designed to cut emissions, lower energy
+ENV: Regional Low Carbon bills and stimulate the low-carbon economy through
+RIFP
+Delivery - Revenue grants for energy efficiency, micro-renewables and
+small-scale renewable energy schemes.
+E&C: Retrofit & Green Skills Green skills and Retrofit activity intended to grow
+(part of Regional Low RIFP training pathways and workforce capacity needed to
+Carbon Delivery) deliver on Retrofit and wider net-zero programmes.
+Revenue support for the Retrofit Accelerator, which
+provides an end-to-end advice and guidance service
+ENV: Retrofit Accelerator - for homeowners wanting to retrofit and works to grow
+RIFP
+Revenue the retrofit market. It supports independent advice,
+signposting and initiatives to stimulate demand and
+quality delivery.
+Programme to build retrofit and green skills capacity
+in the region, supporting training pathways and
+E&C: Retrofit Skills and
+RIFP employer engagement. Funding is intended to grow
+Green Skills
+the pipeline of qualified people to meet demand
+created by retrofit and decarbonisation programmes.
+Work to develop the West of England’s Spatial
+Development Strategy (SDS), including evidence,
+H&R: SDS Spatial
+RIFP options and consultation. Supports strategic
+Development Strategy
+planning to guide housing, employment growth and
+infrastructure across the region.
+Research & evidence activity focused on the region’s
+E&C: Sector Evidence
+RIFP defence sector to inform strategy and investment
+(defence)
+decisions.
+STR: Short Term Strategic Flexible budget line to support short-term strategic
+RIFP
+Priorities priorities that arise during the year.
+Provides investment in employment and skills
+brokerage services connecting residents to training
+E&C: Skills Connect RIFP
+and job opportunities to improve workforce
+participation and productivity
+Resource for South Gloucestershire Council to
+support delivery of the City Region Sustainable
+TRA: South Gloucestershire
+Transport Settlement (CRSTS) programme. Covers
+Council Specialist Support – RIFP
+capacity needed to develop and deliver CRSTS
+CRSTS R
+schemes (e.g., programme management,
+engagement, property).
+Supports assessment of Green Belt land to inform
+H&R: Strategic Green Belt
+RIFP planning decisions and ensure sustainable
+Assessment
+development
+Tidal Energy Technical Support provides funding to
+support the development of tidal energy
+opportunities in the West of England. Used for
+ENV: Tidal Energy Technical
+RIFP specialist technical, commercial and environmental
+Support
+work to assess feasibility, develop projects and build
+the evidence base needed to bring forward future
+tidal energy schemes
+Development and delivery of a West of England
+Wildlife Index, a data-led approach to tracking nature
+ENV: West of England
+RIFP recovery and biodiversity outcomes. Intended to
+Wildlife Index Revenue
+provide consistent indicators to guide investment,
+policy and project targeting.
+Development of a mass transit proposal for the West
+of England (Future4West), focused on high-capacity
+TRA: West Rapid Transport
+RIFP rapid transit corridors to improve connectivity and
+(Future4West)
+reduce congestion. Funding supports business case
+development, consultation and scheme design.
+Focused on delivering a package of transport
+improvements along the A4 Portway corridor,
+including bus priority measures, enhanced walking
+TRA: A4 Portway and cycling infrastructure, junction upgrades, and
+Sustainable Transport CP improved connections to the Portway Park and Ride.
+Corridor Aims improve journey reliability, increase public
+transport and active travel usage, reduce congestion
+and support sustainable access to major
+employment and growth areas along the corridor.
+Funding supports a package of corridor
+TRA: A4018 Corridor
+CP improvements on the A4018 to make bus journeys
+Improvements
+more reliable and walking/cycling safer.
+Accessibility improvements at transport facilities in
+TRA: Access for all - DFT CP line with DfT Access for All programme enhancing
+inclusive travel.
+Funding to deliver active travel schemes under
+TRA: Active Travel Fund T3 CP tranche 3 improving cycling and walking routes and
+safety
+Highway maintenance and resilience funding to
+renew assets (e.g., resurfacing, structures and
+GMA: Additional Pothole critical repairs) and tackle backlog, improving safety
+CP
+Grant and network condition. Delivery is through local
+authority maintenance programmes and targeted
+structural interventions (e.g., bridges)
+Funding for initial improvements to a key strategic
+TRA: ATF Tranche 4 Concord
+CP walking and cycling corridor through infrastructure
+Way Phase 1
+upgrades to increase capacity, safety and usability
+Funding for improved walking and cycling
+TRA: ATF3 Kingswood Town connections into Kingswood, supporting access to
+CP
+Centre Link local services and retail areas through enhances to
+connectivity and safety along key routes
+Funding for a key central Bristol corridor, improving
+GMA: ATF3 Park Row/Upper conditions for walking and cycling in a high-traffic
+CP
+Maudlin environment, through infrastructure to prioritise
+sustainable transport modes
+Funding to upgrade a key city centre route to improve
+conditions for walking and cycling, supports
+TRA: ATF4 BCC Deanery
+CP infrastructure changes to reduce conflicts with
+Road (Capital)
+vehicles and enhance connectivity into central
+Bristol
+Funding to create a low-traffic route designed to
+GMA: ATF4 BCC Filwood prioritise walking and cycling, funding supports
+CP
+Quietway (Capital) measures to reduce through-traffic and improve
+safety along residential streets
+Funding for improvements to an off-road walking and
+GMA: ATF4 BCC Malago cycling route, enhancing connectivity and
+CP
+Greenway (Capital) accessibility through upgrades to create a safer,
+more attractive active travel corridor
+Funding to establish a low-traffic route through the
+GMA: ATF4 BCC Old Market Old Market area, improving safety and accessibility
+CP
+Quietway (Capital) for active travel through reduce traffic volumes and
+enhancements to the public realm
+Funds the installation of secure, on-street cycle
+parking across urban areas to support increased
+TRA: ATF4 Cycle Hangars:
+CP cycling uptake. Enables the rollout of cycle hangars
+Phase 1 and 2
+in residential areas with limited storage, improving
+accessibility to cycling and supporting modal shift
+Funding for walking and cycling improvements
+TRA: ATF4 SGC Warmley to
+CP between Warmley and Longwell Green, including
+Longwell Green (Capital)
+new routes, junction upgrades and safety measures
+Funding to deliver active travel improvements along
+the corridor to enhance safety and accessibility for
+TRA: ATF5 Clapton Road CP pedestrians and cyclists. Supports infrastructure
+changes to reduce traffic dominance and create a
+more balanced street environment
+Funding to deliver active travel schemes under Active
+TRA: ATF6 CP Travel Fund 6 to improve cycling and walking
+infrastructure across the region.
+CRSTS transport & public realm scheme that
+redesigns local streets so walking, cycling and public
+TRA: B&NES Liveable
+CP transport are easier & safer while cutting traffic &
+Neighbourhoods
+improving air quality. This programme is focused on
+the B&NES area.
+Funding to progress further phases of Bath city
+centre regeneration focused on enhancing
+TRA: Bath City Centre Phase
+CP streetscape, accessibility and economic vitality
+3
+through infrastructure and public realm
+improvements
+Funding to deliver sustainable transport corridor
+TRA: Bath City Centre
+improvements in Bath city centre including public
+Sustainable Corridor – CP
+realm upgrades and reallocation of road space to
+Phase Two
+prioritise walking, cycling and public transport
+Funding to deliver a continuous, safer walking,
+TRA: Bath City Centre
+wheeling & cycling route (National Cycle Network 4
+Sustainable Corridor Phase CP
+upgrade & missing links) through the centre (Green
+1
+Park Road area through to Pulteney Bridge).
+TRA: Bath Sustainable Funding delivery of a package of
+CP
+Walking & Cycling Links walking/wheeling/cycling link upgrades in bath.
+TRA: Bristol Bridge & VMS -
+acceleration of CRSTS
+minor advanced works -
+Acceleration of CRSTS minor advanced works,
+junction improvements to
+CP junction improvements to facilitate bus corridors for
+facilitate bus corridors for
+Bristol City Centre Sustainable Transport Corridor
+Bristol City Centre
+Sustainable Transport
+Corridor)
+A linked package of city-centre interventions focused
+on bus priority measures and new/segregated cycling
+and walking improvements, and traffic circulation
+changes. Changes across the city centre to enable a
+new rapid transit & bus-priority route including bus
+lanes, bus gates, bus-only junctions and a two-way
+TRA: Bristol City Centre CP
+rapid-transit-only route. Joining up over 3.5km of new
+separated cycle paths and upgrading
+walking/wheeling routes and public realm across the
+city-centre workpackages. Also Temple Way
+workpackage to improving bus lane provision, a new
+segregated active travel route, and bus stop hubs.
+
+A linked package of city-centre interventions focused
+on bus priority measures and new/segregated cycling
+and walking improvements, and traffic circulation
+TRA: Bristol City Centre -
+changes. This package focuses on reconfiguring
+Bedminster Bridges - City CP
+Bedminster Bridges roundabout, dedicated bus-only
+Centre Strategic corridor
+lanes, separated cycle routes with improved cycle
+links and more footway space along with enabling
+works that support delivery.
+
+A linked package of city-centre interventions focused
+on bus priority measures and new/segregated cycling
+and walking improvements, and traffic circulation
+changes. Package covers new bus lanes in both
+TRA: Bristol City Centre - directions and road widening/junction tweaks to
+CP
+Bond Street improve bus reliability. Replacing some on-road
+cycling with a two-way cycling route on parallel
+quieter streets, plus sections of separated cycle path
+as well as signals / traffic management changes plus
+crossing upgrades and speed reduction features.
+Funding to deliver enhancements to the harbour
+TRA: Bristol City Centre –
+CP walkway to improve pedestrian access, connectivity
+Harbour Walkway
+and attractiveness of the waterfront.
+A linked package of city-centre interventions focused
+on bus priority measures and new/segregated cycling
+and walking improvements, and traffic circulation
+changes. This package includes widened/repaved
+footways, decluttering, and new signalised
+TRA: Bristol City Centre -
+CP crossings. A separated cycle track, bus priority
+Redcliffe Roundabout
+measures including extending bus lanes to complete
+a city-centre loop & smart bus signals. Also bus gates
+to reduce through-traffic and support the future rapid
+transit corridor, junction changes, upgraded bus
+stops and public realm improvements.
+A linked package of city-centre interventions focused
+on bus priority measures and new/segregated cycling
+and walking improvements, and traffic circulation
+changes. Work to introducing a two-way bus-only
+TRA: Bristol City Centre - route for rapid transit / bus priority. Junction
+CP
+Union Street reworking with redesigned pedestrian crossings and
+bus turning movements. Two-way separated cycle
+paths north-southand east–west. Also public
+realm/greening associated with the about junction
+works.
+Bristol Eastern Entrance is delivering a new eastern
+entrance to Bristol Temple Meads station, creating a
+H&R: Bristol Eastern direct gateway into the Temple Quarter area
+CP
+Entrance (BTM) (including the University of Bristol’s Temple Quarter
+Enterprise Campus) and improving access for people
+approaching from St Philip’s Marsh / east Bristol
+Funding to develop the Bristol Regional Cycling Hub.
+TRA: Bristol Regional The hub is intended to grow participation by providing
+CP
+Cycling Hub an inclusive cycling facility and supporting WECA’s
+mode-shift and decarbonisation goals.
+TRA: Bristol to Hartcliffe Funding to develop and deliver a Metrobus extension
+Corridor - Metrobus CP along the A38 South corridor to improve connectivity
+Extension A38S between Bristol and Hartcliffe.
+TRA: Bristol to Hengrove Spending on a corridor of the A38 near Whitehouse
+Metrobus extension corridor Lane consisting of new bus stops, a new bus lane, a
+CP
+–Bedminster works at A38 bus gate, additional pedestrian & cycle crossings,
+and Whitehouse Lane footway upgrades, and a segregated cycle route.
+TRA: Bristol to Hengrove Funding to develop the outline business case for
+Metrobus Extension – CP extending the Metrobus to Hengrove to improve
+Outline Business Case public transport access and support planned growth.
+Funding to acquire and prepare land within the
+H&R: Bristol Temple Quarter Bristol Temple Quarter Growth Area to unlock
+CP
+(BTQ) GFA commercial and residential development and enable
+long-term regeneration outcomes.
+Funding to deliver a new northern entrance to Bristol
+Temple Meads improving station access,
+H&R: Bristol Temple Quarter
+CP connectivity, and unlocking surrounding land for
+(BTQ) Northern Entrance
+development within the Bristol Temple Quarter
+growth area
+Funding to deliver planned ICT capital investment for
+: Capital ICT Cost - 25/26 CP supporting system upgrades and digital
+infrastructure improvements
+Funding delivery of a new rail station at Charfield
+TRA: Charfield Station (South Gloucestershire), providing a new local rail
+CP
+(capital) connection for surrounding villages and improving
+access to jobs and services.
+Fudning to enhances the Concorde Way route
+TRA: Concorde Way MOD through MOD land, improving a key strategic active
+CP
+path ATF5 travel corridor with upgrades to provide a safer,
+continuous route for walking and cycling
+Funding to deliver improvements to Cotham Hill
+including pedestrianisation and public realm
+TRA: Cotham Hill CP
+upgrades to support local businesses and
+placemaking.
+The Bristol to Bath (B2B) Strategic Transport Corridor
+(STC) Keynsham to Bath is focused on developing
+and delivering transport improvements along the
+Keynsham to Bath corridor, including bus priority
+TRA: CRSTS – B2B
+CP measures, active travel infrastructure, and corridor
+Keynsham to Bath STC
+upgrades, aiming to improve journey reliability,
+increase use of public and sustainable transport, and
+support connectivity between Keynsham, Bath, and
+surrounding growth areas.
+DfT City Region Sustainable Transport Settlement
+(CRSTS) scheme delivering design and construction
+TRA: CRSTS 2 CP work packages and how these can be developed as
+we move into Transport for City Regions (TCR)
+funding envelop
+Capability fund within Bristol to support acceleration
+TRA: CRSTS AB – Capacity of transport and infrastructure schemes under
+Building Fund Bristol CP CRSTS, aiming to strengthen project development,
+(capital) improve readiness for delivery, and ensure timely
+and effective rollout of major capital investments
+Funding supports delivery of a package of active
+TRA: CRSTS AC - Midsomer
+travel improvements between Midsomer Norton and
+Norton & Westfield Walking, CP
+Westfield, providing safer and more connected
+Wheeling and Cycling Links
+walking/wheeling/cycling routes.
+Funding supports access and egress improvements
+on the Portway corridor with highway, junction and
+TRA: CRSTS AE – Portway
+CP safety interventions for improved traffic flow, safer
+Access & Egress
+movements and more resilient access to this
+strategic route
+CRSTS transport & public realm scheme that
+redesigns local streets so walking, cycling and public
+TRA: CRSTS AF South Bristol
+CP transport are easier & safer while cutting traffic &
+Liveable Neighbourhood
+improving air quality. This programme is focused on
+the South Bristol area.
+Supports multimodal corridor improvements in
+Bradely Stoke area, covering bus, walking, cycling
+TRA: CRSTS AK Bradley
+CP and highway interventions for improved journey
+Stoke Multi Modal Corridor
+reliability, safer routes and better connectivity for
+communities along the corridor
+Supports multimodal corridor improvements on the
+A4174, covering bus, walking, cycling and highway
+TRA: CRSTS AL A4174
+CP interventions for improved journey reliability, safer
+Multimodal Corridor
+routes and better connectivity for communities along
+the corridor
+Funding supports delivery of corridor improvements
+TRA: CRSTS AT Thornbury to
+CP between Thornbury and North Bristol via the A38,
+North Bristol A38
+building on development work for the wider route
+Funding supports sustainable corridor improvements
+TRA: CRSTS BB – Bristol City on Temple Way in Bristol city centre, prioritising bus
+Centre Sustainable Corridor CP movement, walking and cycling for improved city-
+– Temple Way centre accessibility, reduced congestion and better
+sustainable transport connections
+Funding supports development costs for the
+Thornbury to North Bristol corridor, including
+TRA: CRSTS D - Thornbury to feasibility, design, appraisal and business case work
+North Bristol Corridor CP to progress a strategic corridor package to delivery
+Development Costs readiness, improving future connectivity and
+sustainable travel options between Thornbury, the
+A38 and North Bristol
+Supports multimodal corridor improvements on the
+TRA: CRSTS E & BD A432 A432/Badminton Road, covering bus, walking,
+Multimodal Corridor CP cycling and highway interventions for improved
+Badminton Road journey reliability, safer routes and better
+connectivity for communities along the corridor
+Funding supports upgrades to the Bristol and Bath
+TRA: CRSTS H SGC Bristol
+CP Railway Path within South Gloucestershire,
+Bath Railway Path
+improving a key strategic walking and cycling route
+CRSTS transport & public realm scheme that
+redesigns local streets so walking, cycling and public
+TRA: CRSTS Ja Yate Liveable
+CP transport are easier & safer while cutting traffic &
+Neighbourhoods
+improving air quality. This programme is focused on
+the Yate area.
+CRSTS transport & public realm scheme that
+redesigns local streets so walking, cycling and public
+TRA: CRSTS Jb Thornbury
+CP transport are easier & safer while cutting traffic &
+Liveable Neighbourhoods
+improving air quality. This programme is focused on
+the Thornbury area.
+GMA: CRSTS Mobilisation Funding to mobilise programme delivery including
+CP
+B&NES (Capital) early works for B&ANES programmes
+Supports multimodal corridor improvements on the
+TRA: CRSTS TBC A432 A432, covering bus, walking, cycling and highway
+Multimodal Corridor Station CP interventions for improved journey reliability, safer
+Road routes and better connectivity for communities along
+the corridor
+Portion of the overall CRSTS pot that is set aside
+TRA: CRSTS Top Slice CP centrally to pay for programme-wide costs that
+support delivery of the whole CRSTS programme
+Funding supports the southern section of the corridor
+TRA: CRSTS U – Stockwood
+with junctions, bus and active travel improvements
+to Cribbs Corridor
+CP along the A37/A4018 route for improved connectivity
+(A37/A4018) Bristol
+between, better sustainable transport options and
+Southern Section
+journey reliability
+Strategic transport corridor (following the No.2 bus
+TRA: CRSTS U – Stockwood
+route) designed to improve bus journey times and
+to Cribbs Corridor
+reliability (bus priority measures, bus infrastructure,
+(A37/A4018) Central CP
+and changes that reduce bus delay), deliver safer
+(Northern) Section - WP3
+walking/wheeling/cycling (new/upgrade crossings
+Park St
+and segregated/safer routes) & improve safety
+Supports improvements on the corridor around
+TRA: CRSTS U – Stockwood Victoria Street and Colston Avenue, including bus
+to Cribbs Corridor priority, junction and active travel measures for
+CP
+(A37/A4018) Victoria St & improved city-centre movement, better public
+Colston Avenue transport reliability and safer walking and cycling
+connections
+Funding supports the "Streetspace" liveable
+neighbourhood style schemes on Overton Road and
+Princess Victoria Road. The programme funds
+TRA: CRSTS V - Streetspace
+business case development and delivery to reduce
+1 (Overton Road and CP
+through traffic and make streets safer and more
+Princess Victoria Road)
+attractive for walking and cycling, using measures
+such as modal filters, timed restrictions and junction
+changes where agreed locally.
+Funding supports the "Streetspace" liveable
+neighbourhood style schemes on Rosemary Lane,
+Chandos Road and Denmark Street. The funded
+TRA: CRSTS W - Streetspace
+works are intended to make these streets safer and
+2 (Rosemary Lane, Chandos CP
+more pleasant by reducing inappropriate traffic and
+Road and Denmark Street)
+improving conditions for walking/cycling, building on
+earlier temporary changes (e.g., timed closures)
+where they have been trialled.
+Provides capital support to businesses for low
+ENV: DBT - Low Carbon
+CP carbon technology adoption reducing emissions and
+Business Support - Capital
+improving productivity.
+Funding to invest in Bath’s local centres through
+GMA: EX - LOHS Bath Local
+CP capital improvements to public realm and
+Centres (capital)
+infrastructure to support local high street resilience.
+TRA: FEAS CS – Bath Quays Feasibility work to design improved cycle and
+Bridge Cycle/Pedestrian CP pedestrian links around Bath Quays Bridge to
+Links enhance active travel connectivity across the river
+Funding for a feasibility stage project for detailed
+design, transport modelling, heritage assessment,
+and stakeholder engagement to develop a
+deliverable scheme for improving public realm and
+TRA: FEAS CU – Old City and movement in Bristol’s historic Old City and King
+CP
+King Street Street area, with the aim of enabling future capital
+works that prioritise pedestrians, enhance the
+evening and cultural economy, and strengthen the
+attractiveness and economic vitality of the city
+centre
+CRSTS transport & public realm scheme that
+redesigns local streets so walking, cycling and public
+TRA: FEAS CV – St George
+CP transport are easier & safer while cutting traffic &
+Liveable Neighbourhood
+improving air quality. This programme is focused on
+the St George area.
+TRA: FEAS CX – Strategic
+Feasibility work to develop a strategic cycle route
+Cycle Route Connecting
+CP linking Yate to the East Fringe to improve commuter
+Yate with the East Fringe
+connectivity and enable modal shift
+(Yate Spur)
+Green infrastructure & nature recovery programme
+GMA: FEAS DK - Common focused on restoring, improving and connecting
+CP
+Connections Capital green spaces along the South Gloucestershire / East
+Bristol urban fringe
+Funding for feasibility work to assess options for a
+GMA: FEAS DX - Fielding´s
+CP new or improved bridge at Fielding’s to enhance
+Bridge
+connectivity and support development.
+This scheme develops an off-road, segregated
+walking and cycling route on the Concorde Way
+corridor around Dovercourt, providing a safer
+TRA: FEAS EB - Concorde alternative to the current on-road section. The
+CP
+Way / Dovercourt funded phase focuses on feasibility/design and
+business case work to progress the route towards
+delivery, supporting active travel, safety and reduced
+transport emissions.
+GMA: FEAS EC - Grovesend Funding supports development of the Grovesend
+CP
+Road - Gillingstool Road/Gillingstool corridor scheme.
+Capital investment to expand electric vehicle
+charging infrastructure, supporting the shift to
+TRA: FEAS EP - EV Charging
+CP low-emission travel. Delivery involves procurement
+Infrastructure Capital
+and installation of charge points and associated
+power/civil works.
+Funding is to identify and develop the best-value,
+high-quality option for an off-road cycleway on
+Alveston Hill, including connections to Thornbury
+TRA: FEAS FL - Alveston Hill
+CP town centre and the A38. Positions Alveston Hill as a
+Cycleway
+primary route into Thornbury and part of the wider
+A38 multi-modal corridor package, intended to
+support safer trips and mode shift.
+Supporting feasibility work to assess the creation of a
+Somer Valley Enterprise Zone, including site
+GMA: FEAS G-AG – Somer suitability, infrastructure needs, and viability, aiming
+CP
+Valley Enterprise Zone to develop a deliverable proposition for serviced
+employment sites that attract business investment,
+create jobs, and drive economic growth in the area.
+Package of walking, wheeling and cycling
+improvements across the south of Bath designed to
+TRA: FEAS GB - Scholars
+connect schools/universities and residential areas
+Way Walking and Cycling CP
+via safer routes and crossings. Funded phased
+Route
+delivery, including new and improved crossings and
+route sections.
+Funding for feasibility work to develop proposals for
+GMA: FEAS GD – Hanham
+CP enhancing Hanham High Street through public realm
+High Street Improvements
+and accessibility improvements.
+Funding for feasibility work to progress further design
+TRA: FEAS GP - Muller Road
+CP and development of improvements along Muller
+Phase 2
+Road building on initial scheme work.
+Funding for feasibility work to assess transport and
+TRA: FEAS GP Muller Road CP corridor improvements along Muller Road to enhance
+capacity and active travel options.
+Funding for feasibility work to assess electrification
+TRA: FEAS HF Rail
+CP of the Filton Bank rail line to improve capacity and
+Electrification (Filton Bank)
+reduce carbon emissions.
+Feasibility and development work exploring heat
+from mines as a low-carbon heating source. Funding
+ENV: FEAS HR - Heat from
+CP supports studies and stakeholder work to identify
+Mines Capital
+viable sites, delivery models and next steps toward
+demonstrator projects.
+Capital programme supporting decarbonisation and
+green recovery, through grants or enabling projects
+ENV: FEAS HZ - Green
+that reduce emissions and support low-carbon
+Recovery Fund - Health and CP
+investment. Delivery is via managed grant schemes
+Nature Strategy Capital
+and/or direct delivery of enabling infrastructure and
+support services.
+Nature recovery / biodiversity capital investment to
+improve habitats and ecological outcomes, delivered
+ENV: FEAS IQ - WoE Wildlife
+CP with environmental partners and land managers.
+Index Capital
+Delivery includes targeted capital works, habitat
+creation/restoration and monitoring of outcomes.
+Development work to progress West of England mass
+transit on the Bristol–Bath strategic corridor (BBSC),
+TRA: FEAS RB - Mass Transit including options development, technical studies
+- Bristol to Bath Strategic CP and business case work. The programme is intended
+Corridor (Long Term) to build a pipeline of deliverable interventions that
+support higher-capacity, low-carbon public transport
+and reduce congestion.
+Development work to progress West of England mass
+transit on the Bristol–Bath strategic corridor (BBSC),
+TRA: FEAS RB - Mass Transit including options development, technical studies
+- Bristol to Bath Strategic CP and business case work. The programme is intended
+Corridor (Short Term) to build a pipeline of deliverable interventions that
+support higher-capacity, low-carbon public transport
+and reduce congestion.
+Future Transport Zones funding to test technology-
+enabled approaches that make journeys easier and
+reduce congestion & emissions. Pilot of shared e-
+TRA: FTZ - E-scooters CP scooter services to provide flexible, low-carbon
+transport options, with WECA funding supporting
+infrastructure, operations and integration into the
+wider transport network.
+Future Transport Zones funding to test technology-
+enabled approaches that make journeys easier and
+reduce congestion & emissions. Funding for the
+TRA: FTZ - Innovation and
+CP development and trial of innovative transport
+Enhancements
+technologies and improvements, supporting smarter,
+more efficient and sustainable mobility solutions
+across the region.
+Future Transport Zones funding to test technology-
+enabled approaches that make journeys easier and
+reduce congestion & emissions. Creation of a data
+TRA: FTZ - Knowledge Hub CP
+and knowledge platform to support transport
+innovation, collaboration and evidence-based
+decision making across the network
+Future Transport Zones funding to test technology-
+enabled approaches that make journeys easier and
+TRA: FTZ - Monitoring &
+CP reduce congestion & emissions. This programme is
+Evaluation
+for monitoring and evaluation activity to evidence
+outcomes and learnings for future rollouts.
+Future Transport Zones funding to test technology-
+enabled approaches that make journeys easier and
+reduce congestion & emissions. The urban freight
+TRA: FTZ - Urban Freight CP
+programme is trialling cleaner last-mile logistics
+(e-cargo bike and related urban freight pilots) to
+reduce van traffic and emissions.
+Future Transport Zones funding to test technology-
+enabled approaches that make journeys easier and
+reduce congestion & emissions. Funding to develop
+TRA: Future Transport Zones
+CP and operate the regional Transport Data Hub,
+- Data Hub
+integrating and publishing real-time transport data to
+support operations, planning and customer
+information services.
+Future Transport Zones funding to test technology-
+enabled approaches that make journeys easier and
+TRA: Future Transport Zones reduce congestion & emissions. Funding to develop
+CP
+- MaaS Mobility as a Service (MaaS) capability so users can
+plan and pay for multimodal travel through one
+integrated digital platform/app.
+Future Transport Zones funding to test technology-
+enabled approaches that make journeys easier and
+TRA: Future Transport Zones reduce congestion & emissions. Place-based
+CP
+- Mobility Zones ‘Mobility Zones’ (including Travel/Mobility Hubs and
+micromobility integration) to make switching modes
+easier and support car-free short trips.
+TRA: Future Transport Zones Funding to support capital programme management
+– Programme Management CP for Future Transport Zone projects enabling delivery
+Capital of innovative transport schemes.
+Nature recovery & biodiversity capital investment to
+GMA: GH - GRF Nature
+CP improve habitats and ecological outcomes in the
+Recovery - Somer Valley
+Somer Valley
+Funding delivery of nature recovery works along the
+GMA: GK - GRF Nature
+River Frome through the Green Recovery Fund,
+Recovery - River Frome CP
+aiming to restore river habitats, improve biodiversity,
+Reconnected
+and enhance climate resilience
+Capital programme supporting decarbonisation and
+ENV: Green Recovery Fund green recovery, typically through grants or enabling
+CP
+Investment Advisory Service projects that reduce emissions and support
+low-carbon investment.
+Funding to deliver capital energy projects aimed at
+ENV: GRF Energy Projects -
+CP improving energy efficiency and supporting low
+Capital
+carbon infrastructure.
+Highway maintenance funding to renew assets,
+GMA: Highways tackle backlog and improving safety and network
+CP
+Maintenance Grants condition. Delivery is through local authority
+maintenance programmes.
+Expanding nature-friendly management of council
+green space, creating new habitats such as ponds,
+GMA: HV Managing More
+CP restoring river habitats and mobilising volunteering
+Greenspace for Nature
+and skills development to improve biodiversity and
+ecological connectivity across the city.
+Funding to deliver new light industrial workspace in
+GMA: IF BY - South Bristol
+CP South Bristol to support SME growth, protect
+Industrial Light Workspace
+employment land and create jobs.
+GMA: IF CG - Bottle Yard Funds expansion and development of film and TV
+Studios - Hawkfield CP production facilities to grow the creative industries
+Business Park and attract inward investment
+GMA: IF CH - North Funding to acquire strategic land in North Keynsham
+Keynsham Land Acquisition CP to enable future mixed-use development and unlock
+Fund housing and employment growth opportunities
+Funding to deliver capital works within the Milsom
+GMA: IF CI - Milsom Quarter
+CP Quarter to transform underused assets into vibrant
+(capital)
+mixed-use space supporting economic growth.
+Funding to create a recreational trail through Chew
+GMA: IF DH – Chew Valley
+CP Valley providing new walking and cycling routes while
+Recreational Trail
+enhancing tourism and access to natural assets
+GMA: IF DI - Bath City Investment to renew and revitalise Bath city centre
+Centre High Streets CP high streets, improving public realm and supporting
+Renewal Project local businesses and footfall.
+GMA: IF DJ Bristol City Funding to deliver targeted interventions across
+Centre High Street Recovery CP Bristol city centre high streets to revitalise retail
+& Renewal areas and improve public realm.
+Funding to redevelop the Thornbury Hospital site to
+GMA: IF DR Thornbury
+CP bring forward new uses including housing or
+Hospital Site
+community facilities and support local regeneration.
+Funding to deliver regeneration interventions in
+GMA: IF EJ - Kingswood
+CP Kingswood town centre to improve public realm,
+Regeneration Project
+attract investment and enhance economic vitality.
+Funding to deliver enhancements to Portway Park
+and Ride including increased capacity, improved
+GMA: IF EL - Portway Park
+CP facilities, and better integration with bus services,
+and Ride
+aiming to boost public transport use into Bristol city
+centre and reduce congestion on key arterial routes
+Somer Valley Links is a transport corridor programme
+improving connections between the Somer Valley
+(Midsomer Norton/Westfield/Radstock) and
+TRA: IF EM - Somer Valley Bath/Bristol through bus priority, junction upgrades
+CP
+Links and active travel measures. Progressing options and
+delivery planning (including early contractor
+involvement) to improve reliability, safety and access
+while supporting mode shift and lower-carbon travel.
+Funding to deliver transport improvements linking
+TRA: IF EM - Somer Valley to
+CP Somer Valley with Bristol and Bath improving
+Bristol and Bath
+connectivity and supporting economic growth.
+Funding to deliver the first phase of the Bath River
+GMA: IF ES - Bath River Line
+CP Line creating riverside walking and cycling routes and
+Phase 1
+improving access to the River Avon corridor.
+Funding to deliver redevelopment of the Old Market
+TRA: IF GC - Old Market Gap CP gap site to create new mixed-use development and
+complete the urban fabric.
+Nature recovery project improving the Capricorn
+GMA: IF GI - Capricorn Quay Quay area, creating habitat and enhancing access to
+CP
+- Round 1 nature as well as ecological enhancements and
+community engagement.
+Programme to increase tree canopy cover through
+planting and tree management, improving
+GMA: IF GL - Tree Canopy -
+CP biodiversity and climate resilience. Funds delivery of
+Round 1
+planting and associated engagement/maintenance
+activities.
+Funding for a package of walking & cycling route
+GMA: IF GM - Arena upgrades plus traffic management (signals/ITS)
+CP
+Infrastructure Package works to support access to the arena site in the
+Filton/Brabazon area.
+Funding supports specialist technical, commercial
+TRA: IF GX CRSTS Specialist
+CP and programme support required to develop and
+Support
+deliver CRSTS schemes
+Project to develop a landscape city framework for
+Bath, integrating nature, heritage and place-based
+GMA: IF HU Bathscape
+CP improvements. Supports planning and coordination
+Landscape City Framework
+to deliver nature-based as well as cultural & heritage
+outcomes.
+GMA: IF HY - Pollinator
+Nature recovery project led by Avon Wildlife Trust to
+Pathways Avon Wildlife CP
+restore and create pollen-rich habitats.
+Trust
+To establish and invest in the Green Growth West Net
+Zero Impact Fund, using public ‘cornerstone’ funding
+GMA: IF IM - Green Growth to attract significant additional private sector capital
+CP
+Fund Capital into the region- to invest in net zero industries and
+mid-scale green infrastructure and growth ready
+businesses.
+Farmer-led nature recovery project supporting land
+GMA: IF IR - Farmer Led managers to deliver biodiversity improvements on
+CP
+Nature Recovery farmland. Funds coordination, advice and delivery of
+nature-based interventions.
+Kingsley Hall Redevelopment project that supports
+E&C: IF IS - Kingsley Hall CP
+the redevelopment of Kingsley Hall.
+Funding enabling infrastructure at Hengrove Park to
+GMA: IF M - Hengrove Park unlock and accelerate a major housing-led
+CP
+Enabling Infrastructure regeneration scheme including new homes and a
+public park.
+Funding to invest in IT equipment and digital
+: IT Equipment and
+CP infrastructure to support organisational capability
+Infrastructure
+and service delivery.
+Programme designed to cut emissions, lower energy
+ENV: Low Carbon Challenge bills and stimulate the low-carbon economy through
+- Green Recovery Fund CP grants for energy efficiency, micro-renewables and
+Capital small-scale renewable energy schemes. The capital
+programme is split out by funding allocation.
+Programme designed to cut emissions, lower energy
+ENV: Low Carbon Challenge bills and stimulate the low-carbon economy through
+- Recovery Fund Capital CP grants for energy efficiency, micro-renewables and
+Grant small-scale renewable energy schemes. The capital
+programme is split out by funding allocation.
+Major corridor improvement scheme to increase
+public transport reliability and active travel, through
+TRA: M32 Sustainable junction changes, bus priority and safer
+CP
+Transport Corridor and Hub walking/cycling facilities. Delivery is via design,
+traffic regulation/consents where needed, and
+construction in phases.
+Funding supporting manufacturing SMEs to invest in
+E&C: Made Smarter -
+CP digital technology and equipment, improving
+Capital
+productivity, competitiveness and growth.
+E&C: Made Smarter
+Funding for manufacturing SMEs to adopt &
+Adoption Programme - CP
+implement new digital technologies & equipment
+Capital
+Funding for essential structural maintenance and
+TRA: Maintenance
+strengthening works to Cleveland Bridge and
+Challenge Fund – Manvers CP
+associated infrastructure, ensuring continued safe
+Street Cleveland Bridge
+operation and extending the asset’s lifespan
+Fund allocation for maintenance and refurbishment
+TRA: Maintenance
+of bridge assets along the New Cut corridor,
+Challenge Fund – New Cut CP
+addressing structural issues and ensuring long-term
+Bridges
+safety and reliability of the transport network
+Fund allocations for major maintenance and renewal
+TRA: Maintenance works on key strategic routes (A38 and A432) within
+Challenge Fund – SGC – A38 CP South Gloucestershire, addressing structural
+& A432 deterioration and improving network resilience and
+safety.
+Funding to invest in renewable energy generation
+ENV: Mayoral Renewables
+CP projects to increase clean energy supply and support
+Fund Capital
+net zero commitments.
+Funding to deliver MetroWest Phase 1 rail
+TRA: Metrowest 1 - NR CP enhancements improving suburban rail services and
+connectivity across the region.
+Rail enhancement programme (MetroWest) to
+introduce or improve local rail services, requiring
+DfT/Network Rail approvals and delivery through
+TRA: MetroWest Phase 1 CP
+staged design, consents and construction. Capital
+spend supports infrastructure and enabling works
+needed to run the planned service pattern.
+Funding to deliver improvements to Midsomer
+GMA: Midsomer Norton
+Norton Market Square including public realm
+High Street Market Square CP
+upgrades to boost town centre activity and local
+Project
+economy.
+Additional pothole funding allocated to Mayoral
+Combined Authorities (MCAs) is used to fix potholes,
+GMA: Network North CP
+resurface local roads, repair cycleways, and improve
+general highway maintenance
+Optimism bias provision applied to major capital
+schemes to reflect delivery risk and cost uncertainty.
+Optimism Bias Factor CP This is not a standalone project delivering outputs,
+but a budgeting mechanism used to manage risk
+across the programme.
+Funding to deliver phase 3 refurbishment works to
+: Phase 3 Refurb - Redcliff CP Redcliff buildings modernising assets and improving
+usability
+Funding to develop and expand the Quantum
+Technologies Innovation Centre through delivery of
+GMA: Quantum specialist R&D facilities and enabling infrastructure,
+Technologies Innovation CP aiming to position the West of England as a leading
+Centre (QTIC+) hub for quantum innovation, attract private
+investment, and create high-value science and
+technology jobs
+Programme designed to cut emissions, lower energy
+bills and stimulate the low-carbon economy through
+ENV: Regional Low Carbon
+CP grants for energy efficiency, micro-renewables and
+Delivery - Capital
+small-scale renewable energy schemes. The capital
+programme is split out by funding allocation.
+GMA: RIF Bristol Avon Flood
+Funding to deliver a greenway alongside flood
+Strategy-Active Travel &
+CP mitigation works on the River Avon integrating active
+Green Infrastructure
+travel routes with environmental resilience.
+Greenway
+Funding programmes supporting small-scale
+infrastructure and investment in rural areas across
+the West of England. Focuses on improvements to
+E&C: Rural England
+CP business premises, community assets and visitor
+Prosperity Fund (Capital)
+infrastructure, aiming to boost productivity, support
+local businesses and strengthen rural economic
+resilience.
+Funding programmes supporting small-scale
+infrastructure and investment in rural areas across
+E&C: Rural England the West of England. Focuses on improvements to
+Prosperity Fund (Capital) - CP business premises, community assets and visitor
+25/26 infrastructure, aiming to boost productivity, support
+local businesses and strengthen rural economic
+resilience.
+Funding to install secure cycle storage infrastructure
+TRA: SGC Cycle Storage CP across South Gloucestershire to support cycling
+uptake and modal shift.
+Accessibility upgrade programme to deliver step-free
+access at stations (lifts/ramps/footbridges and
+TRA: Step Free Stations
+associated works), improving inclusion and
+(Capital) - FEAS BX / CRSTS CP
+interchange. Delivery in partnership with Network
+C
+Rail and station stakeholders through detailed
+design, approvals and construction.
+Contactless ticketing system enabling tap-on/tap-off
+TRA: Tap on Tap Off - IF EI / travel across the network, with WECA funding
+CP
+CRSTS A supporting rollout to improve accessibility and
+increase public transport use
+UKSPF, supporting local investment projects that
+align to the UKSPF investment plan priorities across 3
+E&C: UK Shared Prosperity themes of Communities and Place, Supporting Local
+CP
+Fund (UKSPF) Capital Business & People and Skills. Delivery is via grant
+allocations and capital spend on approved projects,
+administered through WECA and/or local authorities.
+UK Shared Prosperity Fund (UKSPF) capital line
+supporting local investment projects that align to the
+UKSPF investment plan priorities across 3 themes of
+E&C: The UK Shared
+CP Communities and Place, Supporting Local Business
+Prosperity Fund (UKSPF)
+& People and Skills. Delivery is via grant allocations
+and capital spend on approved projects,
+administered through WECA and/or local authorities.
+WERTM is the West of England Regional Transport
+TRA: West of England Model — WECA’s strategic, multi-modal transport
+Regional Transport Model CP forecasting model used to test major schemes and
+(WERTM) policies across the region (roads, bus, rail, active
+travel)
+West Rapid Transport (Future4West) is a mass rapid
+transit programme to develop a high-quality
+TRA: West Rapid Transport enhanced public transport system across the West
+CP
+(Future4West) of England. Supporting modal shift, helping tackle
+the climate emergency, and unlocking housing and
+employment growth.
+Zero Emission Bus Regional Areas (ZEBRA) funded
+programme to support bus electrification, including
+TRA: ZEBRA 2 Hengrove depot/charging infrastructure and enabling works
+CP
+Electrification linked to zero-emission buses. Delivery is through
+grant agreements and infrastructure installation to
+reduce tailpipe emissions on key routes.

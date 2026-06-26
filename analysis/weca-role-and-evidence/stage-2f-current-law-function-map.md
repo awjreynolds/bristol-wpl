@@ -52,13 +52,13 @@ This note is source-bounded. It does not run a live WECA/MCA meeting-record sear
 | Does the Joint Committee have relevant strategic functions? | Yes. The Joint Committee is described as addressing functions beyond the WECA Order and dealing with functions outside the WECA Order, including Joint Spatial Plan, Joint Transport Plan, recommendations and legacy matters. | `SRC-WECA-0011` lines 77-81; `SRC-WECA-0012` lines 302-326 | strategic/interface source only |
 | Does the 2026 Act strategic-authority competence source itself transfer WPL powers? | No. It identifies transport and local infrastructure as an area of competence, but the scoped source does not itself identify a WPL order-maker, consent right, no-role conclusion or statutory submission role. | `SRC-LEG-0016` lines 62-68 | not a WPL-specific power source |
 | Does current scoped evidence prove WECA/MCA consent is required? | No. No express WPL consent or concurrence requirement is identified in the scoped current-law and constitution sources. | Stage 2E source set | not evidenced |
-| Does current scoped evidence prove WECA/MCA consent is not required or that WECA/MCA has no role? | No. Absence of an express WPL function in scoped sources is not enough to certify no role, because funding, assurance, Joint Committee, programme interface and meeting-record evidence remain incomplete. | Stage 2E and Stage 2F source set | P0 remains open |
+| Does current scoped evidence prove WECA/MCA consent is not required or that WECA/MCA has no role? | No. Absence of an express WPL function in scoped sources and absence of a formal decision in the Stage 2G bounded public search are not enough to certify no role, because funding, assurance, Joint Committee and programme-interface evidence remain incomplete. | Stage 2E Stage 2F and Stage 2G source set | P0 remains open |
 
 ## Stage 2F Controlled Conclusion
 
 Current scoped repo evidence does not identify a WPL-specific transferred or concurrent WECA/MCA order-making function. The same scoped evidence does not identify a WECA/MCA formal approval, objection, sponsorship, funding decision, statutory consultation response or WPL-specific consent requirement.
 
-That is a scoped evidence-control finding only. It is not a final current-law conclusion, not a no-role conclusion, and not a conclusion that WECA/MCA consent is or is not required. Stage 2F does not certify that WECA/MCA has no role, that consent is unnecessary, or that there is no funding/assurance dependency. Those conclusions remain blocked until meeting-record, funding, assurance and final legal route checks are complete.
+That is a scoped evidence-control finding only. It is not a final current-law conclusion, not a no-role conclusion, and not a conclusion that WECA/MCA consent is or is not required. Stage 2F does not certify that WECA/MCA has no role, that consent is unnecessary, or that there is no funding/assurance dependency. Stage 2G narrows public meeting-record evidence only; no-role, consent, funding, assurance and final legal route checks remain blocked.
 
 ## Permitted Wording
 
@@ -80,6 +80,6 @@ That is a scoped evidence-control finding only. It is not a final current-law co
 
 `RISK-0002` and `ISS-0002` remain P0 but narrowed. The unresolved question is now:
 
-1. whether a current meeting-record or consultation-response source creates formal support, objection, consent, funding or assurance evidence;
+1. whether any source outside the Stage 2G bounded public ModernGov search creates formal support, objection, consent, funding or assurance evidence;
 2. whether any WPL-funded package uses WECA/MCA funding, programme assurance, CRSTS, Single Pot, BSIP, JLTP, mass-transit or cross-boundary delivery interfaces;
 3. whether final Bristol legal/Monitoring Officer advice treats any WECA/MCA function as a consent, concurrence, consultation, funding or statutory route condition.

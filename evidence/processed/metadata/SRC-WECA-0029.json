@@ -1,0 +1,12 @@
+{
+  "characters": 48716,
+  "extracted_date": "2026-06-26",
+  "method": "pdftotext-layout",
+  "output_path": "evidence/processed/text/SRC-WECA-0029.txt",
+  "sha256": "b4bb965add8d256e58c1de657184ac3dd608f7e1387ee437f1a45e4243c4ff13",
+  "source_id": "SRC-WECA-0029",
+  "source_path": "evidence/raw/west-of-england-mca/src-weca-0029_joint-meeting-2026-06-05-delivery-assurance.pdf",
+  "source_status": "downloaded",
+  "title": "Joint meeting 5 June 2026 Delivery Assurance",
+  "url": "https://westofengland-ca.moderngov.co.uk/documents/s11519/Item%2010%20-%20Delivery%20Assurance.pdf"
+}

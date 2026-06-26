@@ -1,0 +1,12 @@
+{
+  "characters": 4716,
+  "extracted_date": "2026-06-26",
+  "method": "html-standard-library",
+  "output_path": "evidence/processed/text/SRC-WECA-0020.txt",
+  "sha256": "cdada0a754f49f6a69864d13d6dbfd74a3e4aef5be309278f881dac9133bce8e",
+  "source_id": "SRC-WECA-0020",
+  "source_path": "evidence/raw/west-of-england-mca/src-weca-0020_overview-scrutiny-2026-06-01-meeting-page.html",
+  "source_status": "downloaded",
+  "title": "Overview and Scrutiny Committee meeting page 1 June 2026",
+  "url": "https://westofengland-ca.moderngov.co.uk/ieListDocuments.aspx?CId=143&MID=718"
+}

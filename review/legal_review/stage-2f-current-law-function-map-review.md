@@ -62,7 +62,7 @@ The note is acceptable because it:
 2. Do not claim WECA/MCA has no role or consent is not required.
 3. Do not claim WECA/MCA approval, objection, support, funding, assurance approval or sponsorship.
 4. Keep package-level funding and assurance trigger mapping before OBC/FBC readiness.
-5. Complete current WECA/MCA and Joint Committee meeting-record search before Stage 2 gate completion.
+5. Use Stage 2G as a bounded public-record search control only and complete funding/assurance and no-role/consent checks before Stage 2 gate completion.
 
 ## Simulation Sign-Off
 

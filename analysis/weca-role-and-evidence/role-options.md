@@ -5,8 +5,8 @@ programme: Bristol Workplace Parking Levy
 stage: discovery
 status: working
 version: 0.1
-date: 2026-06-25
-evidence_cutoff: 2026-06-25
+date: 2026-06-26
+evidence_cutoff: 2026-06-26
 directorate: Growth and Regeneration
 audience: internal-review
 issue_purpose: review
@@ -44,13 +44,13 @@ This note defines controlled role options for WECA/MCA in the Bristol WPL simula
 | option_id | role option | what would evidence it | current repo classification | gate effect |
 | --- | --- | --- | --- | --- |
 | WECA-ROLE-01 | Strategic policy context only | Adopted regional strategies that mention demand management or WPL-type tools. | Supported by `SRC-WECA-0001`, `SRC-WECA-0003`, `SRC-WECA-0004`. | May be cited as context only. |
-| WECA-ROLE-02 | Funding or assurance role | Formal decision or framework requirement where WECA/MCA funding streams are used for the WPL-funded package or development costs. | Possible, not settled. `SRC-WECA-0006` and `SRC-WECA-0007` are relevant if funding engaged. | P1/P0 depending on funding dependency. |
+| WECA-ROLE-02 | Funding or assurance role | Formal decision or framework requirement where WECA/MCA funding streams are used for the WPL-funded package or development costs. | Possible, not settled. `SRC-WECA-0006`, `SRC-WECA-0007`, `SRC-WECA-0024`, `SRC-WECA-0028` and `SRC-WECA-0029` are relevant if funding or programme assurance is engaged. | P1/P0 depending on funding dependency. |
 | WECA-ROLE-03 | Delivery or coordination role | Formal agreement, memorandum, delivery plan or governance decision. | Not established. | Do not assume. |
 | WECA-ROLE-04 | Statutory consent or concurrence role | Current law, constitution or formal decision requiring consent/concurrence. | P0 unresolved. `SRC-WECA-0011` to `SRC-WECA-0016`, `SRC-LEG-0009`, `SRC-LEG-0010`, `SRC-LEG-0014`, `SRC-LEG-0016`, `SRC-LEG-0022` and `SRC-LEG-0023` are mapping inputs, not conclusions. | Blocks route conclusion. |
 | WECA-ROLE-05 | Transferred or concurrent WPL function | Consolidated devolution law and constitution showing transferred or concurrent function. | P0 unresolved. Source material is acquired but not mapped to a WPL function conclusion. | Blocks promoter conclusion. |
-| WECA-ROLE-06 | Formal support | WECA/MCA committee decision, mayoral decision, formal consultation response or equivalent. | Not established. | Must not be claimed. |
-| WECA-ROLE-07 | Formal objection | WECA/MCA committee decision, mayoral decision, formal consultation response or equivalent. | Not established. | Must not be claimed. |
-| WECA-ROLE-08 | No direct role | Current law, constitutions and meeting-record search establishing no statutory, assurance, funding or delivery role. | Not established. | Must not be claimed. |
+| WECA-ROLE-06 | Formal support | WECA/MCA committee decision, mayoral decision, formal consultation response or equivalent. | Not established after Stage 2G bounded public ModernGov search. | Must not be claimed. |
+| WECA-ROLE-07 | Formal objection | WECA/MCA committee decision, mayoral decision, formal consultation response or equivalent. | Not established after Stage 2G bounded public ModernGov search. | Must not be claimed. |
+| WECA-ROLE-08 | No direct role | Current law, constitutions and meeting-record search establishing no statutory, assurance, funding or delivery role. | Not established. Stage 2G narrows public meeting-record evidence only. | Must not be claimed. |
 
 ## Current Working Treatment
 
@@ -61,5 +61,5 @@ The simulation may cite WECA/MCA as strategic and conditional funding/assurance 
 - Consolidated current West of England devolution function map using acquired current-law and constitution sources.
 - Current WECA/MCA constitution and delegation mapping.
 - Current Bristol constitution and delegation mapping.
-- Meeting-record search for WPL/demand-management/Bristol WPL terms.
-- Written classification of any funding or assurance dependency.
+- Bounded Stage 2G public meeting-record search is complete, but no-role and consent status remain unresolved.
+- Written classification of any funding or assurance dependency, including CRSTS, TCR, mass-transit, Investment Fund and Delivery Assurance interfaces.

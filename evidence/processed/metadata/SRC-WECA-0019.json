@@ -1,0 +1,12 @@
+{
+  "characters": 18467,
+  "extracted_date": "2026-06-26",
+  "method": "html-standard-library",
+  "output_path": "evidence/processed/text/SRC-WECA-0019.txt",
+  "sha256": "63c095c073b576d5ea3ede41b890531ba643e6217858e4e86650abc9c90f0177",
+  "source_id": "SRC-WECA-0019",
+  "source_path": "evidence/raw/west-of-england-mca/src-weca-0019_joint-mca-joint-committee-2026-06-05-meeting-page.html",
+  "source_status": "downloaded",
+  "title": "Joint MCA and Joint Committee meeting page 5 June 2026",
+  "url": "https://westofengland-ca.moderngov.co.uk/ieListDocuments.aspx?CId=192&MID=728"
+}

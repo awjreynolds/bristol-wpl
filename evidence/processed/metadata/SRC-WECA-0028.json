@@ -1,0 +1,12 @@
+{
+  "characters": 47513,
+  "extracted_date": "2026-06-26",
+  "method": "pdftotext-layout",
+  "output_path": "evidence/processed/text/SRC-WECA-0028.txt",
+  "sha256": "6b5869048c5c46ac09485abea69b24b9dd9134c5e76b2e21afb15abf8df1a06b",
+  "source_id": "SRC-WECA-0028",
+  "source_path": "evidence/raw/west-of-england-mca/src-weca-0028_joint-meeting-2026-06-05-investment-fund-programme.pdf",
+  "source_status": "downloaded",
+  "title": "Joint meeting 5 June 2026 Investment Fund Programme and Grant Assurance",
+  "url": "https://westofengland-ca.moderngov.co.uk/documents/s11539/Item%2009%20-%20Investment%20Fund%20Programme.pdf"
+}

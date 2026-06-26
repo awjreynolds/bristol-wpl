@@ -68,7 +68,7 @@ Stage 2E tests the working hypothesis that WECA/MCA is currently evidenced as st
 | Is WECA/MCA funding or assurance required? | Conditional only. It depends on whether MCA funding, CRSTS, Single Pot, BSIP, local growth funds, match funding or MCA assurance is used for WPL development or WPL-funded packages. | P1/P0 trigger control; classify every funding stream before OBC/FBC. |
 | Is the current OBC development evidenced as WECA/MCA-funded? | No. Current repo evidence points to Bristol CAZ Fund for the Stage One/OBC budget. | Keep MCA funding as a trigger question, not an assumed dependency. |
 | Does a Bristol Transport Board/WPL Steering Group route replace statutory or committee approvals? | No. It is programme governance context only on current evidence. | Do not treat programme-board sign-off as committee approval, WECA/MCA approval or statutory confirmation. |
-| Can WECA/MCA be said to have no role? | No. Current evidence does not support a no-role conclusion. | Prohibited until law, constitution, meeting-record and funding checks are complete. |
+| Can WECA/MCA be said to have no role? | No. Current evidence does not support a no-role conclusion. | Prohibited unless law, constitution, funding and bounded public-record findings support it; Stage 2G does not. |
 
 ## Controlled Wording
 
@@ -99,7 +99,7 @@ Prohibited:
 
 1. current-law function map after the 2026 amendments;
 2. WECA/MCA constitution and delegation route mapped against Transport Act 2000 WPL powers;
-3. WECA/MCA meeting-record search for WPL, workplace parking levy, demand management, road-user charging, Bristol WPL, CAZ repayment, CRSTS, BSIP, mass transit and WPL-funded package terms;
+3. Stage 2G bounded WECA/MCA public ModernGov meeting-record search has been completed, but it narrows only the public-record search condition and does not establish no-role, consent or funding-dependency status;
 4. funding/assurance dependency classification for every proposed transport package and development-cost source;
 5. explicit no-role, consent, concurrence, transferred-function or funding-dependency conclusion only if supported by the completed mapping.
 

@@ -37,7 +37,7 @@ Status: simulation stage-gate report. This is not legal advice, WECA/MCA approva
 
 ## Scope
 
-Stage 2F maps current-law WECA/MCA function sources for simulation drafting. It does not run a live meeting-record search, does not settle funding/assurance dependencies and does not resolve Bristol final order-making or statutory submission route.
+Stage 2F maps current-law WECA/MCA function sources for simulation drafting. It did not itself run a live meeting-record search; Stage 2G later completed a bounded public ModernGov search. Stage 2F and Stage 2G together still do not settle funding/assurance dependencies or resolve Bristol final order-making or statutory submission route.
 
 ## Gate Findings
 
@@ -48,11 +48,11 @@ Stage 2F maps current-law WECA/MCA function sources for simulation drafting. It 
 
 ## Gate Decision
 
-Stage 2F decision: **simulation sign-off with conditions for current-law function-map wording; simulation no-go remains because WECA/MCA meeting-record and funding/assurance dependencies plus Bristol final order/submission route remain unresolved.**
+Stage 2F decision: **simulation sign-off with conditions for current-law function-map wording; simulation no-go remains because WECA/MCA funding/assurance dependencies plus Bristol final order/submission route remain unresolved.**
 
 ## Register Effects
 
-- `RISK-0002` and `ISS-0002` remain P0 but narrowed to no-role/consent/funding-assurance/meeting-record conditions.
+- `RISK-0002` and `ISS-0002` remain P0 but narrowed to no-role/consent/funding-assurance conditions after Stage 2G public-search completion.
 - `EG-0011` remains partially closed, not closed.
 - `SSO-0030`, `SSO-0031`, `CLM-0014`, `APP-0010` and `DEC-0005` record Stage 2F controls.
 
@@ -68,6 +68,6 @@ The following statements remain blocked:
 
 ## Next Work
 
-1. Complete current WECA/MCA and Joint Committee meeting-record search.
+1. Treat Stage 2G as bounded public-record evidence only.
 2. Classify package-level funding and assurance triggers.
 3. Complete Bristol final order-maker, statutory submitter and signatory route.

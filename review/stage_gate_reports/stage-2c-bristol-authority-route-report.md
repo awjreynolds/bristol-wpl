@@ -73,6 +73,6 @@ The following statements remain blocked:
 ## Next Work
 
 1. Produce the Bristol internal WPL decision-route map.
-2. Complete WECA/MCA role mapping and meeting-record search.
+2. Use Stage 2G bounded meeting-record search and complete WECA/MCA no-role consent and funding-dependency checks.
 3. Build DfT pre-application engagement questions and classification log.
 4. Maintain source-bounded drafting controls in all OBC/FBC and statutory dossier material.

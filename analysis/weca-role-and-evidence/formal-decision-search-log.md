@@ -33,11 +33,11 @@ accessibility_review_status: not-started
 
 # WECA/MCA Formal Decision Search Log
 
-Status: repo-local evidence search log. This is not a live web search, legal advice or final confirmation that no WECA/MCA decision exists.
+Status: repo-local and bounded live-source evidence search log. This is not legal advice or final confirmation that no WECA/MCA decision exists.
 
 ## Search Scope
 
-Stage 2E reviewed acquired repo-local WECA/MCA, Bristol and legislation sources. It did not run a fresh live web crawl of WECA/MCA ModernGov or committee pages.
+Stage 2E reviewed acquired repo-local WECA/MCA, Bristol and legislation sources. Stage 2G then ran a bounded official WECA/ModernGov public-record search on 26 June 2026 and downloaded material hit pages and attachments as `SRC-WECA-0017` to `SRC-WECA-0029`.
 
 ## Term Log
 
@@ -48,10 +48,12 @@ Stage 2E reviewed acquired repo-local WECA/MCA, Bristol and legislation sources.
 | `Bristol WPL`, `Bristol workplace parking` | Acquired WECA/MCA governance and strategy sources | No formal WECA/MCA decision found. | no formal decision found |
 | `CRSTS`, `Single Pot`, `BSIP`, `Local Growth`, `assurance framework` | WECA assurance and strategy sources | Funding/assurance framework context found. | conditional assurance relevance |
 | `consent`, `concurrence`, `transferred`, `concurrent`, `no role` | Current-law and constitution sources | No source-supported conclusion found. | statutory role unresolved |
+| `Workplace Parking Levy`, `workplace parking`, `parking levy`, `Bristol WPL`, `WPL` | Official WECA/ModernGov public records searched on 26 June 2026 | WPL-looking candidates were public-item, budget, investment or token-match results; no formal Bristol WPL decision located in bounded public search. | bounded no formal decision found |
+| `road user charging`, `congestion charging`, `CAZ repayment`, `CRSTS`, `mass transit`, `Bristol transport package` | Official WECA/ModernGov public records searched on 26 June 2026 | Transport, CRSTS, TCR, mass-transit, investment-fund and delivery-assurance records found. | conditional funding/assurance and policy context only |
 
 ## Search Result
 
-Repo-local Stage 2E evidence does not establish:
+Stage 2E/2G evidence does not establish:
 
 - formal WECA/MCA WPL approval;
 - formal WECA/MCA support;
@@ -61,9 +63,9 @@ Repo-local Stage 2E evidence does not establish:
 - WECA/MCA transferred or concurrent WPL function;
 - WECA/MCA no-role conclusion.
 
-## Required Completion Search
+## Stage 2G Completion Search
 
-Before Stage 2 can pass, run and document a current meeting-record search across WECA/MCA and Joint Committee records for:
+Stage 2G ran and documented a bounded current public meeting-record search across official WECA/MCA and Joint Committee ModernGov records for:
 
 - workplace parking levy;
 - WPL;
@@ -78,4 +80,13 @@ Before Stage 2 can pass, run and document a current meeting-record search across
 - mass transit;
 - Bristol transport package.
 
-The search output must preserve URL, body, committee, meeting date, item title, document type, decision wording, support/objection status and funding/assurance effect.
+The search output is recorded in `analysis/weca-role-and-evidence/stage-2g-meeting-record-search-log.md`. Material hit records were downloaded and extracted as `SRC-WECA-0017` to `SRC-WECA-0029`.
+
+## Remaining Controls
+
+The public meeting-record condition is narrowed, not closed as a no-role conclusion. Stage 2 still requires:
+
+1. package-level funding and assurance trigger classification;
+2. final WECA/MCA no-role or consent analysis if a real route conclusion is needed;
+3. any formal consultation-response classification outside the bounded public ModernGov search;
+4. Bristol final order-maker and statutory submitter route confirmation.

@@ -2,9 +2,9 @@
 
 Generated from extracted text under `evidence/processed/text`. Counts are triage aids, not substantive findings.
 
-- Extracted sources scanned: 77
+- Extracted sources scanned: 90
 - Sources with WPL references: 41
-- Sources with WECA/Combined Authority references: 35
+- Sources with WECA/Combined Authority references: 47
 
 ## Highest WPL Coverage
 
@@ -35,13 +35,13 @@ Generated from extracted text under `evidence/processed/text`. Counts are triage
 | SRC-WECA-0007 | 255 | 0 | 10 | 20 | Local Growth Assurance Framework July 2025 final |
 | SRC-WECA-0006 | 254 | 0 | 10 | 20 | Local Growth Assurance Framework January 2024 |
 | SRC-WECA-0013 | 133 | 0 | 1 | 1 | Part B Constitution - 2026 Revision |
+| SRC-WECA-0022 | 120 | 0 | 0 | 0 | Joint meeting 27 March 2026 public questions and Mayors responses |
 | SRC-LEG-0014 | 118 | 0 | 0 | 0 | English Devolution and Community Empowerment Act 2026 consequential regulations whole instrument |
+| SRC-WECA-0026 | 100 | 0 | 0 | 3 | Joint meeting 5 June 2026 statements |
+| SRC-WECA-0025 | 85 | 0 | 1 | 2 | Joint meeting 5 June 2026 public questions and Mayors responses |
 | SRC-BCC-0005 | 78 | 674 | 80 | 48 | Public reports pack - Transport and Connectivity Policy Committee |
-| SRC-WECA-0004 | 70 | 1 | 0 | 0 | Bus Service Improvement Plan 2024 |
-| SRC-BCC-0011 | 65 | 649 | 60 | 38 | Public reports pack - Transport and Connectivity Policy Committee |
-| SRC-WECA-0003 | 63 | 0 | 0 | 0 | Combined Authority Bus Strategy updated September 2021 |
-| SRC-BCC-0015 | 44 | 68 | 23 | 20 | Public reports pack - Transport and Connectivity Policy Committee |
-| SRC-BCC-0006 | 36 | 594 | 38 | 17 | Appendix A - Feasibility Study Report for a WPL Scheme in Bristol |
+| SRC-WECA-0024 | 77 | 0 | 8 | 49 | Joint meeting 27 March 2026 transport report |
+| SRC-WECA-0018 | 76 | 0 | 0 | 0 | Joint MCA and Joint Committee meeting page 27 March 2026 |
 
 ## Statutory Route Term Coverage
 

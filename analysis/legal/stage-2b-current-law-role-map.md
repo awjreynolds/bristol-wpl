@@ -64,5 +64,5 @@ Stage 2A acquired the current Bristol, WECA/MCA and Transport Act source materia
 
 - Obtain or derive a legal source note confirming Bristol's current status as the relevant non-metropolitan local traffic authority for the proposed licensing area.
 - Identify whether the final WPL order-making and submission decision is a Transport and Connectivity Committee decision, Full Council decision, officer-delegated decision, or a sequenced combination.
-- Complete a WECA/MCA meeting-record search for WPL, workplace parking levy, road user charging, demand management, Clean Air Zone repayment, CRSTS, and Bristol transport package terms.
+- Stage 2G completed a bounded WECA/MCA public ModernGov meeting-record search for WPL, workplace parking levy, road user charging, demand management, Clean Air Zone repayment, CRSTS, and Bristol transport package terms; treat it as bounded public-record evidence only.
 - If any MCA or regional funding is used, map the WPL-funded transport package to WECA assurance framework requirements before claiming OBC/FBC readiness.

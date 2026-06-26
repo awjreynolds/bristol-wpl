@@ -1,0 +1,12 @@
+{
+  "characters": 80360,
+  "extracted_date": "2026-06-26",
+  "method": "pdftotext-layout",
+  "output_path": "evidence/processed/text/SRC-WECA-0025.txt",
+  "sha256": "895019e3bd6eeb1c1107babb40d0688fb580f8cfe0b48d1664bc37f90a266514",
+  "source_id": "SRC-WECA-0025",
+  "source_path": "evidence/raw/west-of-england-mca/src-weca-0025_joint-meeting-2026-06-05-public-questions-mayor-responses.pdf",
+  "source_status": "downloaded",
+  "title": "Joint meeting 5 June 2026 public questions and Mayors responses",
+  "url": "https://westofengland-ca.moderngov.co.uk/documents/s11641/FINAL%20-%20Public%20Questions%20and%20Mayors%20Responses.pdf"
+}

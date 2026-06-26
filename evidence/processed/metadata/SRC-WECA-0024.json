@@ -1,0 +1,12 @@
+{
+  "characters": 71865,
+  "extracted_date": "2026-06-26",
+  "method": "pdftotext-layout",
+  "output_path": "evidence/processed/text/SRC-WECA-0024.txt",
+  "sha256": "83f486882c76c2cfc56c88149333608ad618221ec6564293ac1fac59aa66e082",
+  "source_id": "SRC-WECA-0024",
+  "source_path": "evidence/raw/west-of-england-mca/src-weca-0024_joint-meeting-2026-03-27-transport-report.pdf",
+  "source_status": "downloaded",
+  "title": "Joint meeting 27 March 2026 transport report",
+  "url": "https://westofengland-ca.moderngov.co.uk/documents/s11253/Item%2013%20-%20Transport.pdf"
+}

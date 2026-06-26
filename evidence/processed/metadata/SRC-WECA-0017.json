@@ -1,0 +1,12 @@
+{
+  "characters": 771,
+  "extracted_date": "2026-06-26",
+  "method": "html-standard-library",
+  "output_path": "evidence/processed/text/SRC-WECA-0017.txt",
+  "sha256": "2a09955b472472de2ce8a50bdf91411e45a06c282ec7201eb485aeff6fb65cec",
+  "source_id": "SRC-WECA-0017",
+  "source_path": "evidence/raw/west-of-england-mca/src-weca-0017_modern-gov-document-search-form.html",
+  "source_status": "downloaded",
+  "title": "Document search form",
+  "url": "https://westofengland-ca.moderngov.co.uk/ieDocSearch.aspx?bcr=1"
+}
