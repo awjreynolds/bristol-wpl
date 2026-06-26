@@ -1,0 +1,8 @@
+treatment_id,item,classification,appraisal_treatment,required_review,status,notes
+BTT-001,gross_levy_receipts,transfer_payment,do_not_treat_as_economic_benefit,TAG/Appraisal Review Agent,control_placeholder,Gross receipts may affect public cash flow and net proceeds but are not welfare benefits.
+BTT-002,net_proceeds,public_cash_flow_and_ring_fenced_spending,link to financial case and statutory net-proceeds controls,Finance Review Agent,control_placeholder,Do not count both levy transfer and funded benefits as benefits without welfare treatment.
+BTT-003,employer_compliance_burden,real_resource_cost_or_transfer_incidence,estimate separately from levy payment,TAG/Appraisal Review Agent,control_placeholder,Requires evidence and proportionality.
+BTT-004,employee_pass_through,distributional_incidence,assess in distributional and equality analysis,Equality Review Agent,control_placeholder,Do not assume full pass-through.
+BTT-005,journey_time_savings,social_benefit,model and monetise only if supported,TAG/Appraisal Review Agent,control_placeholder,No model outputs exist.
+BTT-006,public_transport_investment_benefits,social_benefit,attribute to investment-only and combined-package effects separately,TAG/Appraisal Review Agent,control_placeholder,Do not claim as direct WPL charge effect.
+BTT-007,operating_and_enforcement_costs,real_resource_cost,include in economic and financial cases,Finance Review Agent,control_placeholder,No operating model or cost evidence exists.

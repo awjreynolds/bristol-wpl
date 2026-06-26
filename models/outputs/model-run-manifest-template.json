@@ -1,0 +1,18 @@
+{
+  "status": "template_only",
+  "model_id": "",
+  "run_id": "",
+  "git_commit": "",
+  "dependency_lockfile_hash": "",
+  "tool_versions": {},
+  "input_hashes": {},
+  "parameters": {},
+  "scenario_name": "",
+  "random_seed": null,
+  "output_hashes": {},
+  "validation_results": {},
+  "reviewer_status": "not_reviewed",
+  "limitations": [
+    "This is a template and is not evidence of a model run."
+  ]
+}

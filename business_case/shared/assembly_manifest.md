@@ -19,7 +19,7 @@ Status: working simulation scaffold.
 
 ## Current Assembly Status
 
-OBC and FBC assembly scripts are placeholders. No assembled OBC or FBC should be generated until legal route, statutory crosswalk, strategic assessment, spatial/data baseline and ASR controls exist.
+OBC and FBC assembly scripts are placeholders. Stage 5A creates options and appraisal control architecture only; it does not create an agreed OAR, ASR, ASST, model output, shortlist or value-for-money conclusion. No assembled OBC or FBC should be generated until legal route, statutory crosswalk, strategic assessment, spatial/data baseline, agreed ASR and model assurance controls exist.
 
 ## No-PDF Rule
 

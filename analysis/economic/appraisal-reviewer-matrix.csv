@@ -1,0 +1,8 @@
+reviewer_id,reviewer_role,simulation_scope,real_world_adoption_gap,required_before,status,notes
+ARM-001,TAG/Appraisal Review Agent,OAR ASR ASST appraisal methods model outputs uncertainty and VFM controls,Independent suitably qualified transport economist review,OBC economic case,required,Simulation role only.
+ARM-002,Analytical Assurance Agent,model cards run manifests validation sensitivity reproducibility and QA,Independent model assurance and analytical QA,OBC model reliance,required,Simulation role only.
+ARM-003,Finance Review Agent,revenue model financial cash flow net proceeds and affordability controls,Section 151 and qualified finance review,OBC financial case,required,Simulation role only.
+ARM-004,Spatial Data Agent,boundary parking-base data and spatial joins,Qualified GIS/boundary certifier and Bristol officer review,ASR and revenue model reliance,required,Simulation role only.
+ARM-005,Equality Review Agent,distributional equality and social acceptability impacts,Equality and public-sector equality-duty review,consultation and OBC,required,Simulation role only.
+ARM-006,Environmental Review Agent,environmental carbon air quality noise and statutory-consultee dependencies,Environmental specialist review,ASR and consultation,required,Simulation role only.
+ARM-007,Red Team,predetermined shortlist no-BCR no-transfer and no-readiness challenge,Independent assurance challenge,Stage 5 gate,required,Simulation role only.

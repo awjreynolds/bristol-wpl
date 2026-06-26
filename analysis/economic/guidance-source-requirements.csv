@@ -1,0 +1,7 @@
+guidance_id,guidance_area,current_repo_source,current_status,required_before_use,owner,status,notes
+GSR-001,Green Book,SRC-HMT-0001,landing_or_html_snapshot_available,confirm current source note and method relevance before appraisal reliance,Appraisal Guidance Agent,partially_controlled,Green Book source is available but source note and method extraction remain needed.
+GSR-002,DfT transport business case guidance,SRC-DFT-0001,available_for_generic_alignment,confirm current source note before OBC structure reliance,Appraisal Guidance Agent,controlled_generic_only,Does not create WPL-specific DfT process.
+GSR-003,TAG landing page,SRC-DFT-0002,landing_page_only,acquire relevant individual TAG units and databook before method reliance,Appraisal Guidance Agent,open,Do not claim full TAG compliance from landing page.
+GSR-004,TAG databook,,not_acquired,acquire current databook/source note before monetised appraisal,TAG/Appraisal Review Agent,open,
+GSR-005,VfM framework,,not_acquired,acquire current value-for-money framework before VFM category,TAG/Appraisal Review Agent,open,
+GSR-006,uncertainty toolkit,,not_acquired,acquire relevant current uncertainty guidance before uncertainty treatment reliance,Analytical Assurance Agent,open,

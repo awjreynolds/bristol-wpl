@@ -32,6 +32,24 @@ PARKING_WORKBOOK = (
     ],
 )
 
+APPRAISAL_WORKBOOKS = [
+    (
+        "analysis/economic/options-framework-filter.csv",
+        "analysis/economic/options-framework-filter.xlsx",
+        "options_filter",
+    ),
+    (
+        "analysis/economic/appraisal-specification-summary-tables.csv",
+        "analysis/economic/appraisal-specification-summary-tables.xlsx",
+        "asst",
+    ),
+    (
+        "models/uncertainty/uncertainty-register.csv",
+        "models/uncertainty/uncertainty-log.xlsx",
+        "uncertainty",
+    ),
+]
+
 
 def cell_ref(col_index: int, row_index: int) -> str:
     letters = ""
@@ -125,6 +143,10 @@ def main() -> int:
         total_rows += len(rows)
     write_multi_xlsx(parking_xlsx, sheets)
     print(f"Wrote {parking_xlsx} with {total_rows} rows across {len(sheets)} sheets")
+    for csv_rel, xlsx_rel, sheet_name in APPRAISAL_WORKBOOKS:
+        columns, rows = read_csv(csv_rel)
+        write_xlsx(xlsx_rel, sheet_name, columns, rows)
+        print(f"Wrote {xlsx_rel} with {len(rows)} rows")
     return 0
 
 

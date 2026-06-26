@@ -1,0 +1,7 @@
+transferability_id,nottingham_assumption_or_evidence,bristol_use_requested,required_bristol_evidence,transferability_status,reviewer,notes
+NTM-001,charge_level,not_permitted_without_assessment,boundary parking-base charge design affordability and consultation evidence,blocked,Comparator Evidence Agent,No Nottingham charge level transfer.
+NTM-002,parking_base_distribution,not_permitted_without_assessment,Bristol authoritative inventory and premises taxonomy,blocked,Spatial Data Agent,No Bristol inventory exists.
+NTM-003,behavioural_response_elasticity,not_permitted_without_assessment,Bristol behavioural evidence model specification and sensitivity testing,blocked,TAG/Appraisal Review Agent,No elasticity transfer.
+NTM-004,congestion_or_traffic_effect,not_permitted_without_assessment,Bristol transport model and validation evidence,blocked,TAG/Appraisal Review Agent,SRC-ACADEMIC-0001 failed acquisition remains a comparator gap.
+NTM-005,mode_shift,not_permitted_without_assessment,Bristol baseline mode share and transport package evidence,blocked,TAG/Appraisal Review Agent,No model output exists.
+NTM-006,enforcement_or_compliance_assumption,not_permitted_without_assessment,Bristol operating model PCN appeals recovery and compliance evidence,blocked,Operations Design Agent,Operational readiness remains blocked.

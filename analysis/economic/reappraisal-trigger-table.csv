@@ -1,0 +1,5 @@
+trigger_id,stage,trigger,threshold,affected_case,affected_models,required_action,owner,reviewer,status,notes
+RAT-001,FBC,boundary_change,any change to selected boundary or legal schedule,economic_financial_management,parking_base revenue transport distributional,reopen ASR and rerun affected models,TAG/Appraisal Review Agent,Integrated Case Review Agent,control_placeholder,
+RAT-002,FBC,charge_or_threshold_change,material charge threshold exemption or discount change,economic_financial,parking_base revenue behavioural,response and revenue reappraisal,TAG/Appraisal Review Agent,Finance Review Agent,control_placeholder,
+RAT-003,FBC,consultation_design_change,consultation-led change affecting design package or mitigation,all_cases,all affected models,reassess impacts and consultation response traceability,Integrated Case Review Agent,Red Team,control_placeholder,
+RAT-004,FBC,model_validation_failure,any material validation or convergence failure,economic,transport behavioural revenue,do not use model outputs until resolved,TAG/Appraisal Review Agent,Analytical Assurance Agent,control_placeholder,

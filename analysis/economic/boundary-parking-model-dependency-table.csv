@@ -1,0 +1,7 @@
+dependency_id,claim_or_output,blocked_by,required_before_use,affected_documents,status,notes
+BPMD-001,scheme_boundary,ISS-0003 RISK-0004 EG-0014,authoritative boundary source licences topology QA and legal GIS reconciliation,ASR OAR OBC FBC consultation scheme order,blocked,Stage 4A is control only.
+BPMD-002,chargeable_spaces,ISS-0003 RISK-0004 EG-0014,canonical parking inventory records uncertainty and review,parking-base revenue economic financial cases,blocked,No inventory rows exist.
+BPMD-003,gross_revenue,ISS-0003 RISK-0004 RISK-0005,chargeable-space forecast charge assumptions compliance and revenue model,financial case economic case,blocked,No revenue model output exists.
+BPMD-004,transport_impacts,ISS-0004 RISK-0005,agreed ASR transport model card run manifest validation and outputs,economic case ASST OBC FBC,blocked,No model output exists.
+BPMD-005,displacement_impacts,ISS-0003 ISS-0004,boundary options parking inventory displacement method and model outputs,spatial report economic case equality case,blocked,No displacement evidence exists.
+BPMD-006,value_for_money,ISS-0004 RISK-0005,agreed ASR OAR ASST model outputs costs benefits uncertainty and welfare treatment,OBC FBC economic case,blocked,No BCR or VFM category exists.
