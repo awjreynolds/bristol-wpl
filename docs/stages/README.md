@@ -11,7 +11,7 @@ Each completed stage package should be committed and pushed before the next stag
 
 ## Current Stage Map
 
-Terminology note: `Stage 10A` is a control-architecture slice for a future statutory confirmation dossier. `Stage 11A` is a control-architecture slice for the final FBC/statutory assurance gate. Neither is a statutory submission or approval. `Stage 12A` is a public-release control stage only. `Stage 13A` is a critical-path handover control stage only. `Stage 14A` is a source-note control pilot only. `Stage 14B` is a public-repo secret-scanning remediation control only. The future FBC/statutory decision gate remains `Stage 11` in this repo.
+Terminology note: `Stage 10A` is a control-architecture slice for a future statutory confirmation dossier. `Stage 11A` is a control-architecture slice for the final FBC/statutory assurance gate. Neither is a statutory submission or approval. `Stage 12A` is a public-release control stage only. `Stage 13A` is a critical-path handover control stage only. `Stage 14A` is a source-note control pilot only. `Stage 14B` is a public-repo secret-scanning remediation control only. `Stage 14C` is a history-rewrite dry-run and approval-boundary control only. The future FBC/statutory decision gate remains `Stage 11` in this repo.
 
 ## Stage Risk Recording
 
@@ -36,6 +36,7 @@ Each stage should leave a register trail, not just a narrative note. The minimum
 | Stage 13A | Critical-path handover, blocker mapping and 90-day planning controls | Complete as handover control; no WPL gate closes | `review/stage_gate_reports/stage-13a-critical-path-handover-gate-report.md` |
 | Stage 14A | Source-note control pilot and source-use no-go controls | Complete as source-note control; `ISS-0007` remains open | `review/stage_gate_reports/stage-14a-source-note-control-report.md` |
 | Stage 14B | Public-repo secret-scanning remediation after GitGuardian detector collision | Complete as current-tree control; history and remote alert disposition remain open | `review/stage_gate_reports/stage-14b-public-repo-secret-scan-report.md` |
+| Stage 14C | History rewrite dry run and force-push decision boundary | Dry run complete; live rewrite blocked pending explicit approval | `review/stage_gate_reports/stage-14c-history-rewrite-decision-report.md` |
 
 ## Detailed Notes
 
@@ -54,6 +55,7 @@ Each stage should leave a register trail, not just a narrative note. The minimum
 - [Stage 13A Critical Path Handover Controls](stage-13a-critical-path-handover.md)
 - [Stage 14A Source Note Controls](stage-14a-source-notes.md)
 - [Stage 14B Public Repo Secret Scanning](stage-14b-public-repo-secret-scanning.md)
+- [Stage 14C History Rewrite Decision](stage-14c-history-rewrite.md)
 
 ## Current Hard Blockers
 
@@ -73,3 +75,4 @@ Each stage should leave a register trail, not just a narrative note. The minimum
 - Stage 13A critical-path controls are explanatory and control-only; work packages and the 90-day plan do not approve a programme, authorise spend or close blockers.
 - Stage 14A source-note controls are explanatory and control-only; source notes do not verify all claims or close the acquired-source note backlog.
 - Stage 14B public-repo secret-scanning controls are explanatory and current-tree only; they do not revoke tokens, close GitGuardian remotely, rewrite history or change any WPL readiness gate.
+- Stage 14C history-rewrite controls are dry-run and decision-only; they do not force-push, close GitGuardian remotely or change any WPL readiness gate.

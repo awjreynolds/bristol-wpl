@@ -16,6 +16,7 @@ flowchart TD
     L --> M["Stage 13A: Critical path handover<br/>Work packages do not close gates"]
     M --> N["Stage 14A: Source-note controls<br/>Backlog remains open"]
     N --> O["Stage 14B: Public-repo secret scanning<br/>History and remote alert disposition open"]
+    O --> P["Stage 14C: History rewrite dry run<br/>Live force-push not approved"]
 
     B -. "P0: Bristol route and WECA/MCA role" .-> G
     D -. "P0: boundary and inventory" .-> G
@@ -32,11 +33,12 @@ flowchart TD
     L -. "Public release does not authorise programme" .-> M
     M -. "Work packages need bounded source notes" .-> N
     L -. "Public repo needs secret-scan controls" .-> O
+    O -. "History cleanup requires explicit approval" .-> P
 
     classDef blocked fill:#ffdddd,stroke:#990000,color:#111111;
     classDef control fill:#fff4cc,stroke:#996600,color:#111111;
     classDef current fill:#ddf4ff,stroke:#005f99,color:#111111;
 
     class G,I,K blocked;
-    class A,B,C,D,E,F,F2,H,J,J2,K2,L,M,N control;
-    class O current;
+    class A,B,C,D,E,F,F2,H,J,J2,K2,L,M,N,O control;
+    class P current;
