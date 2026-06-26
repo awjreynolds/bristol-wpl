@@ -1,0 +1,29 @@
+blocker_id,blocker_type,severity,work_package_id,dependency_reason,source_register,gate_effect,current_status
+ISS-0001,issue,P0,WP-LEGAL-ROUTE,Bristol final order-maker submitter and signatory route must be settled before any approval or submission claim,governance/issues_register.csv,P0_blocks,mapped_open
+RISK-0001,risk,P0,WP-LEGAL-ROUTE,Bristol final WPL licensing-scheme order-maker and statutory submitter route remains unresolved,governance/risk_register.csv,P0_blocks,mapped_open
+ISS-0002,issue,P0,WP-WECA-MCA,WECA/MCA role consent no-role consultation-response and funding dependency cannot be inferred,governance/issues_register.csv,P0_blocks,mapped_open
+RISK-0002,risk,P0,WP-WECA-MCA,WECA MCA statutory role consent funding assurance or no-role dependency could be misstated,governance/risk_register.csv,P0_blocks,mapped_open
+ISS-0008,issue,P1,WP-DFT-PROCESS,WPL-specific DfT procedural expectations and any DfT response remain unevidenced,governance/issues_register.csv,P1_blocks,mapped_open
+RISK-0003,risk,P1,WP-DFT-PROCESS,DfT engagement could be confused with Secretary of State confirmation,governance/risk_register.csv,P1_blocks,mapped_open
+ISS-0003,issue,P0,WP-BOUNDARY-INVENTORY,Authoritative boundary and parking inventory are prerequisites for appraisal revenue consultation and scheme order schedule,governance/issues_register.csv,P0_blocks,mapped_open
+RISK-0004,risk,P0,WP-BOUNDARY-INVENTORY,Boundary and parking-base data are absent before options appraisal,governance/risk_register.csv,P0_blocks,mapped_open
+ISS-0003,issue,P0,WP-DISPLACEMENT,Boundary options and workplace inventory are prerequisites for displacement and residential parking mitigation assessment,governance/issues_register.csv,P0_blocks,mapped_open
+RISK-0004,risk,P0,WP-DISPLACEMENT,Boundary and parking-base data are prerequisites for displacement analysis and mitigation design,governance/risk_register.csv,P0_blocks,mapped_open
+ISS-0004,issue,P0,WP-APPRAISAL-MODEL,OAR ASR ASST model outputs BCR and VFM evidence are absent,governance/issues_register.csv,P0_blocks,mapped_open
+RISK-0005,risk,P1,WP-APPRAISAL-MODEL,OBC drafting must not begin before SOC-equivalent OAR ASR and ASST controls are populated,governance/risk_register.csv,P1_blocks,mapped_open
+ISS-0012,issue,P1,WP-CONSULTATION,Consultation material privacy accessibility stakeholder coverage and response analysis readiness are not complete,governance/issues_register.csv,P1_blocks,mapped_open
+RISK-0015,risk,P1,WP-CONSULTATION,Stage 8A controls could be overstated as consultation launch readiness,governance/risk_register.csv,P1_blocks,mapped_open
+ISS-0009,issue,P1,WP-FINANCE-S151,Package and cost-line funding assurance cannot be populated before candidate packages exist,governance/issues_register.csv,P1_blocks,mapped_open
+ISS-0016,issue,P1,WP-FINANCE-S151,FBC statutory gate controls exist but no Section 151 review or implementation readiness exists,governance/issues_register.csv,P1_blocks,mapped_open
+RISK-0019,risk,P1,WP-FINANCE-S151,Final gate controls could be mistaken for finance approval or implementation recommendation,governance/risk_register.csv,P1_blocks,mapped_open
+ISS-0006,issue,P1,WP-OPERATIONS-DATA,Licensing enforcement and appeals procedure evidence is not populated,governance/issues_register.csv,P1_blocks,mapped_open
+ISS-0016,issue,P1,WP-OPERATIONS-DATA,FBC statutory gate controls exist but no operational service readiness exists,governance/issues_register.csv,P1_blocks,mapped_open
+RISK-0007,risk,P1,WP-OPERATIONS-DATA,Licensing enforcement and appeals design could omit statutory procedural controls,governance/risk_register.csv,P1_blocks,mapped_open
+ISS-0011,issue,P1,WP-OBC-FBC-EVIDENCE,OBC section evidence assembly and Stage 7 assurance are not complete,governance/issues_register.csv,P1_blocks,mapped_open
+ISS-0014,issue,P1,WP-OBC-FBC-EVIDENCE,OBC assurance gate controls exist but no OBC gate evidence packet or proceed recommendation exists,governance/issues_register.csv,P1_blocks,mapped_open
+ISS-0015,issue,P1,WP-OBC-FBC-EVIDENCE,Statutory dossier controls exist but no submission evidence packet certified order DfT response or FBC exists,governance/issues_register.csv,P1_blocks,mapped_open
+ISS-0016,issue,P1,WP-OBC-FBC-EVIDENCE,FBC statutory gate controls exist but no FBC evidence packet sign-offs or implementation readiness exists,governance/issues_register.csv,P1_blocks,mapped_open
+ISS-0013,issue,P1,WP-PUBLIC-GOVERNANCE,Public and officer documentation can drift from controlled registers,governance/issues_register.csv,P1_blocks,mapped_controlled
+ISS-0017,issue,P1,WP-PUBLIC-GOVERNANCE,Public repository visibility could be misconstrued as approval or official publication,governance/issues_register.csv,control_only,mapped_controlled
+RISK-0016,risk,P1,WP-PUBLIC-GOVERNANCE,Public or officer summaries could overstate readiness or drift from controlled registers,governance/risk_register.csv,P1_blocks,mapped_controlled
+RISK-0020,risk,P1,WP-PUBLIC-GOVERNANCE,Public visibility could be mistaken for public-body endorsement professional advice or WPL readiness,governance/risk_register.csv,control_only,mapped_controlled

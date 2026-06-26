@@ -12,7 +12,7 @@ Simulation sign-offs are recorded in `governance/simulation_signoff_register.csv
 
 ## Stage Gates
 
-Terminology note: Stage 10A is a control-architecture slice for a future statutory confirmation dossier. Stage 11A is a control-architecture slice for the final FBC/statutory assurance gate. Stage 12A is a public-release control stage. None of those stages is a statutory submission or WPL approval. Stage 11 remains the later combined FBC/statutory decision gate.
+Terminology note: Stage 10A is a control-architecture slice for a future statutory confirmation dossier. Stage 11A is a control-architecture slice for the final FBC/statutory assurance gate. Stage 12A is a public-release control stage. Stage 13A is a critical-path handover-control stage only. None of those stages is a statutory submission or WPL approval. Stage 11 remains the later combined FBC/statutory decision gate.
 
 | Gate | Required Evidence | Required Simulation Reviews | Blocking Conditions |
 |---|---|---|---|
@@ -40,6 +40,7 @@ Terminology note: Stage 10A is a control-architecture slice for a future statuto
 | Stage 11A FBC/Statutory Gate Controls | Final gate checklist, assurance panel register, no-go claim register, decision-report control, red-team packet and FBC/statutory gate QA validation | Monitoring Officer Simulation Agent, Section 151 Simulation Agent, Integrated Case Review Agent, Legal Review Agent, Finance Review Agent, Commercial Review Agent, Operations Design Agent, DfT Process Simulation Agent, WECA Governance Agent, Red Team, Simulation Gate Authority | Any FBC approval statutory submission implementation procurement approval legal sign-off S151 review DfT closure WECA/MCA agreement service readiness or submit-and-implement recommendation claim |
 | Stage 11 FBC/Statutory Gate | FBC, scheme order, dossier, consultation report | Legal, Finance, Operations, Integrated Review Agents | Open P0 or simulated statutory-route failure |
 | Stage 12A Public Release Controls | Public GitHub visibility verification, publication checklist, no-go claims, no-authored-PDF scan, restricted-path scan and prompt-parity scan | Public Release Review Agent, Officer Readability Agent, Red Team, Simulation Gate Authority | Any claim that public visibility means WPL approval legal advice OBC/FBC readiness consultation launch statutory submission or real-world professional sign-off |
+| Stage 13A Critical Path Handover Controls | Work-package register, blocker-to-workstream map, 90-day control plan, no-go register and handover QA validation | Handover Review Agent, Programme Controls Agent, Officer Readability Agent, Red Team, Simulation Gate Authority | Any claim that the critical path approves a programme, closes blockers, authorises spend or procurement, launches consultation, passes OBC/FBC gates, authorises statutory submission or mobilises delivery |
 
 ## Real-World Adoption Gaps
 

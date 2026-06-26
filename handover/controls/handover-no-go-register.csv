@@ -1,0 +1,6 @@
+claim_id,prohibited_claim,allowed_wording,current_status,gate_effect
+HNG-001,critical path is an approved programme,Stage 13A is a handover control and critical path map only,blocked,P0
+HNG-002,work packages close blockers,Work packages show the evidence needed to close blockers in a future reviewed process,blocked,P0
+HNG-003,90 day plan authorises spend or procurement,The 90-day plan is a planning control only and does not authorise spend or procurement,blocked,P0
+HNG-004,handover replaces officer decisions,Handover material is simulation guidance and must be replaced by real officer and authority decisions for real-world use,blocked,P0
+HNG-005,handover means gates can pass,All WPL approval consultation OBC FBC and statutory gates remain blocked until their own evidence and reviews pass,blocked,P0

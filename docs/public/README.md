@@ -46,6 +46,7 @@ The simulation currently says:
 | Public reader | `docs/public/evidence-and-assumptions-summary.md` | What is known, assumed, open or prohibited |
 | Cabinet member or leader | `docs/officer/assurance-dashboard.md` | One-page status and blockers |
 | Officer or programme manager | `docs/officer/programme-risk-briefing.md` | Risks, mitigations and next checks |
+| Anyone asking what happens next | `docs/officer/next-steps-critical-path.md` | Critical path work packages; critical path is not approval |
 | Legal reviewer | `docs/officer/legal-and-governance-briefing.md` | Bristol, WECA/MCA and DfT route issues |
 | Appraisal or transport specialist | `analysis/economic/stage-5a-options-appraisal-control-package.md` | Appraisal and model controls |
 | GIS or data specialist | `analysis/spatial/stage-4a-boundary-and-parking-inventory-control-package.md` | Boundary, inventory and displacement controls |

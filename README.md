@@ -43,6 +43,7 @@ You can rely on this repo as a controlled simulation record:
 | Public reader | `docs/public/README.md` | Plain-English explanation of what this is and is not. |
 | Cabinet member or council leader | `docs/officer/assurance-dashboard.md` | One-page decision dashboard with blockers and safe statements. |
 | Officer or programme manager | `docs/officer/programme-risk-briefing.md` | Programme risks, mitigations and next checks. |
+| Officer planning next work | `docs/officer/next-steps-critical-path.md` | Critical path work packages and 90-day planning controls. |
 | Legal or governance reviewer | `docs/officer/legal-and-governance-briefing.md` | Bristol, WECA/MCA, DfT and statutory route questions. |
 | Transport economist or modeller | `analysis/economic/stage-5a-options-appraisal-control-package.md` | OAR, ASR, ASST, appraisal, model and Nottingham-transfer controls. |
 | GIS, parking or data specialist | `analysis/spatial/stage-4a-boundary-and-parking-inventory-control-package.md` | Boundary, inventory, topology, DPIA and displacement controls. |
@@ -51,7 +52,7 @@ You can rely on this repo as a controlled simulation record:
 
 ## Visual Stage Map
 
-The current workflow map is in `docs/visuals/stage-gate-map.mmd`. Stage 9A is the public/officer assurance layer. Stage 7 OBC, Stage 8 consultation launch and Stage 11 FBC/statutory gates remain blocked. Stage 10A is only a control layer for a future statutory dossier; Stage 11A is only a control layer for the final FBC/statutory gate. Stage 12A records the public repository release controls.
+The current workflow map is in `docs/visuals/stage-gate-map.mmd`. Stage 9A is the public/officer assurance layer. Stage 7 OBC, Stage 8 consultation launch and Stage 11 FBC/statutory gates remain blocked. Stage 10A is only a control layer for a future statutory dossier; Stage 11A is only a control layer for the final FBC/statutory gate. Stage 12A records the public repository release controls. Stage 13A records the critical-path handover controls; the critical path is not approval.
 
 ```mermaid
 flowchart LR
@@ -69,6 +70,7 @@ flowchart LR
     S10A --> S11A["Stage 11A<br/>FBC/statutory gate controls"]
     S11A --> S11["Stage 11<br/>FBC and statutory gate BLOCKED"]
     S11 --> S12A["Stage 12A<br/>Public release controls"]
+    S12A --> S13A["Stage 13A<br/>Critical path handover controls"]
 ```
 
 ## Stage 9A Status
@@ -107,6 +109,7 @@ The stage-by-stage workflow narrative is maintained in `docs/stages/`:
 - `docs/stages/stage-10a-statutory-dossier.md`
 - `docs/stages/stage-11a-fbc-statutory-gate.md`
 - `docs/stages/stage-12a-public-release.md`
+- `docs/stages/stage-13a-critical-path-handover.md`
 
 Each completed stage package should be committed and pushed before the next stage begins. Detailed discoveries, data points and unresolved issues live in the stage docs and controlled registers.
 
@@ -135,6 +138,7 @@ Current gate reports live under `review/stage_gate_reports/`. Key current report
 - `review/stage_gate_reports/stage-10a-statutory-dossier-control-report.md`
 - `review/stage_gate_reports/stage-11a-fbc-statutory-gate-report.md`
 - `review/stage_gate_reports/stage-12a-public-release-gate-report.md`
+- `review/stage_gate_reports/stage-13a-critical-path-handover-gate-report.md`
 
 ## Context Discipline
 
@@ -168,6 +172,7 @@ make consultation-qa
 make statutory-qa
 make fbc-statutory-qa
 make public-release-qa
+make handover-qa
 make red-team
 python3 scripts/acquire_sources.py --priority 1_must
 python3 scripts/extract_sources.py

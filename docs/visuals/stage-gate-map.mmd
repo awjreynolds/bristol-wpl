@@ -13,6 +13,7 @@ flowchart TD
     J2 --> K2["Stage 11A: FBC/statutory gate controls<br/>No approval"]
     K2 --> K["Stage 11: FBC and statutory gate<br/>BLOCKED"]
     K --> L["Stage 12A: Public release controls<br/>Public visibility is not approval"]
+    L --> M["Stage 13A: Critical path handover<br/>Work packages do not close gates"]
 
     B -. "P0: Bristol route and WECA/MCA role" .-> G
     D -. "P0: boundary and inventory" .-> G
@@ -25,11 +26,13 @@ flowchart TD
     J2 -. "P0: statutory dossier not submission-ready" .-> K
     K2 -. "P0/P1: FBC, legal, S151, WECA, DfT and operations blockers" .-> K
     K -. "Publication does not close WPL blockers" .-> L
+    K -. "Open blockers become mapped work packages" .-> M
+    L -. "Public release does not authorise programme" .-> M
 
     classDef blocked fill:#ffdddd,stroke:#990000,color:#111111;
     classDef control fill:#fff4cc,stroke:#996600,color:#111111;
     classDef current fill:#ddf4ff,stroke:#005f99,color:#111111;
 
     class G,I,K blocked;
-    class A,B,C,D,E,F,F2,H,J,J2,K2 control;
-    class L current;
+    class A,B,C,D,E,F,F2,H,J,J2,K2,L control;
+    class M current;

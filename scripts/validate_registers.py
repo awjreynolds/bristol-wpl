@@ -24,6 +24,9 @@ REQUIRED = {
     "business_case/fbc/controls/stage-11-no-go-claim-register.csv": ["claim_id", "prohibited_claim", "current_status"],
     "publication/controls/repository-publication-checklist.csv": ["control_id", "control_area", "current_status"],
     "publication/controls/public-release-no-go-register.csv": ["claim_id", "prohibited_claim", "current_status"],
+    "handover/controls/critical-path-work-package-register.csv": ["work_package_id", "workstream", "current_status"],
+    "handover/controls/blocker-to-workstream-map.csv": ["blocker_id", "work_package_id", "current_status"],
+    "handover/controls/handover-no-go-register.csv": ["claim_id", "prohibited_claim", "current_status"],
 }
 
 def read_header(path: Path) -> list[str]:

@@ -18,6 +18,7 @@
 - Added Stage 10A statutory dossier controls, including a 23-component dossier register, submission no-go register, statutory route memorandum control, clause-by-clause powers matrix, validator and no-go statutory dossier gate report. Hardened the statutory gate after simulated legal/officer review so it checks Stage 10A readiness rows, no-go rows, EG-0034, approval/sign-off limitations and statutory-specific failure wording.
 - Added Stage 11A FBC/statutory gate controls, including final gate checklist, assurance panel, no-go register, decision-report control, red-team packet, validator and no-go final gate report.
 - Added Stage 12A public-release controls, including repository visibility evidence, publication checklist, public-release no-go register, scan register, validator and gate report.
+- Added Stage 13A critical-path handover controls, including blocker-to-workstream mapping, work-package register, 90-day control plan, no-go register, next-steps briefing, validator and no-go handover gate report.
 
 ## 2026-06-25
 
