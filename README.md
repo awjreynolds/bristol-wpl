@@ -58,6 +58,7 @@ You can rely on this repo as a controlled simulation record:
 | Officer or programme manager | `docs/officer/programme-risk-briefing.md` | Programme risks, mitigations and next checks. |
 | Officer planning next work | `docs/officer/next-steps-critical-path.md` | Critical path work packages and 90-day planning controls. |
 | Evidence reviewer or drafter | `evidence/source_notes/README.md` | Source-note pilot and claim-use limits; source-note backlog remains controlled. |
+| Public repo maintainer | `review/stage_gate_reports/stage-14b-public-repo-secret-scan-report.md` | GitGuardian/Grafana-token-pattern incident response, source omissions and secret-scan controls. |
 | Legal or governance reviewer | `docs/officer/legal-and-governance-briefing.md` | Bristol, WECA/MCA, DfT and statutory route questions. |
 | Transport economist or modeller | `analysis/economic/stage-5a-options-appraisal-control-package.md` | OAR, ASR, ASST, appraisal, model and Nottingham-transfer controls. |
 | GIS, parking or data specialist | `analysis/spatial/stage-4a-boundary-and-parking-inventory-control-package.md` | Boundary, inventory, topology, DPIA and displacement controls. |
@@ -66,7 +67,7 @@ You can rely on this repo as a controlled simulation record:
 
 ## Visual Stage Map
 
-The current workflow map is in `docs/visuals/stage-gate-map.mmd`. Stage 9A is the public/officer assurance layer. Stage 7 OBC, Stage 8 consultation launch and Stage 11 FBC/statutory gates remain blocked. Stage 10A is only a control layer for a future statutory dossier; Stage 11A is only a control layer for the final FBC/statutory gate. Stage 12A records the public repository release controls. Stage 13A records the critical-path handover controls; the critical path is not approval. Stage 14A creates a source-note pilot; the source-note backlog remains controlled and open.
+The current workflow map is in `docs/visuals/stage-gate-map.mmd`. Stage 9A is the public/officer assurance layer. Stage 7 OBC, Stage 8 consultation launch and Stage 11 FBC/statutory gates remain blocked. Stage 10A is only a control layer for a future statutory dossier; Stage 11A is only a control layer for the final FBC/statutory gate. Stage 12A records the public repository release controls. Stage 13A records the critical-path handover controls; the critical path is not approval. Stage 14A creates a source-note pilot; the source-note backlog remains controlled and open. Stage 14B records public-repo secret-scanning remediation after a GitGuardian detector collision; it does not rewrite history or close the remote alert.
 
 ```mermaid
 flowchart LR
@@ -86,6 +87,7 @@ flowchart LR
     S11 --> S12A["Stage 12A<br/>Public release controls"]
     S12A --> S13A["Stage 13A<br/>Critical path handover controls"]
     S13A --> S14A["Stage 14A<br/>Source-note controls"]
+    S14A --> S14B["Stage 14B<br/>Public-repo secret-scan controls"]
 ```
 
 ## Stage 9A Status
@@ -126,16 +128,18 @@ The stage-by-stage workflow narrative is maintained in `docs/stages/`:
 - `docs/stages/stage-12a-public-release.md`
 - `docs/stages/stage-13a-critical-path-handover.md`
 - `docs/stages/stage-14a-source-notes.md`
+- `docs/stages/stage-14b-public-repo-secret-scanning.md`
 
 Each completed stage package should be committed and pushed before the next stage begins. Detailed discoveries, data points and unresolved issues live in the stage docs and controlled registers.
 
 ## Evidence State
 
 - `evidence/source_register.csv` contains 111 rows.
-- 94 sources are downloaded.
+- 91 sources are downloaded and tracked in the current public tree.
+- 3 public Bristol committee-pack PDFs were downloaded and extracted but their raw binaries are now omitted from the public GitHub tree after a GitGuardian legacy Grafana/Power BI detector collision: `SRC-BCC-0005`, `SRC-BCC-0011` and `SRC-BCC-0015`.
 - 16 sources remain seeded but not downloaded.
 - 1 source acquisition failed: `SRC-ACADEMIC-0001`.
-- `evidence/extraction_manifest.csv` is the current extraction state: 94 extracted, 16 skipped because not downloaded and 1 skipped because acquisition failed.
+- `evidence/extraction_manifest.csv` is the current extraction state: 91 extracted, 2 extracted with raw PDFs omitted from the public repo, 1 extracted with redacted text and raw PDF omitted, 16 skipped because not downloaded and 1 skipped because acquisition failed.
 - `evidence/extraction_log.csv` is the append-only extraction audit log.
 
 ## Controlled Gate Reports
@@ -156,6 +160,7 @@ Current gate reports live under `review/stage_gate_reports/`. Key current report
 - `review/stage_gate_reports/stage-12a-public-release-gate-report.md`
 - `review/stage_gate_reports/stage-13a-critical-path-handover-gate-report.md`
 - `review/stage_gate_reports/stage-14a-source-note-control-report.md`
+- `review/stage_gate_reports/stage-14b-public-repo-secret-scan-report.md`
 
 ## Context Discipline
 
@@ -191,6 +196,7 @@ make fbc-statutory-qa
 make public-release-qa
 make handover-qa
 make source-notes-qa
+make secrets-qa
 make red-team
 python3 scripts/acquire_sources.py --priority 1_must
 python3 scripts/extract_sources.py
@@ -203,7 +209,7 @@ python3 scripts/build_document_templates.py
 
 ## Format And Distribution Rules
 
-Officer review and distribution copies must be editable DOCX/XLSX/HTML or controlled Markdown as appropriate. PDFs are allowed only as downloaded third-party raw evidence under `evidence/raw/**`, never as officer-distribution outputs.
+Officer review and distribution copies must be editable DOCX/XLSX/HTML or controlled Markdown as appropriate. PDFs are allowed only as downloaded third-party raw evidence under `evidence/raw/**`, never as officer-distribution outputs. If a raw evidence PDF contains token-like payloads or hosted secret-scanner collisions, omit it from the public GitHub tree, retain the source URL/hash in registers and run `make secrets-qa`.
 
 ## Source Of Truth
 

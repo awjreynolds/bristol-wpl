@@ -18,6 +18,21 @@ consultation/response_data/personal/**
 **/.env
 .env
 
+# Repo-owned secret-scanning controls are intentionally tracked.
+!scripts/scan_secrets.py
+!tests/test_secret_scan.py
+!analysis/evidence/stage-14b-public-repo-secret-scan-control-package.md
+!docs/stages/stage-14b-public-repo-secret-scanning.md
+!review/peer_review/stage-14b-public-repo-secret-scan-review.md
+!review/stage_gate_reports/stage-14b-public-repo-secret-scan-report.md
+
+# Public source PDFs known to contain Power BI embed payloads that collide with
+# hosted Grafana-token detectors. Keep the source URLs and hashes in registers;
+# reacquire outside the public repo if raw binary inspection is needed.
+evidence/raw/bristol-city-council/src-bcc-0005_public-reports-pack-transport-connectivity-policy-committee-2024-09-12.pdf
+evidence/raw/bristol-city-council/src-bcc-0011_public-reports-pack-transport-connectivity-policy-committee-2025-10-23.pdf
+evidence/raw/bristol-city-council/src-bcc-0015_public-reports-pack-transport-connectivity-policy-committee-2026-03-19.pdf
+
 # Generated local package scratch.
 .worktrees/
 worktrees/

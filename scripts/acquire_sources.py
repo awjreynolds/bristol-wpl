@@ -443,7 +443,7 @@ def main() -> int:
     parser.add_argument("--limit", type=int, default=0, help="Optional max number of rows to attempt")
     parser.add_argument("--priority", action="append", default=[], help="Priority filter, e.g. 1_must")
     parser.add_argument("--source-id", action="append", default=[], help="Attempt only listed source_id values")
-    parser.add_argument("--force", action="store_true", help="Retry rows even if they are already marked downloaded")
+    parser.add_argument("--force", action="store_true", help="Retry rows even if they are already marked downloaded or publicly omitted")
     parser.add_argument("--timeout", type=int, default=45)
     parser.add_argument("--sleep", type=float, default=0.2)
     args = parser.parse_args()
@@ -460,7 +460,11 @@ def main() -> int:
             continue
         if args.priority and row.get("priority") not in args.priority:
             continue
-        if not args.force and row.get("status") == "downloaded" and row.get("sha256"):
+        if (
+            not args.force
+            and row.get("status") in {"downloaded", "downloaded_raw_omitted_from_public_repo"}
+            and row.get("sha256")
+        ):
             continue
         if args.limit and attempted >= args.limit:
             break

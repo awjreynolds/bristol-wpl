@@ -1,8 +1,16 @@
 {
-  "characters": 679246,
+  "characters": 679192,
   "extracted_date": "2026-06-26",
   "method": "pdftotext-layout",
   "output_path": "evidence/processed/text/SRC-BCC-0011.txt",
+  "public_repo_raw_status": "raw_pdf_omitted_due_secret_scanner_detector_collision",
+  "redactions": [
+    {
+      "count": 3,
+      "date": "2026-06-26",
+      "reason": "Power BI report identifier matched legacy Grafana-token detector pattern"
+    }
+  ],
   "sha256": "e56fe179eacfeba9ac04863600278c160dcafa39ef3795742648800fc5d42219",
   "source_id": "SRC-BCC-0011",
   "source_path": "evidence/raw/bristol-city-council/src-bcc-0011_public-reports-pack-transport-connectivity-policy-committee-2025-10-23.pdf",
