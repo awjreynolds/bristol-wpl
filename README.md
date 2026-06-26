@@ -48,7 +48,7 @@ You can rely on this repo as a controlled simulation record:
 
 ## Visual Stage Map
 
-The current workflow map is in `docs/visuals/stage-gate-map.mmd`. Stage 9A is the public/officer assurance layer. Stage 7 OBC and Stage 11 FBC/statutory gates remain blocked.
+The current workflow map is in `docs/visuals/stage-gate-map.mmd`. Stage 9A is the public/officer assurance layer. Stage 7 OBC, Stage 8 consultation launch and Stage 11 FBC/statutory gates remain blocked. Stage 10A is only a control layer for a future statutory dossier; it is not the statutory submission stage.
 
 ```mermaid
 flowchart LR
@@ -59,9 +59,11 @@ flowchart LR
     S5 --> S6["Stage 6A<br/>OBC readiness controls"]
     S6 --> S7A["Stage 7A<br/>OBC assurance controls"]
     S7A --> S7["Stage 7<br/>OBC gate BLOCKED"]
-    S7 --> S8["Stage 8A<br/>Consultation controls"]
+    S7 --> S8A["Stage 8A<br/>Consultation controls"]
+    S8A --> S8["Stage 8<br/>Consultation launch BLOCKED"]
     S8 --> S9["Stage 9A<br/>Public/officer assurance"]
-    S9 --> S11["Stage 11<br/>FBC and statutory gate BLOCKED"]
+    S9 --> S10A["Stage 10A<br/>Statutory dossier controls"]
+    S10A --> S11["Stage 11<br/>FBC and statutory gate BLOCKED"]
 ```
 
 ## Stage 9A Status
@@ -97,6 +99,7 @@ The stage-by-stage workflow narrative is maintained in `docs/stages/`:
 - `docs/stages/stage-7a-obc-assurance.md`
 - `docs/stages/stage-8a-consultation-readiness.md`
 - `docs/stages/stage-9a-public-officer-assurance.md`
+- `docs/stages/stage-10a-statutory-dossier.md`
 
 Each completed stage package should be committed and pushed before the next stage begins. Detailed discoveries, data points and unresolved issues live in the stage docs and controlled registers.
 
@@ -122,6 +125,7 @@ Current gate reports live under `review/stage_gate_reports/`. Key current report
 - `review/stage_gate_reports/stage-7a-obc-assurance-gate-report.md`
 - `review/stage_gate_reports/stage-8a-consultation-readiness-control-report.md`
 - `review/stage_gate_reports/stage-9a-public-officer-assurance-report.md`
+- `review/stage_gate_reports/stage-10a-statutory-dossier-control-report.md`
 
 ## Context Discipline
 
@@ -152,6 +156,7 @@ make appraisal-qa
 make obc-qa
 make obc-assurance-qa
 make consultation-qa
+make statutory-qa
 make red-team
 python3 scripts/acquire_sources.py --priority 1_must
 python3 scripts/extract_sources.py

@@ -1,0 +1,9 @@
+gate_item_id,assurance_area,minimum_evidence,linked_components,blocker_ids,current_status,gate_effect,pass_condition
+STAT-GATE-001,route_authority,"final order-maker submitter signatory and confirmation route",01;02;03;16;21;22,"ISS-0001;ISS-0008;EG-0020;EG-0021",blocked_control_only,P0,"Legal route closed and DfT route classified"
+STAT-GATE-002,weca_mca_dependency,"WECA/MCA role consent no-role consultation response and funding dependency",06;07;14,"ISS-0002;RISK-0002",blocked_control_only,P0,"WECA/MCA position evidenced or accepted as formal residual risk"
+STAT-GATE-003,boundary_order,"legal boundary schedule scheme area and clause mapping",03;04;23,"ISS-0003;RISK-0004",blocked_control_only,P0,"Boundary and order clauses reconciled"
+STAT-GATE-004,fbc_consultation,"final business case consultation statement response and reconsultation assessment",10;11;12;13,"ISS-0011;ISS-0012;RISK-0014;RISK-0015",blocked_control_only,P0,"FBC and consultation evidence complete"
+STAT-GATE-005,finance_net_proceeds,"financial case net proceeds general plan detailed programme and accounts",08;09;14,"REQ-0006;LEGAL-017;LEGAL-019;LEGAL-020;LEGAL-021",blocked_control_only,P1,"Finance and net-proceeds review complete"
+STAT-GATE-006,operations_implementation,"licensing enforcement appeals implementation commencement and monitoring",15;17;18,"ISS-0006;RISK-0007;EG-0023",blocked_control_only,P1,"Service readiness and monitoring controls complete"
+STAT-GATE-007,evidence_dft,"supporting evidence list DfT pre-application responses and issue dispositions",19;20,"ISS-0007;ISS-0008;EG-0021;EG-0024",blocked_control_only,P1,"Evidence list and DfT response log complete"
+STAT-GATE-008,red_team_submission,"no-go claims red-team challenge and real-world replacements",01;02;03;21;22;23,"ISS-0013;RISK-0016",blocked_control_only,P1,"No overclaim and real-world replacement controls accepted"

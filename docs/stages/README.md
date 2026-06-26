@@ -11,6 +11,8 @@ Each completed stage package should be committed and pushed before the next stag
 
 ## Current Stage Map
 
+Terminology note: `Stage 10A` is a control-architecture slice for a future statutory confirmation dossier. It is not a statutory submission. The future FBC/statutory decision gate remains `Stage 11` in this repo.
+
 | Stage | Purpose | Current status | Main gate report or control |
 |---|---|---|---|
 | Stage 0 | Repo architecture, operating model, registers and validation baseline | Complete with conditions | `review/stage_gate_reports/stage-0-architecture-and-controls-report.md` |
@@ -23,6 +25,7 @@ Each completed stage package should be committed and pushed before the next stag
 | Stage 7A | OBC assurance panel, gate checklist, red-team and decision-report controls | Complete as control architecture; Stage 7 OBC gate remains blocked | `review/stage_gate_reports/stage-7a-obc-assurance-gate-report.md` |
 | Stage 8A | Consultation launch, material, stakeholder, privacy, accessibility and analysis controls | Complete as control architecture; consultation launch no-go remains | `review/stage_gate_reports/stage-8a-consultation-readiness-control-report.md` |
 | Stage 9A | Public/officer assurance layer, pitfalls register, Nottingham lessons and readability controls | Complete as communication/control architecture; no substantive readiness gate closes | `review/stage_gate_reports/stage-9a-public-officer-assurance-report.md` |
+| Stage 10A | Statutory confirmation dossier component, no-go and route-memorandum controls | Complete as control architecture; statutory submission remains blocked | `review/stage_gate_reports/stage-10a-statutory-dossier-control-report.md` |
 
 ## Detailed Notes
 
@@ -35,6 +38,7 @@ Each completed stage package should be committed and pushed before the next stag
 - [Stage 7A OBC Assurance Controls](stage-7a-obc-assurance.md)
 - [Stage 8A Consultation Readiness Controls](stage-8a-consultation-readiness.md)
 - [Stage 9A Public And Officer Assurance](stage-9a-public-officer-assurance.md)
+- [Stage 10A Statutory Dossier Controls](stage-10a-statutory-dossier.md)
 
 ## Current Hard Blockers
 
@@ -48,3 +52,4 @@ Each completed stage package should be committed and pushed before the next stag
 - OBC section evidence, OBC assembly, officer-review DOCX and Stage 7 assurance do not exist.
 - Consultation launch authority, consultation materials, questionnaire, response data, privacy notice, accessibility-ready material and response-analysis plan do not exist.
 - Public/officer summaries are explanatory only and must not be treated as approval, legal advice, OBC/FBC readiness or consultation authority.
+- Statutory dossier controls are explanatory and control-only; no statutory submission or certified scheme order exists.

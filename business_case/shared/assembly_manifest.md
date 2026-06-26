@@ -14,7 +14,7 @@ Status: working simulation scaffold.
 8. Consultation materials and consultation launch gate.
 9. Consultation report and design refinement.
 10. FBC five-case sections and reappraisal.
-11. Statutory confirmation dossier.
+11. Statutory confirmation dossier controls after Stage 10A; no submission until Stage 11 gate.
 12. FBC/statutory gate report.
 
 ## Current Assembly Status

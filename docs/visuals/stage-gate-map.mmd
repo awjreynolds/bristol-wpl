@@ -8,8 +8,9 @@ flowchart TD
     F2 --> G["Stage 7: OBC gate<br/>BLOCKED"]
     G --> H["Stage 8A: Consultation controls<br/>No launch"]
     H --> I["Stage 8: Consultation launch<br/>BLOCKED"]
-    I --> J["Stage 9A: Public/officer assurance layer<br/>This stage"]
-    J --> K["Stage 11: FBC and statutory gate<br/>Future and blocked"]
+    I --> J["Stage 9A: Public/officer assurance layer<br/>Complete"]
+    J --> J2["Stage 10A: Statutory dossier controls<br/>No submission"]
+    J2 --> K["Stage 11: FBC and statutory gate<br/>Future and blocked"]
 
     B -. "P0: Bristol route and WECA/MCA role" .-> G
     D -. "P0: boundary and inventory" .-> G
@@ -21,5 +22,5 @@ flowchart TD
     classDef current fill:#ddf4ff,stroke:#005f99,color:#111111;
 
     class G,I,K blocked;
-    class A,B,C,D,E,F,F2,H control;
-    class J current;
+    class A,B,C,D,E,F,F2,H,J control;
+    class J2 current;

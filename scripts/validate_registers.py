@@ -18,6 +18,8 @@ REQUIRED = {
     "governance/stage_risk_matrix.csv": ["stage", "blocker", "mitigation", "gate_effect"],
     "governance/checks_and_balances_register.csv": ["control_id", "claim_type", "required_evidence", "validator_or_gate"],
     "governance/real_world_adoption_checklist.csv": ["adoption_id", "simulation_control", "required_real_world_replacement"],
+    "statutory_dossier/controls/dossier-component-register.csv": ["component_number", "component_name", "current_status"],
+    "statutory_dossier/controls/submission-no-go-register.csv": ["claim_id", "prohibited_claim", "current_status"],
 }
 
 def read_header(path: Path) -> list[str]:

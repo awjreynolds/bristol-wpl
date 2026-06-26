@@ -1,0 +1,9 @@
+claim_id,prohibited_claim,allowed_stage_10a_wording,affected_components,current_status,gate_effect
+STAT-NG-001,statutory submission is ready,Stage 10A creates statutory dossier controls only; statutory submission remains blocked,all_components,blocked_control_only,P0
+STAT-NG-002,scheme order is certified,No certified scheme order exists in the repo,03;22;23,blocked_control_only,P0
+STAT-NG-003,DfT has accepted the dossier,No DfT acceptance or WPL-specific dossier agreement is recorded,02;20;21,blocked_control_only,P1
+STAT-NG-004,Secretary of State confirmation is expected,Secretary of State confirmation cannot be predicted from this simulation,02;21;22,blocked_control_only,P0
+STAT-NG-005,consultation statement is complete,Consultation launch materials response data and analysis are not complete,11;12,blocked_control_only,P1
+STAT-NG-006,boundary schedule is legally settled,Authoritative boundary inventory topology and legal reconciliation are absent,04;23,blocked_control_only,P0
+STAT-NG-007,FBC is ready for submission,No FBC exists and Stage 11 remains blocked,10,blocked_control_only,P0
+STAT-NG-008,net proceeds plans are approved,No approved ten-year general plan or five-year detailed programme exists,08;09;14,blocked_control_only,P1

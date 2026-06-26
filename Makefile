@@ -1,6 +1,6 @@
 PYTHON ?= python3
 
-.PHONY: bootstrap acquire ingest extract source-register register-workbooks source-scan templates evidence-qa claims-qa validate models model-qa strategic-qa spatial-qa appraisal-qa obc-qa obc-assurance-qa consultation-qa officer-pack-qa nottingham-qa assemble-obc assemble-fbc build-docx accessibility-check red-team gate-obc gate-fbc all
+.PHONY: bootstrap acquire ingest extract source-register register-workbooks source-scan templates evidence-qa claims-qa validate models model-qa strategic-qa spatial-qa appraisal-qa obc-qa obc-assurance-qa consultation-qa statutory-qa officer-pack-qa nottingham-qa assemble-obc assemble-fbc build-docx accessibility-check red-team gate-obc gate-fbc all
 
 bootstrap:
 	$(PYTHON) scripts/bootstrap_repo.py
@@ -40,6 +40,7 @@ validate:
 	$(PYTHON) scripts/validate_nottingham_transferability.py
 	$(PYTHON) scripts/validate_claims.py
 	$(PYTHON) scripts/validate_obc_assurance.py
+	$(PYTHON) scripts/validate_statutory_dossier.py
 
 models:
 	$(PYTHON) scripts/build_models.py
@@ -65,6 +66,9 @@ obc-assurance-qa:
 
 consultation-qa:
 	$(PYTHON) scripts/validate_consultation.py
+
+statutory-qa:
+	$(PYTHON) scripts/validate_statutory_dossier.py
 
 officer-pack-qa:
 	$(PYTHON) scripts/validate_officer_pack.py
