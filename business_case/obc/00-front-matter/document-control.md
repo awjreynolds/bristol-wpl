@@ -1,5 +1,9 @@
 # Document Control
 
+## Stage 6A Control Note
+
+This section is a template and control surface only. It must not be treated as an OBC review draft until Stage 6A OBC readiness controls pass and upstream P0/P1 blockers are resolved or explicitly accepted through the simulation gate process.
+
 ## Document Status
 
 - Programme: Bristol Workplace Parking Levy full simulation

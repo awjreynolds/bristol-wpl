@@ -1,5 +1,9 @@
 # Management Case
 
+## Stage 6A Control Note
+
+This section is a template and control surface only. It must not be drafted for OBC reliance until legal route, governance, DfT path, WECA/MCA status, consultation plan, procurement plan, data/model controls, operations readiness and benefits management are complete and reviewed.
+
 ## Delivery Approach
 
 Set out governance, programme plan, decision gates, benefits management, stakeholder engagement, consultation, scheme-order preparation and transition to operations.

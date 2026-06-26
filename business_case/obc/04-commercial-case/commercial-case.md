@@ -1,5 +1,9 @@
 # Commercial Case
 
+## Stage 6A Control Note
+
+This section is a template and control surface only. It must not be drafted for OBC reliance until operating model, procurement strategy, service design, market evidence, data/technology, cyber, enforcement and appeals controls are complete and reviewed.
+
 ## Commercial Strategy
 
 Describe delivery, procurement and operating models for licensing, billing, account management, enforcement, appeals support, digital services, data management and customer contact.

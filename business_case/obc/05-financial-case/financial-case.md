@@ -1,5 +1,9 @@
 # Financial Case
 
+## Stage 6A Control Note
+
+This section is a template and control surface only. It must not be drafted for OBC reliance until parking base, chargeable-space forecast, revenue model, cost model, net-proceeds treatment, package funding assurance and sensitivity analysis are complete and reviewed.
+
 ## Financial Model Scope
 
 Define price base, inflation assumptions, parking-place base, exemptions, liable employers, compliance profile, collection costs, enforcement costs and implementation costs.

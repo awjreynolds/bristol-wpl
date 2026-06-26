@@ -9,7 +9,7 @@ Status: working simulation scaffold.
 3. Strategic Assessment / Preferred Way Forward.
 4. Spatial/data baseline and boundary options.
 5. Options framework, Option Assessment Report, ASR and ASST.
-6. OBC five-case sections.
+6. OBC five-case sections after Stage 6A readiness controls pass.
 7. OBC gate report.
 8. Consultation materials and consultation launch gate.
 9. Consultation report and design refinement.
@@ -19,7 +19,7 @@ Status: working simulation scaffold.
 
 ## Current Assembly Status
 
-OBC and FBC assembly scripts are placeholders. Stage 5A creates options and appraisal control architecture only; it does not create an agreed OAR, ASR, ASST, model output, shortlist or value-for-money conclusion. No assembled OBC or FBC should be generated until legal route, statutory crosswalk, strategic assessment, spatial/data baseline, agreed ASR and model assurance controls exist.
+Stage 6A creates OBC readiness and assembly-blocking controls only. Stage 5A creates options and appraisal control architecture only; it does not create an agreed OAR, ASR, ASST, model output, shortlist or value-for-money conclusion. No assembled OBC or FBC should be generated until legal route, statutory crosswalk, strategic assessment, spatial/data baseline, agreed ASR, model assurance, commercial readiness, financial readiness and management-case controls exist.
 
 ## No-PDF Rule
 

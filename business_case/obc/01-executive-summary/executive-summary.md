@@ -1,5 +1,9 @@
 # Executive Summary
 
+## Stage 6A Control Note
+
+This section is a template and control surface only. It must not summarise or introduce an OBC recommendation until every five-case section has source-linked evidence, model or register references, reviewer status and no open P0 blockers.
+
 ## Purpose
 
 Summarise the case for the Bristol WPL at OBC maturity without introducing evidence not proven elsewhere in the document set.

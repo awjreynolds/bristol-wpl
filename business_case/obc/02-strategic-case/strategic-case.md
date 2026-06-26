@@ -1,5 +1,9 @@
 # Strategic Case
 
+## Stage 6A Control Note
+
+This section is a template and control surface only. It must not be drafted for OBC reliance until Stage 3 problem definition, baseline, objectives, stakeholders, theory of change, benefits, dependencies and investment-package evidence are complete and reviewed.
+
 ## Case For Change
 
 Establish the transport, environmental, economic and fiscal problems that a WPL is intended to address. Separate observed Bristol evidence from comparator evidence and policy aspiration.

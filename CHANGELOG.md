@@ -11,6 +11,7 @@
 - Added Stage 3A strategic assessment controls, including problem/baseline/objective/theory-of-change/benefits placeholders, package funding assurance registers and strategic QA validation.
 - Added Stage 4A boundary and parking-inventory control architecture, including spatial QA validation, canonical inventory headers, DPIA/operations link controls and a no-go gate report.
 - Added Stage 5A options and appraisal control architecture, including appraisal QA validation, ASR/ASST controls, model-card stubs, benefits treatment, Nottingham transferability and no-go gate controls.
+- Added Stage 6A OBC readiness control architecture, including OBC section dependency controls, claim-level dependency register, no-go claim register, active assembly block and OBC QA validation.
 
 ## 2026-06-25
 

@@ -1,0 +1,8 @@
+section_id,case_section,required_upstream_gate,current_status,minimum_evidence_before_drafting,owner,reviewer,gate_effect
+OBC-READ-001,executive_summary,all_oBC_sections,blocked_control_only,all section matrices claim evidence and signoffs complete,Integrated Case Review Agent,Red Team,P0
+OBC-READ-002,strategic_case,stage_3,blocked_control_only,problem baseline objectives stakeholders theory of change benefits and investment package evidence,Strategic Case Review Agent,Integrated Case Review Agent,P1
+OBC-READ-003,economic_case,stage_5,blocked_control_only,OAR agreed ASR ASST model outputs BCR VFM uncertainty and appraisal review,TAG/Appraisal Review Agent,Analytical Assurance Agent,P0
+OBC-READ-004,commercial_case,operations_procurement,blocked_control_only,operating model procurement route market engagement cyber data and service acceptance controls,Commercial Case Agent,Operations Design Agent,P1
+OBC-READ-005,financial_case,stage_4_stage_5_funding,blocked_control_only,parking base chargeable-space forecast revenue costs net proceeds and funding assurance route,Finance Review Agent,Funding Assurance Agent,P0
+OBC-READ-006,management_case,stage_2_stage_8,blocked_control_only,legal route WECA/MCA DfT consultation procurement operations data assurance and benefits controls,Programme Orchestrator,Legal Review Agent,P0
+OBC-READ-007,conclusions_and_decisions,obc_gate,blocked_control_only,all open P0 closed or honestly presented as no-go with decision-maker options,Integrated Case Review Agent,Simulation Gate Authority,P0

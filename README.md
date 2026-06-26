@@ -13,7 +13,7 @@ Officer review and distribution copies must be editable DOCX/XLSX/HTML or contro
 
 ## Current Status
 
-Stage 0 bootstrap and Stage 1 source acquisition/simulated assurance are complete with conditions. Stage 2, Stage 3A, Stage 4A and Stage 5A have also been completed as control/narrowing stages only; they do not create OBC/FBC, consultation, preferred-scheme or statutory-submission readiness.
+Stage 0 bootstrap and Stage 1 source acquisition/simulated assurance are complete with conditions. Stage 2, Stage 3A, Stage 4A, Stage 5A and Stage 6A have also been completed as control/narrowing stages only; they do not create OBC/FBC, consultation, preferred-scheme or statutory-submission readiness.
 
 The stage-by-stage workflow narrative is maintained in `docs/stages/`:
 
@@ -23,6 +23,7 @@ The stage-by-stage workflow narrative is maintained in `docs/stages/`:
 - `docs/stages/stage-3a-strategic-assessment.md`
 - `docs/stages/stage-4a-spatial-data.md`
 - `docs/stages/stage-5a-options-appraisal.md`
+- `docs/stages/stage-6a-obc-readiness.md`
 
 Each completed stage package should be committed and pushed before the next stage begins. The README remains the high-level entry point; detailed discoveries, data points and unresolved issues live in the stage docs and controlled registers.
 
@@ -41,6 +42,7 @@ Current controlled gate reports:
 - `review/stage_gate_reports/stage-3a-strategic-assessment-control-report.md`
 - `review/stage_gate_reports/stage-4a-boundary-parking-control-report.md`
 - `review/stage_gate_reports/stage-5a-options-appraisal-control-report.md`
+- `review/stage_gate_reports/stage-6a-obc-readiness-control-report.md`
 - `review/stage_gate_reports/stage-2b-current-law-role-map-report.md`
 - `review/stage_gate_reports/stage-2a-governance-evidence-refinement-report.md`
 - `review/stage_gate_reports/stage-2-legal-governance-technical-baseline-report.md`
@@ -66,6 +68,7 @@ Open controls include:
 - P0 authoritative WPL boundary and parking inventory; Stage 4A creates control templates for boundary provenance topology QA parking-inventory canonical data DPIA scope and enforcement linkage but does not select a boundary or create inventory evidence.
 - P0/P1 DPIA/lawful-basis pack and enforcement operating procedure.
 - P0 ASR/OAR/ASST, model cards, model outputs and uncertainty controls; Stage 5A creates options/appraisal control templates, benefits treatment, transferability and model-card stubs but does not create a shortlist, preferred option, BCR, VFM category or model output.
+- P1 OBC readiness and assembly; Stage 6A creates section dependency, claim dependency, no-go claim and assembly-blocking controls but does not assemble an OBC, create officer-review DOCX, pass Stage 7 assurance or support consultation.
 - P1 DfT engagement evidence and WPL-specific procedural expectation classification; Stage 2J controls generic DfT business-case/TAG alignment and bounded GOV.UK search-control evidence but does not identify an accepted WPL confirmation dossier route.
 - P1 revocation, variation, publication and consultation process controls; Stage 2K controls order-change terminology and the narrow RPI-only variation exemption but keeps revocation process readiness open.
 - P1 context overload and hallucinated readiness risk; Stage 2L creates a mandatory bounded context packet and banned-claim controls for future agents but does not close any substantive blocker.
@@ -121,6 +124,14 @@ For Stage 5 options and appraisal controls, start with:
 - `analysis/economic/boundary-parking-model-dependency-table.csv`
 - `review/stage_gate_reports/stage-5a-options-appraisal-control-report.md`
 
+For Stage 6 OBC readiness and assembly controls, start with:
+
+- `analysis/obc/stage-6a-obc-readiness-control-package.md`
+- `business_case/obc/controls/section-dependency-matrix.csv`
+- `business_case/obc/controls/section-claim-dependency-register.csv`
+- `business_case/obc/controls/no-go-claim-register.csv`
+- `review/stage_gate_reports/stage-6a-obc-readiness-control-report.md`
+
 ## Repeatable Commands
 
 ```bash
@@ -128,6 +139,7 @@ make validate
 make strategic-qa
 make spatial-qa
 make appraisal-qa
+make obc-qa
 python3 scripts/acquire_sources.py --priority 1_must
 python3 scripts/extract_sources.py
 python3 scripts/build_register_workbooks.py

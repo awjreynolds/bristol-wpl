@@ -1,0 +1,10 @@
+claim_id,prohibited_claim,allowed_stage_6a_wording,affected_sections,source_gate,gate_effect
+OBC-NG-001,OBC is ready for approval,OBC assembly remains blocked while upstream P0 and P1 conditions remain open,all_sections,Stage 6A,P0
+OBC-NG-002,preferred scheme has been selected,No preferred scheme exists in the repo evidence,executive_summary;strategic_case;conclusions,Stage 5A,P0
+OBC-NG-003,consultation can launch,Consultation readiness is blocked pending legal strategic spatial appraisal equality data and operations controls,executive_summary;management_case;conclusions,Stage 8,P0
+OBC-NG-004,WECA MCA approval support objection consent funding or no-role is settled,WECA/MCA status remains source-bounded and unresolved beyond conditional context controls,strategic_case;financial_case;management_case,Stage 2L,P0
+OBC-NG-005,DfT has accepted or approved the WPL route,DfT WPL-specific process and any formal DfT response remain unresolved,management_case;conclusions,Stage 2J,P1
+OBC-NG-006,boundary charge base or revenue is decision grade,Boundary parking inventory charge base and revenue modelling remain blocked,financial_case;economic_case,Stage 4A,P0
+OBC-NG-007,BCR VFM or benefits are decision grade,No BCR VFM model output or quantified benefit exists,economic_case;executive_summary;conclusions,Stage 5A,P0
+OBC-NG-008,operating model enforcement or appeals are ready,Operations enforcement PCN appeals recovery and service policy remain incomplete,commercial_case;management_case,Stage 4A,P1
+OBC-NG-009,statutory submission is ready,Final order route DfT process boundary schedule consultation statement and dossier remain incomplete,management_case;conclusions,Stage 10,P0

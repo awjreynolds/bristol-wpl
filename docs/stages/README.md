@@ -19,6 +19,7 @@ Each completed stage package should be committed and pushed before the next stag
 | Stage 3A | Strategic assessment, objectives, benefits and package-funding controls | Complete as control architecture; Stage 3 no-go remains | `review/stage_gate_reports/stage-3a-strategic-assessment-control-report.md` |
 | Stage 4A | Boundary, parking-inventory, DPIA and operations data-control architecture | Complete as control architecture; Stage 4 no-go remains | `review/stage_gate_reports/stage-4a-boundary-parking-control-report.md` |
 | Stage 5A | Options, OAR, ASR, ASST, model-card and appraisal-control architecture | Complete as control architecture; Stage 5 no-go remains | `review/stage_gate_reports/stage-5a-options-appraisal-control-report.md` |
+| Stage 6A | OBC section-readiness, claim-dependency and assembly controls | Complete as control architecture; OBC assembly no-go remains | `review/stage_gate_reports/stage-6a-obc-readiness-control-report.md` |
 
 ## Detailed Notes
 
@@ -27,6 +28,7 @@ Each completed stage package should be committed and pushed before the next stag
 - [Stage 3A Strategic Assessment Controls](stage-3a-strategic-assessment.md)
 - [Stage 4A Spatial and Parking Data Controls](stage-4a-spatial-data.md)
 - [Stage 5A Options and Appraisal Controls](stage-5a-options-appraisal.md)
+- [Stage 6A OBC Readiness Controls](stage-6a-obc-readiness.md)
 
 ## Current Hard Blockers
 
@@ -37,3 +39,4 @@ Each completed stage package should be committed and pushed before the next stag
 - Authoritative boundary, spatial licences and workplace parking inventory are absent.
 - DPIA, lawful basis and operating procedures are not complete.
 - OAR, agreed ASR, completed ASST, completed/decision-grade model cards, model outputs, BCR and VFM category do not exist.
+- OBC section evidence, OBC assembly, officer-review DOCX and Stage 7 assurance do not exist.

@@ -1,5 +1,9 @@
 # Economic Case
 
+## Stage 6A Control Note
+
+This section is a template and control surface only. It must not be drafted for OBC reliance until OAR, agreed ASR, completed ASST, model cards, model outputs, uncertainty analysis, BCR/VFM treatment and appraisal review are complete.
+
 ## Appraisal Framework
 
 State the Green Book, DfT transport business case and TAG basis used for appraisal. Record the appraisal specification, proportionality decision, counterfactual, appraisal period and price base.
