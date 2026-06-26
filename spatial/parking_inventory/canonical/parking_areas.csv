@@ -1,0 +1,1 @@
+parking_area_id,premises_id,geometry_ref,parking_area_type,capacity_marked_spaces,capacity_unmarked_estimate,source_ids,source_hashes,count_confidence,data_classification,valid_from,valid_to,owner,reviewer,notes
