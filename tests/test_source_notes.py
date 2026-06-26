@@ -22,7 +22,7 @@ CORE_SOURCE_IDS = {
     "SRC-NOTT-0002",
 }
 
-EXPANDED_SOURCE_IDS = {
+STAGE_15A_SOURCE_IDS = {
     "SRC-BCC-0005",
     "SRC-BCC-0008",
     "SRC-BCC-0009",
@@ -67,6 +67,45 @@ EXPANDED_SOURCE_IDS = {
     "SRC-LEG-0027",
 }
 
+STAGE_15B_SOURCE_IDS = {
+    "SRC-WECA-0001",
+    "SRC-WECA-0003",
+    "SRC-WECA-0004",
+    "SRC-WECA-0006",
+    "SRC-ACADEMIC-0002",
+    "SRC-TFL-0001",
+    "SRC-UK-0003",
+    "SRC-LEG-0009",
+    "SRC-LEG-0010",
+    "SRC-HMT-0002",
+    "SRC-HMT-0003",
+    "SRC-HMT-0004",
+    "SRC-DFT-0002",
+    "SRC-WECA-0011",
+    "SRC-WECA-0012",
+    "SRC-WECA-0013",
+    "SRC-LEG-0014",
+    "SRC-LEG-0015",
+    "SRC-LEG-0016",
+    "SRC-LEG-0022",
+    "SRC-LEG-0023",
+    "SRC-WECA-0017",
+    "SRC-WECA-0018",
+    "SRC-WECA-0019",
+    "SRC-WECA-0020",
+    "SRC-WECA-0021",
+    "SRC-WECA-0022",
+    "SRC-WECA-0023",
+    "SRC-WECA-0024",
+    "SRC-WECA-0025",
+    "SRC-WECA-0026",
+    "SRC-WECA-0027",
+    "SRC-WECA-0028",
+    "SRC-WECA-0029",
+    "SRC-DFT-0003",
+    "SRC-DFT-0004",
+}
+
 
 class SourceNoteControlTest(unittest.TestCase):
     def test_source_note_validator_passes(self):
@@ -90,17 +129,24 @@ class SourceNoteControlTest(unittest.TestCase):
 
         covered = {row["source_id"] for row in rows if row["note_status"] == "pilot_note_created"}
         self.assertTrue(CORE_SOURCE_IDS <= covered)
-        expanded = {
+        expanded_15a = {
             row["source_id"] for row in rows if row["note_status"] == "stage_15a_note_created"
         }
-        self.assertTrue(EXPANDED_SOURCE_IDS <= expanded)
+        expanded_15b = {
+            row["source_id"] for row in rows if row["note_status"] == "stage_15b_note_created"
+        }
+        self.assertTrue(STAGE_15A_SOURCE_IDS <= expanded_15a)
+        self.assertTrue(STAGE_15B_SOURCE_IDS <= expanded_15b)
         for row in rows:
             if row["source_id"] in CORE_SOURCE_IDS:
                 self.assertEqual(row["coverage_stage"], "Stage 14A")
                 self.assertTrue(row["note_path"].startswith("evidence/source_notes/core/"))
-            if row["source_id"] in EXPANDED_SOURCE_IDS:
+            if row["source_id"] in STAGE_15A_SOURCE_IDS:
                 self.assertEqual(row["coverage_stage"], "Stage 15A")
                 self.assertTrue(row["note_path"].startswith("evidence/source_notes/expanded/"))
+            if row["source_id"] in STAGE_15B_SOURCE_IDS:
+                self.assertEqual(row["coverage_stage"], "Stage 15B")
+                self.assertTrue(row["note_path"].startswith("evidence/source_notes/stage15b/"))
 
     def test_core_source_notes_are_editable_and_bound_claims(self):
         note_paths = [
@@ -109,7 +155,11 @@ class SourceNoteControlTest(unittest.TestCase):
         ]
         note_paths.extend(
             ROOT / "evidence/source_notes/expanded" / f"{source_id.lower()}.md"
-            for source_id in EXPANDED_SOURCE_IDS
+            for source_id in STAGE_15A_SOURCE_IDS
+        )
+        note_paths.extend(
+            ROOT / "evidence/source_notes/stage15b" / f"{source_id.lower()}.md"
+            for source_id in STAGE_15B_SOURCE_IDS
         )
         for path in note_paths:
             text = path.read_text(encoding="utf-8")
@@ -133,7 +183,7 @@ class SourceNoteControlTest(unittest.TestCase):
         self.assertIn("source note means source is current", claims)
         self.assertTrue(all(row["current_status"] == "blocked" for row in rows))
 
-    def test_source_note_expansion_keeps_backlog_open(self):
+    def test_source_note_completion_keeps_claim_level_backlog_open(self):
         with (ROOT / "governance/issues_register.csv").open(newline="", encoding="utf-8") as handle:
             issues = {row["issue_id"]: row for row in csv.DictReader(handle)}
         with (ROOT / "evidence/evidence_gap_register.csv").open(
@@ -142,22 +192,39 @@ class SourceNoteControlTest(unittest.TestCase):
         ) as handle:
             gaps = {row["gap_id"]: row for row in csv.DictReader(handle)}
 
-        self.assertEqual(issues["ISS-0007"]["status"], "open")
-        self.assertEqual(gaps["EG-0024"]["status"], "open")
-        self.assertEqual(gaps["EG-0038"]["status"], "controlled_open")
-        self.assertEqual(gaps["EG-0043"]["status"], "controlled_open")
+        self.assertEqual(issues["ISS-0007"]["status"], "closed_stage_15b")
+        self.assertEqual(gaps["EG-0024"]["status"], "partially_closed_stage_15b")
+        self.assertEqual(gaps["EG-0038"]["status"], "closed_stage_15b")
+        self.assertEqual(gaps["EG-0043"]["status"], "closed_stage_15b")
+        self.assertEqual(gaps["EG-0044"]["status"], "open")
 
-    def test_stage_15a_sources_have_usable_extracted_text(self):
+    def test_stage_15a_and_15b_sources_have_usable_extracted_text(self):
         with (ROOT / "evidence/extraction_manifest.csv").open(
             newline="",
             encoding="utf-8",
         ) as handle:
             manifest = {row["source_id"]: row for row in csv.DictReader(handle)}
 
-        for source_id in EXPANDED_SOURCE_IDS:
+        for source_id in STAGE_15A_SOURCE_IDS | STAGE_15B_SOURCE_IDS:
             self.assertIn(source_id, manifest)
             self.assertTrue(manifest[source_id]["status"].startswith("extracted"))
             self.assertEqual(manifest[source_id]["quality"], "usable")
+
+    def test_downloaded_priority_sources_have_source_notes(self):
+        with (ROOT / "evidence/source_notes/source-note-coverage-register.csv").open(
+            newline="",
+            encoding="utf-8",
+        ) as handle:
+            covered = {row["source_id"] for row in csv.DictReader(handle)}
+        with (ROOT / "evidence/source_register.csv").open(newline="", encoding="utf-8") as handle:
+            missing = [
+                row["source_id"]
+                for row in csv.DictReader(handle)
+                if row["priority"] == "1_must"
+                and row["status"].startswith("downloaded")
+                and row["source_id"] not in covered
+            ]
+        self.assertEqual(missing, [])
 
     def test_coverage_register_rows_align_to_source_register_and_note_paths(self):
         with (ROOT / "evidence/source_register.csv").open(newline="", encoding="utf-8") as handle:
@@ -180,14 +247,17 @@ class SourceNoteControlTest(unittest.TestCase):
         readme = (ROOT / "README.md").read_text(encoding="utf-8")
         self.assertIn("Stage 14A", readme)
         self.assertIn("Stage 15A", readme)
+        self.assertIn("Stage 15B", readme)
         self.assertIn("evidence/source_notes/README.md", readme)
         self.assertIn("source-note backlog remains controlled", readme)
 
         stage_index = (ROOT / "docs/stages/README.md").read_text(encoding="utf-8")
         self.assertIn("Stage 14A", stage_index)
         self.assertIn("Stage 15A", stage_index)
+        self.assertIn("Stage 15B", stage_index)
         self.assertIn("source-note control", stage_index)
         self.assertIn("source-note expansion", stage_index)
+        self.assertIn("source-note completion", stage_index)
 
 
 if __name__ == "__main__":

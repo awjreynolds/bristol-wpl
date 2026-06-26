@@ -1,6 +1,6 @@
 claim_id,prohibited_claim,allowed_wording,current_status,gate_effect
 SN-NG-001,source note means claim is verified,A source note records controlled source-use guidance; claim verification still requires claim-level evidence review.,blocked,source_note_control_only
-SN-NG-002,source note means OBC or FBC evidence is complete,The Stage 14A pilot helps future OBC/FBC drafting but does not complete business-case evidence dependencies.,blocked,source_note_control_only
+SN-NG-002,source note means OBC or FBC evidence is complete,Stage 15B completes acquired-priority source-note coverage only; OBC and FBC evidence completion still requires claim-level summaries and specialist review.,blocked,source_note_control_only
 SN-NG-003,source note replaces legal advice,Legal claims require real legal review and cannot rely on a simulation source note alone.,blocked,source_note_control_only
-SN-NG-004,source note closes ISS-0007,The source-note backlog remains controlled open until every acquired priority source has a reviewed note.,blocked,source_note_control_only
+SN-NG-004,source note closes ISS-0007,No individual source note closes ISS-0007. Stage 15B closes only acquired-priority source-note coverage; EG-0044 remains open for claim-level summaries.,blocked,source_note_control_only
 SN-NG-005,source note means source is current,Currentness must be rechecked before real-world reliance or publication.,blocked,source_note_control_only

@@ -23,7 +23,7 @@ CORE_SOURCE_IDS = {
     "SRC-NOTT-0002",
 }
 
-EXPANDED_SOURCE_IDS = {
+STAGE_15A_SOURCE_IDS = {
     "SRC-BCC-0005",
     "SRC-BCC-0008",
     "SRC-BCC-0009",
@@ -68,20 +68,63 @@ EXPANDED_SOURCE_IDS = {
     "SRC-LEG-0027",
 }
 
-REQUIRED_SOURCE_IDS = CORE_SOURCE_IDS | EXPANDED_SOURCE_IDS
+STAGE_15B_SOURCE_IDS = {
+    "SRC-WECA-0001",
+    "SRC-WECA-0003",
+    "SRC-WECA-0004",
+    "SRC-WECA-0006",
+    "SRC-ACADEMIC-0002",
+    "SRC-TFL-0001",
+    "SRC-UK-0003",
+    "SRC-LEG-0009",
+    "SRC-LEG-0010",
+    "SRC-HMT-0002",
+    "SRC-HMT-0003",
+    "SRC-HMT-0004",
+    "SRC-DFT-0002",
+    "SRC-WECA-0011",
+    "SRC-WECA-0012",
+    "SRC-WECA-0013",
+    "SRC-LEG-0014",
+    "SRC-LEG-0015",
+    "SRC-LEG-0016",
+    "SRC-LEG-0022",
+    "SRC-LEG-0023",
+    "SRC-WECA-0017",
+    "SRC-WECA-0018",
+    "SRC-WECA-0019",
+    "SRC-WECA-0020",
+    "SRC-WECA-0021",
+    "SRC-WECA-0022",
+    "SRC-WECA-0023",
+    "SRC-WECA-0024",
+    "SRC-WECA-0025",
+    "SRC-WECA-0026",
+    "SRC-WECA-0027",
+    "SRC-WECA-0028",
+    "SRC-WECA-0029",
+    "SRC-DFT-0003",
+    "SRC-DFT-0004",
+}
+
+REQUIRED_SOURCE_IDS = CORE_SOURCE_IDS | STAGE_15A_SOURCE_IDS | STAGE_15B_SOURCE_IDS
 
 REQUIRED_FILES = [
     "analysis/evidence/stage-14a-source-note-control-package.md",
     "analysis/evidence/stage-15a-source-note-expansion-control-package.md",
+    "analysis/evidence/stage-15b-source-note-completion-control-package.md",
     "evidence/source_notes/README.md",
     "evidence/source_notes/source-note-coverage-register.csv",
     "evidence/source_notes/source-note-no-go-register.csv",
     "docs/stages/stage-14a-source-notes.md",
     "docs/stages/stage-15a-source-note-expansion.md",
+    "docs/stages/stage-15b-source-note-completion.md",
     "review/peer_review/stage-14a-source-note-review.md",
     "review/peer_review/stage-15a-source-note-expansion-review.md",
+    "review/peer_review/stage-15b-source-note-completion-review.md",
     "review/stage_gate_reports/stage-14a-source-note-control-report.md",
     "review/stage_gate_reports/stage-15a-source-note-expansion-report.md",
+    "review/stage_gate_reports/stage-15b-source-note-completion-report.md",
 ]
 
 CSV_HEADERS = {
@@ -120,22 +163,90 @@ REQUIRED_NOTE_PHRASES = [
     "Does not close ISS-0007",
 ]
 
+WECA_CONTROL_SOURCE_IDS = {
+    source_id
+    for source_id in STAGE_15B_SOURCE_IDS
+    if source_id.startswith("SRC-WECA-")
+} | {
+    "SRC-LEG-0009",
+    "SRC-LEG-0010",
+    "SRC-LEG-0014",
+    "SRC-LEG-0015",
+    "SRC-LEG-0016",
+    "SRC-LEG-0022",
+    "SRC-LEG-0023",
+}
+
+METHOD_GUIDANCE_SOURCE_IDS = {
+    "SRC-HMT-0002",
+    "SRC-HMT-0003",
+    "SRC-HMT-0004",
+    "SRC-DFT-0002",
+    "SRC-DFT-0003",
+    "SRC-DFT-0004",
+}
+
+DFT_SEARCH_CONTROL_SOURCE_IDS = {
+    "SRC-DFT-0003",
+    "SRC-DFT-0004",
+}
+
+COMPARATOR_TRANSFER_SOURCE_IDS = {
+    "SRC-ACADEMIC-0002",
+    "SRC-TFL-0001",
+    "SRC-UK-0003",
+}
+
+SOURCE_SPECIFIC_NOTE_PHRASES = {
+    **{
+        source_id: [
+            "Absence of WPL material in this source is not proof that no WECA record exists elsewhere",
+        ]
+        for source_id in WECA_CONTROL_SOURCE_IDS
+    },
+    **{
+        source_id: [
+            "Guidance/source-control note only",
+            "no Green Book or TAG compliance",
+            "no VFM conclusion",
+        ]
+        for source_id in METHOD_GUIDANCE_SOURCE_IDS
+    },
+    **{
+        source_id: [
+            "not proof that no guidance, approval route or DfT process exists",
+        ]
+        for source_id in DFT_SEARCH_CONTROL_SOURCE_IDS
+    },
+    **{
+        source_id: [
+            "without Bristol-specific transferability evidence",
+            "mode-share, elasticity, congestion, revenue, charge level",
+        ]
+        for source_id in COMPARATOR_TRANSFER_SOURCE_IDS
+    },
+}
+
 REQUIRED_NAV_PHRASES = {
     "README.md": [
         "Stage 14A",
         "Stage 15A",
+        "Stage 15B",
         "evidence/source_notes/README.md",
         "source-note backlog remains controlled",
     ],
     "docs/stages/README.md": [
         "Stage 14A",
         "Stage 15A",
+        "Stage 15B",
         "source-note control",
         "source-note expansion",
+        "source-note completion",
     ],
     "evidence/source_notes/README.md": [
         "Simulation-only source notes",
         "Stage 15A",
+        "Stage 15B",
         "source-note backlog remains controlled",
         "Does not close ISS-0007",
     ],
@@ -147,30 +258,40 @@ REQUIRED_NAV_PHRASES = {
         "Accepted for expanded source-note control purposes only",
         "source-note backlog remains controlled",
     ],
+    "review/stage_gate_reports/stage-15b-source-note-completion-report.md": [
+        "Accepted for acquired-priority source-note completion purposes only",
+        "claim-level source summaries remain open",
+    ],
 }
 
 
 def expected_status(source_id: str) -> str | None:
     if source_id in CORE_SOURCE_IDS:
         return "pilot_note_created"
-    if source_id in EXPANDED_SOURCE_IDS:
+    if source_id in STAGE_15A_SOURCE_IDS:
         return "stage_15a_note_created"
+    if source_id in STAGE_15B_SOURCE_IDS:
+        return "stage_15b_note_created"
     return None
 
 
 def expected_stage(source_id: str) -> str | None:
     if source_id in CORE_SOURCE_IDS:
         return "Stage 14A"
-    if source_id in EXPANDED_SOURCE_IDS:
+    if source_id in STAGE_15A_SOURCE_IDS:
         return "Stage 15A"
+    if source_id in STAGE_15B_SOURCE_IDS:
+        return "Stage 15B"
     return None
 
 
 def expected_note_dir(source_id: str) -> str | None:
     if source_id in CORE_SOURCE_IDS:
         return "evidence/source_notes/core/"
-    if source_id in EXPANDED_SOURCE_IDS:
+    if source_id in STAGE_15A_SOURCE_IDS:
         return "evidence/source_notes/expanded/"
+    if source_id in STAGE_15B_SOURCE_IDS:
+        return "evidence/source_notes/stage15b/"
     return None
 
 
@@ -282,7 +403,7 @@ def check_coverage_register() -> list[str]:
                 required = "raw PDF is deliberately omitted from the public repository"
                 if required not in note_text:
                     errors.append(f"{note_path} missing raw-omitted public repo control wording")
-        if source_id in EXPANDED_SOURCE_IDS:
+        if source_id in STAGE_15A_SOURCE_IDS | STAGE_15B_SOURCE_IDS:
             manifest = manifest_rows.get(source_id)
             if not manifest:
                 errors.append(f"evidence/extraction_manifest.csv missing {source_id}")
@@ -306,6 +427,9 @@ def check_source_notes() -> list[str]:
         for phrase in REQUIRED_NOTE_PHRASES:
             if phrase not in text:
                 errors.append(f"{path.relative_to(ROOT)} missing required phrase: {phrase}")
+        for phrase in SOURCE_SPECIFIC_NOTE_PHRASES.get(source_id, []):
+            if phrase not in text:
+                errors.append(f"{path.relative_to(ROOT)} missing source-specific phrase: {phrase}")
         if source_id not in text:
             errors.append(f"{path.relative_to(ROOT)} missing source id {source_id}")
     return errors
@@ -324,6 +448,11 @@ def check_no_go_register() -> list[str]:
         claim_id = row.get("claim_id", "<unknown>")
         if row.get("current_status") != "blocked":
             errors.append(f"{rel} {claim_id} must remain blocked")
+        if claim_id == "SN-NG-004" and "Stage 15B closes only acquired-priority" not in row.get(
+            "allowed_wording",
+            "",
+        ):
+            errors.append(f"{rel} SN-NG-004 must qualify the Stage 15B ISS-0007 closure")
     return errors
 
 
@@ -341,18 +470,30 @@ def check_required_phrases() -> list[str]:
     return errors
 
 
-def check_backlog_remains_open() -> list[str]:
+def check_downloaded_priority_sources_are_noted() -> list[str]:
+    errors = []
+    coverage = {row["source_id"] for row in read_rows("evidence/source_notes/source-note-coverage-register.csv")}
+    for row in source_register_rows().values():
+        if row.get("priority") == "1_must" and row.get("status", "").startswith("downloaded"):
+            if row["source_id"] not in coverage:
+                errors.append(f"missing source note coverage for downloaded priority source {row['source_id']}")
+    return errors
+
+
+def check_backlog_status_controlled() -> list[str]:
     errors = []
     issue_rows = {row["issue_id"]: row for row in read_rows("governance/issues_register.csv")}
     gap_rows = {row["gap_id"]: row for row in read_rows("evidence/evidence_gap_register.csv")}
-    if issue_rows.get("ISS-0007", {}).get("status") != "open":
-        errors.append("ISS-0007 must remain open after Stage 15A source-note expansion")
-    if gap_rows.get("EG-0024", {}).get("status") != "open":
-        errors.append("EG-0024 must remain open after Stage 15A source-note expansion")
-    if gap_rows.get("EG-0038", {}).get("status") != "controlled_open":
-        errors.append("EG-0038 must remain controlled_open after Stage 15A source-note expansion")
-    if gap_rows.get("EG-0043", {}).get("status") != "controlled_open":
-        errors.append("EG-0043 must remain controlled_open after Stage 15A source-note expansion")
+    if issue_rows.get("ISS-0007", {}).get("status") != "closed_stage_15b":
+        errors.append("ISS-0007 must be closed_stage_15b after acquired-priority source notes are complete")
+    if gap_rows.get("EG-0024", {}).get("status") != "partially_closed_stage_15b":
+        errors.append("EG-0024 must remain partially_closed_stage_15b because claim-level summaries remain open")
+    if gap_rows.get("EG-0038", {}).get("status") != "closed_stage_15b":
+        errors.append("EG-0038 must be closed_stage_15b after Stage 15B source-note completion")
+    if gap_rows.get("EG-0043", {}).get("status") != "closed_stage_15b":
+        errors.append("EG-0043 must be closed_stage_15b after Stage 15B source-note completion")
+    if gap_rows.get("EG-0044", {}).get("status") != "open":
+        errors.append("EG-0044 must remain open for claim-level source summaries")
     return errors
 
 
@@ -364,7 +505,8 @@ def collect_errors() -> list[str]:
     errors.extend(check_source_notes())
     errors.extend(check_no_go_register())
     errors.extend(check_required_phrases())
-    errors.extend(check_backlog_remains_open())
+    errors.extend(check_downloaded_priority_sources_are_noted())
+    errors.extend(check_backlog_status_controlled())
     return errors
 
 

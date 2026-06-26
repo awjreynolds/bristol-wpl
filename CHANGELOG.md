@@ -25,6 +25,7 @@
 - Added Stage 14D live history-rewrite completion controls after explicit approval, including force-with-lease execution evidence, local all-history scan, fresh remote mirror scan and residual hosted-alert/fork/cache caveats.
 - Added Stage 14E hosted-alert disposition controls, including GitHub metadata/API checks, GitGuardian tooling limitation, and explicit GitGuardian follow-up wording.
 - Added Stage 15A source-note expansion controls, including 42 legal/governance source notes, coverage-stage register rows, extraction-manifest checks, raw-omitted public-pack controls, updated public/officer navigation and a gate report while keeping `ISS-0007`, `EG-0024`, `EG-0038` and `EG-0043` open.
+- Added Stage 15B acquired-priority source-note completion controls, including 36 WECA/MCA, appraisal, DfT search-control, Nottingham and UK comparator source notes, source-specific no-go wording, updated public/officer navigation, and a gate report while keeping `EG-0044` and all WPL readiness gates open.
 
 ## 2026-06-25
 

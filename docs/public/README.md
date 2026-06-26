@@ -37,7 +37,7 @@ The simulation currently says:
 - no OBC or FBC has been assembled;
 - no public consultation is launch-ready;
 - no statutory submission is ready;
-- source notes are expanded for legal/governance material but still incomplete across the acquired evidence base;
+- downloaded priority source-note coverage is complete, but claim-level source summaries and all readiness gates remain open;
 - Nottingham lessons cannot be copied to Bristol without transferability evidence.
 
 ## Where To Start
