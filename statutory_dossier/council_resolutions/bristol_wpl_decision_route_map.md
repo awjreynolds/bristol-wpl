@@ -46,6 +46,16 @@ Status: simulation drafting control. This is not a committee report, officer rec
 | Final WPL licensing scheme order | Route not settled. Transport and Connectivity Committee is the best-evidenced member route for business-case progression but not confirmed for final licensing-scheme order-making. | Prepare order and legal dossier; no officer-only final decision. | Placeholder only until Monitoring Officer/legal route confirmation identifies the decision body. |
 | Submission for Secretary of State confirmation | Route not settled. Future decision must authorise submission and named signatory. | Monitoring Officer or authorised officer signs/authenticates/submits only under confirmed authority. | Placeholder only until submitter and signatory route is confirmed. |
 
+## Stage 2I Final Order And Submission Options
+
+Stage 2I confirms that the final order-maker and statutory submitter route remains P0 open. Future reports may use only these controlled options until a source-supported Monitoring Officer/legal route decision is recorded:
+
+| Option | Use only if | Required resolution control |
+| --- | --- | --- |
+| Conservative Full Council route | A budget/policy-framework, local-legislation, law-reserved, constitutional-interpretation or high-significance trigger remains arguable. | Transport and Connectivity Committee recommends; Full Council makes or approves the final WPL licensing scheme order and expressly authorises Secretary of State submission and named signatory. |
+| Controlled committee route | Monitoring Officer advice expressly confirms Transport and Connectivity Committee competence and that Full Council is not required. | Transport and Connectivity Committee makes or approves the order and expressly authorises submission and named signatory. |
+| Officer sign/authenticate/submit after member decision | A valid member decision has been made and law allows officer execution. | Monitoring Officer or authorised officer signs, authenticates, seals if required and submits only under the express resolution. |
+
 ## Mandatory Advice Check
 
 Each report must record:
@@ -56,6 +66,27 @@ Each report must record:
 - whether Full Council is required and why;
 - whether WECA/MCA has any role, assurance dependency or funding dependency;
 - whether the matter is on the Forward Plan as a key decision.
+
+## Mandatory Final Order Decision Box
+
+Every final order or submission report must include:
+
+```text
+Decision sought:
+To [make/approve for making] the Bristol Workplace Parking Levy licensing scheme order under Transport Act 2000 Part III, Chapter II, and to authorise its submission for confirmation under Transport Act 2000 section 184.
+
+Decision body:
+[Transport and Connectivity Committee / Full Council], on the basis of recorded Monitoring Officer advice that this is the correct constitutional route. Full Council is [required / not required] because [source-bounded reason].
+
+Key decision and notice:
+This [is/is not] a key decision and [has/has not] been included on the Forward Plan in accordance with the Access to Information Procedure Rules.
+
+Officer authority:
+Authorise [named post] to prepare, finalise, sign/authenticate, seal if required, and submit the order and confirmation dossier to the Secretary of State, subject to Monitoring Officer confirmation that the documents match the decision made.
+
+Conditions precedent:
+The order must not come into force unless and until submitted to and confirmed by the appropriate national authority under Transport Act 2000 section 184. No implementation, charging, enforcement or public representation of approval may occur before the stated conditions are satisfied.
+```
 
 ## No-Overclaim Control
 

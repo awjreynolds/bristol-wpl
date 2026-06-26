@@ -23,6 +23,7 @@ Current controlled gate reports:
 - `review/stage_gate_reports/stage-2f-current-law-function-map-report.md`
 - `review/stage_gate_reports/stage-2g-meeting-record-search-report.md`
 - `review/stage_gate_reports/stage-2h-package-funding-assurance-report.md`
+- `review/stage_gate_reports/stage-2i-final-order-submission-route-report.md`
 - `review/stage_gate_reports/stage-2b-current-law-role-map-report.md`
 - `review/stage_gate_reports/stage-2a-governance-evidence-refinement-report.md`
 - `review/stage_gate_reports/stage-2-legal-governance-technical-baseline-report.md`
@@ -42,7 +43,7 @@ Do not draft or assemble an OBC/FBC, select a preferred scheme, launch statutory
 
 Open controls include:
 
-- P0 Bristol final WPL licensing-scheme order-maker and statutory submitter route; Bristol-led authority-status evidence is source-bounded by Stage 2C, and OBC/FBC member routing is partly controlled by Stage 2D.
+- P0 Bristol final WPL licensing-scheme order-maker, statutory submitter and signatory route; Bristol-led authority-status evidence is source-bounded by Stage 2C, OBC/FBC member routing is partly controlled by Stage 2D, and Stage 2I adds final order/submission decision-box controls without closing the route.
 - P0 WECA/MCA current-law role; Stage 2E controls strategic-context and conditional funding/assurance wording, Stage 2F controls that current scoped repo evidence does not identify a WPL-specific transferred/concurrent WECA/MCA order-making function, Stage 2G narrows bounded public meeting-record search, and Stage 2H classifies package-level funding/assurance triggers. None of these settles consent, no-role, consultation-response or final funding-dependency status.
 - P0 authoritative WPL boundary and parking inventory.
 - P0/P1 DPIA/lawful-basis pack and enforcement operating procedure.

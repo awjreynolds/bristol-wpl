@@ -12,6 +12,7 @@ The machine-readable gap register is `evidence/evidence_gap_register.csv`.
 - Bristol constitution/delegation sources and WECA/MCA constitution/current-law sources have been acquired for route mapping.
 - Stage 2C narrowed Bristol authority-status evidence using the Avon structural-change and Transport Act 2000 section 163 sources.
 - Stage 2D narrowed Bristol OBC/progression/FBC member-route evidence to Transport and Connectivity Committee.
+- Stage 2I tested final Bristol order-making and Secretary of State submission route evidence; it did not close the P0, but it added controlled Full Council, committee and officer execution options plus mandatory decision-box wording.
 - Stage 2E narrowed WECA/MCA evidence-language risk to strategic context and possible conditional funding/assurance context only.
 - Stage 2F narrowed WECA/MCA current-law function-map risk by recording that current scoped repo evidence does not identify a WPL-specific transferred or concurrent WECA/MCA order-making function.
 - Stage 2G completed a bounded official WECA/ModernGov public meeting-record search and did not locate a formal WECA/MCA Bristol WPL approval, support, objection, consent, sponsorship or funding decision.
@@ -21,7 +22,7 @@ The machine-readable gap register is `evidence/evidence_gap_register.csv`.
 
 ## Continuing Gaps
 
-- Bristol final WPL licensing-scheme order-making and order-submission route remains unresolved pending legal/Monitoring Officer route confirmation.
+- Bristol final WPL licensing-scheme order-making, order-submission and signatory route remains unresolved pending legal/Monitoring Officer route confirmation; Stage 2I controls future decision-box wording only.
 - WECA/MCA no-role, consent, formal consultation-response and funding-assurance dependency conclusions remain unresolved; Stage 2G narrows public meeting-record evidence and Stage 2H narrows package-level trigger classification only.
 - Spatial boundary, parking inventory and data-sharing sources are not acquired.
 - DPIA scope, lawful basis, operating procedures and enforcement templates are not produced.
