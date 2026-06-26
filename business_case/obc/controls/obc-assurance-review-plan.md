@@ -5,6 +5,13 @@ Date: 2026-06-26.
 
 This plan defines simulation review gates for a future OBC. It does not approve or assemble an OBC.
 
+Stage 7A now records the future OBC gate checklist and assurance panel controls in:
+
+- `business_case/obc/controls/stage-7-obc-gate-checklist.csv`
+- `business_case/obc/controls/stage-7-assurance-panel-register.csv`
+- `business_case/obc/controls/stage-7-decision-report-control.md`
+- `business_case/obc/controls/stage-7-red-team-packet.md`
+
 ## Sequential Reviews
 
 1. Author self-check against the section dependency matrix.

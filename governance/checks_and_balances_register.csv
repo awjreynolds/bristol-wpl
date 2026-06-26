@@ -9,3 +9,4 @@ CB-0007,appraisal_output,OAR ASR ASST model cards run manifests outputs uncertai
 CB-0008,obc_readiness,Section dependency and claim dependency evidence with reviewer status,Integrated Case Review Agent,validate_obc.py,OBC ready,blocked_controlled
 CB-0009,consultation_launch,Authority privacy accessibility EqIA materials and response-analysis controls,Consultation Review Agent,validate_consultation.py,consultation ready to launch,blocked_controlled
 CB-0010,real_world_signoff,Human public-authority and professional approval replacement evidence,Programme Orchestrator,validate_officer_pack.py,agent sign-off is approval,blocked_controlled
+"CB-0011","obc_gate","Completed OBC evidence packet gate checklist panel outputs red-team disposition and decision-report controls","Integrated Case Review Agent","validate_obc_assurance.py","OBC gate passed","blocked_controlled"

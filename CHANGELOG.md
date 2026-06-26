@@ -12,6 +12,7 @@
 - Added Stage 4A boundary and parking-inventory control architecture, including spatial QA validation, canonical inventory headers, DPIA/operations link controls and a no-go gate report.
 - Added Stage 5A options and appraisal control architecture, including appraisal QA validation, ASR/ASST controls, model-card stubs, benefits treatment, Nottingham transferability and no-go gate controls.
 - Added Stage 6A OBC readiness control architecture, including OBC section dependency controls, claim-level dependency register, no-go claim register, active assembly block and OBC QA validation.
+- Added Stage 7A OBC assurance gate controls, including gate checklist, assurance panel register, decision-report control, red-team packet, validator and no-go gate report.
 - Added Stage 8A consultation readiness control architecture, including consultation QA validation, material suffix controls, processed response schema, accessibility/privacy controls, coding and representativeness safeguards and a no-go launch gate report.
 - Added Stage 9A public/officer assurance layer, including a public-first README, officer dashboard, visual stage map, pitfalls register, stage risk matrix, Nottingham lessons register, real-world adoption checklist and validators for officer pack and Nottingham transferability controls.
 

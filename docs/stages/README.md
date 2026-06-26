@@ -20,6 +20,7 @@ Each completed stage package should be committed and pushed before the next stag
 | Stage 4A | Boundary, parking-inventory, DPIA and operations data-control architecture | Complete as control architecture; Stage 4 no-go remains | `review/stage_gate_reports/stage-4a-boundary-parking-control-report.md` |
 | Stage 5A | Options, OAR, ASR, ASST, model-card and appraisal-control architecture | Complete as control architecture; Stage 5 no-go remains | `review/stage_gate_reports/stage-5a-options-appraisal-control-report.md` |
 | Stage 6A | OBC section-readiness, claim-dependency and assembly controls | Complete as control architecture; OBC assembly no-go remains | `review/stage_gate_reports/stage-6a-obc-readiness-control-report.md` |
+| Stage 7A | OBC assurance panel, gate checklist, red-team and decision-report controls | Complete as control architecture; Stage 7 OBC gate remains blocked | `review/stage_gate_reports/stage-7a-obc-assurance-gate-report.md` |
 | Stage 8A | Consultation launch, material, stakeholder, privacy, accessibility and analysis controls | Complete as control architecture; consultation launch no-go remains | `review/stage_gate_reports/stage-8a-consultation-readiness-control-report.md` |
 | Stage 9A | Public/officer assurance layer, pitfalls register, Nottingham lessons and readability controls | Complete as communication/control architecture; no substantive readiness gate closes | `review/stage_gate_reports/stage-9a-public-officer-assurance-report.md` |
 
@@ -31,6 +32,7 @@ Each completed stage package should be committed and pushed before the next stag
 - [Stage 4A Spatial and Parking Data Controls](stage-4a-spatial-data.md)
 - [Stage 5A Options and Appraisal Controls](stage-5a-options-appraisal.md)
 - [Stage 6A OBC Readiness Controls](stage-6a-obc-readiness.md)
+- [Stage 7A OBC Assurance Controls](stage-7a-obc-assurance.md)
 - [Stage 8A Consultation Readiness Controls](stage-8a-consultation-readiness.md)
 - [Stage 9A Public And Officer Assurance](stage-9a-public-officer-assurance.md)
 

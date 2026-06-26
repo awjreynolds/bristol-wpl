@@ -17,7 +17,7 @@ This is a controlled simulation. It is not an approved Bristol WPL scheme, not a
 | Boundary and parking inventory | Not available | RED | ISS-0003 and RISK-0004 remain open P0 controls | Authoritative boundary, licences, inventory, topology QA and legal/GIS reconciliation |
 | Displacement and residential spillover | Not assessed | RED | Boundary and inventory are absent | Boundary options, parking inventory, residential street baseline and mitigation options |
 | Options and appraisal | Not ready | RED | ISS-0004 remains open P0 | OAR, ASR, ASST, model cards, outputs, uncertainty and reviewer sign-off |
-| OBC | Not assembled | AMBER | ISS-0011 and RISK-0014 remain open | Populated evidence dependencies and Stage 7 assurance |
+| OBC | Not assembled and gate cannot pass | AMBER | ISS-0011 and RISK-0014 remain open; Stage 7A creates controls only | Populated evidence dependencies and Stage 7 assurance |
 | Consultation launch | Not ready | AMBER | ISS-0012 and RISK-0015 remain open | Authority to consult, materials, privacy, accessibility, response-analysis and public-law checks |
 | Data protection and operations | Not ready | AMBER | ISS-0006 and RISK-0007 remain open | DPIA, lawful basis, PCN, appeals, recovery and service controls |
 | Nottingham transfer | Lessons only | AMBER | EG-0004, EG-0008, ISS-0005, RISK-0006 and RISK-0009 remain open | Refreshed Nottingham evidence and Bristol transferability assessment |

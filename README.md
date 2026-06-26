@@ -57,7 +57,8 @@ flowchart LR
     S3 --> S4["Stage 4A<br/>Boundary and parking controls"]
     S4 --> S5["Stage 5A<br/>Appraisal controls"]
     S5 --> S6["Stage 6A<br/>OBC readiness controls"]
-    S6 --> S7["Stage 7<br/>OBC gate BLOCKED"]
+    S6 --> S7A["Stage 7A<br/>OBC assurance controls"]
+    S7A --> S7["Stage 7<br/>OBC gate BLOCKED"]
     S7 --> S8["Stage 8A<br/>Consultation controls"]
     S8 --> S9["Stage 9A<br/>Public/officer assurance"]
     S9 --> S11["Stage 11<br/>FBC and statutory gate BLOCKED"]
@@ -93,6 +94,7 @@ The stage-by-stage workflow narrative is maintained in `docs/stages/`:
 - `docs/stages/stage-4a-spatial-data.md`
 - `docs/stages/stage-5a-options-appraisal.md`
 - `docs/stages/stage-6a-obc-readiness.md`
+- `docs/stages/stage-7a-obc-assurance.md`
 - `docs/stages/stage-8a-consultation-readiness.md`
 - `docs/stages/stage-9a-public-officer-assurance.md`
 
@@ -117,6 +119,7 @@ Current gate reports live under `review/stage_gate_reports/`. Key current report
 - `review/stage_gate_reports/stage-4a-boundary-parking-control-report.md`
 - `review/stage_gate_reports/stage-5a-options-appraisal-control-report.md`
 - `review/stage_gate_reports/stage-6a-obc-readiness-control-report.md`
+- `review/stage_gate_reports/stage-7a-obc-assurance-gate-report.md`
 - `review/stage_gate_reports/stage-8a-consultation-readiness-control-report.md`
 - `review/stage_gate_reports/stage-9a-public-officer-assurance-report.md`
 
@@ -147,6 +150,7 @@ make strategic-qa
 make spatial-qa
 make appraisal-qa
 make obc-qa
+make obc-assurance-qa
 make consultation-qa
 make red-team
 python3 scripts/acquire_sources.py --priority 1_must
