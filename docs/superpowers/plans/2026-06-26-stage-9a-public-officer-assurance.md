@@ -86,5 +86,5 @@
 - [x] Run `make validate`, `make officer-pack-qa`, `make nottingham-qa`, `make red-team`, `make gate-obc`, `make gate-fbc`, `git diff --check`, prompt parity and no-authored-PDF scan.
 - [x] Use simulated subagent review for public readability and assurance consistency. Final live reviewer agents were attempted but blocked by platform usage limits; the review provenance is recorded in Stage 9A review artefacts.
 - [x] Fix findings.
-- [ ] Commit as `docs: add Stage 9A public officer assurance layer`.
-- [ ] Push `main`.
+- [x] Commit as `docs: add Stage 9A public officer assurance layer`.
+- [x] Push `main`.
