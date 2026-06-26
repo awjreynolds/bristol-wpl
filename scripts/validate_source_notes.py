@@ -492,8 +492,10 @@ def check_backlog_status_controlled() -> list[str]:
         errors.append("EG-0038 must be closed_stage_15b after Stage 15B source-note completion")
     if gap_rows.get("EG-0043", {}).get("status") != "closed_stage_15b":
         errors.append("EG-0043 must be closed_stage_15b after Stage 15B source-note completion")
-    if gap_rows.get("EG-0044", {}).get("status") != "open":
-        errors.append("EG-0044 must remain open for claim-level source summaries")
+    if gap_rows.get("EG-0044", {}).get("status") != "partially_closed_stage_16a":
+        errors.append("EG-0044 must be partially_closed_stage_16a after current claim summaries are created")
+    if gap_rows.get("EG-0045", {}).get("status") != "open":
+        errors.append("EG-0045 must remain open for future drafting-specific claim summaries")
     return errors
 
 

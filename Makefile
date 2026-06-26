@@ -31,6 +31,7 @@ evidence-qa:
 
 claims-qa:
 	$(PYTHON) scripts/validate_claims.py
+	$(PYTHON) scripts/validate_claim_summaries.py
 
 secrets-qa:
 	$(PYTHON) scripts/scan_secrets.py
@@ -49,6 +50,7 @@ validate:
 	$(PYTHON) scripts/validate_public_release.py
 	$(PYTHON) scripts/validate_handover.py
 	$(PYTHON) scripts/validate_source_notes.py
+	$(PYTHON) scripts/validate_claim_summaries.py
 
 models:
 	$(PYTHON) scripts/build_models.py

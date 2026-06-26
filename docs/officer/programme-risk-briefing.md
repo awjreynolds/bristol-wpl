@@ -26,7 +26,8 @@ The simulation has mostly completed control architecture, not substantive case e
 | Treating source notes as verified claim evidence | Stage 14A | False confidence in OBC/FBC drafting and unsupported source-heavy claims | Source-note no-go register and `python3 scripts/validate_source_notes.py` |
 | Treating repository-side secret-scanning remediation as GitGuardian closure | Stage 14B-E | False security or hosted-alert claim | Secret-scan reports, history-rewrite reports and direct GitGuardian follow-up requirement |
 | Treating source-note expansion as legal clearance or complete evidence review | Stage 15A | Legal-route overclaim and premature source-heavy drafting | Coverage-stage register, raw-omitted source controls and `python3 scripts/validate_source_notes.py` |
-| Treating acquired-priority source-note completion as evidence completion | Stage 15B | Unsupported legal, WECA/MCA, DfT, appraisal, comparator, OBC/FBC or statutory claims | `EG-0044`, claim-level source summaries requirement and Stage 15B validator no-go wording |
+| Treating acquired-priority source-note completion as evidence completion | Stage 15B | Unsupported legal, WECA/MCA, DfT, appraisal, comparator, OBC/FBC or statutory claims | Stage 15B validator no-go wording and Stage 16A claim-summary handoff controls |
+| Treating claim summaries as claim truth or drafting readiness | Stage 16A | Unsupported public, officer, legal, OBC/FBC, consultation or statutory reliance | `EG-0045`, claim-summary no-go register and `python3 scripts/validate_claim_summaries.py` |
 
 ## Risk Registers
 

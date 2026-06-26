@@ -1,0 +1,7 @@
+claim_id,prohibited_claim,allowed_wording,current_status,gate_effect
+CS-NG-001,claim summary means claim is true,A claim summary records the current simulated reviewer status and limits only; claim truth still depends on underlying source review and later professional judgement.,blocked,claim_summary_control_only
+CS-NG-002,claim summary means OBC or FBC evidence is complete,Stage 16A covers current claim-matrix summaries only; future OBC/FBC drafting-specific claims remain controlled under EG-0045.,blocked,claim_summary_control_only
+CS-NG-003,claim summary replaces legal advice,Legal and statutory claims still require legal review and later real-world legal advice.,blocked,claim_summary_control_only
+CS-NG-004,claim summary closes WPL readiness gates,"No claim summary closes approval, consultation, OBC, FBC, statutory, procurement or implementation gates.",blocked,claim_summary_control_only
+CS-NG-005,claim summary can be cited instead of the source,"Future drafting must cite underlying source IDs and locations, not the summary alone.",blocked,claim_summary_control_only
+CS-NG-006,claim summary means source is current,Source currentness must be rechecked before real-world reliance or publication.,blocked,claim_summary_control_only

@@ -10,10 +10,10 @@ This repository is public. Stage 12A records that public visibility is not appro
 
 | Item | Current position |
 |---|---|
-| Last completed stage | Stage 15B: acquired-priority source-note completion. |
-| What Stage 15B controls | It adds 36 further editable source notes and brings downloaded priority-1 source-note coverage to 91 controlled notes across Stage 14A, Stage 15A and Stage 15B. |
-| What Stage 15B cannot do | It does not verify claims, provide legal advice, create claim-level source summaries, settle WECA/MCA or DfT positions, pass an OBC/FBC gate, launch consultation or authorise statutory submission. |
-| Main live blockers | `ISS-0001`, `ISS-0002`, `ISS-0003`, `ISS-0004`, `ISS-0008`, `ISS-0011`, `ISS-0012`, `ISS-0015`, `ISS-0016`, `ISS-0025`, `EG-0044`. |
+| Last completed stage | Stage 16A: current-claim-matrix claim-summary control. |
+| What Stage 16A controls | It creates a claim-level source-summary layer: 38 editable claim summaries for existing `CLM-0001` to `CLM-0038` rows, with source IDs, source locations, reviewer status, limitations and no-go wording. |
+| What Stage 16A cannot do | It does not verify claim truth, provide legal advice, cover future drafting-specific claims, settle WECA/MCA or DfT positions, pass an OBC/FBC gate, launch consultation or authorise statutory submission. |
+| Main live blockers | `ISS-0001`, `ISS-0002`, `ISS-0003`, `ISS-0004`, `ISS-0008`, `ISS-0011`, `ISS-0012`, `ISS-0015`, `ISS-0016`, `ISS-0025`, `ISS-0026`, `EG-0045`. |
 
 ## Current No-Go Position
 
@@ -30,7 +30,7 @@ The blockers are not cosmetic:
 - No OAR, agreed ASR, completed ASST, model outputs, BCR or VFM category exists.
 - No OBC or FBC has been assembled.
 - No consultation material, questionnaire, privacy notice, accessibility approval or response-analysis route exists.
-- No claim-level source summaries exist for high-materiality legal, WECA/MCA, DfT, appraisal, comparator, consultation or public/officer claims.
+- Future OBC, FBC, consultation, statutory and public/officer drafting-specific claim summaries do not exist.
 - Nottingham lessons are lessons only. They cannot be copied into Bristol assumptions without Bristol transferability evidence.
 
 ## Risk Recording
@@ -68,6 +68,7 @@ You can rely on this repo as a controlled simulation record:
 | Officer or programme manager | `docs/officer/programme-risk-briefing.md` | Programme risks, mitigations and next checks. |
 | Officer planning next work | `docs/officer/next-steps-critical-path.md` | Critical path work packages and 90-day planning controls. |
 | Evidence reviewer or drafter | `evidence/source_notes/README.md` | Source-note cohorts and claim-use limits; source-note backlog remains controlled at claim-summary level. |
+| Claim reviewer or drafter | `evidence/claim_summaries/README.md` | Claim-level summaries for existing matrix claims; summaries do not prove claim truth. |
 | Public repo maintainer | `review/stage_gate_reports/stage-14b-public-repo-secret-scan-report.md` | GitGuardian/Grafana-token-pattern incident response, source omissions and secret-scan controls. |
 | Maintainer considering history rewrite | `review/stage_gate_reports/stage-14c-history-rewrite-decision-report.md` | Dry-run result, force-push boundary and residual GitGuardian/history risk. |
 | Maintainer checking rewrite completion | `review/stage_gate_reports/stage-14d-live-history-rewrite-completion-report.md` | Live force-push result, local and fresh-remote verification, and residual hosted-alert caveats. |
@@ -80,7 +81,7 @@ You can rely on this repo as a controlled simulation record:
 
 ## Visual Stage Map
 
-The current workflow map is in `docs/visuals/stage-gate-map.mmd`. Stage 9A is the public/officer assurance layer. Stage 7 OBC, Stage 8 consultation launch and Stage 11 FBC/statutory gates remain blocked. Stage 10A is only a control layer for a future statutory dossier; Stage 11A is only a control layer for the final FBC/statutory gate. Stage 12A records the public repository release controls. Stage 13A records the critical-path handover controls; the critical path is not approval. Stage 14A creates a source-note pilot. Stage 14B records public-repo secret-scanning remediation after a GitGuardian detector collision. Stage 14C dry-runs the history-rewrite option. Stage 14D records the approved live history rewrite. Stage 14E records repository-side hosted-alert checks; GitGuardian disposition remains external. Stage 15A expands legal/governance source-note coverage. Stage 15B completes downloaded priority-1 source-note coverage only; the source-note backlog remains controlled for claim-level summaries and no WPL readiness gate changes.
+The current workflow map is in `docs/visuals/stage-gate-map.mmd`. Stage 9A is the public/officer assurance layer. Stage 7 OBC, Stage 8 consultation launch and Stage 11 FBC/statutory gates remain blocked. Stage 10A is only a control layer for a future statutory dossier; Stage 11A is only a control layer for the final FBC/statutory gate. Stage 12A records the public repository release controls. Stage 13A records the critical-path handover controls; the critical path is not approval. Stage 14A creates a source-note pilot. Stage 14B records public-repo secret-scanning remediation after a GitGuardian detector collision. Stage 14C dry-runs the history-rewrite option. Stage 14D records the approved live history rewrite. Stage 14E records repository-side hosted-alert checks; GitGuardian disposition remains external. Stage 15A expands legal/governance source-note coverage. Stage 15B completes downloaded priority-1 source-note coverage only. Stage 16A creates current-claim-matrix claim summaries only; future drafting-specific claim summaries and all WPL readiness gates remain blocked.
 
 ```mermaid
 flowchart LR
@@ -106,6 +107,7 @@ flowchart LR
     S14D --> S14E["Stage 14E<br/>Hosted alert disposition"]
     S14E --> S15A["Stage 15A<br/>Source-note expansion"]
     S15A --> S15B["Stage 15B<br/>Acquired-priority source-note completion"]
+    S15B --> S16A["Stage 16A<br/>Claim-summary controls"]
 ```
 
 ## Stage 9A Status
@@ -152,6 +154,7 @@ The stage-by-stage workflow narrative is maintained in `docs/stages/`:
 - `docs/stages/stage-14e-hosted-alert-disposition.md`
 - `docs/stages/stage-15a-source-note-expansion.md`
 - `docs/stages/stage-15b-source-note-completion.md`
+- `docs/stages/stage-16a-claim-summary-control.md`
 
 Each completed stage package should be committed and pushed before the next stage begins. Detailed discoveries, data points and unresolved issues live in the stage docs and controlled registers.
 
@@ -164,7 +167,8 @@ Each completed stage package should be committed and pushed before the next stag
 - 1 source acquisition failed: `SRC-ACADEMIC-0001`.
 - `evidence/extraction_manifest.csv` is the current extraction state: 91 extracted, 2 extracted with raw PDFs omitted from the public repo, 1 extracted with redacted text and raw PDF omitted, 16 skipped because not downloaded and 1 skipped because acquisition failed.
 - `evidence/extraction_log.csv` is the append-only extraction audit log.
-- `evidence/source_notes/source-note-coverage-register.csv` now tracks 91 controlled source notes: 13 Stage 14A pilot notes, 42 Stage 15A legal/governance expansion notes and 36 Stage 15B acquired-priority completion notes. The source-note backlog remains controlled because claim-level source summaries remain open under `EG-0044`.
+- `evidence/source_notes/source-note-coverage-register.csv` now tracks 91 controlled source notes: 13 Stage 14A pilot notes, 42 Stage 15A legal/governance expansion notes and 36 Stage 15B acquired-priority completion notes. Current claim-matrix summaries are controlled in Stage 16A; future drafting-specific summaries remain open under `EG-0045`.
+- `evidence/claim_summaries/claim-summary-register.csv` now tracks 38 Stage 16A claim summaries for current claim-matrix rows. Future drafting-specific claim summaries remain open under `EG-0045`.
 
 ## Controlled Gate Reports
 
@@ -190,6 +194,7 @@ Current gate reports live under `review/stage_gate_reports/`. Key current report
 - `review/stage_gate_reports/stage-14e-hosted-alert-disposition-report.md`
 - `review/stage_gate_reports/stage-15a-source-note-expansion-report.md`
 - `review/stage_gate_reports/stage-15b-source-note-completion-report.md`
+- `review/stage_gate_reports/stage-16a-claim-summary-control-report.md`
 
 ## Context Discipline
 

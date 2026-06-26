@@ -183,7 +183,7 @@ class SourceNoteControlTest(unittest.TestCase):
         self.assertIn("source note means source is current", claims)
         self.assertTrue(all(row["current_status"] == "blocked" for row in rows))
 
-    def test_source_note_completion_keeps_claim_level_backlog_open(self):
+    def test_source_note_completion_tracks_claim_summary_handoff(self):
         with (ROOT / "governance/issues_register.csv").open(newline="", encoding="utf-8") as handle:
             issues = {row["issue_id"]: row for row in csv.DictReader(handle)}
         with (ROOT / "evidence/evidence_gap_register.csv").open(
@@ -196,7 +196,8 @@ class SourceNoteControlTest(unittest.TestCase):
         self.assertEqual(gaps["EG-0024"]["status"], "partially_closed_stage_15b")
         self.assertEqual(gaps["EG-0038"]["status"], "closed_stage_15b")
         self.assertEqual(gaps["EG-0043"]["status"], "closed_stage_15b")
-        self.assertEqual(gaps["EG-0044"]["status"], "open")
+        self.assertEqual(gaps["EG-0044"]["status"], "partially_closed_stage_16a")
+        self.assertEqual(gaps["EG-0045"]["status"], "open")
 
     def test_stage_15a_and_15b_sources_have_usable_extracted_text(self):
         with (ROOT / "evidence/extraction_manifest.csv").open(

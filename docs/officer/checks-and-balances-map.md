@@ -20,7 +20,8 @@ This is a simulation control map. It is not approval, legal advice, consultation
 | FBC/statutory gate | Final FBC evidence packet, legal sign-off, Section 151 review, DfT/WECA disposition, operations readiness and residual-risk decision pack | Monitoring Officer Simulation Agent, Section 151 Simulation Agent, Integrated Review Agent, Legal Review Agent, Finance Review Agent, Operations Design Agent and Red Team | Stage 11A controls and Stage 11 gate |
 | Public repository release | GitHub visibility, public no-go wording, no authored PDFs, restricted-path scan and blocked WPL gates | Public Release Review Agent, Officer Readability Agent and Red Team | Stage 12A controls |
 | Critical-path handover | Work package register, blocker map, 90-day control plan and handover no-go claims | Handover Review Agent, Programme Controls Agent and Red Team | Stage 13A controls |
-| Source notes | Source-note coverage-stage register, source-use limits, raw-omitted source controls, no-go claims, `EG-0044` claim-summary gap and claim-evidence linkage | Evidence Librarian, Evidence/Citation Agent, Legal Review Agent and Red Team | Stage 14A, Stage 15A and Stage 15B controls |
+| Source notes | Source-note coverage-stage register, source-use limits, raw-omitted source controls, no-go claims and handoff to claim summaries | Evidence Librarian, Evidence/Citation Agent, Legal Review Agent and Red Team | Stage 14A, Stage 15A and Stage 15B controls |
+| Claim summaries | Current claim-matrix summaries, source IDs, source locations, reviewer status, limitations, no-go claims and `EG-0045` future-claim gap | Evidence/Citation Agent, domain reviewers and Red Team | Stage 16A controls |
 
 ## Registers
 
@@ -41,6 +42,7 @@ This is a simulation control map. It is not approval, legal advice, consultation
 - `make public-release-qa`
 - `make handover-qa`
 - `make source-notes-qa`
+- `python3 scripts/validate_claim_summaries.py`
 - `python3 scripts/validate_statutory_dossier.py --gate`
 - `python3 scripts/validate_fbc_statutory_gate.py --gate`
 - `python3 scripts/stage_gate_check.py --gate obc`
