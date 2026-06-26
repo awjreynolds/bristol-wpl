@@ -14,7 +14,7 @@ Editable authoring outputs are working files only. They help future drafters ass
 | `business_case/` | Editable OBC/FBC structure and placeholders | Completed OBC/FBC or not approved/not assembled/not PDF business case |
 | `statutory_dossier/` | Scheme order, legal compliance and confirmation dossier controls | Ready statutory submission or not approved/not assembled/not PDF statutory pack |
 | `analysis/` | Source-linked analysis and stage-control packages | Final advice |
-| `evidence/` | Source register, raw evidence, extraction manifests and source-note controls | Uncontrolled claim library |
+| `evidence/` | Source register, source-link/freshness status controls, raw evidence, extraction manifests and source-note controls | Uncontrolled claim library or proof that sources are legally current |
 | `governance/` | Risks, issues, decisions, approvals, simulation sign-off rows and requirements | Real public-body approvals |
 | `review/` | Simulated peer review, red team and stage-gate reports | Real officer/legal approval |
 | `models/` | Model controls, cards, inputs and outputs | Completed model outputs |
@@ -35,3 +35,4 @@ Officer-facing material should remain editable Markdown, CSV, XLSX, DOCX or HTML
 | I need the risk/gate route. | `docs/officer/risk-gate-atlas.md` |
 | I need the joined issue-risk-gap view. | `docs/officer/risk-control-crosswalk.csv` |
 | I need visual fallback or static visual QA controls. | `docs/visuals/visual-accessibility-qa-register.csv` |
+| I need to know whether a cited source link is still reachable or needs refresh. | `docs/public/source-link-and-freshness-status.md` |

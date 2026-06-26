@@ -15,6 +15,7 @@ flowchart TD
     Dash --> Comprehension["Public/cabinet comprehension<br/>ISS-0029 EG-0047 RISK-0032"]
     Dash --> VisualQA["Visual/accessibility QA<br/>ISS-0030 EG-0047 RISK-0033"]
     Dash --> NavigationQA["Link/navigation integrity<br/>ISS-0031 EG-0049 RISK-0034"]
+    Dash --> SourceFreshness["Source-link/freshness status<br/>ISS-0032 EG-0050 RISK-0035"]
 
     Legal --> NoGo["No-go for approval<br/>until real evidence and authority exist"]
     WECA --> NoGo
@@ -27,6 +28,7 @@ flowchart TD
     Comprehension --> NoGo
     VisualQA --> NoGo
     NavigationQA --> NoGo
+    SourceFreshness --> NoGo
 
     Legal -. "next proof: Monitoring Officer route and statutory submitter evidence" .-> Proof["Future real-world proof"]
     WECA -. "next proof: current-law role and funding/consent disposition" .-> Proof
@@ -39,6 +41,7 @@ flowchart TD
     Comprehension -. "next proof: cold-reader testing, accessibility review, and rendered-visual checks" .-> Proof
     VisualQA -. "next proof: rendered visual, colour-blind, low-vision, screen-reader and keyboard review" .-> Proof
     NavigationQA -. "next proof: external-link checks, content review, and evidence accuracy review" .-> Proof
+    SourceFreshness -. "next proof: content diff, legal-currentness review, refreshed notes and claim summaries" .-> Proof
 
     classDef start fill:#ddf4ff,stroke:#005f99,color:#111111;
     classDef blocked fill:#ffdddd,stroke:#990000,color:#111111;
@@ -46,5 +49,5 @@ flowchart TD
     classDef future fill:#eeeeee,stroke:#555555,color:#111111;
 
     class Start,Dash,Caption,Legend guide;
-    class Legal,WECA,Spatial,Appraisal,Consult,FBC,Nottingham,Authoring,Comprehension,VisualQA,NavigationQA,NoGo blocked;
+    class Legal,WECA,Spatial,Appraisal,Consult,FBC,Nottingham,Authoring,Comprehension,VisualQA,NavigationQA,SourceFreshness,NoGo blocked;
     class Proof future;

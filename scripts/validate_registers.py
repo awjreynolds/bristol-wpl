@@ -12,6 +12,7 @@ REQUIRED = {
     "governance/skills_gap_register.csv": ["gap_id", "required_profession_or_agent", "simulation_role"],
     "governance/simulation_signoff_register.csv": ["signoff_id", "agent_role", "decision", "statement"],
     "evidence/source_register.csv": ["source_id", "seed_doc_id", "url", "status"],
+    "evidence/external_source_liveness_register.csv": ["source_id", "url", "checked_at_utc", "outcome"],
     "evidence/claim_evidence_matrix.csv": ["claim_id", "document_id", "claim_text", "source_ids"],
     "statutory_dossier/legal_compliance_matrix.csv": ["requirement_id", "legal_source", "operative_requirement"],
     "governance/pitfalls_register.csv": ["pitfall_id", "stage", "pitfall", "mitigation"],

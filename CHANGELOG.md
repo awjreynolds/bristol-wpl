@@ -32,6 +32,7 @@
 - Added Stage 19A public and cabinet comprehension controls, including a new-reader guide, can/cannot explainer, cabinet/officer navigation guide, risk-gate atlas, risk-control crosswalk, simplified risk visual, RAG legend and comprehension validator while keeping user-testing, professional assurance and all WPL readiness gates open.
 - Added Stage 20A visual and accessibility static QA controls, including visual QA register fields, Mermaid no-go captions, legends, text fallback references, validator and tests while keeping rendered accessibility review, user testing and all WPL readiness gates open.
 - Added Stage 21A link and navigation integrity controls, including repo-local Markdown/path validation, latest-stage checks, required public/officer route checks, stage-report references, validator and tests while keeping external liveness, content truth, evidence accuracy and all WPL readiness gates open.
+- Added Stage 22A external source liveness/currentness metadata controls, including a priority-1 source-link reachability snapshot, explicit refresh script, offline validator, public source-link/freshness route and register trail while keeping source authority, legal currentness, content truth, GitGuardian disposition and all WPL readiness gates open.
 
 ## 2026-06-25
 

@@ -29,6 +29,7 @@ RAG colours describe repository control status, not real-world WPL readiness. `G
 | Claim summaries | Current claim matrix covered; future drafting claims open | GREEN for current-matrix coverage control only, AMBER for drafting reliance | Stage 16A creates 38 summaries for `CLM-0001` to `CLM-0038`; EG-0045 remains open | Add or update claim summaries for every new OBC, FBC, consultation, statutory or public/officer claim before reliance |
 | Editable outputs | Guardrails mapped; assembly blocked | GREEN for authoring controls only, RED for assembled outputs | Stage 17A maps editable outputs and blocks assembled OBC/FBC/statutory/officer-distribution outputs | Treat editable outputs as controlled inputs for future assurance; no authored officer-distribution PDFs |
 | Public repo secret-scanning | Repository controls recorded | AMBER | Stage 14B-E record current-tree cleanup, history rewrite and repository-side hosted-alert checks; GitGuardian disposition remains external | Check GitGuardian directly before claiming hosted-alert closure |
+| Source-link and currentness controls | Reader route mapped; reliance still source-specific | GREEN for navigation only / AMBER for reliance | Stage 22A exposes the route but EG-0049 and EG-0050 remain open for source-by-source external liveness, content and currentness assurance | External URL checks, retrieval dates, currentness review, refreshed source notes or claim summaries and professional review for decision-grade claims |
 | Data protection and operations | Not ready | AMBER | ISS-0006 and RISK-0007 remain open | DPIA, lawful basis, PCN, appeals, recovery and service controls |
 | Nottingham transfer | Not transferable to Bristol yet | RED for reliance / AMBER for lessons control | EG-0004, EG-0008, EG-0046, ISS-0005, RISK-0006 and RISK-0009 remain open; no Bristol outcome, mitigation package or CPZ/RPZ readiness follows from comparator evidence | Refreshed Nottingham evidence, Bristol transferability assessment and mitigation options to assess, not selected mitigation |
 
@@ -49,7 +50,8 @@ RAG colours describe repository control status, not real-world WPL readiness. `G
 | Stage 17A records editable output guardrails. | That editable outputs are assembled decision papers, consultation packs, statutory submissions, officer-review DOCX files or authored PDFs. |
 | Stage 19A records public and cabinet comprehension controls. | That the materials have been user-tested, professionally assured or approved by officers or elected members. |
 | Stage 20A records static visual/accessibility QA controls. | That rendered visuals have been accessibility-reviewed, user-tested or certified. |
-| Stage 21A records repo-local navigation integrity controls. | That external links are live, evidence is correct, content is true or any readiness gate can pass. |
+| Stage 21A records repo-local navigation integrity controls. | That external links are reachable, evidence is correct, content is true or any readiness gate can pass. |
+| Stage 22A records where to find source-link status, check dates and refresh flags. | That externally hosted sources are reachable now, legally/currently sufficient, accurate, complete, official for the intended claim or decision-grade. |
 | Stage 14B-E record public-repository security controls. | That GitGuardian has closed its alert or that WPL readiness has changed. |
 | Nottingham can inform lessons. | That Nottingham impacts transfer to Bristol. |
 
@@ -63,6 +65,8 @@ RAG colours describe repository control status, not real-world WPL readiness. `G
 - Risk gate atlas: `docs/officer/risk-gate-atlas.md`
 - Visual QA register: `docs/visuals/visual-accessibility-qa-register.csv`
 - Navigation QA: `scripts/validate_navigation_integrity.py`
+- Source-link/freshness status: `docs/public/source-link-and-freshness-status.md`
+- External-source liveness QA: `scripts/validate_external_liveness.py`
 - Next steps: `docs/officer/next-steps-critical-path.md`
 - Source notes: `evidence/source_notes/README.md`
 - Nottingham lessons: `docs/officer/nottingham-and-comparator-lessons.md`

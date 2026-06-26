@@ -1,5 +1,6 @@
 flowchart TD
-    A["Raw and extracted evidence<br/>evidence/raw and extraction manifests"] --> B["Source notes<br/>source-use controls only"]
+    A["Raw and extracted evidence<br/>evidence/raw and extraction manifests"] --> A2["Source-link/freshness controls<br/>reachability metadata only"]
+    A2 --> B["Source notes<br/>source-use controls only"]
     B --> C["Claim summaries<br/>current claim-matrix controls only"]
     C --> D["Editable section templates<br/>OBC FBC statutory officer public"]
     D --> E["Future assembled OBC/FBC/statutory outputs<br/>BLOCKED"]
@@ -12,5 +13,5 @@ flowchart TD
     classDef control fill:#fff4cc,stroke:#996600,color:#111111;
     classDef current fill:#ddf4ff,stroke:#005f99,color:#111111;
 
-    class A,B,C,D control;
+    class A,A2,B,C,D control;
     class E,OBC,FBC,PDF blocked;

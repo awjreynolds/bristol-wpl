@@ -28,10 +28,11 @@ REQUIRED_FILES = [
 REQUIRED_PHRASES = {
     "README.md": [
         "Current Reader Answer",
-        "Stage 21A",
-        "link and navigation integrity controls",
+        "Stage 22A",
+        "source-link and freshness controls",
         "It does not approve, launch, fund, procure or submit a Bristol Workplace Parking Levy.",
         "docs/public/how-to-read-this-repo.md",
+        "docs/public/source-link-and-freshness-status.md",
         "docs/officer/risk-gate-atlas.md",
         "docs/visuals/risk-control-atlas.mmd",
     ],
@@ -40,6 +41,7 @@ REQUIRED_PHRASES = {
         "Green control",
         "docs/public/how-to-read-this-repo.md",
         "docs/public/what-this-repo-can-and-cannot-tell-you.md",
+        "docs/public/source-link-and-freshness-status.md",
         "docs/officer/cabinet-and-officer-navigation-guide.md",
     ],
     "docs/officer/assurance-dashboard.md": [
@@ -108,6 +110,7 @@ REQUIRED_CROSSWALK_STAGES = {
     "Stage 17A",
     "Stage 18A",
     "Stage 19A",
+    "Stage 22A",
 }
 
 REQUIRED_REGISTER_ROWS = [
@@ -251,7 +254,7 @@ def check_visual_language() -> list[str]:
         text = stage_map.read_text(encoding="utf-8")
         if "Complete" in text:
             errors.append("docs/visuals/stage-gate-map.mmd must not use standalone Complete labels")
-        for phrase in ["Stage 19A", "Navigation only; no tested comprehension", "Stage 20A", "Stage 21A"]:
+        for phrase in ["Stage 19A", "Navigation only; no tested comprehension", "Stage 20A", "Stage 21A", "Stage 22A"]:
             if phrase not in text:
                 errors.append(f"docs/visuals/stage-gate-map.mmd missing phrase: {phrase}")
     risk_map = ROOT / "docs/visuals/risk-control-atlas.mmd"
@@ -259,7 +262,7 @@ def check_visual_language() -> list[str]:
         errors.append("missing docs/visuals/risk-control-atlas.mmd")
     else:
         text = risk_map.read_text(encoding="utf-8")
-        for phrase in ["No-go for approval", "Future real-world proof", "Public/cabinet comprehension"]:
+        for phrase in ["No-go for approval", "Future real-world proof", "Public/cabinet comprehension", "Source-link/freshness status"]:
             if phrase not in text:
                 errors.append(f"docs/visuals/risk-control-atlas.mmd missing phrase: {phrase}")
     return errors

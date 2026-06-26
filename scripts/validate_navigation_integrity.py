@@ -16,6 +16,7 @@ SCAN_FILES = [
     "docs/public/README.md",
     "docs/public/how-to-read-this-repo.md",
     "docs/public/what-this-repo-can-and-cannot-tell-you.md",
+    "docs/public/source-link-and-freshness-status.md",
     "docs/officer/assurance-dashboard.md",
     "docs/officer/cabinet-and-officer-navigation-guide.md",
     "docs/officer/risk-gate-atlas.md",
@@ -27,26 +28,31 @@ SCAN_FILES = [
 REQUIRED_NAV_REFERENCES = {
     "README.md": [
         "docs/public/how-to-read-this-repo.md",
+        "docs/public/source-link-and-freshness-status.md",
         "docs/officer/cabinet-and-officer-navigation-guide.md",
         "docs/officer/risk-gate-atlas.md",
         "docs/visuals/visual-accessibility-qa-register.csv",
+        "scripts/validate_external_liveness.py",
         "scripts/validate_navigation_integrity.py",
-        "review/stage_gate_reports/stage-21a-link-navigation-integrity-report.md",
+        "review/stage_gate_reports/stage-22a-external-source-liveness-currentness-report.md",
     ],
     "docs/public/README.md": [
         "docs/public/how-to-read-this-repo.md",
         "docs/public/what-this-repo-can-and-cannot-tell-you.md",
+        "docs/public/source-link-and-freshness-status.md",
         "docs/officer/cabinet-and-officer-navigation-guide.md",
         "docs/visuals/visual-accessibility-qa-register.csv",
+        "scripts/validate_external_liveness.py",
         "scripts/validate_navigation_integrity.py",
     ],
     "docs/officer/document-map.md": [
+        "docs/public/source-link-and-freshness-status.md",
         "docs/officer/risk-control-crosswalk.csv",
         "docs/visuals/visual-accessibility-qa-register.csv",
     ],
     "docs/stages/README.md": [
-        "stage-21a-link-navigation-integrity.md",
-        "review/stage_gate_reports/stage-21a-link-navigation-integrity-report.md",
+        "stage-22a-external-source-liveness-currentness.md",
+        "review/stage_gate_reports/stage-22a-external-source-liveness-currentness-report.md",
     ],
 }
 
@@ -55,6 +61,7 @@ REQUIRED_STAGE_REPORTS = [
     "review/stage_gate_reports/stage-19a-public-cabinet-comprehension-report.md",
     "review/stage_gate_reports/stage-20a-visual-accessibility-qa-report.md",
     "review/stage_gate_reports/stage-21a-link-navigation-integrity-report.md",
+    "review/stage_gate_reports/stage-22a-external-source-liveness-currentness-report.md",
 ]
 
 LINK_PATTERN = re.compile(r"\[[^\]]+\]\(([^)]+)\)")
@@ -142,10 +149,10 @@ def check_required_nav_references() -> list[str]:
 def check_latest_stage_alignment() -> list[str]:
     errors = []
     expectations = {
-        "README.md": "Stage 21A",
-        "docs/stages/README.md": "Stage 21A",
-        "docs/visuals/stage-gate-map.mmd": "Stage 21A",
-        "docs/visuals/risk-control-atlas.mmd": "Link/navigation integrity",
+        "README.md": "Stage 22A",
+        "docs/stages/README.md": "Stage 22A",
+        "docs/visuals/stage-gate-map.mmd": "Stage 22A",
+        "docs/visuals/risk-control-atlas.mmd": "Source-link/freshness status",
     }
     for rel, phrase in expectations.items():
         path = ROOT / rel
