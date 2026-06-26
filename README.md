@@ -202,7 +202,7 @@ For public/officer-facing explanation after Stage 9A, also start with:
 - `governance/stage_risk_matrix.csv`
 - `analysis/economic/nottingham_lessons_register.csv`
 
-Subagents should receive bounded task packets rather than the whole context set.
+For all future stages, also apply `instructions/20-stage-continuation-and-context-control.md`. Subagents should receive bounded task packets rather than the whole context set, and the main agent should commit and push each validated stage before moving on.
 
 ## Repeatable Commands
 

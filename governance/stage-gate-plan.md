@@ -6,6 +6,8 @@ Status: working simulation control.
 
 No gate may pass with an unresolved P0 finding. P1 findings block the gate unless a named simulation gate authority accepts a written condition, owner, deadline and residual risk.
 
+For every future stage after Stage 15A, follow `instructions/20-stage-continuation-and-context-control.md`: create a compact stage context packet, assign bounded subagent task packets, synthesize findings without pasting unreviewed outputs, update the register trail, run focused validators plus `make validate`, and record validation evidence before claiming stage completion. Missing stage-context evidence, missing bounded subagent handovers or recorded subagent limitation, missing synthesis, missing register updates, or missing validation evidence is a gate blocker for every future stage.
+
 ## Simulation Sign-Offs
 
 Simulation sign-offs are recorded in `governance/simulation_signoff_register.csv`. They have no real-world legal, statutory, financial or professional effect.

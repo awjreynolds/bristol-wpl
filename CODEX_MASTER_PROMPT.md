@@ -826,6 +826,23 @@ After Stage 2L, main coordinating agents working on legal, governance, statutory
 
 Subagents must not infer from memory when a cited source is available. If a source is unavailable, they must say so and record the gap. A subagent may sign off only the scope in its task packet. The Programme Orchestrator must synthesize subagent outputs and check for contradictions before any stage-gate recommendation.
 
+## 8.0 Stage continuation and context-bloat control
+
+Future stages must be run as bounded stage packages, not as broad repo-reading exercises. Before substantive drafting or review, the main agent must read `instructions/20-stage-continuation-and-context-control.md` and apply it.
+
+For each new stage, the main agent must:
+
+1. start from the latest README, stage index, stage-gate plan, previous gate report and the most relevant domain context packet;
+2. create or update a compact stage context packet listing scope, out-of-scope files, source IDs, open issue/risk/gap IDs, no-go claims, validators and required register updates;
+3. spawn specialised subagents with bounded task packets and `fork_context=false` by default where tooling supports it;
+4. use at least domain, evidence/citation and red-team or public/officer readability review lanes for substantive stages;
+5. prohibit subagents from reviewing "the whole repo" or inferring from memory where a cited source exists;
+6. synthesize subagent outputs, resolve contradictions and update the stage artefacts and registers;
+7. run focused validators, `make validate`, `git diff --check` and public-repo secret checks before claiming completion;
+8. commit and push the completed stage before moving to the next stage, unless the user has prohibited pushing or the remote is unavailable.
+
+Subagent context packets must name exact files and source IDs to inspect, allowed write paths if any, maximum output length, review criteria and no-go claims. If a subagent needs more context, it must request the specific file, source ID or register row rather than widening to the whole repository.
+
 Every subagent must return a `handover.md` containing:
 
 1. scope completed;

@@ -10,6 +10,8 @@ Non-negotiables:
 - Agent sign-offs are simulation sign-offs only and have no real-world legal, statutory, financial or professional effect.
 
 Detailed operating instructions live in `instructions/`.
-Start with `instructions/00-operating-model.md` and `instructions/10-stage-gates.md`.
+Start with `instructions/00-operating-model.md`, `instructions/10-stage-gates.md` and `instructions/20-stage-continuation-and-context-control.md`.
 
 For main-agent legal, governance, statutory, OBC/FBC, DfT, WECA/MCA, order-change or consultation work after Stage 2L, start with `analysis/legal/post-stage-2-legal-governance-context-packet.md` before loading long reports or raw evidence. Subagents should receive bounded task packets rather than the whole context set.
+
+For every future stage, use the Stage Continuation And Context Control protocol: create a compact stage packet, spawn bounded subagents with clear review criteria, synthesize their findings, update the register trail, validate, commit and push before moving on.
