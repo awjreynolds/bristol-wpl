@@ -1,0 +1,8 @@
+analysis_control_id,analysis_area,required_control,current_status,owner,reviewer,notes
+CON-AN-001,response_schema,response schema and data dictionary before launch,blocked_control_only,Consultation Analysis Agent,Data Protection Review Agent,Processed response schema control exists; launch data dictionary is not populated.
+CON-AN-002,coding_frame,theme coding frame and reviewer calibration before analysis,blocked_control_only,Consultation Analysis Agent,Evidence Citation Agent,Placeholder coding frame exists; reviewer calibration is not complete.
+CON-AN-003,representativeness,sampling and representativeness plan including underrepresented groups,blocked_control_only,Consultation Analysis Agent,Equality Health Environment Agent,Representativeness control note exists; sampling frame is not populated.
+CON-AN-004,duplicates_campaigns,duplicate and campaign-response handling protocol,blocked_control_only,Consultation Analysis Agent,Legal Review Agent,Duplicate and campaign control note exists; operational protocol is not populated.
+CON-AN-005,qualitative_protocol,qualitative analysis and audit trail protocol,blocked_control_only,Consultation Analysis Agent,Evidence Citation Agent,No qualitative protocol created.
+CON-AN-006,publication_plan,aggregate publication redaction and response-to-issues plan,blocked_control_only,Consultation Analysis Agent,Data Protection Review Agent,No publication plan created.
+CON-AN-007,raw_response_security,secure raw response preservation outside public repo and personal-data separation,blocked_control_only,Data Protection Review Agent,Consultation Analysis Agent,No raw responses may enter normal repo paths.

@@ -1,0 +1,10 @@
+claim_id,prohibited_claim,allowed_stage_8a_wording,source_gate,gate_effect
+CON-NG-001,consultation is ready to launch,Consultation launch remains blocked while open P0 and launch-blocking P1 controls remain,Stage 8A,P0
+CON-NG-002,consultation has launched,No consultation has launched in the repo evidence,Stage 8A,P0
+CON-NG-003,consultation is lawful or formative,Stage 8A creates controls only and does not certify lawfulness or formative status,Stage 8A,P0
+CON-NG-004,decision-maker authority to consult is evidenced,Authority to consult remains unresolved until source-supported decision route is recorded,Stage 2L,P0
+CON-NG-005,materials are complete accessible or approved,No consultation materials are created or approved in Stage 8A,Stage 8A,P1
+CON-NG-006,questionnaire analysis plan response schema coding frame or privacy notice is ready,Analysis and privacy controls are placeholders only,Stage 8A,P1
+CON-NG-007,equality impacts are complete,Equality and distributional evidence remains dependent on spatial appraisal consultation and stakeholder evidence,Stage 8A,P1
+CON-NG-008,WECA MCA or DfT has approved accepted consented supported objected or has no role,WECA/MCA and DfT status remains unresolved beyond bounded context controls,Stage 2L,P0
+CON-NG-009,OBC preferred scheme boundary revenue BCR VFM or statutory submission readiness exists,Upstream Stage 3A 4A 5A and 6A gates remain blocked,Stage 6A,P0

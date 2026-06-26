@@ -1,0 +1,10 @@
+material_id,material_name,future_path,allowed_formats,current_status,owner,reviewer,notes
+CON-MAT-001,consultation_strategy,consultation/strategy/consultation-strategy.md,md,blocked_control_only,Consultation Review Agent,Legal Review Agent,Not created in Stage 8A.
+CON-MAT-002,consultation_document,consultation/materials/consultation-document.docx,docx;html,blocked_control_only,Consultation Materials Agent,Accessibility Review Agent,Not created in Stage 8A.
+CON-MAT-003,plain_language_summary,consultation/materials/plain-language-summary.docx,docx;html,blocked_control_only,Consultation Materials Agent,Accessibility Review Agent,Not created in Stage 8A.
+CON-MAT-004,questionnaire,consultation/questionnaire/questionnaire.docx,docx;html,blocked_control_only,Consultation Materials Agent,Consultation Analysis Agent,Not created in Stage 8A.
+CON-MAT-005,analysis_plan,consultation/analysis/analysis-plan.md,md,blocked_control_only,Consultation Analysis Agent,Evidence Citation Agent,Not created in Stage 8A.
+CON-MAT-006,consultation_report,consultation/consultation_report/consultation-report.md,md;docx;html,blocked_control_only,Consultation Analysis Agent,Legal Review Agent,Not created in Stage 8A.
+CON-MAT-007,you_said_we_did,consultation/you_said_we_did/you-said-we-did.docx,docx;html,blocked_control_only,Consultation Analysis Agent,Consultation Review Agent,Not created in Stage 8A.
+CON-MAT-008,privacy_notice,consultation/materials/privacy-notice.html,html;md,blocked_control_only,Data Protection Review Agent,Accessibility Review Agent,Not created in Stage 8A.
+CON-MAT-009,evidence_link_index,consultation/materials/evidence-link-index.html,html;md,blocked_control_only,Evidence Citation Agent,Accessibility Review Agent,Not created in Stage 8A.

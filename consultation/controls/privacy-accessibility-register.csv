@@ -1,0 +1,7 @@
+control_id,control_area,required_control,current_status,gate_effect,owner,reviewer,notes
+CON-PA-001,dpia,DPIA and lawful-basis assessment for consultation response data and publication,blocked_control_only,P1,Data Protection Review Agent,Legal Review Agent,Stage 4A DPIA scope only; full DPIA incomplete.
+CON-PA-002,privacy_notice,privacy notice covering response routes retention use publication and rights,blocked_control_only,P1,Data Protection Review Agent,Accessibility Review Agent,No privacy notice created.
+CON-PA-003,response_data_separation,raw response personal data and restricted files kept out of public repo,blocked_control_only,P0,Data Protection Review Agent,Consultation Analysis Agent,Normal repo must not contain raw personal responses.
+CON-PA-004,accessible_formats,Easy Read large print translated audio BSL or other formats considered from equality evidence,blocked_control_only,P1,Accessibility Review Agent,Equality Health Environment Agent,No alternative-format decision made.
+CON-PA-005,offline_routes,offline response route and limited-digital-access controls,blocked_control_only,P1,Consultation Review Agent,Accessibility Review Agent,No offline route created.
+CON-PA-006,html_accessibility,accessible HTML checks for public material,blocked_control_only,P1,Accessibility Review Agent,Consultation Materials Agent,No HTML material created.

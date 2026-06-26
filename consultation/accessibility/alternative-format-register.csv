@@ -1,0 +1,6 @@
+format_id,format,audience_need,decision_evidence_required,current_status,owner,reviewer,notes
+CON-AF-001,easy_read,cognitive accessibility and plain-language need,EqIA distributional evidence stakeholder testing and accessibility review,blocked_control_only,Accessibility Review Agent,Equality Health Environment Agent,Control row only.
+CON-AF-002,large_print,visual accessibility need,EqIA accessibility evidence font contrast and print review,blocked_control_only,Accessibility Review Agent,Consultation Materials Agent,Control row only.
+CON-AF-003,translated_bcp47,language-access need,stakeholder evidence language-need assessment and translation QA,blocked_control_only,Accessibility Review Agent,Consultation Review Agent,Control row only.
+CON-AF-004,offline_response,limited digital access need,stakeholder evidence offline route data-protection and logging controls,blocked_control_only,Consultation Review Agent,Data Protection Review Agent,Control row only.
+CON-AF-005,audio_or_bsl,hearing visual or literacy-access need,EqIA evidence supplier QA and publication route control,blocked_control_only,Accessibility Review Agent,Procurement Review Agent,Control row only.

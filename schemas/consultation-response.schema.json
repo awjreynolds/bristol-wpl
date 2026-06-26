@@ -1,16 +1,95 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.local/bristol-wpl/schemas/consultation-response.schema.json",
+  "title": "Stage 8A processed consultation response record control schema",
   "type": "object",
-  "additionalProperties": true,
+  "additionalProperties": false,
+  "required": [
+    "response_id",
+    "channel",
+    "stakeholder_category",
+    "response_item_refs",
+    "coding_status",
+    "representativeness",
+    "publication_consent",
+    "raw_external_reference",
+    "personal_data_in_repo"
+  ],
   "properties": {
-    "id": {
-      "type": "string"
+    "response_id": {
+      "type": "string",
+      "pattern": "^CON-RESP-[0-9]{6}$",
+      "description": "Pseudonymous processed response identifier. Direct identifiers are not permitted in normal repo paths."
     },
-    "status": {
-      "type": "string"
+    "channel": {
+      "type": "string",
+      "enum": ["online", "email", "post", "telephone", "in_person", "accessible_format", "other"]
     },
-    "owner": {
-      "type": "string"
+    "stakeholder_category": {
+      "type": "string",
+      "description": "Controlled stakeholder group or analysis segment, not a direct identifier."
+    },
+    "response_item_refs": {
+      "type": "array",
+      "minItems": 1,
+      "items": {
+        "type": "string",
+        "pattern": "^Q[0-9]+(_[A-Za-z0-9-]+)?$"
+      }
+    },
+    "coding_status": {
+      "type": "string",
+      "enum": ["not_started", "first_pass", "second_review", "adjudicated", "excluded"]
+    },
+    "theme_codes": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "default": []
+    },
+    "duplicate_group_id": {
+      "type": ["string", "null"],
+      "pattern": "^CON-DUP-[0-9]{5}$"
+    },
+    "campaign_id": {
+      "type": ["string", "null"],
+      "pattern": "^CON-CAMP-[0-9]{5}$"
+    },
+    "representativeness": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["segment_keys", "weighting_status", "known_bias_flags"],
+      "properties": {
+        "segment_keys": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        },
+        "weighting_status": {
+          "type": "string",
+          "enum": ["not_applicable", "unweighted", "weighted", "sensitivity_only", "not_decided"]
+        },
+        "known_bias_flags": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "publication_consent": {
+      "type": "string",
+      "enum": ["not_asked", "consented", "declined", "redacted_publication_only", "not_applicable"]
+    },
+    "raw_external_reference": {
+      "type": "string",
+      "description": "Pointer to controlled restricted storage outside normal repo paths."
+    },
+    "personal_data_in_repo": {
+      "type": "boolean",
+      "const": false
     }
   }
 }

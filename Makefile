@@ -1,6 +1,6 @@
 PYTHON ?= python3
 
-.PHONY: bootstrap acquire ingest extract source-register register-workbooks source-scan templates evidence-qa validate models model-qa strategic-qa spatial-qa appraisal-qa obc-qa assemble-obc assemble-fbc build-docx accessibility-check red-team gate-obc gate-fbc all
+.PHONY: bootstrap acquire ingest extract source-register register-workbooks source-scan templates evidence-qa validate models model-qa strategic-qa spatial-qa appraisal-qa obc-qa consultation-qa assemble-obc assemble-fbc build-docx accessibility-check red-team gate-obc gate-fbc all
 
 bootstrap:
 	$(PYTHON) scripts/bootstrap_repo.py
@@ -32,6 +32,7 @@ evidence-qa:
 validate:
 	$(PYTHON) scripts/validate_registers.py
 	$(PYTHON) -m unittest discover -s tests
+	$(PYTHON) scripts/validate_consultation.py
 
 models:
 	$(PYTHON) scripts/build_models.py
@@ -50,6 +51,9 @@ appraisal-qa:
 
 obc-qa:
 	$(PYTHON) scripts/validate_obc.py
+
+consultation-qa:
+	$(PYTHON) scripts/validate_consultation.py
 
 assemble-obc:
 	$(PYTHON) scripts/assemble_obc.py

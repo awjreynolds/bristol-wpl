@@ -1,0 +1,25 @@
+stakeholder_group,coverage_status,required_engagement_route,accessibility_or_inclusion_need,owner,reviewer,notes
+liable_employers,control_placeholder,targeted employer communications and consultation route,clear liability and charge examples,Consultation Review Agent,Business Impact Agent,No live stakeholder list created.
+potentially_liable_employers,control_placeholder,targeted employer communications and consultation route,plain English threshold and exemption explanation,Consultation Review Agent,Business Impact Agent,No live stakeholder list created.
+small_medium_businesses,control_placeholder,business organisation route and direct outreach,low administrative-burden materials,Consultation Review Agent,Business Impact Agent,No live stakeholder list created.
+major_employment_sites,control_placeholder,site/employer route,site-specific accessibility and shift patterns,Consultation Review Agent,Business Impact Agent,No live stakeholder list created.
+education,control_placeholder,sector route,term-time and student travel effects,Consultation Review Agent,Equality Health Environment Agent,No live stakeholder list created.
+nhs_care,control_placeholder,sector route,shift workers patients carers emergency access,Consultation Review Agent,Equality Health Environment Agent,No live stakeholder list created.
+emergency_services,control_placeholder,statutory/public-service route,operational access and exemption clarity,Consultation Review Agent,Operations Design Agent,No live stakeholder list created.
+charities_voluntary_bodies,control_placeholder,sector route,low-income disabled and service-user impacts,Consultation Review Agent,Equality Health Environment Agent,No live stakeholder list created.
+public_sector_employers,control_placeholder,sector route,public-service and payroll impacts,Consultation Review Agent,Business Impact Agent,No live stakeholder list created.
+disabled_people_representative_groups,control_placeholder,accessible targeted engagement,accessible formats and travel impacts,Consultation Review Agent,Accessibility Review Agent,No live stakeholder list created.
+shift_workers,control_placeholder,worker representative route,off-peak public transport and safety impacts,Consultation Review Agent,Equality Health Environment Agent,No live stakeholder list created.
+low_paid_workers,control_placeholder,worker representative route,affordability and pass-through impacts,Consultation Review Agent,Equality Health Environment Agent,No live stakeholder list created.
+carers,control_placeholder,representative group route,trip chaining and time-critical travel,Consultation Review Agent,Equality Health Environment Agent,No live stakeholder list created.
+women_trip_chaining,control_placeholder,representative group route,trip chaining safety and care responsibilities,Consultation Review Agent,Equality Health Environment Agent,No live stakeholder list created.
+trade_unions,control_placeholder,representative route,worker impact and pass-through evidence,Consultation Review Agent,Business Impact Agent,No live stakeholder list created.
+business_organisations,control_placeholder,representative route,business competitiveness and administrative burden,Consultation Review Agent,Business Impact Agent,No live stakeholder list created.
+transport_operators,control_placeholder,operator route,capacity reliability and package dependency,Consultation Review Agent,Transport Model Review Agent,No live stakeholder list created.
+residents,control_placeholder,public consultation route,displacement neighbourhood and air quality effects,Consultation Review Agent,Equality Health Environment Agent,No live stakeholder list created.
+neighbouring_authorities,control_placeholder,authority route,cross-boundary displacement and labour market effects,Consultation Review Agent,WECA Governance Agent,No live stakeholder list created.
+weca_mca,control_placeholder,authority route,role funding assurance and strategic-context distinction,WECA Governance Agent,Legal Review Agent,No formal position inferred.
+dft,control_placeholder,pre-application or procedural route,confirmation process and WPL-specific expectations,Legal Review Agent,DfT Process Simulation Agent,No formal response inferred.
+freight_logistics,control_placeholder,sector route,delivery access and time-sensitive movements,Consultation Review Agent,Business Impact Agent,No live stakeholder list created.
+visitors_commuters,control_placeholder,public and travel-demand route,cross-boundary and mode-choice effects,Consultation Review Agent,Transport Model Review Agent,No live stakeholder list created.
+limited_digital_access_groups,control_placeholder,offline alternative route,non-digital response access and accessible formats,Consultation Review Agent,Accessibility Review Agent,No live stakeholder list created.
