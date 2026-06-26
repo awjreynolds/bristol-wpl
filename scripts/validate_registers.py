@@ -20,6 +20,8 @@ REQUIRED = {
     "governance/real_world_adoption_checklist.csv": ["adoption_id", "simulation_control", "required_real_world_replacement"],
     "statutory_dossier/controls/dossier-component-register.csv": ["component_number", "component_name", "current_status"],
     "statutory_dossier/controls/submission-no-go-register.csv": ["claim_id", "prohibited_claim", "current_status"],
+    "business_case/fbc/controls/stage-11-fbc-statutory-gate-checklist.csv": ["gate_item_id", "assurance_area", "current_status"],
+    "business_case/fbc/controls/stage-11-no-go-claim-register.csv": ["claim_id", "prohibited_claim", "current_status"],
 }
 
 def read_header(path: Path) -> list[str]:

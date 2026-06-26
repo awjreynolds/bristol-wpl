@@ -16,6 +16,7 @@
 - Added Stage 8A consultation readiness control architecture, including consultation QA validation, material suffix controls, processed response schema, accessibility/privacy controls, coding and representativeness safeguards and a no-go launch gate report.
 - Added Stage 9A public/officer assurance layer, including a public-first README, officer dashboard, visual stage map, pitfalls register, stage risk matrix, Nottingham lessons register, real-world adoption checklist and validators for officer pack and Nottingham transferability controls.
 - Added Stage 10A statutory dossier controls, including a 23-component dossier register, submission no-go register, statutory route memorandum control, clause-by-clause powers matrix, validator and no-go statutory dossier gate report. Hardened the statutory gate after simulated legal/officer review so it checks Stage 10A readiness rows, no-go rows, EG-0034, approval/sign-off limitations and statutory-specific failure wording.
+- Added Stage 11A FBC/statutory gate controls, including final gate checklist, assurance panel, no-go register, decision-report control, red-team packet, validator and no-go final gate report.
 
 ## 2026-06-25
 

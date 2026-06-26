@@ -20,6 +20,7 @@ This is a controlled simulation. It is not an approved Bristol WPL scheme, not a
 | OBC | Not assembled and gate cannot pass | RED | ISS-0011 and RISK-0014 remain open; Stage 7A creates controls only | Populated evidence dependencies and Stage 7 assurance |
 | Consultation launch | Not ready | RED | ISS-0012 and RISK-0015 remain open | Authority to consult, materials, privacy, accessibility, response-analysis and public-law checks |
 | Statutory dossier | Not ready | RED | Stage 10A creates controls only; ISS-0001, ISS-0002, ISS-0008 and FBC/consultation blockers remain open | DfT route, certified order, FBC, consultation statement, boundary schedule and legal sign-off |
+| FBC/statutory gate | Not ready | RED | Stage 11A creates final gate controls only; no FBC, legal sign-off, S151 review, consultation disposition or implementation readiness exists | Complete FBC evidence packet, Monitoring Officer route, Section 151 review, DfT/WECA disposition and decision report |
 | Data protection and operations | Not ready | AMBER | ISS-0006 and RISK-0007 remain open | DPIA, lawful basis, PCN, appeals, recovery and service controls |
 | Nottingham transfer | Lessons only | AMBER | EG-0004, EG-0008, ISS-0005, RISK-0006 and RISK-0009 remain open | Refreshed Nottingham evidence and Bristol transferability assessment |
 
@@ -32,6 +33,7 @@ This is a controlled simulation. It is not an approved Bristol WPL scheme, not a
 | Stage 4A creates boundary and inventory controls. | That a boundary or parking inventory exists. |
 | Stage 5A creates appraisal controls. | That a BCR, VFM category or preferred option exists. |
 | Stage 8A creates consultation controls. | That consultation can launch. |
+| Stage 11A creates final gate controls. | That FBC approval, statutory submission or implementation can be recommended. |
 | Nottingham can inform lessons. | That Nottingham impacts transfer to Bristol. |
 
 ## Key Read Paths

@@ -1,0 +1,17 @@
+claim_id,prohibited_claim,allowed_stage_11a_wording,affected_gate_items,current_status,gate_effect
+S11-NG-001,recommend submit and implement,Stage 11A creates gate controls only and makes no recommendation,all_items,blocked_control_only,P0
+S11-NG-002,FBC is ready for approval,No Full Business Case evidence packet or approval recommendation exists,FBCG-001;FBCG-002;FBCG-003;FBCG-004;FBCG-013,blocked_control_only,P0
+S11-NG-003,scheme order and boundary have legal sign-off,No legal sign-off exists for the scheme order or boundary,FBCG-001,blocked_control_only,P0
+S11-NG-004,consultation is lawful and conscientiously addressed,No consultation launch response analysis or conscientious-consideration record exists,FBCG-002,blocked_control_only,P0
+S11-NG-005,Section 151 affordability review is complete,No Section 151 affordability review exists,FBCG-004,blocked_control_only,P0
+S11-NG-006,procurement/commercial route is lawful and credible,No procurement route contract evidence or commercial readiness review exists,FBCG-005,blocked_control_only,P1
+S11-NG-007,operations and enforcement are service-ready,No licensing enforcement appeals or service-readiness evidence exists,FBCG-007,blocked_control_only,P0
+S11-NG-008,charge-base and revenue models are independently reviewed,No authoritative parking inventory model outputs or independent model review exists,FBCG-008,blocked_control_only,P0
+S11-NG-009,WECA/MCA dependencies are agreed,WECA/MCA role consent no-role consultation-response and funding dependencies remain unresolved,FBCG-012,blocked_control_only,P0
+S11-NG-010,DfT engagement issues are closed,No WPL-specific DfT procedural response or issue disposition exists,FBCG-003;FBCG-011,blocked_control_only,P0
+S11-NG-011,reconsultation assessment is complete,No consultation launch response-analysis or reconsultation assessment exists,FBCG-002,blocked_control_only,P0
+S11-NG-012,current statutory confirmation requirements are satisfied,No current DfT-specific statutory confirmation requirement set has been evidenced,FBCG-003,blocked_control_only,P0
+S11-NG-013,data protection and cyber controls are ready,No DPIA cyber assurance records-management or supplier security readiness pack exists,FBCG-006,blocked_control_only,P1
+S11-NG-014,investment programme is deliverable,No funded deliverable investment programme benefits ownership or dependency proof exists,FBCG-009,blocked_control_only,P1
+S11-NG-015,equality mitigations are funded and owned,No funded owned equalities mitigation and monitoring package exists,FBCG-010,blocked_control_only,P1
+S11-NG-016,no P0 findings remain,Open P0 blockers remain across legal statutory consultation finance evidence and implementation readiness,FBCG-013,blocked_control_only,P0

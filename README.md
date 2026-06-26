@@ -48,7 +48,7 @@ You can rely on this repo as a controlled simulation record:
 
 ## Visual Stage Map
 
-The current workflow map is in `docs/visuals/stage-gate-map.mmd`. Stage 9A is the public/officer assurance layer. Stage 7 OBC, Stage 8 consultation launch and Stage 11 FBC/statutory gates remain blocked. Stage 10A is only a control layer for a future statutory dossier; it is not the statutory submission stage.
+The current workflow map is in `docs/visuals/stage-gate-map.mmd`. Stage 9A is the public/officer assurance layer. Stage 7 OBC, Stage 8 consultation launch and Stage 11 FBC/statutory gates remain blocked. Stage 10A is only a control layer for a future statutory dossier; Stage 11A is only a control layer for the final FBC/statutory gate.
 
 ```mermaid
 flowchart LR
@@ -63,7 +63,8 @@ flowchart LR
     S8A --> S8["Stage 8<br/>Consultation launch BLOCKED"]
     S8 --> S9["Stage 9A<br/>Public/officer assurance"]
     S9 --> S10A["Stage 10A<br/>Statutory dossier controls"]
-    S10A --> S11["Stage 11<br/>FBC and statutory gate BLOCKED"]
+    S10A --> S11A["Stage 11A<br/>FBC/statutory gate controls"]
+    S11A --> S11["Stage 11<br/>FBC and statutory gate BLOCKED"]
 ```
 
 ## Stage 9A Status
@@ -100,6 +101,7 @@ The stage-by-stage workflow narrative is maintained in `docs/stages/`:
 - `docs/stages/stage-8a-consultation-readiness.md`
 - `docs/stages/stage-9a-public-officer-assurance.md`
 - `docs/stages/stage-10a-statutory-dossier.md`
+- `docs/stages/stage-11a-fbc-statutory-gate.md`
 
 Each completed stage package should be committed and pushed before the next stage begins. Detailed discoveries, data points and unresolved issues live in the stage docs and controlled registers.
 
@@ -126,6 +128,7 @@ Current gate reports live under `review/stage_gate_reports/`. Key current report
 - `review/stage_gate_reports/stage-8a-consultation-readiness-control-report.md`
 - `review/stage_gate_reports/stage-9a-public-officer-assurance-report.md`
 - `review/stage_gate_reports/stage-10a-statutory-dossier-control-report.md`
+- `review/stage_gate_reports/stage-11a-fbc-statutory-gate-report.md`
 
 ## Context Discipline
 
@@ -157,6 +160,7 @@ make obc-qa
 make obc-assurance-qa
 make consultation-qa
 make statutory-qa
+make fbc-statutory-qa
 make red-team
 python3 scripts/acquire_sources.py --priority 1_must
 python3 scripts/extract_sources.py

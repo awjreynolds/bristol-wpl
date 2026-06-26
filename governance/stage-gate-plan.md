@@ -12,7 +12,7 @@ Simulation sign-offs are recorded in `governance/simulation_signoff_register.csv
 
 ## Stage Gates
 
-Terminology note: Stage 10A is a control-architecture slice for a future statutory confirmation dossier. It is not a statutory submission. Stage 11 remains the later combined FBC/statutory decision gate.
+Terminology note: Stage 10A is a control-architecture slice for a future statutory confirmation dossier. Stage 11A is a control-architecture slice for the final FBC/statutory assurance gate. Neither is a statutory submission or approval. Stage 11 remains the later combined FBC/statutory decision gate.
 
 | Gate | Required Evidence | Required Simulation Reviews | Blocking Conditions |
 |---|---|---|---|
@@ -37,6 +37,7 @@ Terminology note: Stage 10A is a control-architecture slice for a future statuto
 | Stage 8 Consultation Launch | Materials, privacy, accessibility, formative consultation test | Legal, Equality, Data, Accessibility Agents | Launch-blocking legal/privacy/accessibility issue |
 | Stage 9A Public/Officer Assurance | Public summary, officer dashboard, pitfalls register, stage risk matrix, Nottingham lessons register, checks and balances map, real-world adoption checklist, officer-pack QA and Nottingham transferability QA | Public Readability Review Agent, Officer Assurance Agent, Legal Review Agent, Comparator Evidence Agent, Red Team, Simulation Gate Authority | Any wording that implies approval, legal advice, OBC/FBC readiness, consultation readiness, statutory submission readiness, WECA/MCA position, DfT acceptance, selected boundary, model output or Nottingham transfer |
 | Stage 10A Statutory Dossier Controls | Dossier component register, submission no-go register, statutory route memorandum control, clause-by-clause powers matrix, readiness gate and statutory dossier QA validation | Legal Review Agent, Monitoring Officer Simulation Agent, DfT Process Simulation Agent, Finance Review Agent, Consultation Review Agent, Red Team, Simulation Gate Authority | Any statutory submission readiness, certified scheme order, DfT acceptance, Secretary of State confirmation expectation, completed consultation statement, settled boundary schedule or definitive DfT checklist claim |
+| Stage 11A FBC/Statutory Gate Controls | Final gate checklist, assurance panel register, no-go claim register, decision-report control, red-team packet and FBC/statutory gate QA validation | Monitoring Officer Simulation Agent, Section 151 Simulation Agent, Integrated Case Review Agent, Legal Review Agent, Finance Review Agent, Commercial Review Agent, Operations Design Agent, DfT Process Simulation Agent, WECA Governance Agent, Red Team, Simulation Gate Authority | Any FBC approval statutory submission implementation procurement approval legal sign-off S151 review DfT closure WECA/MCA agreement service readiness or submit-and-implement recommendation claim |
 | Stage 11 FBC/Statutory Gate | FBC, scheme order, dossier, consultation report | Legal, Finance, Operations, Integrated Review Agents | Open P0 or simulated statutory-route failure |
 
 ## Real-World Adoption Gaps
