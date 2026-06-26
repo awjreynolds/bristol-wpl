@@ -1,19 +1,88 @@
 # Bristol Workplace Parking Levy Simulation
 
-This repository is a controlled workspace for a full simulation of a Bristol Workplace Parking Levy OBC, FBC and statutory confirmation dossier.
+No Bristol Workplace Parking Levy has been approved by this repository.
 
-Source of truth:
-- `CODEX_MASTER_PROMPT.md`
-- `instructions/00-operating-model.md`
-- controlled Markdown, CSV, XLSX, JSON, HTML and GIS artefacts generated under the repo structure
+This repo is a public, editable simulation of what a government-grade Bristol Workplace Parking Levy business-case and statutory-assurance workflow would need to control before a real authority could rely on it. It is a learning and due-diligence vehicle, not a policy approval, legal opinion, consultation launch, Outline Business Case, Full Business Case or statutory submission.
 
-This is not legal advice, statutory confirmation, financial certification or approval by any public body. All sign-offs are agentic simulation sign-offs unless explicitly replaced in a future real-world process.
+## Current No-Go Position
 
-Officer review and distribution copies must be editable DOCX/XLSX/HTML or controlled Markdown as appropriate. PDFs are allowed only as downloaded third-party raw evidence under `evidence/raw/**`, never as officer-distribution outputs.
+The current simulation position is **no-go for approval, consultation, OBC reliance, FBC reliance and statutory submission**.
 
-## Current Status
+The blockers are not cosmetic:
 
-Stage 0 bootstrap and Stage 1 source acquisition/simulated assurance are complete with conditions. Stage 2, Stage 3A, Stage 4A, Stage 5A, Stage 6A and Stage 8A have also been completed as control/narrowing stages only; they do not create OBC/FBC, consultation launch, consultation materials, preferred-scheme or statutory-submission readiness.
+- Bristol's final WPL order-maker, statutory submitter and signatory route remain unresolved.
+- WECA/MCA role, consent or no-role position, consultation-response position and funding-dependency status remain unresolved.
+- No WPL-specific DfT procedural route or logged DfT response is held.
+- No authoritative charging boundary has been selected.
+- No workplace parking inventory exists.
+- No displacement, CPZ/RPZ or residential spillover assessment exists.
+- No OAR, agreed ASR, completed ASST, model outputs, BCR or VFM category exists.
+- No OBC or FBC has been assembled.
+- No consultation material, questionnaire, privacy notice, accessibility approval or response-analysis route exists.
+- Nottingham lessons are lessons only. They cannot be copied into Bristol assumptions without Bristol transferability evidence.
+
+## What Can I Rely On?
+
+You can rely on this repo as a controlled simulation record:
+
+| Safe to rely on | Do not infer |
+|---|---|
+| It identifies evidence, decisions, risks and checks needed for a professional WPL workflow. | That Bristol City Council, WECA/MCA, DfT or the Secretary of State has approved anything in this repo. |
+| It records agent-simulated legal, finance, appraisal, governance, data, consultation and red-team reviews. | That those agent sign-offs replace qualified human advice or public-authority decisions. |
+| It has a stage-gate structure and validators that block readiness overclaims. | That a blocked gate is ready just because the template exists. |
+| It maps Nottingham and comparator lessons. | That Nottingham charge levels, impacts, mode shift or congestion outcomes transfer to Bristol. |
+| It uses editable Markdown, CSV, XLSX, JSON, HTML and GIS-ready artefacts. | That any authored PDF is an officer-distribution product. Authored PDFs are not allowed. |
+
+## Where To Start
+
+| Reader | Start here | Why |
+|---|---|---|
+| Public reader | `docs/public/README.md` | Plain-English explanation of what this is and is not. |
+| Cabinet member or council leader | `docs/officer/assurance-dashboard.md` | One-page decision dashboard with blockers and safe statements. |
+| Officer or programme manager | `docs/officer/programme-risk-briefing.md` | Programme risks, mitigations and next checks. |
+| Legal or governance reviewer | `docs/officer/legal-and-governance-briefing.md` | Bristol, WECA/MCA, DfT and statutory route questions. |
+| Transport economist or modeller | `analysis/economic/stage-5a-options-appraisal-control-package.md` | OAR, ASR, ASST, appraisal, model and Nottingham-transfer controls. |
+| GIS, parking or data specialist | `analysis/spatial/stage-4a-boundary-and-parking-inventory-control-package.md` | Boundary, inventory, topology, DPIA and displacement controls. |
+| Consultation, equality or accessibility specialist | `analysis/consultation/stage-8a-consultation-readiness-control-package.md` | Launch, material, privacy, accessibility and analysis controls. |
+| Agent or technical contributor | `CODEX_MASTER_PROMPT.md` and `instructions/00-operating-model.md` | Source operating model and context discipline. |
+
+## Visual Stage Map
+
+The current workflow map is in `docs/visuals/stage-gate-map.mmd`. Stage 9A is the public/officer assurance layer. Stage 7 OBC and Stage 11 FBC/statutory gates remain blocked.
+
+```mermaid
+flowchart LR
+    S0["Stage 0-1<br/>Repo and evidence baseline"] --> S2["Stage 2<br/>Legal and governance controls"]
+    S2 --> S3["Stage 3A<br/>Strategic controls"]
+    S3 --> S4["Stage 4A<br/>Boundary and parking controls"]
+    S4 --> S5["Stage 5A<br/>Appraisal controls"]
+    S5 --> S6["Stage 6A<br/>OBC readiness controls"]
+    S6 --> S7["Stage 7<br/>OBC gate BLOCKED"]
+    S7 --> S8["Stage 8A<br/>Consultation controls"]
+    S8 --> S9["Stage 9A<br/>Public/officer assurance"]
+    S9 --> S11["Stage 11<br/>FBC and statutory gate BLOCKED"]
+```
+
+## Stage 9A Status
+
+Stage 9A adds the public/officer assurance layer:
+
+- public summary and evidence assumptions;
+- officer assurance dashboard;
+- legal and governance briefing;
+- programme risk briefing;
+- Nottingham and comparator lessons briefing;
+- checks and balances map;
+- document map;
+- pitfalls register;
+- stage risk matrix;
+- real-world adoption checklist;
+- Nottingham lessons register;
+- officer-pack and Nottingham-transferability validators.
+
+Stage 9A makes the repo easier to understand. It does **not** close any substantive Bristol, WECA/MCA, DfT, spatial, appraisal, OBC, consultation, finance, data-protection or statutory blocker.
+
+## Stage Workflow
 
 The stage-by-stage workflow narrative is maintained in `docs/stages/`:
 
@@ -25,135 +94,61 @@ The stage-by-stage workflow narrative is maintained in `docs/stages/`:
 - `docs/stages/stage-5a-options-appraisal.md`
 - `docs/stages/stage-6a-obc-readiness.md`
 - `docs/stages/stage-8a-consultation-readiness.md`
+- `docs/stages/stage-9a-public-officer-assurance.md`
 
-Each completed stage package should be committed and pushed before the next stage begins. The README remains the high-level entry point; detailed discoveries, data points and unresolved issues live in the stage docs and controlled registers.
+Each completed stage package should be committed and pushed before the next stage begins. Detailed discoveries, data points and unresolved issues live in the stage docs and controlled registers.
 
-Current controlled gate reports:
+## Evidence State
 
-- `review/stage_gate_reports/stage-2c-bristol-authority-route-report.md`
-- `review/stage_gate_reports/stage-2d-bristol-internal-decision-route-report.md`
-- `review/stage_gate_reports/stage-2e-weca-mca-role-classification-report.md`
-- `review/stage_gate_reports/stage-2f-current-law-function-map-report.md`
-- `review/stage_gate_reports/stage-2g-meeting-record-search-report.md`
-- `review/stage_gate_reports/stage-2h-package-funding-assurance-report.md`
-- `review/stage_gate_reports/stage-2i-final-order-submission-route-report.md`
-- `review/stage_gate_reports/stage-2j-dft-procedural-expectations-report.md`
-- `review/stage_gate_reports/stage-2k-revocation-variation-report.md`
+- `evidence/source_register.csv` contains 111 rows.
+- 94 sources are downloaded.
+- 16 sources remain seeded but not downloaded.
+- 1 source acquisition failed: `SRC-ACADEMIC-0001`.
+- `evidence/extraction_manifest.csv` is the current extraction state: 94 extracted, 16 skipped because not downloaded and 1 skipped because acquisition failed.
+- `evidence/extraction_log.csv` is the append-only extraction audit log.
+
+## Controlled Gate Reports
+
+Current gate reports live under `review/stage_gate_reports/`. Key current reports:
+
+- `review/stage_gate_reports/stage-1-source-acquisition-and-simulated-assurance-report.md`
 - `review/stage_gate_reports/stage-2l-context-management-report.md`
 - `review/stage_gate_reports/stage-3a-strategic-assessment-control-report.md`
 - `review/stage_gate_reports/stage-4a-boundary-parking-control-report.md`
 - `review/stage_gate_reports/stage-5a-options-appraisal-control-report.md`
 - `review/stage_gate_reports/stage-6a-obc-readiness-control-report.md`
 - `review/stage_gate_reports/stage-8a-consultation-readiness-control-report.md`
-- `review/stage_gate_reports/stage-2b-current-law-role-map-report.md`
-- `review/stage_gate_reports/stage-2a-governance-evidence-refinement-report.md`
-- `review/stage_gate_reports/stage-2-legal-governance-technical-baseline-report.md`
+- `review/stage_gate_reports/stage-9a-public-officer-assurance-report.md`
 
-Current evidence state:
-
-- `evidence/source_register.csv` contains 111 rows.
-- 94 sources are downloaded.
-- 16 sources remain seeded but not downloaded.
-- 1 source acquisition failed (`SRC-ACADEMIC-0001`).
-- `evidence/extraction_manifest.csv` is the current extraction state: 94 extracted, 16 skipped because not downloaded, and 1 skipped because acquisition failed.
-- `evidence/extraction_log.csv` is the append-only extraction audit log.
-
-## Current Gate Position
-
-Do not draft or assemble an OBC/FBC, select a preferred scheme, launch statutory consultation, treat WECA/MCA as approving or consenting, or prepare a statutory submission as ready.
-
-Open controls include:
-
-- P0 Bristol final WPL licensing-scheme order-maker, statutory submitter and signatory route; Bristol-led authority-status evidence is source-bounded by Stage 2C, OBC/FBC member routing is partly controlled by Stage 2D, and Stage 2I adds final order/submission decision-box controls without closing the route.
-- P0 WECA/MCA current-law role; Stage 2E controls strategic-context and conditional funding/assurance wording, Stage 2F controls that current scoped repo evidence does not identify a WPL-specific transferred/concurrent WECA/MCA order-making function, Stage 2G narrows bounded public meeting-record search, and Stage 2H classifies package-level funding/assurance triggers. None of these settles consent, no-role, consultation-response or final funding-dependency status.
-- P1 strategic assessment and investment-programme readiness; Stage 3A creates problem/baseline/objective/theory-of-change/benefits/package-funding controls but does not create a Strategic Case, completed baseline, final objectives, benefits, investment package, WECA/MCA position or package funding assurance route.
-- P0 authoritative WPL boundary and parking inventory; Stage 4A creates control templates for boundary provenance topology QA parking-inventory canonical data DPIA scope and enforcement linkage but does not select a boundary or create inventory evidence.
-- P0/P1 DPIA/lawful-basis pack and enforcement operating procedure.
-- P0 ASR/OAR/ASST, model cards, model outputs and uncertainty controls; Stage 5A creates options/appraisal control templates, benefits treatment, transferability and model-card stubs but does not create a shortlist, preferred option, BCR, VFM category or model output.
-- P1 OBC readiness and assembly; Stage 6A creates section dependency, claim dependency, no-go claim and assembly-blocking controls but does not assemble an OBC, create officer-review DOCX, pass Stage 7 assurance or support consultation.
-- P1 consultation launch and material readiness; Stage 8A creates launch-readiness, stakeholder, material-version, privacy, accessibility, response-data, analysis and no-go controls but does not author consultation materials, create a questionnaire, create response data, certify public-law tests, approve accessibility or support launch.
-- P1 DfT engagement evidence and WPL-specific procedural expectation classification; Stage 2J controls generic DfT business-case/TAG alignment and bounded GOV.UK search-control evidence but does not identify an accepted WPL confirmation dossier route.
-- P1 revocation, variation, publication and consultation process controls; Stage 2K controls order-change terminology and the narrow RPI-only variation exemption but keeps revocation process readiness open.
-- P1 context overload and hallucinated readiness risk; Stage 2L creates a mandatory bounded context packet and banned-claim controls for future agents but does not close any substantive blocker.
+## Context Discipline
 
 For main-agent legal, governance, statutory, OBC/FBC, DfT, WECA/MCA, order-change or consultation work after Stage 2L, start with:
 
 - `analysis/legal/post-stage-2-legal-governance-context-packet.md`
 
+For public/officer-facing explanation after Stage 9A, also start with:
+
+- `docs/public/README.md`
+- `docs/officer/assurance-dashboard.md`
+- `docs/officer/checks-and-balances-map.md`
+- `governance/pitfalls_register.csv`
+- `governance/stage_risk_matrix.csv`
+- `analysis/economic/nottingham_lessons_register.csv`
+
 Subagents should receive bounded task packets rather than the whole context set.
-
-For WECA/MCA funding and assurance context, then add:
-
-- `analysis/weca-role-and-evidence/post-stage-2h-context-packet.md`
-- `analysis/weca-role-and-evidence/support-status.md`
-- `analysis/weca-role-and-evidence/funding-and-assurance-dependency-matrix.md`
-- `review/stage_gate_reports/stage-2h-package-funding-assurance-report.md`
-
-Do not reload the whole WECA/MCA evidence set unless verifying a specific source line, claim or newly discovered decision record.
-
-For DfT engagement and confirmation-route controls, then add:
-
-- `analysis/legal/stage-2j-dft-procedural-expectations-and-engagement-classification.md`
-- `statutory_dossier/dft_pre_application/questions_for_dft.md`
-- `statutory_dossier/dft_pre_application/confirmation_dossier_checklist.md`
-- `review/stage_gate_reports/stage-2j-dft-procedural-expectations-report.md`
-
-For order-change, variation, revocation and consultation controls, then add:
-
-- `analysis/legal/stage-2k-revocation-variation-and-consultation-control.md`
-- `statutory_dossier/draft_scheme_order/scheme_order_working_draft.md`
-- `statutory_dossier/consultation_statement/consultation_statement.md`
-- `review/stage_gate_reports/stage-2k-revocation-variation-report.md`
-
-For Stage 4 spatial and parking-base controls, start with:
-
-- `analysis/spatial/stage-4a-boundary-and-parking-inventory-control-package.md`
-- `spatial/parking_inventory/parking-inventory-data-contract.md`
-- `spatial/spatial_qa/spatial-assurance-report.md`
-- `review/stage_gate_reports/stage-4a-boundary-parking-control-report.md`
-
-For Stage 3 strategic assessment and package funding controls, start with:
-
-- `analysis/strategic/stage-3a-strategic-assessment-control-package.md`
-- `analysis/strategic/problem-definition.md`
-- `analysis/strategic/benefits-map.md`
-- `investment_programme/funding/package-funding-assurance-classification.csv`
-- `review/stage_gate_reports/stage-3a-strategic-assessment-control-report.md`
-
-For Stage 5 options and appraisal controls, start with:
-
-- `analysis/economic/stage-5a-options-appraisal-control-package.md`
-- `analysis/economic/benefits-treatment-taxonomy.csv`
-- `analysis/economic/boundary-parking-model-dependency-table.csv`
-- `review/stage_gate_reports/stage-5a-options-appraisal-control-report.md`
-
-For Stage 6 OBC readiness and assembly controls, start with:
-
-- `analysis/obc/stage-6a-obc-readiness-control-package.md`
-- `business_case/obc/controls/section-dependency-matrix.csv`
-- `business_case/obc/controls/section-claim-dependency-register.csv`
-- `business_case/obc/controls/no-go-claim-register.csv`
-- `review/stage_gate_reports/stage-6a-obc-readiness-control-report.md`
-
-For Stage 8 consultation readiness controls, start with:
-
-- `analysis/consultation/stage-8a-consultation-readiness-control-package.md`
-- `consultation/controls/launch-readiness-register.csv`
-- `consultation/controls/stakeholder-coverage-register.csv`
-- `consultation/materials/material-version-register.csv`
-- `analysis/data-protection-and-cyber/stage-8a-consultation-response-data-controls.md`
-- `schemas/consultation-response.schema.json`
-- `review/stage_gate_reports/stage-8a-consultation-readiness-control-report.md`
 
 ## Repeatable Commands
 
 ```bash
 make validate
+make officer-pack-qa
+make nottingham-qa
 make strategic-qa
 make spatial-qa
 make appraisal-qa
 make obc-qa
 make consultation-qa
+make red-team
 python3 scripts/acquire_sources.py --priority 1_must
 python3 scripts/extract_sources.py
 python3 scripts/build_register_workbooks.py
@@ -161,4 +156,16 @@ python3 scripts/scan_source_terms.py
 python3 scripts/build_document_templates.py
 ```
 
-Network access is required for source acquisition. Raw third-party PDFs must remain only under `evidence/raw/**` and must not be reused as officer-distribution copies.
+`make gate-obc` and `make gate-fbc` are expected to fail while open P0/P1 blockers remain. That failure is intentional.
+
+## Format And Distribution Rules
+
+Officer review and distribution copies must be editable DOCX/XLSX/HTML or controlled Markdown as appropriate. PDFs are allowed only as downloaded third-party raw evidence under `evidence/raw/**`, never as officer-distribution outputs.
+
+## Source Of Truth
+
+- `CODEX_MASTER_PROMPT.md`
+- `instructions/00-operating-model.md`
+- controlled Markdown, CSV, XLSX, JSON, HTML and GIS artefacts generated under this repo
+
+This is not legal advice, statutory confirmation, financial certification or approval by any public body. All sign-offs are agentic simulation sign-offs unless explicitly replaced in a future real-world process.

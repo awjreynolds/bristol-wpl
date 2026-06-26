@@ -14,6 +14,10 @@ REQUIRED = {
     "evidence/source_register.csv": ["source_id", "seed_doc_id", "url", "status"],
     "evidence/claim_evidence_matrix.csv": ["claim_id", "document_id", "claim_text", "source_ids"],
     "statutory_dossier/legal_compliance_matrix.csv": ["requirement_id", "legal_source", "operative_requirement"],
+    "governance/pitfalls_register.csv": ["pitfall_id", "stage", "pitfall", "mitigation"],
+    "governance/stage_risk_matrix.csv": ["stage", "blocker", "mitigation", "gate_effect"],
+    "governance/checks_and_balances_register.csv": ["control_id", "claim_type", "required_evidence", "validator_or_gate"],
+    "governance/real_world_adoption_checklist.csv": ["adoption_id", "simulation_control", "required_real_world_replacement"],
 }
 
 def read_header(path: Path) -> list[str]:

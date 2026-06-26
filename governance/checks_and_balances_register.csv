@@ -1,0 +1,11 @@
+control_id,claim_type,required_evidence,required_reviewer,validator_or_gate,banned_wording,current_status
+CB-0001,implementation_approval,Bristol decision notice and minutes expressly approving implementation,Bristol Governance Agent,stage_gate_check.py,implementation approved,blocked_controlled
+CB-0002,legal_route,Bristol final order-maker submitter signatory and WECA/MCA role evidence,Legal Review Agent,stage_gate_check.py,route settled,blocked_controlled
+CB-0003,dft_confirmation,DfT WPL-specific source or formal Secretary of State confirmation evidence,Legal Review Agent,stage_gate_check.py,DfT approved,blocked_controlled
+CB-0004,boundary,Authoritative boundary GIS source licence topology QA and legal/GIS reconciliation,GIS/Data Review Agent,validate_spatial.py,boundary selected,blocked_controlled
+CB-0005,parking_inventory,Canonical inventory source IDs lawful basis confidence and audit history,Spatial Data Agent,validate_spatial.py,parking inventory complete,blocked_controlled
+CB-0006,nottingham_transfer,Bristol-specific transfer evidence and Nottingham lessons register,Comparator Evidence Agent,validate_nottingham_transferability.py,Nottingham proves Bristol,blocked_controlled
+CB-0007,appraisal_output,OAR ASR ASST model cards run manifests outputs uncertainty and review,TAG/Appraisal Review Agent,validate_appraisal.py,BCR or VFM ready,blocked_controlled
+CB-0008,obc_readiness,Section dependency and claim dependency evidence with reviewer status,Integrated Case Review Agent,validate_obc.py,OBC ready,blocked_controlled
+CB-0009,consultation_launch,Authority privacy accessibility EqIA materials and response-analysis controls,Consultation Review Agent,validate_consultation.py,consultation ready to launch,blocked_controlled
+CB-0010,real_world_signoff,Human public-authority and professional approval replacement evidence,Programme Orchestrator,validate_officer_pack.py,agent sign-off is approval,blocked_controlled

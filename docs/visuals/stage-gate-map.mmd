@@ -1,0 +1,24 @@
+flowchart TD
+    A["Stage 0-1: Repo and evidence baseline<br/>Complete with conditions"] --> B["Stage 2: Legal and governance controls<br/>No-go remains"]
+    B --> C["Stage 3A: Strategic controls<br/>No Strategic Case yet"]
+    C --> D["Stage 4A: Boundary and parking controls<br/>No boundary or inventory"]
+    D --> E["Stage 5A: Options and appraisal controls<br/>No BCR or VFM"]
+    E --> F["Stage 6A: OBC readiness controls<br/>No assembled OBC"]
+    F --> G["Stage 7: OBC gate<br/>BLOCKED"]
+    G --> H["Stage 8A: Consultation controls<br/>No launch"]
+    H --> I["Stage 8: Consultation launch<br/>BLOCKED"]
+    I --> J["Stage 9A: Public/officer assurance layer<br/>This stage"]
+    J --> K["Stage 11: FBC and statutory gate<br/>Future and blocked"]
+
+    B -. "P0: Bristol route and WECA/MCA role" .-> G
+    D -. "P0: boundary and inventory" .-> G
+    E -. "P0: appraisal/model outputs" .-> G
+    H -. "P1: launch controls" .-> I
+
+    classDef blocked fill:#ffdddd,stroke:#990000,color:#111111;
+    classDef control fill:#fff4cc,stroke:#996600,color:#111111;
+    classDef current fill:#ddf4ff,stroke:#005f99,color:#111111;
+
+    class G,I,K blocked;
+    class A,B,C,D,E,F,H control;
+    class J current;

@@ -1,5 +1,7 @@
 # Startup Report
 
+Historical note: this file records the bootstrap and Stage 1 position on 2026-06-25. It is not the current repo status page. Use `README.md`, `docs/public/README.md` and `docs/officer/assurance-dashboard.md` for the current Stage 9A public/officer position.
+
 **Date:** 2026-06-25  
 **Mode:** Full simulation with agentic simulation sign-offs.  
 **Status:** Stage 0 bootstrap/discovery baseline completed with conditions. Stage 1 source acquisition and simulated assurance completed with conditions.

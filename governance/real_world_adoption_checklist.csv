@@ -1,0 +1,11 @@
+adoption_id,simulation_control,required_real_world_replacement,responsible_profession_or_body,status,notes
+RWA-0001,Legal Review Agent sign-off,Qualified legal advice and Monitoring Officer route confirmation,Legal Services and Monitoring Officer,not_started,Simulation is not legal advice.
+RWA-0002,Simulation Gate Authority sign-off,Formal public-authority decision through lawful route,Bristol City Council or relevant authority,not_started,Simulation cannot approve policy.
+RWA-0003,WECA/MCA role classifier,Formal WECA/MCA legal governance and funding position where required,WECA/MCA and Bristol legal/finance teams,not_started,No-role consent or funding dependency is unresolved.
+RWA-0004,TAG/Appraisal Review Agent sign-off,Professional transport economics appraisal and analytical assurance,Transport economist and appraisal assurance body,not_started,No model outputs or VFM category exists.
+RWA-0005,GIS/Data Review Agent sign-off,Authoritative GIS data licence topology and legal boundary review,GIS lead legal reviewer and data owner,not_started,No boundary or inventory exists.
+RWA-0006,Data Protection Review Agent sign-off,DPIA lawful-basis processor and privacy notice approval,DPO and information governance team,not_started,No DPIA is complete.
+RWA-0007,Consultation Review Agent sign-off,Authority to consult public-law consultation plan accessibility and response-analysis approval,Legal consultation equality data and service leads,not_started,No consultation launch readiness exists.
+RWA-0008,Operations Design Agent sign-off,Service design PCN appeals recovery customer and enforcement approval,Service owner legal operations and finance leads,not_started,No operating procedure exists.
+RWA-0009,Finance Review Agent sign-off,Chief finance officer affordability accounting net-proceeds and funding review,Section 151/Chief Finance Officer,not_started,No finance case is ready.
+RWA-0010,Agent public documentation,Officer communications and democratic-report clearance,Programme sponsor communications and democratic services,not_started,Public pack is explanatory only.
