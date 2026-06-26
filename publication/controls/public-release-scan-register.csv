@@ -1,0 +1,4 @@
+scan_id,scan_name,method,finding,current_status,owner
+PUB-SCAN-001,authored_pdf_scan,"scripts/validate_registers.py check_no_authored_pdfs with case-insensitive .pdf matching and evidence/raw src-* source-file convention","no authored PDFs outside evidence/raw",pass,Programme Orchestrator
+PUB-SCAN-002,restricted_path_scan,"scripts/validate_registers.py check_sensitive_paths","restricted paths empty except allowed placeholders",pass,Programme Orchestrator
+PUB-SCAN-003,prompt_parity_scan,"cmp CODEX_MASTER_PROMPT.md instructions/00-operating-model.md","master prompt and operating model are byte-identical",pass,Programme Orchestrator

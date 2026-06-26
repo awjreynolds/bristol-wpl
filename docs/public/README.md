@@ -9,6 +9,8 @@ No Bristol Workplace Parking Levy has been approved by this repository.
 
 This repo is a learning and assurance simulation. It shows the evidence, decisions, risks, checks and documents that would be needed before a council could safely move towards an Outline Business Case, public consultation, Full Business Case or statutory confirmation dossier.
 
+The GitHub repository is public. Public visibility is not approval, endorsement, legal advice, consultation launch authority or statutory readiness.
+
 ## What This Repo Is
 
 - An auditable simulation workspace.
@@ -23,6 +25,7 @@ This repo is a learning and assurance simulation. It shows the evidence, decisio
 - It is not WECA/MCA approval, consent or objection.
 - It is not DfT or Secretary of State confirmation.
 - It is not an OBC, FBC, consultation document, scheme order or launch decision.
+- It is not an official council publication or professional sign-off.
 
 ## Current No-Go Position
 

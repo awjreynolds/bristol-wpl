@@ -4,6 +4,8 @@ No Bristol Workplace Parking Levy has been approved by this repository.
 
 This repo is a public, editable simulation of what a government-grade Bristol Workplace Parking Levy business-case and statutory-assurance workflow would need to control before a real authority could rely on it. It is a learning and due-diligence vehicle, not a policy approval, legal opinion, consultation launch, Outline Business Case, Full Business Case or statutory submission.
 
+This repository is public. Stage 12A records that public visibility is not approval, not an official council publication and does not change the no-go position below.
+
 ## Current No-Go Position
 
 The current simulation position is **no-go for approval, consultation, OBC reliance, FBC reliance and statutory submission**.
@@ -28,6 +30,7 @@ You can rely on this repo as a controlled simulation record:
 | Safe to rely on | Do not infer |
 |---|---|
 | It identifies evidence, decisions, risks and checks needed for a professional WPL workflow. | That Bristol City Council, WECA/MCA, DfT or the Secretary of State has approved anything in this repo. |
+| It is public on GitHub and can be inspected as a learning record. | That publication approves the WPL, the business case, consultation or statutory submission. |
 | It records agent-simulated legal, finance, appraisal, governance, data, consultation and red-team reviews. | That those agent sign-offs replace qualified human advice or public-authority decisions. |
 | It has a stage-gate structure and validators that block readiness overclaims. | That a blocked gate is ready just because the template exists. |
 | It maps Nottingham and comparator lessons. | That Nottingham charge levels, impacts, mode shift or congestion outcomes transfer to Bristol. |
@@ -48,7 +51,7 @@ You can rely on this repo as a controlled simulation record:
 
 ## Visual Stage Map
 
-The current workflow map is in `docs/visuals/stage-gate-map.mmd`. Stage 9A is the public/officer assurance layer. Stage 7 OBC, Stage 8 consultation launch and Stage 11 FBC/statutory gates remain blocked. Stage 10A is only a control layer for a future statutory dossier; Stage 11A is only a control layer for the final FBC/statutory gate.
+The current workflow map is in `docs/visuals/stage-gate-map.mmd`. Stage 9A is the public/officer assurance layer. Stage 7 OBC, Stage 8 consultation launch and Stage 11 FBC/statutory gates remain blocked. Stage 10A is only a control layer for a future statutory dossier; Stage 11A is only a control layer for the final FBC/statutory gate. Stage 12A records the public repository release controls.
 
 ```mermaid
 flowchart LR
@@ -65,6 +68,7 @@ flowchart LR
     S9 --> S10A["Stage 10A<br/>Statutory dossier controls"]
     S10A --> S11A["Stage 11A<br/>FBC/statutory gate controls"]
     S11A --> S11["Stage 11<br/>FBC and statutory gate BLOCKED"]
+    S11 --> S12A["Stage 12A<br/>Public release controls"]
 ```
 
 ## Stage 9A Status
@@ -102,6 +106,7 @@ The stage-by-stage workflow narrative is maintained in `docs/stages/`:
 - `docs/stages/stage-9a-public-officer-assurance.md`
 - `docs/stages/stage-10a-statutory-dossier.md`
 - `docs/stages/stage-11a-fbc-statutory-gate.md`
+- `docs/stages/stage-12a-public-release.md`
 
 Each completed stage package should be committed and pushed before the next stage begins. Detailed discoveries, data points and unresolved issues live in the stage docs and controlled registers.
 
@@ -129,6 +134,7 @@ Current gate reports live under `review/stage_gate_reports/`. Key current report
 - `review/stage_gate_reports/stage-9a-public-officer-assurance-report.md`
 - `review/stage_gate_reports/stage-10a-statutory-dossier-control-report.md`
 - `review/stage_gate_reports/stage-11a-fbc-statutory-gate-report.md`
+- `review/stage_gate_reports/stage-12a-public-release-gate-report.md`
 
 ## Context Discipline
 
@@ -161,6 +167,7 @@ make obc-assurance-qa
 make consultation-qa
 make statutory-qa
 make fbc-statutory-qa
+make public-release-qa
 make red-team
 python3 scripts/acquire_sources.py --priority 1_must
 python3 scripts/extract_sources.py

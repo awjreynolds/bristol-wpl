@@ -21,6 +21,7 @@ The simulation has mostly completed control architecture, not substantive case e
 | Launching consultation without authority/material/privacy/accessibility controls | Stage 8 | Public-law and data-protection risk | Stage 8A launch-readiness controls |
 | Treating statutory dossier controls as a submission pack | Stage 10A | Premature statutory submission, DfT-process overclaim and scheme-order challenge | Statutory dossier no-go register and `python3 scripts/validate_statutory_dossier.py --gate` |
 | Treating final FBC/statutory gate controls as approval to submit or implement | Stage 11A | False FBC approval, procurement authority, legal sign-off or implementation recommendation | FBC/statutory no-go register and `python3 scripts/validate_fbc_statutory_gate.py --gate` |
+| Treating public repo visibility as public-body endorsement | Stage 12A | Public misunderstanding, political overclaim or reliance on simulation sign-offs | Public-release no-go register and `python3 scripts/validate_public_release.py` |
 
 ## Risk Registers
 

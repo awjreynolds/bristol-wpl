@@ -22,6 +22,8 @@ REQUIRED = {
     "statutory_dossier/controls/submission-no-go-register.csv": ["claim_id", "prohibited_claim", "current_status"],
     "business_case/fbc/controls/stage-11-fbc-statutory-gate-checklist.csv": ["gate_item_id", "assurance_area", "current_status"],
     "business_case/fbc/controls/stage-11-no-go-claim-register.csv": ["claim_id", "prohibited_claim", "current_status"],
+    "publication/controls/repository-publication-checklist.csv": ["control_id", "control_area", "current_status"],
+    "publication/controls/public-release-no-go-register.csv": ["claim_id", "prohibited_claim", "current_status"],
 }
 
 def read_header(path: Path) -> list[str]:
@@ -61,27 +63,49 @@ def check_csv_row_widths(root: Path = ROOT) -> list[str]:
                     )
     return errors
 
-def check_no_authored_pdfs() -> list[str]:
+def looks_like_authored_pdf_name(rel: str) -> bool:
+    name = Path(rel).name.lower()
+    if not name.endswith(".pdf"):
+        return False
+    return not name.startswith("src-")
+
+
+def check_no_authored_pdfs(root: Path = ROOT) -> list[str]:
     errors = []
-    for path in ROOT.rglob("*.pdf"):
-        rel = path.relative_to(ROOT).as_posix()
+    for path in root.rglob("*"):
+        if not path.is_file() or path.suffix.lower() != ".pdf":
+            continue
+        rel = path.relative_to(root).as_posix()
         if not rel.startswith("evidence/raw/"):
             errors.append(f"authored or misplaced PDF is not allowed: {rel}")
+        elif looks_like_authored_pdf_name(rel):
+            errors.append(f"authored PDF-like file is not allowed in raw evidence: {rel}")
     return errors
 
-def check_sensitive_paths() -> list[str]:
+def check_sensitive_paths(root: Path = ROOT) -> list[str]:
     errors = []
     forbidden_parts = [
         "data/restricted/",
         "consultation/response_data/raw/",
         "consultation/response_data/personal/",
     ]
-    for path in ROOT.rglob("*"):
+    public_content_prefixes = ("README.md", "docs/public/", "docs/officer/")
+    public_content_suffixes = {".md", ".csv", ".html"}
+    for path in root.rglob("*"):
         if not path.is_file():
             continue
-        rel = path.relative_to(ROOT).as_posix()
+        rel = path.relative_to(root).as_posix()
         if any(rel.startswith(part) for part in forbidden_parts) and path.name != ".gitkeep":
             errors.append(f"restricted file present in normal repo path: {rel}")
+        if (
+            rel == "README.md"
+            or rel.startswith(public_content_prefixes[1])
+            or rel.startswith(public_content_prefixes[2])
+        ) and path.suffix.lower() in public_content_suffixes:
+            text = path.read_text(encoding="utf-8", errors="ignore")
+            for forbidden in forbidden_parts:
+                if forbidden in text:
+                    errors.append(f"restricted path reference exposed in public/officer content: {rel} -> {forbidden}")
     return errors
 
 def main() -> int:

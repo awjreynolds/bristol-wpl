@@ -11,7 +11,7 @@ Each completed stage package should be committed and pushed before the next stag
 
 ## Current Stage Map
 
-Terminology note: `Stage 10A` is a control-architecture slice for a future statutory confirmation dossier. `Stage 11A` is a control-architecture slice for the final FBC/statutory assurance gate. Neither is a statutory submission or approval. The future FBC/statutory decision gate remains `Stage 11` in this repo.
+Terminology note: `Stage 10A` is a control-architecture slice for a future statutory confirmation dossier. `Stage 11A` is a control-architecture slice for the final FBC/statutory assurance gate. Neither is a statutory submission or approval. `Stage 12A` is a public-release control stage only. The future FBC/statutory decision gate remains `Stage 11` in this repo.
 
 | Stage | Purpose | Current status | Main gate report or control |
 |---|---|---|---|
@@ -28,6 +28,7 @@ Terminology note: `Stage 10A` is a control-architecture slice for a future statu
 | Stage 10A | Statutory confirmation dossier component, no-go and route-memorandum controls | Complete as control architecture; statutory submission remains blocked | `review/stage_gate_reports/stage-10a-statutory-dossier-control-report.md` |
 | Stage 11A | Final FBC/statutory gate checklist, assurance panel, no-go and decision-report controls | Complete as control architecture; Stage 11 FBC/statutory gate remains blocked | `review/stage_gate_reports/stage-11a-fbc-statutory-gate-report.md` |
 | Stage 11 | Future combined FBC/statutory decision gate | Blocked; no FBC approval, statutory submission, procurement approval or implementation recommendation | `python3 scripts/validate_fbc_statutory_gate.py --gate` |
+| Stage 12A | Public repository release and no-overclaim controls | Complete as publication control; no WPL gate closes | `review/stage_gate_reports/stage-12a-public-release-gate-report.md` |
 
 ## Detailed Notes
 
@@ -42,6 +43,7 @@ Terminology note: `Stage 10A` is a control-architecture slice for a future statu
 - [Stage 9A Public And Officer Assurance](stage-9a-public-officer-assurance.md)
 - [Stage 10A Statutory Dossier Controls](stage-10a-statutory-dossier.md)
 - [Stage 11A FBC And Statutory Gate Controls](stage-11a-fbc-statutory-gate.md)
+- [Stage 12A Public Release Controls](stage-12a-public-release.md)
 
 ## Current Hard Blockers
 
@@ -57,3 +59,4 @@ Terminology note: `Stage 10A` is a control-architecture slice for a future statu
 - Public/officer summaries are explanatory only and must not be treated as approval, legal advice, OBC/FBC readiness or consultation authority.
 - Statutory dossier controls are explanatory and control-only; no statutory submission or certified scheme order exists.
 - Stage 11A final gate controls are explanatory and control-only; no FBC approval, statutory submission, procurement approval or implementation recommendation exists.
+- Stage 12A public-release controls are explanatory and control-only; public visibility does not approve the WPL or close any readiness gate.

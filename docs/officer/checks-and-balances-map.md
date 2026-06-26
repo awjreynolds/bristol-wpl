@@ -3,6 +3,8 @@
 Status: officer-facing control map.  
 Date: 2026-06-26.
 
+This is a simulation control map. It is not approval, legal advice, consultation authority, OBC/FBC readiness, statutory submission readiness or official council publication.
+
 ## How A Claim Is Controlled
 
 | Claim type | Required evidence | Required review | Gate |
@@ -16,6 +18,7 @@ Date: 2026-06-26.
 | Consultation material | Authority, privacy, accessibility, EqIA, response analysis and material version controls | Legal, Data, Accessibility and Consultation Agents | Stage 8 |
 | Statutory dossier | Scheme order, consultation report, net-proceeds plans, confirmation route, Stage 10A component register and no-go register | Legal, Finance and Integrated Review Agents | Stage 10A controls and Stage 11 gate |
 | FBC/statutory gate | Final FBC evidence packet, legal sign-off, Section 151 review, DfT/WECA disposition, operations readiness and residual-risk decision pack | Monitoring Officer Simulation Agent, Section 151 Simulation Agent, Integrated Review Agent, Legal Review Agent, Finance Review Agent, Operations Design Agent and Red Team | Stage 11A controls and Stage 11 gate |
+| Public repository release | GitHub visibility, public no-go wording, no authored PDFs, restricted-path scan and blocked WPL gates | Public Release Review Agent, Officer Readability Agent and Red Team | Stage 12A controls |
 
 ## Registers
 
@@ -33,6 +36,7 @@ Date: 2026-06-26.
 - `make consultation-qa`
 - `make statutory-qa`
 - `make fbc-statutory-qa`
+- `make public-release-qa`
 - `python3 scripts/validate_statutory_dossier.py --gate`
 - `python3 scripts/validate_fbc_statutory_gate.py --gate`
 - `python3 scripts/stage_gate_check.py --gate obc`

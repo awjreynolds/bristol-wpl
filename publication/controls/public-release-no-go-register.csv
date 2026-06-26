@@ -1,0 +1,8 @@
+claim_id,prohibited_claim,allowed_wording,current_status,gate_effect
+PUB-NG-001,public repository means council approval,The public repository is a simulation and learning record only,blocked,P0
+PUB-NG-002,public repository means legal advice,The repo contains agent-simulated legal controls only and no real legal opinion,blocked,P0
+PUB-NG-003,public repository means OBC or FBC ready,OBC and FBC reliance remain blocked by open gate checks,blocked,P0
+PUB-NG-004,public repository means consultation can launch,Consultation launch remains blocked and no consultation material has been approved,blocked,P0
+PUB-NG-005,public repository means statutory submission is ready,Statutory submission remains blocked and no certified scheme order or dossier exists,blocked,P0
+PUB-NG-006,public repository means official council publication,The public GitHub repository is a simulation workspace and not an official council publication,blocked,P0
+PUB-NG-007,agent sign-offs replace officers lawyers or consultants,Agent sign-offs are simulation controls and must be replaced by real professional advice and authority decisions for real-world use,blocked,P0
