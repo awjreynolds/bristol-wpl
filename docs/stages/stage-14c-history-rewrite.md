@@ -1,6 +1,6 @@
 # Stage 14C History Rewrite Decision
 
-Status: dry run complete; live rewrite not approved.
+Status: dry run complete; live rewrite subsequently completed in Stage 14D.
 Date: 2026-06-26.
 
 ## What This Stage Does
@@ -20,4 +20,4 @@ It does not force-push, rewrite the live GitHub repository, close GitGuardian re
 
 ## Current Position
 
-The history-cleanup method has been dry-run successfully. A live rewrite remains blocked until explicit force-push approval is given.
+The history-cleanup method was dry-run successfully. The live rewrite was subsequently approved, executed and recorded in Stage 14D.

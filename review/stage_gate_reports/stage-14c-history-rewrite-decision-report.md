@@ -1,6 +1,6 @@
 # Stage 14C History Rewrite Decision Report
 
-Status: dry run complete; live rewrite blocked pending explicit approval.
+Status: dry run complete; live rewrite subsequently completed in Stage 14D.
 Date: 2026-06-26.
 
 ## Gate Decision
@@ -28,9 +28,9 @@ The temp rewritten `main` head was:
 
 The rewritten temp mirror retained 31 commits and returned no detector-pattern matches in reachable rewritten history.
 
-## Residual Position
+## Historical Residual Position
 
-- Live `origin/main` remains at `306cf0688726e6f8b4b2a5532b035cbc42bdcfc6` until an approved force-push changes it.
+- At the point Stage 14C was written, live `origin/main` remained at `306cf0688726e6f8b4b2a5532b035cbc42bdcfc6` until an approved force-push changed it.
 - GitHub/GitGuardian alert disposition is still external to this repo.
 - Any real Grafana token must be revoked or rotated outside git.
 - Forks, caches and old clones may retain old objects even after a force push.
@@ -41,4 +41,4 @@ Do not proceed to a live history rewrite without explicit user approval that nam
 
 ## Simulated Gate Sign-Off
 
-The dry-run rewrite path is accepted for simulation purposes. Live history rewrite remains blocked pending explicit approval.
+The dry-run rewrite path was accepted for simulation purposes. Live history rewrite was subsequently approved, executed and recorded in Stage 14D.

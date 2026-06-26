@@ -22,6 +22,7 @@
 - Added Stage 14A source-note controls, including a cross-workstream pilot source-note cohort, coverage register, source-note no-go register, validator and gate report while keeping the full source-note backlog open.
 - Added Stage 14B public-repo secret-scanning controls after a GitGuardian Grafana-token-pattern alert, including current-tree raw PDF omission, extracted-text redaction, source-register status updates, redacted scanner, tests and a gate report while leaving git history and remote alert disposition open.
 - Added Stage 14C history-rewrite dry-run controls, including a tested temporary-mirror rewrite path, helper script, decision package and gate report while leaving the live force-push blocked pending explicit approval.
+- Added Stage 14D live history-rewrite completion controls after explicit approval, including force-with-lease execution evidence, local all-history scan, fresh remote mirror scan and residual hosted-alert/fork/cache caveats.
 
 ## 2026-06-25
 

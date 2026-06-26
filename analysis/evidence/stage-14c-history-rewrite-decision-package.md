@@ -1,13 +1,13 @@
 # Stage 14C History Rewrite Decision Package
 
-Status: dry run complete; destructive remote action not approved.
+Status: dry run complete; destructive remote action subsequently completed in Stage 14D.
 Date: 2026-06-26.
 
 ## Purpose
 
 Stage 14B cleaned the current public tree after the GitGuardian Grafana-token-pattern alert. Stage 14C tests whether the same collision can be removed from reachable git history without acting on the real remote.
 
-This is a decision package only. It does not rewrite the live repository.
+This was a decision package only at Stage 14C. The live rewrite was subsequently approved, executed and recorded in Stage 14D.
 
 ## Dry-Run Scope
 
@@ -74,4 +74,4 @@ Do not force-push on a vague instruction such as "continue". Require explicit ap
 
 ## Current Recommendation
 
-If the GitGuardian alert remains open after the Stage 14B current-tree cleanup, proceed only after explicit approval to perform the Stage 14C history rewrite and force-push.
+The live rewrite proceeded only after explicit approval. See Stage 14D for execution and verification evidence.
