@@ -45,6 +45,8 @@ Stage 2B is recorded in `analysis/legal/stage-2b-current-law-role-map.md`. It na
 
 Stage 2C is recorded in `analysis/legal/stage-2c-bristol-authority-and-internal-order-route.md`. It adds `SRC-LEG-0024` and `SRC-LEG-0025` to support a Bristol-led local licensing authority working assumption for simulation drafting. It does not close the final Bristol internal order-making or Secretary of State submission route.
 
+Stage 2D is recorded in `analysis/legal/stage-2d-bristol-internal-decision-route.md`. It supports Transport and Connectivity Committee as the best-evidenced member route for OBC approval, progression beyond OBC and FBC decisions. It does not confirm the final WPL licensing-scheme order-maker or Secretary of State submitter.
+
 ## Authority And Route Map
 
 | Question | Stage 2 controlled answer | Evidence | Status | Gate implication |
@@ -67,7 +69,7 @@ The May 2025, October 2025 and March 2026 acquired decision notices and minutes 
 
 Current Bristol constitution evidence has been acquired. It supports a more precise governance map: Part 2 sets the key-decision and policy-committee framework, Part 3.1 identifies Full Council reserved functions, Part 3.2 gives the Transport and Connectivity Committee transport-policy, transport-maintenance, major-transport-project, local-joint-transport-plan, capital-programme and departmental-risk functions, Part 3.4 sets officer-delegation controls, Part 4.2 sets forward-plan/access-to-information controls, and the Growth and Regeneration officer scheme gives City Transport and related highways/parking/Clean Air Zone operational delegations. None of those sources by itself expressly names the WPL licensing scheme order-making or submission function.
 
-Stage 2C adds the Avon structural-change and Transport Act 2000 section 163 cross-reference sources. These support Bristol authority-status mapping for simulation use, but they do not identify the Bristol committee, Full Council or officer decision route for the final WPL order or submission.
+Stage 2C adds the Avon structural-change and Transport Act 2000 section 163 cross-reference sources. These support Bristol authority-status mapping for simulation use. Stage 2D maps OBC/progression/FBC member routing to Transport and Connectivity Committee using Bristol decision notices, forward plans and constitution sources. It does not identify the final WPL licensing-scheme order-maker or statutory submitter.
 
 ## WECA/MCA Evidence Position
 

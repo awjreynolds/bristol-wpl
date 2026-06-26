@@ -47,6 +47,8 @@ Current Bristol constitution sources are acquired in `SRC-BCC-0028` to `SRC-BCC-
 
 Stage 2C adds legal-status sources `SRC-LEG-0024` and `SRC-LEG-0025`. These support the Bristol-led authority-status working assumption for simulation drafting. They do not allocate WPL order-making or statutory submission within Bristol's constitution.
 
+Stage 2D supports Transport and Connectivity Committee as the best-evidenced member route for OBC approval, progression beyond OBC and FBC decisions. It does not confirm the final WPL licensing-scheme order-maker or statutory submitter.
+
 ## Analysis
 
 The decision map must distinguish:
@@ -63,7 +65,7 @@ The decision map must distinguish:
 
 ## Uncertainty
 
-The Bristol local licensing authority status chain is source-bounded for simulation drafting, but the current Bristol constitution and delegation scheme are not yet mapped to a final WPL order-making and submission route. The WECA/MCA role is not closed.
+The Bristol local licensing authority status chain is source-bounded for simulation drafting, and OBC/progression/FBC member routing is partly controlled. The final WPL licensing-scheme order-maker and submission route remain unresolved. The WECA/MCA role is not closed.
 
 ## Scheme Consequence
 
@@ -71,7 +73,7 @@ No future approval route can be asserted. The OBC/FBC templates must keep decisi
 
 ## Evidence Required
 
-- Legal mapping of acquired Bristol constitution/delegation scheme sources to the Transport Act WPL final order-making and statutory submission function.
+- Legal and Monitoring Officer simulation confirmation of the Transport Act WPL final order-making and statutory submission function.
 - Committee terms of reference and Full Council reserved-function check.
 - Key-decision thresholds and forward-plan requirements.
 - Any Full Council, executive, committee or officer delegation requirement for order making and statutory submission.

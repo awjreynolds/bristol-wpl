@@ -57,7 +57,7 @@ For simulation control, the order route is:
 
 ## Uncertainty
 
-Promoter/order-maker and submitter remain P0 open. Current DfT expectations are not acquired as a formal procedure source. The DfT/Secretary of State distinction itself is now a controlled P1 route rule under Stage 2B.
+Final WPL licensing-scheme order-maker and submitter remain P0 open. Stage 2D controls the OBC/progression/FBC member route only. Current DfT expectations are not acquired as a formal procedure source. The DfT/Secretary of State distinction itself is now a controlled P1 route rule under Stage 2B.
 
 ## Scheme Consequence
 

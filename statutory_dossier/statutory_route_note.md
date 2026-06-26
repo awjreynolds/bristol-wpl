@@ -41,6 +41,8 @@ For simulation drafting only, an initial Bristol Workplace Parking Levy is treat
 
 Stage 2C supports a Bristol-led local licensing authority working assumption for simulation drafting when `SRC-LEG-0017`, `SRC-LEG-0018`, `SRC-LEG-0020`, `SRC-LEG-0025`, `SRC-LEG-0008` and `SRC-LEG-0024` are read together. That working assumption does not settle Bristol's internal final order-making or Secretary of State submission route.
 
+Stage 2D supports Transport and Connectivity Committee as the best-evidenced member route for OBC approval, progression beyond OBC and FBC decisions. It does not settle the final WPL licensing-scheme order-maker or Secretary of State submitter.
+
 The current baseline is therefore:
 
 1. identify the competent licensing authority and order-maker;
@@ -88,10 +90,9 @@ No source may be described as approval or confirmation unless it identifies the 
 
 ## P0 Questions
 
-- Confirm Bristol internal decision and delegation route for making the WPL order.
+- Confirm Bristol final WPL licensing-scheme order-maker.
 - Confirm who submits the initial order for Secretary of State confirmation.
 - Confirm whether current devolution/WECA/MCA law creates transferred, concurrent, consent, assurance or funding-dependency roles.
-- Confirm who submits the initial order for Secretary of State confirmation.
 
 ## P1 Questions
 
