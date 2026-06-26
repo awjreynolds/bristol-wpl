@@ -18,6 +18,7 @@ flowchart TD
     N --> O["Stage 14B: Public-repo secret scanning<br/>History and remote alert disposition open"]
     O --> P["Stage 14C: History rewrite dry run<br/>Approval boundary"]
     P --> Q["Stage 14D: Live history rewrite<br/>Hosted alert disposition external"]
+    Q --> R["Stage 14E: Hosted alert disposition<br/>GitGuardian check external"]
 
     B -. "P0: Bristol route and WECA/MCA role" .-> G
     D -. "P0: boundary and inventory" .-> G
@@ -36,11 +37,12 @@ flowchart TD
     L -. "Public repo needs secret-scan controls" .-> O
     O -. "History cleanup requires explicit approval" .-> P
     P -. "Approved force-push recorded" .-> Q
+    Q -. "Hosted alert state checked separately" .-> R
 
     classDef blocked fill:#ffdddd,stroke:#990000,color:#111111;
     classDef control fill:#fff4cc,stroke:#996600,color:#111111;
     classDef current fill:#ddf4ff,stroke:#005f99,color:#111111;
 
     class G,I,K blocked;
-    class A,B,C,D,E,F,F2,H,J,J2,K2,L,M,N,O,P control;
-    class Q current;
+    class A,B,C,D,E,F,F2,H,J,J2,K2,L,M,N,O,P,Q control;
+    class R current;

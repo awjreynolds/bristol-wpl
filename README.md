@@ -61,6 +61,7 @@ You can rely on this repo as a controlled simulation record:
 | Public repo maintainer | `review/stage_gate_reports/stage-14b-public-repo-secret-scan-report.md` | GitGuardian/Grafana-token-pattern incident response, source omissions and secret-scan controls. |
 | Maintainer considering history rewrite | `review/stage_gate_reports/stage-14c-history-rewrite-decision-report.md` | Dry-run result, force-push boundary and residual GitGuardian/history risk. |
 | Maintainer checking rewrite completion | `review/stage_gate_reports/stage-14d-live-history-rewrite-completion-report.md` | Live force-push result, local and fresh-remote verification, and residual hosted-alert caveats. |
+| Maintainer checking hosted alert status | `review/stage_gate_reports/stage-14e-hosted-alert-disposition-report.md` | Repository-side hosted-alert checks and remaining GitGuardian follow-up. |
 | Legal or governance reviewer | `docs/officer/legal-and-governance-briefing.md` | Bristol, WECA/MCA, DfT and statutory route questions. |
 | Transport economist or modeller | `analysis/economic/stage-5a-options-appraisal-control-package.md` | OAR, ASR, ASST, appraisal, model and Nottingham-transfer controls. |
 | GIS, parking or data specialist | `analysis/spatial/stage-4a-boundary-and-parking-inventory-control-package.md` | Boundary, inventory, topology, DPIA and displacement controls. |
@@ -69,7 +70,7 @@ You can rely on this repo as a controlled simulation record:
 
 ## Visual Stage Map
 
-The current workflow map is in `docs/visuals/stage-gate-map.mmd`. Stage 9A is the public/officer assurance layer. Stage 7 OBC, Stage 8 consultation launch and Stage 11 FBC/statutory gates remain blocked. Stage 10A is only a control layer for a future statutory dossier; Stage 11A is only a control layer for the final FBC/statutory gate. Stage 12A records the public repository release controls. Stage 13A records the critical-path handover controls; the critical path is not approval. Stage 14A creates a source-note pilot; the source-note backlog remains controlled and open. Stage 14B records public-repo secret-scanning remediation after a GitGuardian detector collision. Stage 14C dry-runs the history-rewrite option. Stage 14D records the approved live history rewrite; GitGuardian hosted-alert disposition remains external.
+The current workflow map is in `docs/visuals/stage-gate-map.mmd`. Stage 9A is the public/officer assurance layer. Stage 7 OBC, Stage 8 consultation launch and Stage 11 FBC/statutory gates remain blocked. Stage 10A is only a control layer for a future statutory dossier; Stage 11A is only a control layer for the final FBC/statutory gate. Stage 12A records the public repository release controls. Stage 13A records the critical-path handover controls; the critical path is not approval. Stage 14A creates a source-note pilot; the source-note backlog remains controlled and open. Stage 14B records public-repo secret-scanning remediation after a GitGuardian detector collision. Stage 14C dry-runs the history-rewrite option. Stage 14D records the approved live history rewrite. Stage 14E records repository-side hosted-alert checks; GitGuardian disposition remains external.
 
 ```mermaid
 flowchart LR
@@ -92,6 +93,7 @@ flowchart LR
     S14A --> S14B["Stage 14B<br/>Public-repo secret-scan controls"]
     S14B --> S14C["Stage 14C<br/>History rewrite dry run"]
     S14C --> S14D["Stage 14D<br/>Live history rewrite"]
+    S14D --> S14E["Stage 14E<br/>Hosted alert disposition"]
 ```
 
 ## Stage 9A Status
@@ -135,6 +137,7 @@ The stage-by-stage workflow narrative is maintained in `docs/stages/`:
 - `docs/stages/stage-14b-public-repo-secret-scanning.md`
 - `docs/stages/stage-14c-history-rewrite.md`
 - `docs/stages/stage-14d-live-history-rewrite.md`
+- `docs/stages/stage-14e-hosted-alert-disposition.md`
 
 Each completed stage package should be committed and pushed before the next stage begins. Detailed discoveries, data points and unresolved issues live in the stage docs and controlled registers.
 
@@ -169,6 +172,7 @@ Current gate reports live under `review/stage_gate_reports/`. Key current report
 - `review/stage_gate_reports/stage-14b-public-repo-secret-scan-report.md`
 - `review/stage_gate_reports/stage-14c-history-rewrite-decision-report.md`
 - `review/stage_gate_reports/stage-14d-live-history-rewrite-completion-report.md`
+- `review/stage_gate_reports/stage-14e-hosted-alert-disposition-report.md`
 
 ## Context Discipline
 
