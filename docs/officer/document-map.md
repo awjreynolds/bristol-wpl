@@ -34,3 +34,4 @@ Officer-facing material should remain editable Markdown, CSV, XLSX, DOCX or HTML
 | I need the cabinet/officer route. | `docs/officer/cabinet-and-officer-navigation-guide.md` |
 | I need the risk/gate route. | `docs/officer/risk-gate-atlas.md` |
 | I need the joined issue-risk-gap view. | `docs/officer/risk-control-crosswalk.csv` |
+| I need visual fallback or static visual QA controls. | `docs/visuals/visual-accessibility-qa-register.csv` |

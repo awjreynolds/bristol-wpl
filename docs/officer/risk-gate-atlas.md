@@ -36,4 +36,6 @@ This atlas explains where the main risks sit in the simulated workflow. It is a 
 - It does not replace legal, finance, modelling, consultation, equalities, data-protection or officer review.
 - It does not prove mitigation is complete.
 
-The stage-gate map is in `docs/visuals/stage-gate-map.mmd`. The risk-control visual is in `docs/visuals/risk-control-atlas.mmd`.
+The stage-gate map is in `docs/visuals/stage-gate-map.mmd`. The risk-control visual is in `docs/visuals/risk-control-atlas.mmd`. Static visual QA controls are tracked in `docs/visuals/visual-accessibility-qa-register.csv`.
+
+If a visual does not render, use this atlas and `docs/officer/risk-control-crosswalk.csv` as the text fallback.

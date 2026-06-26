@@ -1,4 +1,8 @@
 flowchart TD
+    Caption["Simulation control map only<br/>No WPL readiness gate closes"]
+    Legend["Legend<br/>solid arrow: stage sequence<br/>dashed arrow: blocker or dependency<br/>yellow: control only<br/>red: blocked gate<br/>blue: latest control layer"]
+    Caption --> A
+    Legend --> A
     A["Stage 0-1: Repo and evidence baseline<br/>Controls recorded; gates still separate"] --> B["Stage 2: Legal and governance controls<br/>No-go remains"]
     B --> C["Stage 3A: Strategic controls<br/>No Strategic Case yet"]
     C --> D["Stage 4A: Boundary and parking controls<br/>No boundary or inventory"]
@@ -24,7 +28,8 @@ flowchart TD
     T --> U["Stage 16A: Claim summary controls<br/>Future claims remain open"]
     U --> V["Stage 17A: Editable authoring guardrails<br/>Assembly remains blocked"]
     V --> W["Stage 18A: Nottingham transferability controls<br/>No Bristol impact transfer"]
-    W --> X["Stage 19A: Public/cabinet comprehension controls<br/>Navigation only; no readiness gate closes"]
+    W --> X["Stage 19A: Public/cabinet comprehension controls<br/>Navigation only; no tested comprehension"]
+    X --> Y["Stage 20A: Visual/accessibility QA controls<br/>Static source checks only"]
 
     B -. "P0: Bristol route and WECA/MCA role" .-> G
     D -. "P0: boundary and inventory" .-> G
@@ -58,11 +63,12 @@ flowchart TD
     W -. "Nottingham currentness and congestion-source gaps remain open" .-> K2
     X -. "Reader guides do not approve scheme or close gates" .-> G
     X -. "Comprehension not user-tested or professionally assured" .-> K2
+    Y -. "Static visual checks do not prove rendered accessibility or reader interpretation" .-> K2
 
     classDef blocked fill:#ffdddd,stroke:#990000,color:#111111;
     classDef control fill:#fff4cc,stroke:#996600,color:#111111;
     classDef current fill:#ddf4ff,stroke:#005f99,color:#111111;
 
     class G,I,K blocked;
-    class A,B,C,D,E,F,F2,H,J,J2,K2,L,M,N,O,P,Q,R,S,T,U,V,W control;
-    class X current;
+    class A,B,C,D,E,F,F2,H,J,J2,K2,L,M,N,O,P,Q,R,S,T,U,V,W,X,Caption,Legend control;
+    class Y current;

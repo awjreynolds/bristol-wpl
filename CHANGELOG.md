@@ -30,6 +30,7 @@
 - Added Stage 17A editable authoring guardrails, including an output-specific assembly map, no authored officer-distribution PDF checks, fail-closed FBC assembly, authoring validator, public/officer navigation updates and a gate report while keeping assembled OBC/FBC/statutory/consultation/officer outputs blocked.
 - Added Stage 18A Nottingham displacement and transferability controls, including expanded Nottingham lessons, transferability matrix rows, a displacement checklist, public/officer no-forecast wording, validator hardening and a gate report while keeping Bristol displacement, CPZ/RPZ, revenue, congestion, employer-behaviour, current Nottingham and all WPL readiness gates open.
 - Added Stage 19A public and cabinet comprehension controls, including a new-reader guide, can/cannot explainer, cabinet/officer navigation guide, risk-gate atlas, risk-control crosswalk, simplified risk visual, RAG legend and comprehension validator while keeping user-testing, professional assurance and all WPL readiness gates open.
+- Added Stage 20A visual and accessibility static QA controls, including visual QA register fields, Mermaid no-go captions, legends, text fallback references, validator and tests while keeping rendered accessibility review, user testing and all WPL readiness gates open.
 
 ## 2026-06-25
 

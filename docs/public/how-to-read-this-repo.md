@@ -61,8 +61,8 @@ Do not read this repository as:
 
 - council approval;
 - legal advice;
-- no real officer sign-off is present;
-- no real consultant sign-off is present;
+- real officer approval;
+- real consultant approval;
 - an approved programme;
 - approval to spend or procure;
 - consultation launch authority;

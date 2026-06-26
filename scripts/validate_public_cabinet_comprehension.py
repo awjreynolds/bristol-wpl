@@ -28,8 +28,8 @@ REQUIRED_FILES = [
 REQUIRED_PHRASES = {
     "README.md": [
         "Current Reader Answer",
-        "Stage 19A",
-        "public and cabinet comprehension controls",
+        "Stage 20A",
+        "visual and accessibility static QA controls",
         "It does not approve, launch, fund, procure or submit a Bristol Workplace Parking Levy.",
         "docs/public/how-to-read-this-repo.md",
         "docs/officer/risk-gate-atlas.md",
@@ -251,7 +251,7 @@ def check_visual_language() -> list[str]:
         text = stage_map.read_text(encoding="utf-8")
         if "Complete" in text:
             errors.append("docs/visuals/stage-gate-map.mmd must not use standalone Complete labels")
-        for phrase in ["Stage 19A", "Navigation only; no readiness gate closes"]:
+        for phrase in ["Stage 19A", "Navigation only; no tested comprehension", "Stage 20A"]:
             if phrase not in text:
                 errors.append(f"docs/visuals/stage-gate-map.mmd missing phrase: {phrase}")
     risk_map = ROOT / "docs/visuals/risk-control-atlas.mmd"

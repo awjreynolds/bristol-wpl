@@ -31,7 +31,8 @@ class PublicCabinetComprehensionTest(unittest.TestCase):
         text = (ROOT / "docs/visuals/stage-gate-map.mmd").read_text(encoding="utf-8")
         self.assertNotIn("Complete", text)
         self.assertIn("Stage 19A", text)
-        self.assertIn("Navigation only; no readiness gate closes", text)
+        self.assertIn("Navigation only; no tested comprehension", text)
+        self.assertIn("No WPL readiness gate closes", text)
 
 
 if __name__ == "__main__":

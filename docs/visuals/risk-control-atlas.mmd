@@ -1,4 +1,8 @@
 flowchart TD
+    Caption["Simulation control map only<br/>No WPL readiness gate closes"]
+    Legend["Legend<br/>solid arrow: reader route<br/>dashed arrow: future proof needed<br/>yellow: navigation/control<br/>red: blocked or no-go<br/>grey: future real-world proof"]
+    Caption --> Start
+    Legend --> Start
     Start["Cold reader starts here<br/>README and public guide"] --> Dash["Assurance dashboard<br/>status and blockers"]
     Dash --> Legal["Legal route gate<br/>ISS-0001 RISK-0001"]
     Dash --> WECA["WECA/MCA role gate<br/>ISS-0002 RISK-0002"]
@@ -9,6 +13,7 @@ flowchart TD
     Dash --> Nottingham["Nottingham transferability gate<br/>ISS-0005 ISS-0028 EG-0046 RISK-0031"]
     Dash --> Authoring["Editable output gate<br/>ISS-0027 RISK-0030"]
     Dash --> Comprehension["Public/cabinet comprehension<br/>ISS-0029 EG-0047 RISK-0032"]
+    Dash --> VisualQA["Visual/accessibility QA<br/>ISS-0030 EG-0047 RISK-0033"]
 
     Legal --> NoGo["No-go for approval<br/>until real evidence and authority exist"]
     WECA --> NoGo
@@ -19,6 +24,7 @@ flowchart TD
     Nottingham --> NoGo
     Authoring --> NoGo
     Comprehension --> NoGo
+    VisualQA --> NoGo
 
     Legal -. "next proof: Monitoring Officer route and statutory submitter evidence" .-> Proof["Future real-world proof"]
     WECA -. "next proof: current-law role and funding/consent disposition" .-> Proof
@@ -29,12 +35,13 @@ flowchart TD
     Nottingham -. "next proof: Bristol transferability evidence and current Nottingham refresh" .-> Proof
     Authoring -. "next proof: evidence-populated editable packs with human review" .-> Proof
     Comprehension -. "next proof: cold-reader testing, accessibility review, and rendered-visual checks" .-> Proof
+    VisualQA -. "next proof: rendered visual, colour-blind, low-vision, screen-reader and keyboard review" .-> Proof
 
     classDef start fill:#ddf4ff,stroke:#005f99,color:#111111;
     classDef blocked fill:#ffdddd,stroke:#990000,color:#111111;
     classDef guide fill:#fff4cc,stroke:#996600,color:#111111;
     classDef future fill:#eeeeee,stroke:#555555,color:#111111;
 
-    class Start,Dash guide;
-    class Legal,WECA,Spatial,Appraisal,Consult,FBC,Nottingham,Authoring,Comprehension,NoGo blocked;
+    class Start,Dash,Caption,Legend guide;
+    class Legal,WECA,Spatial,Appraisal,Consult,FBC,Nottingham,Authoring,Comprehension,VisualQA,NoGo blocked;
     class Proof future;
