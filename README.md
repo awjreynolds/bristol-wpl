@@ -20,6 +20,7 @@ Current controlled gate reports:
 - `review/stage_gate_reports/stage-2c-bristol-authority-route-report.md`
 - `review/stage_gate_reports/stage-2d-bristol-internal-decision-route-report.md`
 - `review/stage_gate_reports/stage-2e-weca-mca-role-classification-report.md`
+- `review/stage_gate_reports/stage-2f-current-law-function-map-report.md`
 - `review/stage_gate_reports/stage-2b-current-law-role-map-report.md`
 - `review/stage_gate_reports/stage-2a-governance-evidence-refinement-report.md`
 - `review/stage_gate_reports/stage-2-legal-governance-technical-baseline-report.md`
@@ -40,7 +41,7 @@ Do not draft or assemble an OBC/FBC, select a preferred scheme, launch statutory
 Open controls include:
 
 - P0 Bristol final WPL licensing-scheme order-maker and statutory submitter route; Bristol-led authority-status evidence is source-bounded by Stage 2C, and OBC/FBC member routing is partly controlled by Stage 2D.
-- P0 WECA/MCA current-law role; Stage 2E controls strategic-context and conditional funding/assurance wording but does not settle consent, no-role, transferred-function, formal-decision or funding-dependency status.
+- P0 WECA/MCA current-law role; Stage 2E controls strategic-context and conditional funding/assurance wording, and Stage 2F controls that current scoped repo evidence does not identify a WPL-specific transferred/concurrent WECA/MCA order-making function, but neither settles consent, no-role, formal-decision or funding-dependency status.
 - P0 authoritative WPL boundary and parking inventory.
 - P0/P1 DPIA/lawful-basis pack and enforcement operating procedure.
 - P0 ASR/OAR/ASST, model cards, model outputs and uncertainty controls.
