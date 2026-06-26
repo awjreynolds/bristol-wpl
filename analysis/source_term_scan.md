@@ -2,8 +2,8 @@
 
 Generated from extracted text under `evidence/processed/text`. Counts are triage aids, not substantive findings.
 
-- Extracted sources scanned: 90
-- Sources with WPL references: 41
+- Extracted sources scanned: 92
+- Sources with WPL references: 43
 - Sources with WECA/Combined Authority references: 47
 
 ## Highest WPL Coverage

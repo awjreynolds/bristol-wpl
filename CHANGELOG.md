@@ -5,6 +5,7 @@
 - Added Stage 2H WECA/MCA package funding and assurance trigger controls, including a bounded context packet for future agents.
 - Updated Stage 2 registers and gate controls to classify CRSTS, TCR, mass-transit, investment-fund and delivery-assurance material as conditional package-level interface evidence only.
 - Added Stage 2I Bristol final order/submission route controls, preserving the P0 while specifying route options and mandatory decision-box wording.
+- Added Stage 2J DfT procedural expectations and engagement-classification controls, preserving the WPL-specific DfT process gap while anchoring generic DfT/TAG alignment and bounded GOV.UK search-control evidence.
 
 ## 2026-06-25
 

@@ -1,0 +1,12 @@
+{
+  "characters": 11514,
+  "extracted_date": "2026-06-26",
+  "method": "html-standard-library",
+  "output_path": "evidence/processed/text/SRC-DFT-0004.txt",
+  "sha256": "618c441b8be53659490818595418e1a2498c48e0eccd1e0d11769278a6a30501",
+  "source_id": "SRC-DFT-0004",
+  "source_path": "evidence/raw/dft-and-tag/src-dft-0004_src-dft-0004-govuk-search-workplace-parking-levy-dft.html",
+  "source_status": "downloaded",
+  "title": "GOV.UK bounded search - workplace parking levy DfT",
+  "url": "https://www.gov.uk/search/all?keywords=workplace%20parking%20levy%20DfT&order=relevance"
+}

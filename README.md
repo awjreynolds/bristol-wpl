@@ -24,17 +24,18 @@ Current controlled gate reports:
 - `review/stage_gate_reports/stage-2g-meeting-record-search-report.md`
 - `review/stage_gate_reports/stage-2h-package-funding-assurance-report.md`
 - `review/stage_gate_reports/stage-2i-final-order-submission-route-report.md`
+- `review/stage_gate_reports/stage-2j-dft-procedural-expectations-report.md`
 - `review/stage_gate_reports/stage-2b-current-law-role-map-report.md`
 - `review/stage_gate_reports/stage-2a-governance-evidence-refinement-report.md`
 - `review/stage_gate_reports/stage-2-legal-governance-technical-baseline-report.md`
 
 Current evidence state:
 
-- `evidence/source_register.csv` contains 107 rows.
-- 90 sources are downloaded.
+- `evidence/source_register.csv` contains 109 rows.
+- 92 sources are downloaded.
 - 16 sources remain seeded but not downloaded.
 - 1 source acquisition failed (`SRC-ACADEMIC-0001`).
-- `evidence/extraction_manifest.csv` is the current extraction state: 90 extracted, 16 skipped because not downloaded, and 1 skipped because acquisition failed.
+- `evidence/extraction_manifest.csv` is the current extraction state: 92 extracted, 16 skipped because not downloaded, and 1 skipped because acquisition failed.
 - `evidence/extraction_log.csv` is the append-only extraction audit log.
 
 ## Current Gate Position
@@ -48,7 +49,7 @@ Open controls include:
 - P0 authoritative WPL boundary and parking inventory.
 - P0/P1 DPIA/lawful-basis pack and enforcement operating procedure.
 - P0 ASR/OAR/ASST, model cards, model outputs and uncertainty controls.
-- P1 DfT engagement evidence and classification, noting that the Secretary of State confirmation route is now controlled for an initial England WPL order.
+- P1 DfT engagement evidence and WPL-specific procedural expectation classification; Stage 2J controls generic DfT business-case/TAG alignment and bounded GOV.UK search-control evidence but does not identify an accepted WPL confirmation dossier route.
 
 For WECA/MCA funding and assurance context, start with:
 
@@ -58,6 +59,13 @@ For WECA/MCA funding and assurance context, start with:
 - `review/stage_gate_reports/stage-2h-package-funding-assurance-report.md`
 
 Do not reload the whole WECA/MCA evidence set unless verifying a specific source line, claim or newly discovered decision record.
+
+For DfT engagement and confirmation-route controls, start with:
+
+- `analysis/legal/stage-2j-dft-procedural-expectations-and-engagement-classification.md`
+- `statutory_dossier/dft_pre_application/questions_for_dft.md`
+- `statutory_dossier/dft_pre_application/confirmation_dossier_checklist.md`
+- `review/stage_gate_reports/stage-2j-dft-procedural-expectations-report.md`
 
 ## Repeatable Commands
 

@@ -1,0 +1,12 @@
+{
+  "characters": 10248,
+  "extracted_date": "2026-06-26",
+  "method": "html-standard-library",
+  "output_path": "evidence/processed/text/SRC-DFT-0003.txt",
+  "sha256": "58b440d0cc118e10574e5dba3d9da5fc987fcf84a4907a38ca115e5e923dd9ec",
+  "source_id": "SRC-DFT-0003",
+  "source_path": "evidence/raw/dft-and-tag/src-dft-0003_govuk-search-wpl-confirmation-sos.html",
+  "source_status": "downloaded",
+  "title": "GOV.UK bounded search - workplace parking levy confirmation Secretary of State",
+  "url": "https://www.gov.uk/search/all?keywords=workplace%20parking%20levy%20confirmation%20Secretary%20of%20State&order=relevance"
+}

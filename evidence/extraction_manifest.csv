@@ -106,3 +106,5 @@ SRC-WECA-0026,2026-06-26,evidence/raw/west-of-england-mca/src-weca-0026_joint-me
 SRC-WECA-0027,2026-06-26,evidence/raw/west-of-england-mca/src-weca-0027_joint-meeting-2026-06-05-mca-mayoral-budget-outturn.pdf,evidence/processed/text/SRC-WECA-0027.txt,extracted,usable,pdftotext-layout,135077,ok
 SRC-WECA-0028,2026-06-26,evidence/raw/west-of-england-mca/src-weca-0028_joint-meeting-2026-06-05-investment-fund-programme.pdf,evidence/processed/text/SRC-WECA-0028.txt,extracted,usable,pdftotext-layout,47513,ok
 SRC-WECA-0029,2026-06-26,evidence/raw/west-of-england-mca/src-weca-0029_joint-meeting-2026-06-05-delivery-assurance.pdf,evidence/processed/text/SRC-WECA-0029.txt,extracted,usable,pdftotext-layout,48716,ok
+SRC-DFT-0003,2026-06-26,evidence/raw/dft-and-tag/src-dft-0003_govuk-search-wpl-confirmation-sos.html,evidence/processed/text/SRC-DFT-0003.txt,extracted,usable,html-standard-library,10248,ok
+SRC-DFT-0004,2026-06-26,evidence/raw/dft-and-tag/src-dft-0004_src-dft-0004-govuk-search-workplace-parking-levy-dft.html,evidence/processed/text/SRC-DFT-0004.txt,extracted,usable,html-standard-library,11514,ok
