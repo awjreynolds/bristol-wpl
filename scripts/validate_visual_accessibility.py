@@ -61,6 +61,7 @@ REQUIRED_MERMAID_PHRASES = {
         "dashed arrow",
         "Stage 20A",
         "Static source checks only",
+        "Stage 21A",
     ],
     "docs/visuals/risk-control-atlas.mmd": [
         "flowchart",

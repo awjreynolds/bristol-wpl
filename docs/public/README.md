@@ -69,6 +69,8 @@ The simulation currently says:
 | Cabinet member or leader | `docs/officer/assurance-dashboard.md` | One-page status and blockers |
 | Cabinet member checking gates | `docs/officer/cabinet-and-officer-navigation-guide.md` | Gate taxonomy and decision routes |
 | Cabinet member checking risks | `docs/officer/risk-gate-atlas.md` | Risk location mitigation limits and next proof |
+| Visual/accessibility reviewer | `docs/visuals/visual-accessibility-qa-register.csv` | Static visual QA controls and text fallback route |
+| Navigation maintainer | `scripts/validate_navigation_integrity.py` | Repo-local navigation integrity checks |
 | Officer or programme manager | `docs/officer/programme-risk-briefing.md` | Risks, mitigations and next checks |
 | Anyone asking what happens next | `docs/officer/next-steps-critical-path.md` | Critical path work packages; critical path is not approval |
 | Evidence reviewer or drafter | `evidence/source_notes/README.md` | Source-note cohorts; source notes do not verify every claim |
@@ -81,4 +83,4 @@ The simulation currently says:
 
 ## Visual Map
 
-See `docs/visuals/stage-gate-map.mmd` for the current stage-gate flow and `docs/visuals/risk-control-atlas.mmd` for the simplified risk-control flow.
+See `docs/visuals/stage-gate-map.mmd` for the current stage-gate flow, `docs/visuals/risk-control-atlas.mmd` for the simplified risk-control flow and `docs/visuals/visual-accessibility-qa-register.csv` for static visual QA and text fallback controls.

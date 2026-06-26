@@ -48,6 +48,8 @@ RAG colours describe repository control status, not real-world WPL readiness. `G
 | Stage 16A records claim summaries for current claim-matrix rows. | That claim summaries prove claim truth, complete the evidence base, replace legal advice or cover future drafting-specific claims. |
 | Stage 17A records editable output guardrails. | That editable outputs are assembled decision papers, consultation packs, statutory submissions, officer-review DOCX files or authored PDFs. |
 | Stage 19A records public and cabinet comprehension controls. | That the materials have been user-tested, professionally assured or approved by officers or elected members. |
+| Stage 20A records static visual/accessibility QA controls. | That rendered visuals have been accessibility-reviewed, user-tested or certified. |
+| Stage 21A records repo-local navigation integrity controls. | That external links are live, evidence is correct, content is true or any readiness gate can pass. |
 | Stage 14B-E record public-repository security controls. | That GitGuardian has closed its alert or that WPL readiness has changed. |
 | Nottingham can inform lessons. | That Nottingham impacts transfer to Bristol. |
 
@@ -59,6 +61,8 @@ RAG colours describe repository control status, not real-world WPL readiness. `G
 - Legal route: `docs/officer/legal-and-governance-briefing.md`
 - Risk summary: `docs/officer/programme-risk-briefing.md`
 - Risk gate atlas: `docs/officer/risk-gate-atlas.md`
+- Visual QA register: `docs/visuals/visual-accessibility-qa-register.csv`
+- Navigation QA: `scripts/validate_navigation_integrity.py`
 - Next steps: `docs/officer/next-steps-critical-path.md`
 - Source notes: `evidence/source_notes/README.md`
 - Nottingham lessons: `docs/officer/nottingham-and-comparator-lessons.md`
