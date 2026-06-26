@@ -61,6 +61,8 @@ Stage 2E adds a stricter drafting control: WECA/MCA may be described as strategi
 ## Next Evidence Tests
 
 1. Treat Stage 2G as a bounded public-record search only, not as no-role or no-consent evidence.
-2. Check whether any Bristol WPL development or WPL-funded transport package uses MCA funding or assurance routes.
+2. Use the Stage 2H package funding and assurance trigger map to check whether any Bristol WPL development or WPL-funded transport package uses MCA funding or assurance routes.
 3. Produce a consolidated note reconciling the 2025 WECA constitution text with the current revised 2017 Order after the 2026 amendments.
 4. Classify CRSTS, Single Pot, WoEIF, CAZ repayment, bus, mass-transit and cross-boundary package interfaces before any OBC/FBC text claims WECA/MCA approval is required, not required or irrelevant.
+
+Future WECA/MCA work should start from `analysis/weca-role-and-evidence/post-stage-2h-context-packet.md`; do not reload the whole WECA/MCA evidence set unless verifying a specific claim or source line.

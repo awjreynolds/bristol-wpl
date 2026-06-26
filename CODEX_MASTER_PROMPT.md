@@ -1483,6 +1483,9 @@ Produce:
 - `analysis/weca-role-and-evidence/role-options.md`
 - `analysis/weca-role-and-evidence/support-status.md`
 - `analysis/weca-role-and-evidence/engagement-and-assurance-ask.md`
+- `analysis/weca-role-and-evidence/funding-and-assurance-dependency-matrix.md`
+- `analysis/weca-role-and-evidence/stage-2h-package-funding-assurance-trigger-map.md`
+- `analysis/weca-role-and-evidence/post-stage-2h-context-packet.md`
 
 Classify each item as:
 
@@ -1497,6 +1500,10 @@ Classify each item as:
 
 Never convert strategic alignment into formal project support. Never convert silence into opposition.
 
+For future WECA/MCA tasks after Stage 2H, use `analysis/weca-role-and-evidence/post-stage-2h-context-packet.md` as the bounded context source before loading long reports or raw evidence. Do not load the whole WECA/MCA evidence set unless verifying a specific claim, source line, decision record or newly discovered document.
+
+Treat CRSTS, TCR, mass-transit, investment-fund and delivery-assurance material as conditional package-level funding/assurance interface evidence only unless a formal source proves a stronger role. Do not convert MCA assurance relevance into statutory WPL approval, support, consent, sponsorship, funding approval or no-role status.
+
 Stage 2 gate:
 
 - no unresolved P0 question over legal promoter or confirmation route;
@@ -1504,6 +1511,7 @@ Stage 2 gate:
 - decision route is mapped;
 - DfT engagement plan exists;
 - WECA/MCA role is evidenced rather than assumed.
+- every package and cost line that relies on, matches, changes, interfaces with or is affected by WECA/MCA funding or assurance has a trigger classification, decision source and gate effect.
 
 ## Stage 3 — Strategic assessment and theory of change
 

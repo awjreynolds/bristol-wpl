@@ -1,1 +1,9 @@
 dependency_id,stage,dependency,owner,needed_by,risk_if_missing,status
+DEP-0001,Stage 2,WECA MCA current-law no-role and consent classification,WECA Governance Agent,Stage 2 legal governance gate,No-role or consent wording could be misstated,narrowed_open
+DEP-0002,Stage 2,MCA funding for WPL development costs classification,Finance Review Agent,OBC financial case,Development funding approval or assurance dependency could be missed,narrowed_open
+DEP-0003,Stage 3,MCA funding or match funding for WPL-funded transport package,Funding Assurance Agent,Strategic assessment and OBC package definition,Package affordability and assurance route could be overstated,open
+DEP-0004,Stage 3,MCA assurance framework trigger for WPL-funded package,Funding Assurance Agent,OBC management case,Assurance route and OAR ASR expectations could be missed,open
+DEP-0005,Stage 3,CRSTS Single Pot TCR or early works trigger,Funding Assurance Agent,OBC financial and management cases,Programme funding and decision route could be unsupported,open
+DEP-0006,Stage 3,CAZ repayment or clean-air funding interaction,Finance Review Agent,OBC financial case,CAZ Fund and net-proceeds treatment could be misstated,open
+DEP-0007,Stage 3,Mass transit bus TCR or cross-boundary package interface,WECA Governance Agent,OBC strategic management and financial cases,Regional package dependency could be overstated or missed,open
+DEP-0008,Stage 2,Bristol Transport Board and WPL Steering Group advisory versus decision role,Bristol Governance Agent,Stage 2 and OBC management case,Programme governance could be mistaken for formal approval,narrowed_open

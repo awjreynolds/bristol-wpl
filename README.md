@@ -21,17 +21,19 @@ Current controlled gate reports:
 - `review/stage_gate_reports/stage-2d-bristol-internal-decision-route-report.md`
 - `review/stage_gate_reports/stage-2e-weca-mca-role-classification-report.md`
 - `review/stage_gate_reports/stage-2f-current-law-function-map-report.md`
+- `review/stage_gate_reports/stage-2g-meeting-record-search-report.md`
+- `review/stage_gate_reports/stage-2h-package-funding-assurance-report.md`
 - `review/stage_gate_reports/stage-2b-current-law-role-map-report.md`
 - `review/stage_gate_reports/stage-2a-governance-evidence-refinement-report.md`
 - `review/stage_gate_reports/stage-2-legal-governance-technical-baseline-report.md`
 
 Current evidence state:
 
-- `evidence/source_register.csv` contains 94 rows.
-- 77 sources are downloaded and extracted.
+- `evidence/source_register.csv` contains 107 rows.
+- 90 sources are downloaded.
 - 16 sources remain seeded but not downloaded.
 - 1 source acquisition failed (`SRC-ACADEMIC-0001`).
-- `evidence/extraction_manifest.csv` is the current extraction state.
+- `evidence/extraction_manifest.csv` is the current extraction state: 90 extracted, 16 skipped because not downloaded, and 1 skipped because acquisition failed.
 - `evidence/extraction_log.csv` is the append-only extraction audit log.
 
 ## Current Gate Position
@@ -41,11 +43,20 @@ Do not draft or assemble an OBC/FBC, select a preferred scheme, launch statutory
 Open controls include:
 
 - P0 Bristol final WPL licensing-scheme order-maker and statutory submitter route; Bristol-led authority-status evidence is source-bounded by Stage 2C, and OBC/FBC member routing is partly controlled by Stage 2D.
-- P0 WECA/MCA current-law role; Stage 2E controls strategic-context and conditional funding/assurance wording, and Stage 2F controls that current scoped repo evidence does not identify a WPL-specific transferred/concurrent WECA/MCA order-making function, but neither settles consent, no-role, formal-decision or funding-dependency status.
+- P0 WECA/MCA current-law role; Stage 2E controls strategic-context and conditional funding/assurance wording, Stage 2F controls that current scoped repo evidence does not identify a WPL-specific transferred/concurrent WECA/MCA order-making function, Stage 2G narrows bounded public meeting-record search, and Stage 2H classifies package-level funding/assurance triggers. None of these settles consent, no-role, consultation-response or final funding-dependency status.
 - P0 authoritative WPL boundary and parking inventory.
 - P0/P1 DPIA/lawful-basis pack and enforcement operating procedure.
 - P0 ASR/OAR/ASST, model cards, model outputs and uncertainty controls.
 - P1 DfT engagement evidence and classification, noting that the Secretary of State confirmation route is now controlled for an initial England WPL order.
+
+For WECA/MCA funding and assurance context, start with:
+
+- `analysis/weca-role-and-evidence/post-stage-2h-context-packet.md`
+- `analysis/weca-role-and-evidence/support-status.md`
+- `analysis/weca-role-and-evidence/funding-and-assurance-dependency-matrix.md`
+- `review/stage_gate_reports/stage-2h-package-funding-assurance-report.md`
+
+Do not reload the whole WECA/MCA evidence set unless verifying a specific source line, claim or newly discovered decision record.
 
 ## Repeatable Commands
 

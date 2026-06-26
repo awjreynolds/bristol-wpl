@@ -47,6 +47,8 @@ Status: simulation drafting control. This is not funding approval, assurance app
 | Local Transport Plan / strategy alignment | Regional strategic context or local transport policy linkage. | `SRC-WECA-0001`, `SRC-WECA-0003`, `SRC-WECA-0004`, `SRC-WECA-0012`. | Strategic alignment may be cited. | Does not prove approval or consent. |
 | CAZ repayment / interaction | WPL development or net proceeds interact with CAZ repayment or clean-air funding obligations. | Stage 2G did not locate a formal Bristol WPL CAZ repayment or funding decision. `SRC-WECA-0027` provides budget/CAZ/transport context only. | Add finance/legal question before OBC financial case. | Open. |
 | Mass transit, bus or cross-boundary package | WPL net proceeds fund packages integrated with WECA/MCA programmes. | Stage 2G located mass-transit, TCR, CRSTS and transport package interface context: `SRC-WECA-0018` lines 442-453, `SRC-WECA-0021` lines 111-119, `SRC-WECA-0024` lines 269-314 and `SRC-WECA-0028` lines 513-516 and 682-684. | Package-level interface matrix required. | Open until package selected and funding interfaces mapped. |
+| Programme change control | WPL-funded package changes an approved MCA/CRSTS/TCR/Investment Fund project scope, benefits, cost, milestones, spend profile, risk budget or grant allocation. | `SRC-WECA-0007` lines 1805-1963; `SRC-WECA-0024` lines 34-56 and 699-737; `SRC-WECA-0029` lines 20-29, 68-100 and 228-236. | Stage 2H classifies this as conditional package-level programme-change interface evidence only. | P0 if a package assumes an unapproved change. |
+| Delivery assurance | WPL-funded package is subject to CRSTS Programme Board, delivery assurance, JRDF or equivalent MCA/UA monitoring. | `SRC-WECA-0029` lines 109-117. | Management Case context only unless a named package dependency is triggered. | P1/P0 depending on dependency criticality. |
 | Bristol programme-board governance | Bristol Transport Board or WPL Steering Group reviews or coordinates key programme decisions. | `SRC-BCC-0006` lines 1264-1272. | Treat as programme governance only, not statutory approval or MCA approval. | Open until a current approved governance route is evidenced. |
 
 ## Required OBC/FBC Controls
@@ -65,3 +67,7 @@ Every WPL-funded package or development-cost line must record:
 ## No-Overclaim Control
 
 Do not describe MCA assurance relevance as WPL consent or approval. Do not describe a Bristol-funded WPL development stage as free from WECA/MCA role until statutory, constitutional and funding-dependency checks are complete.
+
+## Stage 2H Control
+
+Use `analysis/weca-role-and-evidence/stage-2h-package-funding-assurance-trigger-map.md` and `analysis/weca-role-and-evidence/post-stage-2h-context-packet.md` as the bounded context for future WECA/MCA funding and assurance work. Future agents should not reload all WECA/MCA raw evidence unless verifying a specific source line, decision record or formal claim.

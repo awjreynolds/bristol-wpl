@@ -17,6 +17,7 @@ Simulation sign-offs are recorded in `governance/simulation_signoff_register.csv
 | Stage 0 Bootstrap | Repo architecture, registers, validation scripts, source ingest | Programme Orchestrator | Missing controls, authored PDFs, sensitive data in normal repo |
 | Stage 1 Evidence Baseline | Source register, acquisition log, source notes plan, gaps | Evidence Librarian, Red Team | Unverified core source set or unsupported material claims |
 | Stage 2 Legal/Governance | Legal route note, compliance matrix, WECA/MCA role evidence | Legal Review Agent, Governance Review Agent | Unresolved promoter or confirmation-route P0 |
+| Stage 2H WECA/MCA Funding/Assurance Dependency | Funding and assurance dependency matrix, Stage 2H trigger map, post-Stage 2H context packet, dependencies register, claim rows | Funding Assurance Agent, WECA Governance Agent, Finance Review Agent, Legal Review Agent, Red Team | Any unclassified MCA funding, CRSTS, Single Pot, CAZ repayment, mass-transit, bus, cross-boundary or delivery-assurance dependency |
 | Stage 3 Strategic Assessment | Problem definition, objectives, theory of change | Strategic Case Review Agent | Objectives prejudge WPL |
 | Stage 4 Spatial/Data | Boundary options, parking inventory method, data controls | GIS/Data Review Agent | Boundary/data cannot support appraisal |
 | Stage 5 Options/ASR | Longlist, shortlist, OAR, ASR, ASST | TAG/Appraisal Review Agent, Red Team | Predetermined shortlist or unreviewed ASR |

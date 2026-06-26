@@ -39,7 +39,7 @@ Status: Stage 2 technical baseline. Simulation only; not WECA/MCA approval, lega
 
 No inspected repo-local source and no bounded official WECA/ModernGov public-record search result evidences formal WECA/MCA approval, rejection, consent, sponsorship, objection, funding approval, transferred WPL function, no-role status or statutory-route decision for a Bristol Workplace Parking Levy. Current evidence supports strategic policy context and possible assurance/funding interfaces only.
 
-Stage 2E records this as a controlled language finding, not a final no-role finding. Stage 2G narrows the public meeting-record gap, but Stage 2 still cannot pass until no-role/consent and funding-assurance dependencies are closed.
+Stage 2E records this as a controlled language finding, not a final no-role finding. Stage 2G narrows the public meeting-record gap. Stage 2H classifies package-level funding and assurance triggers, but Stage 2 still cannot pass until no-role/consent and named funding-assurance dependencies are closed.
 
 ## Evidence Classifications
 
@@ -55,7 +55,7 @@ Stage 2E records this as a controlled language finding, not a final no-role find
 | `SRC-WECA-0011` to `SRC-WECA-0013` | constitution source material | WECA/MCA constitution page and Parts A/B are acquired for transport, funding, procedure and delegation mapping. | Does not evidence Bristol WPL approval, rejection, consent, support, objection, transferred function or no-role status. |
 | `SRC-WECA-0014` to `SRC-WECA-0016` | public transport and committee-route context | WECA transport and committee pages support public narrative and governance-route mapping. | Not WPL-specific approval or statutory authority. |
 | `SRC-WECA-0017` | official public search source | ModernGov document-search form records the official word-search route. | Search-form source only; not a substantive WPL decision. |
-| `SRC-WECA-0018` to `SRC-WECA-0029` | bounded public meeting-record hit set | Stage 2G reviewed material meeting pages and attachments surfaced by WPL-adjacent, charging, CAZ, CRSTS, mass-transit and Bristol transport package searches. | No formal Bristol WPL approval, support, objection, consent, sponsorship or funding decision located; CRSTS/TCR/mass-transit material is conditional funding/assurance context only. |
+| `SRC-WECA-0018` to `SRC-WECA-0029` | bounded public meeting-record hit set | Stage 2G reviewed material meeting pages and attachments surfaced by WPL-adjacent, charging, CAZ, CRSTS, mass-transit and Bristol transport package searches. | No formal Bristol WPL approval, support, objection, consent, sponsorship or funding decision located; Stage 2H classifies CRSTS/TCR/mass-transit material as conditional package-level funding/assurance interface evidence only. |
 | `SRC-LEG-0014` | current-law source trigger | Whole 2026 consequential regulations confirm the West of England amendments sit within wider strategic-authority reforms. | Requires consolidated function map; not WPL-specific approval. |
 | `SRC-LEG-0016` | current-law source trigger | 2026 Act section 2 identifies transport and local infrastructure as a strategic-authority area of competence. | Does not by itself identify WPL order-maker, consent or no-role status. |
 | `SRC-LEG-0022`, `SRC-LEG-0023` | current revised WECA Order article pages | Article pages carry the current Part 3 omission note after SI 2026/519. | Requires function-map reconciliation; not WPL-specific approval. |
@@ -83,3 +83,5 @@ Stage 2E records this as a controlled language finding, not a final no-role find
 ## Control
 
 Strategic alignment must not be converted into formal support. Silence must not be converted into opposition or no-role status. Assurance-framework relevance must not be converted into licensing consent or statutory approval.
+
+Future WECA/MCA drafting must start from the bounded context in `analysis/weca-role-and-evidence/post-stage-2h-context-packet.md`.
