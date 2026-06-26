@@ -63,6 +63,7 @@ REQUIRED_MERMAID_PHRASES = {
         "Static source checks only",
         "Stage 21A",
         "Stage 22A",
+        "Stage 23A",
     ],
     "docs/visuals/risk-control-atlas.mmd": [
         "flowchart",
@@ -72,6 +73,7 @@ REQUIRED_MERMAID_PHRASES = {
         "Public/cabinet comprehension",
         "Visual/accessibility QA",
         "Source-link/freshness status",
+        "Register reference integrity",
         "Legend",
     ],
 }

@@ -15,7 +15,7 @@ Editable authoring outputs are working files only. They help future drafters ass
 | `statutory_dossier/` | Scheme order, legal compliance and confirmation dossier controls | Ready statutory submission or not approved/not assembled/not PDF statutory pack |
 | `analysis/` | Source-linked analysis and stage-control packages | Final advice |
 | `evidence/` | Source register, source-link/freshness status controls, raw evidence, extraction manifests and source-note controls | Uncontrolled claim library or proof that sources are legally current |
-| `governance/` | Risks, issues, decisions, approvals, simulation sign-off rows and requirements | Real public-body approvals |
+| `governance/` | Risks, issues, decisions, approvals, simulation sign-off rows, requirements and register reference integrity controls | Real public-body approvals or proof that row substance is correct |
 | `review/` | Simulated peer review, red team and stage-gate reports | Real officer/legal approval |
 | `models/` | Model controls, cards, inputs and outputs | Completed model outputs |
 | `spatial/` | Boundary, parking inventory and spatial QA controls | Authoritative boundary or map |
@@ -36,3 +36,4 @@ Officer-facing material should remain editable Markdown, CSV, XLSX, DOCX or HTML
 | I need the joined issue-risk-gap view. | `docs/officer/risk-control-crosswalk.csv` |
 | I need visual fallback or static visual QA controls. | `docs/visuals/visual-accessibility-qa-register.csv` |
 | I need to know whether a cited source link is still reachable or needs refresh. | `docs/public/source-link-and-freshness-status.md` |
+| I need to know whether register IDs and control paths resolve. | `scripts/validate_register_references.py` |
