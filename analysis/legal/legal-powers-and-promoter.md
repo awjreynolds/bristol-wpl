@@ -47,11 +47,11 @@ Transport Act 2000 workplace parking levy powers sit in the workplace parking li
 
 Bristol City Council has an evidenced public decision trail for Stage One Development and OBC work and, after Stage 2C, a source-bounded proposed local licensing authority working assumption for simulation drafting. Stage 2D supports Transport and Connectivity Committee as the best-evidenced member route for OBC approval, progression beyond OBC/consultation launch and FBC decisions. It does not yet have an evidenced final internal promoter/order-maker route. `SRC-BCC-0004` and `SRC-BCC-0022` approve Stage One Development and OBC option testing and authorise Stage 1 contract activity. `SRC-BCC-0035` and `SRC-BCC-0036` confirm that the May 2025 WPL item was noted as an information update. Current constitution sources `SRC-BCC-0028` to `SRC-BCC-0034` and the Growth and Regeneration delegation source `SRC-BCC-0031` support committee-remit, key-decision, Full Council reserved-function and officer-delegation mapping, but they do not expressly settle the WPL order-maker or confirmation-submitter route.
 
-The WECA/MCA current-law position is not settled. `SRC-WECA-0011` to `SRC-WECA-0016`, `SRC-LEG-0009`, `SRC-LEG-0010`, `SRC-LEG-0014`, `SRC-LEG-0016`, `SRC-LEG-0022` and `SRC-LEG-0023` must be mapped against the Transport Act 2000 WPL provisions and Bristol constitution before any no-role, consent-required, concurrent-function or transferred-function conclusion is made.
+The WECA/MCA current-law position is not settled. Stage 2E controls WECA/MCA wording as strategic context and possible conditional funding/assurance context only. `SRC-WECA-0011` to `SRC-WECA-0016`, `SRC-LEG-0009`, `SRC-LEG-0010`, `SRC-LEG-0014`, `SRC-LEG-0016`, `SRC-LEG-0022` and `SRC-LEG-0023` must be mapped against the Transport Act 2000 WPL provisions and Bristol constitution before any no-role, consent-required, concurrent-function or transferred-function conclusion is made.
 
 ## Uncertainty
 
-P0 remains open for the Bristol final WPL licensing-scheme order-maker and submission route. The earlier OBC/progression/FBC member route is partly controlled by Stage 2D. P0 remains open for WECA/MCA role.
+P0 remains open for the Bristol final WPL licensing-scheme order-maker and submission route. The earlier OBC/progression/FBC member route is partly controlled by Stage 2D. P0 remains open for WECA/MCA current-law role, despite Stage 2E evidence-language controls.
 
 ## Scheme Consequence
 

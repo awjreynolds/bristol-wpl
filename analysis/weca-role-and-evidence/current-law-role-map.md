@@ -56,6 +56,8 @@ Status: simulation-only current-law classification. This is not legal advice, WE
 
 The WECA/MCA role has moved from "sources not acquired" to "sources acquired and mapped for constraints." It has not moved to a closed or partially closed role conclusion. The Stage 2 gate must continue to block any business-case or statutory dossier text that states WECA/MCA approval, rejection, consent, sponsorship, funding, objection, transferred WPL function or no direct role as a settled fact.
 
+Stage 2E adds a stricter drafting control: WECA/MCA may be described as strategic context and possible conditional funding/assurance context only. It does not close the current-law role after the 2026 amendments, and it does not establish consent, no-role, transferred-function, formal support, formal objection or funding approval.
+
 ## Next Evidence Tests
 
 1. Search WECA/MCA committee and Joint Committee records for WPL-specific and demand-management terms.

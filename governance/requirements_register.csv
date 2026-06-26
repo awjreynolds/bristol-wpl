@@ -1,6 +1,6 @@
 requirement_id,source,requirement,owner,stage,evidence,status
 REQ-0001,CODEX_MASTER_PROMPT Stage 2,Resolve Bristol licensing authority order-maker delegation and submission route before preferred scheme or consultation progression,Legal Review Agent,Stage 2,analysis/legal/stage-2d-bristol-internal-decision-route.md,partially_controlled
-REQ-0002,CODEX_MASTER_PROMPT Stage 2,Resolve WECA MCA current-law role and classify any transferred concurrent consent assurance or funding dependency,WECA Governance Agent,Stage 2,analysis/weca-role-and-evidence/role-options.md,open
+REQ-0002,CODEX_MASTER_PROMPT Stage 2,Resolve WECA MCA current-law role and classify any transferred concurrent consent assurance or funding dependency,WECA Governance Agent,Stage 2,analysis/weca-role-and-evidence/stage-2e-weca-mca-role-classification.md,partially_controlled
 REQ-0003,CODEX_MASTER_PROMPT Stage 2,Maintain DfT engagement classification separate from Secretary of State confirmation,Legal Review Agent,Stage 2,analysis/legal/stage-2b-current-law-role-map.md,controlled
 REQ-0004,CODEX_MASTER_PROMPT Stage 2,Maintain statutory compliance matrix mapping legal source section implication evidence owner reviewer OBC FBC status document risk and decision,Legal Review Agent,Stage 2,statutory_dossier/legal_compliance_matrix.csv,working
 REQ-0005,CODEX_MASTER_PROMPT Section 11,Produce issue-specific legal notes instead of a generic legal chapter,Legal Review Agent,Stage 2,analysis/legal,working

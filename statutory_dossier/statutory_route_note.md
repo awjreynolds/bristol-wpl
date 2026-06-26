@@ -43,6 +43,8 @@ Stage 2C supports a Bristol-led local licensing authority working assumption for
 
 Stage 2D supports Transport and Connectivity Committee as the best-evidenced member route for OBC approval, progression beyond OBC and FBC decisions. It does not settle the final WPL licensing-scheme order-maker or Secretary of State submitter.
 
+Stage 2E supports only a WECA/MCA strategic-context and possible conditional funding/assurance-context classification. It does not settle WECA/MCA consent, no-role, transferred-function, formal support, objection or funding approval.
+
 The current baseline is therefore:
 
 1. identify the competent licensing authority and order-maker;

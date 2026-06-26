@@ -39,6 +39,8 @@ Status: Stage 2 technical baseline. Simulation only; not WECA/MCA approval, lega
 
 No inspected repo-local source evidences formal WECA/MCA approval, rejection, consent, sponsorship, objection, funding approval, transferred WPL function, no-role status or statutory-route decision for a Bristol Workplace Parking Levy. Current evidence supports strategic policy context and possible assurance/funding interfaces only.
 
+Stage 2E records this as a controlled language finding, not a final no-role finding. A current WECA/MCA and Joint Committee meeting-record search is still required before the Stage 2 legal/governance gate can pass.
+
 ## Evidence Classifications
 
 | source_id | classification | finding | limitation |

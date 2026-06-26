@@ -33,9 +33,9 @@ Priority acquisition: Nottingham annual/current operational sources, independent
 
 ### WECA/MCA Role Evidence
 
-Seed WECA/MCA material currently supports role hypotheses only. It may evidence adopted strategy context, assurance framework relevance, business-case process comparison or programme/data dependencies. It does not establish formal WECA/MCA approval, funding approval, Bristol WPL support, objection or statutory consent position.
+Stage 2E controls WECA/MCA material as strategic context and possible conditional funding/assurance context only. It may evidence adopted strategy context, assurance framework relevance, business-case process comparison or programme/data dependencies. It does not establish formal WECA/MCA approval, funding approval, Bristol WPL support, objection, consent, sponsorship, transferred/concurrent WPL function or no-role position.
 
-The Stage 2 P0 question is whether current amended legislation, devolution instruments and constitutions give WECA/MCA transferred, concurrent, consent, assurance or no direct WPL role. Until verified, WECA/MCA support and power must not be asserted.
+The Stage 2 P0 question is whether current amended legislation, devolution instruments and constitutions give WECA/MCA transferred, concurrent, consent, assurance or no direct WPL role. Current scoped sources do not support a transferred or concurrent WECA/MCA WPL function, but they do not establish no-role or no-consent. Until verified, WECA/MCA support and power must not be asserted.
 
 ### Appraisal and Assurance Spine
 
@@ -63,7 +63,7 @@ The Stage 0 architecture is sufficient as a scaffold and Stage 1 now includes ed
 
 ### Current Law / Statutory Route
 
-Legal review identifies Transport Act 2000 Part III Chapter II as the apparent statutory spine for an initial Bristol WPL simulation, subject to Stage 2 legal review. Stage 2C source-chain work now supports treating Bristol City Council as the proposed Bristol local licensing authority/order-maker under investigation for simulation drafting, and Stage 2D supports Transport and Connectivity Committee as the best-evidenced member route for OBC/progression/FBC decisions. Final WPL licensing-scheme order-making and statutory submission route remains a P0 issue. An initial England-only scheme should be treated as requiring Secretary of State confirmation before coming into force. DfT engagement must remain separate from statutory confirmation. The RPI-only variation exemption in the 2009 Regulations must not be applied to an initial order, ordinary variation or revocation.
+Legal review identifies Transport Act 2000 Part III Chapter II as the apparent statutory spine for an initial Bristol WPL simulation, subject to Stage 2 legal review. Stage 2C source-chain work now supports treating Bristol City Council as the proposed Bristol local licensing authority/order-maker under investigation for simulation drafting, Stage 2D supports Transport and Connectivity Committee as the best-evidenced member route for OBC/progression/FBC decisions, and Stage 2E controls WECA/MCA wording as strategic context and possible conditional funding/assurance context only. Final WPL licensing-scheme order-making and statutory submission route remains a P0 issue. An initial England-only scheme should be treated as requiring Secretary of State confirmation before coming into force. DfT engagement must remain separate from statutory confirmation. The RPI-only variation exemption in the 2009 Regulations must not be applied to an initial order, ordinary variation or revocation.
 
 Stage 2 must resolve the P0 questions over Bristol internal decision route, WECA/MCA current role, who submits the order, and current DfT/Secretary of State expectations before any simulated preferred scheme or consultation reliance.
 

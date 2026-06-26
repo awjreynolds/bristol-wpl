@@ -37,6 +37,8 @@ Status: Stage 2 technical baseline. Simulation only; not WECA/MCA approval or le
 
 ## Current Classification
 
+Stage 2E confirms the current classification as evidence-language control only. It does not establish any formal WECA/MCA decision or no-role conclusion.
+
 | classification | current status | evidence | permitted wording |
 | --- | --- | --- | --- |
 | Formal approval established | no | none found | Do not use. |
