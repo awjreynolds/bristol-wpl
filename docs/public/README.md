@@ -11,6 +11,8 @@ This repo is a learning and assurance simulation. It shows the evidence, decisio
 
 The GitHub repository is public. Public visibility is not approval, endorsement, legal advice, consultation launch authority or statutory readiness.
 
+Editable files in this repo are drafting scaffolds, not finished documents. They show what would need to be checked before a real decision, but they do not make or approve that decision.
+
 ## What This Repo Is
 
 - An auditable simulation workspace.
@@ -37,6 +39,7 @@ The simulation currently says:
 - no OBC or FBC has been assembled;
 - no public consultation is launch-ready;
 - no statutory submission is ready;
+- no assembled OBC, FBC, consultation pack, officer-review DOCX or authored officer-distribution PDF is ready;
 - downloaded priority source-note coverage is complete;
 - current claim-matrix summaries exist, but they do not prove claim truth and future drafting-specific summaries remain open;
 - Nottingham lessons cannot be copied to Bristol without transferability evidence.

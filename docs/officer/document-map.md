@@ -5,12 +5,14 @@ Date: 2026-06-26.
 
 ## Main Areas
 
+Editable authoring outputs are working files only. They help future drafters assemble evidence-linked Markdown, DOCX, XLSX or HTML material. They are not PDFs, not an assembled OBC or FBC, not a statutory submission, not consultation material and not approval by Bristol City Council, WECA/MCA, DfT or any statutory decision-maker.
+
 | Area | What it is for | What it is not |
 |---|---|---|
-| `docs/public/` | Plain-English public summaries | Legal advice or decision report |
-| `docs/officer/` | Officer/cabinet/legal navigation and assurance summaries | Replacement for professional review |
-| `business_case/` | Editable OBC/FBC structure and placeholders | Completed OBC/FBC |
-| `statutory_dossier/` | Scheme order, legal compliance and confirmation dossier controls | Ready statutory submission |
+| `docs/public/` | Plain-English public summaries and editable control/drafting areas | Legal advice, decision report or not approved/not assembled/not PDF public pack |
+| `docs/officer/` | Officer/cabinet/legal navigation and editable control/drafting areas | Replacement for professional review or not approved/not assembled/not PDF officer pack |
+| `business_case/` | Editable OBC/FBC structure and placeholders | Completed OBC/FBC or not approved/not assembled/not PDF business case |
+| `statutory_dossier/` | Scheme order, legal compliance and confirmation dossier controls | Ready statutory submission or not approved/not assembled/not PDF statutory pack |
 | `analysis/` | Source-linked analysis and stage-control packages | Final advice |
 | `evidence/` | Source register, raw evidence, extraction manifests and source-note controls | Uncontrolled claim library |
 | `governance/` | Risks, issues, decisions, approvals, sign-offs and requirements | Real public-body approvals |

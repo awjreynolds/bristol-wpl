@@ -25,6 +25,7 @@ This is a controlled simulation. It is not an approved Bristol WPL scheme, not a
 | Critical-path handover | Mapped but not approved | GREEN for handover controls only | Stage 13A maps blockers to work packages and a control-only 90-day plan | Use work packages as planning inputs only; obtain real authority before spend or procurement |
 | Source notes | Downloaded priority coverage complete; claim summaries controlled separately | GREEN for coverage only, AMBER for drafting reliance | Stage 15B adds the remaining 36 downloaded priority-1 notes; Stage 16A covers current claim summaries | Use source notes as source-use controls only; cite underlying sources and claim summaries before drafting reliance |
 | Claim summaries | Current claim matrix covered; future drafting claims open | GREEN for current-matrix coverage only, AMBER for drafting reliance | Stage 16A creates 38 summaries for `CLM-0001` to `CLM-0038`; EG-0045 remains open | Add or update claim summaries for every new OBC, FBC, consultation, statutory or public/officer claim before reliance |
+| Editable outputs | Guardrails mapped; assembly blocked | GREEN for authoring controls only, RED for assembled outputs | Stage 17A maps editable outputs and blocks assembled OBC/FBC/statutory/officer-distribution outputs | Treat editable outputs as controlled inputs for future assurance; no authored officer-distribution PDFs |
 | Public repo secret-scanning | Repository controls recorded | AMBER | Stage 14B-E record current-tree cleanup, history rewrite and repository-side hosted-alert checks; GitGuardian disposition remains external | Check GitGuardian directly before claiming hosted-alert closure |
 | Data protection and operations | Not ready | AMBER | ISS-0006 and RISK-0007 remain open | DPIA, lawful basis, PCN, appeals, recovery and service controls |
 | Nottingham transfer | Lessons only | AMBER | EG-0004, EG-0008, ISS-0005, RISK-0006 and RISK-0009 remain open | Refreshed Nottingham evidence and Bristol transferability assessment |
@@ -43,6 +44,7 @@ This is a controlled simulation. It is not an approved Bristol WPL scheme, not a
 | Stage 13A records critical-path handover controls. | That work packages or the 90-day plan approve a programme, spending, procurement or gate passage. |
 | Stage 14A, Stage 15A and Stage 15B record source-note cohorts; Stage 15B completes downloaded priority-1 coverage. | That source notes verify claims, provide legal advice or close evidence readiness. |
 | Stage 16A records claim summaries for current claim-matrix rows. | That claim summaries prove claim truth, complete the evidence base, replace legal advice or cover future drafting-specific claims. |
+| Stage 17A records editable output guardrails. | That editable outputs are assembled decision papers, consultation packs, statutory submissions, officer-review DOCX files or authored PDFs. |
 | Stage 14B-E record public-repository security controls. | That GitGuardian has closed its alert or that WPL readiness has changed. |
 | Nottingham can inform lessons. | That Nottingham impacts transfer to Bristol. |
 

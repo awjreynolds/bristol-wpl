@@ -10,10 +10,10 @@ This repository is public. Stage 12A records that public visibility is not appro
 
 | Item | Current position |
 |---|---|
-| Last completed stage | Stage 16A: current-claim-matrix claim-summary control. |
-| What Stage 16A controls | It creates a claim-level source-summary layer: 38 editable claim summaries for existing `CLM-0001` to `CLM-0038` rows, with source IDs, source locations, reviewer status, limitations and no-go wording. |
-| What Stage 16A cannot do | It does not verify claim truth, provide legal advice, cover future drafting-specific claims, settle WECA/MCA or DfT positions, pass an OBC/FBC gate, launch consultation or authorise statutory submission. |
-| Main live blockers | `ISS-0001`, `ISS-0002`, `ISS-0003`, `ISS-0004`, `ISS-0008`, `ISS-0011`, `ISS-0012`, `ISS-0015`, `ISS-0016`, `ISS-0025`, `ISS-0026`, `EG-0045`. |
+| Last completed stage | Stage 17A: editable authoring guardrails. |
+| What Stage 17A controls | It maps editable outputs, maintains blocked business-case assembly files, preserves the claim-level source-summary layer, prohibits authored officer-distribution PDFs and validates authoring-control wording. |
+| What Stage 17A cannot do | It does not assemble, approve or certify an OBC, FBC, statutory dossier, consultation pack, officer-review DOCX, public pack, scheme order or statutory submission. |
+| Main live blockers | `ISS-0001`, `ISS-0002`, `ISS-0003`, `ISS-0004`, `ISS-0008`, `ISS-0011`, `ISS-0012`, `ISS-0015`, `ISS-0016`, `ISS-0025`, `ISS-0026`, `ISS-0027`, `EG-0045`. |
 
 ## Current No-Go Position
 
@@ -50,6 +50,8 @@ Each stage gate report should explain what was controlled, what remains blocked 
 
 You can rely on this repo as a controlled simulation record:
 
+Editable authoring outputs are working files only. They help future drafters assemble evidence-linked Markdown, DOCX, XLSX or HTML material. They are not PDFs, not an assembled OBC or FBC, not a statutory submission, not consultation material and not approval by Bristol City Council, WECA/MCA, DfT or any statutory decision-maker. No authored officer-distribution PDFs are permitted.
+
 | Safe to rely on | Do not infer |
 |---|---|
 | It identifies evidence, decisions, risks and checks needed for a professional WPL workflow. | That Bristol City Council, WECA/MCA, DfT or the Secretary of State has approved anything in this repo. |
@@ -69,6 +71,7 @@ You can rely on this repo as a controlled simulation record:
 | Officer planning next work | `docs/officer/next-steps-critical-path.md` | Critical path work packages and 90-day planning controls. |
 | Evidence reviewer or drafter | `evidence/source_notes/README.md` | Source-note cohorts and claim-use limits; source-note backlog remains controlled at claim-summary level. |
 | Claim reviewer or drafter | `evidence/claim_summaries/README.md` | Claim-level summaries for existing matrix claims; summaries do not prove claim truth. |
+| Document author or editor | `docs/authoring/README.md` | Editable output rules, blocked assembly paths and no-PDF controls. |
 | Public repo maintainer | `review/stage_gate_reports/stage-14b-public-repo-secret-scan-report.md` | GitGuardian/Grafana-token-pattern incident response, source omissions and secret-scan controls. |
 | Maintainer considering history rewrite | `review/stage_gate_reports/stage-14c-history-rewrite-decision-report.md` | Dry-run result, force-push boundary and residual GitGuardian/history risk. |
 | Maintainer checking rewrite completion | `review/stage_gate_reports/stage-14d-live-history-rewrite-completion-report.md` | Live force-push result, local and fresh-remote verification, and residual hosted-alert caveats. |
@@ -81,7 +84,7 @@ You can rely on this repo as a controlled simulation record:
 
 ## Visual Stage Map
 
-The current workflow map is in `docs/visuals/stage-gate-map.mmd`. Stage 9A is the public/officer assurance layer. Stage 7 OBC, Stage 8 consultation launch and Stage 11 FBC/statutory gates remain blocked. Stage 10A is only a control layer for a future statutory dossier; Stage 11A is only a control layer for the final FBC/statutory gate. Stage 12A records the public repository release controls. Stage 13A records the critical-path handover controls; the critical path is not approval. Stage 14A creates a source-note pilot. Stage 14B records public-repo secret-scanning remediation after a GitGuardian detector collision. Stage 14C dry-runs the history-rewrite option. Stage 14D records the approved live history rewrite. Stage 14E records repository-side hosted-alert checks; GitGuardian disposition remains external. Stage 15A expands legal/governance source-note coverage. Stage 15B completes downloaded priority-1 source-note coverage only. Stage 16A creates current-claim-matrix claim summaries only; future drafting-specific claim summaries and all WPL readiness gates remain blocked.
+The current workflow map is in `docs/visuals/stage-gate-map.mmd`. Stage 9A is the public/officer assurance layer. Stage 7 OBC, Stage 8 consultation launch and Stage 11 FBC/statutory gates remain blocked. Stage 10A is only a control layer for a future statutory dossier; Stage 11A is only a control layer for the final FBC/statutory gate. Stage 12A records the public repository release controls. Stage 13A records the critical-path handover controls; the critical path is not approval. Stage 14A creates a source-note pilot. Stage 14B records public-repo secret-scanning remediation after a GitGuardian detector collision. Stage 14C dry-runs the history-rewrite option. Stage 14D records the approved live history rewrite. Stage 14E records repository-side hosted-alert checks; GitGuardian disposition remains external. Stage 15A expands legal/governance source-note coverage. Stage 15B completes downloaded priority-1 source-note coverage only. Stage 16A creates current-claim-matrix claim summaries only. Stage 17A creates editable authoring guardrails only; no assembled OBC/FBC, statutory submission, consultation pack, officer-review DOCX, authored PDF or WPL readiness gate changes.
 
 ```mermaid
 flowchart LR
@@ -108,6 +111,7 @@ flowchart LR
     S14E --> S15A["Stage 15A<br/>Source-note expansion"]
     S15A --> S15B["Stage 15B<br/>Acquired-priority source-note completion"]
     S15B --> S16A["Stage 16A<br/>Claim-summary controls"]
+    S16A --> S17A["Stage 17A<br/>Editable authoring guardrails"]
 ```
 
 ## Stage 9A Status
@@ -155,6 +159,7 @@ The stage-by-stage workflow narrative is maintained in `docs/stages/`:
 - `docs/stages/stage-15a-source-note-expansion.md`
 - `docs/stages/stage-15b-source-note-completion.md`
 - `docs/stages/stage-16a-claim-summary-control.md`
+- `docs/stages/stage-17a-editable-document-assembly.md`
 
 Each completed stage package should be committed and pushed before the next stage begins. Detailed discoveries, data points and unresolved issues live in the stage docs and controlled registers.
 
@@ -195,6 +200,7 @@ Current gate reports live under `review/stage_gate_reports/`. Key current report
 - `review/stage_gate_reports/stage-15a-source-note-expansion-report.md`
 - `review/stage_gate_reports/stage-15b-source-note-completion-report.md`
 - `review/stage_gate_reports/stage-16a-claim-summary-control-report.md`
+- `review/stage_gate_reports/stage-17a-editable-document-assembly-report.md`
 
 ## Context Discipline
 

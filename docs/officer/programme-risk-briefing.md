@@ -28,6 +28,7 @@ The simulation has mostly completed control architecture, not substantive case e
 | Treating source-note expansion as legal clearance or complete evidence review | Stage 15A | Legal-route overclaim and premature source-heavy drafting | Coverage-stage register, raw-omitted source controls and `python3 scripts/validate_source_notes.py` |
 | Treating acquired-priority source-note completion as evidence completion | Stage 15B | Unsupported legal, WECA/MCA, DfT, appraisal, comparator, OBC/FBC or statutory claims | Stage 15B validator no-go wording and Stage 16A claim-summary handoff controls |
 | Treating claim summaries as claim truth or drafting readiness | Stage 16A | Unsupported public, officer, legal, OBC/FBC, consultation or statutory reliance | `EG-0045`, claim-summary no-go register and `python3 scripts/validate_claim_summaries.py` |
+| Treating editable authoring scaffolds as assembled decision papers | Stage 17A | Premature OBC/FBC, statutory, consultation, officer-review or PDF distribution claims | Authoring output register, blocked assembly scripts and `python3 scripts/validate_authoring_guardrails.py` |
 
 ## Risk Registers
 
