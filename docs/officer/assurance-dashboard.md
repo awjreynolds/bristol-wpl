@@ -15,7 +15,7 @@ This is a controlled simulation. It is not an approved Bristol WPL scheme, not a
 | WECA/MCA role | Not settled | RED | ISS-0002 and RISK-0002 remain open P0 controls | Current-law role, consent/no-role, consultation-response and funding-dependency classification |
 | DfT process | Not settled | AMBER | ISS-0008 and RISK-0003 remain open P1 controls | WPL-specific DfT procedural source or logged DfT response |
 | Boundary and parking inventory | Not available | RED | ISS-0003 and RISK-0004 remain open P0 controls | Authoritative boundary, licences, inventory, topology QA and legal/GIS reconciliation |
-| Displacement and residential spillover | Not assessed | RED | Boundary and inventory are absent | Boundary options, parking inventory, residential street baseline and mitigation options |
+| Displacement and residential spillover | Not assessed | RED | Boundary and inventory are absent | Boundary options, parking inventory, residential street baseline and mitigation options to assess, not selected mitigation |
 | Options and appraisal | Not ready | RED | ISS-0004 remains open P0 | OAR, ASR, ASST, model cards, outputs, uncertainty and reviewer sign-off |
 | OBC | Not assembled and gate cannot pass | RED | ISS-0011 and RISK-0014 remain open; Stage 7A creates controls only | Populated evidence dependencies and Stage 7 assurance |
 | Consultation launch | Not ready | RED | ISS-0012 and RISK-0015 remain open | Authority to consult, materials, privacy, accessibility, response-analysis and public-law checks |
@@ -28,7 +28,7 @@ This is a controlled simulation. It is not an approved Bristol WPL scheme, not a
 | Editable outputs | Guardrails mapped; assembly blocked | GREEN for authoring controls only, RED for assembled outputs | Stage 17A maps editable outputs and blocks assembled OBC/FBC/statutory/officer-distribution outputs | Treat editable outputs as controlled inputs for future assurance; no authored officer-distribution PDFs |
 | Public repo secret-scanning | Repository controls recorded | AMBER | Stage 14B-E record current-tree cleanup, history rewrite and repository-side hosted-alert checks; GitGuardian disposition remains external | Check GitGuardian directly before claiming hosted-alert closure |
 | Data protection and operations | Not ready | AMBER | ISS-0006 and RISK-0007 remain open | DPIA, lawful basis, PCN, appeals, recovery and service controls |
-| Nottingham transfer | Lessons only | AMBER | EG-0004, EG-0008, ISS-0005, RISK-0006 and RISK-0009 remain open | Refreshed Nottingham evidence and Bristol transferability assessment |
+| Nottingham transfer | Not transferable to Bristol yet | RED for reliance / AMBER for lessons control | EG-0004, EG-0008, EG-0046, ISS-0005, RISK-0006 and RISK-0009 remain open; no Bristol outcome, mitigation package or CPZ/RPZ readiness follows from comparator evidence | Refreshed Nottingham evidence, Bristol transferability assessment and mitigation options to assess, not selected mitigation |
 
 ## What Can Be Relied On
 

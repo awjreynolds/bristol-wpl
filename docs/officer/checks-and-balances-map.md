@@ -12,7 +12,7 @@ This is a simulation control map. It is not approval, legal advice, consultation
 | Legal route | Current law, Bristol route, WECA/MCA role, DfT process | Legal Review Agent and Monitoring Officer Simulation Agent | Stage 2 and Stage 11 |
 | Boundary | Authoritative GIS source, licence, topology QA, legal/GIS reconciliation | GIS/Data Review Agent and Legal Review Agent | Stage 4 |
 | Parking inventory | Canonical data, source IDs, confidence, lawful basis and audit history | Spatial Data Agent and Data Protection Review Agent | Stage 4 |
-| Nottingham lesson | Source ID, lesson, transfer condition and prohibited overclaim | Comparator Evidence Agent | Stage 5 |
+| Nottingham/comparator lesson | Source ID, lesson, transfer condition, prohibited overclaim, displacement checklist and no-transfer note | Comparator Evidence Agent with Spatial Data Agent and Public Officer Review Agent | Stage 5 and Stage 18A |
 | Model output | ASR, model card, run manifest, validation and uncertainty | Analytical Assurance Agent | Stage 5 and Stage 7 |
 | OBC section | Section dependency, claim evidence, limitation and reviewer sign-off | Integrated Case Review Agent | Stage 7 |
 | Consultation material | Authority, privacy, accessibility, EqIA, response analysis and material version controls | Legal, Data, Accessibility and Consultation Agents | Stage 8 |
@@ -22,6 +22,7 @@ This is a simulation control map. It is not approval, legal advice, consultation
 | Critical-path handover | Work package register, blocker map, 90-day control plan and handover no-go claims | Handover Review Agent, Programme Controls Agent and Red Team | Stage 13A controls |
 | Source notes | Source-note coverage-stage register, source-use limits, raw-omitted source controls, no-go claims and handoff to claim summaries | Evidence Librarian, Evidence/Citation Agent, Legal Review Agent and Red Team | Stage 14A, Stage 15A and Stage 15B controls |
 | Claim summaries | Current claim-matrix summaries, source IDs, source locations, reviewer status, limitations, no-go claims and `EG-0045` future-claim gap | Evidence/Citation Agent, domain reviewers and Red Team | Stage 16A controls |
+| Transferability controls | Blocked Nottingham lesson rows, blocked transferability matrix, residential spillover checklist, current Nottingham refresh gap and cross-register blockers | Comparator Evidence Agent, Spatial Data Agent, Public Officer Review Agent and Red Team | Stage 18A controls |
 
 ## Registers
 

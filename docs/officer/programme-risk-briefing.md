@@ -29,6 +29,7 @@ The simulation has mostly completed control architecture, not substantive case e
 | Treating acquired-priority source-note completion as evidence completion | Stage 15B | Unsupported legal, WECA/MCA, DfT, appraisal, comparator, OBC/FBC or statutory claims | Stage 15B validator no-go wording and Stage 16A claim-summary handoff controls |
 | Treating claim summaries as claim truth or drafting readiness | Stage 16A | Unsupported public, officer, legal, OBC/FBC, consultation or statutory reliance | `EG-0045`, claim-summary no-go register and `python3 scripts/validate_claim_summaries.py` |
 | Treating editable authoring scaffolds as assembled decision papers | Stage 17A | Premature OBC/FBC, statutory, consultation, officer-review or PDF distribution claims | Authoring output register, blocked assembly scripts and `python3 scripts/validate_authoring_guardrails.py` |
+| Treating Nottingham lessons as Bristol forecasts or ready parking mitigation | Stage 18A | Unsupported displacement, CPZ/RPZ, congestion, revenue, mode-shift, acceptability or employer-behaviour claims | Transferability matrix, displacement checklist and `python3 scripts/validate_nottingham_transferability.py` |
 
 ## Risk Registers
 

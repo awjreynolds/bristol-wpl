@@ -11,7 +11,7 @@ Each completed stage package should be committed and pushed before the next stag
 
 ## Current Stage Map
 
-Terminology note: `Stage 10A` is a control-architecture slice for a future statutory confirmation dossier. `Stage 11A` is a control-architecture slice for the final FBC/statutory assurance gate. Neither is a statutory submission or approval. `Stage 12A` is a public-release control stage only. `Stage 13A` is a critical-path handover control stage only. `Stage 14A` is a source-note control pilot only. `Stage 14B` is a public-repo secret-scanning remediation control only. `Stage 14C` is a history-rewrite dry-run and approval-boundary control only. `Stage 14D` is live history-rewrite execution evidence only. `Stage 14E` is hosted-alert disposition tracking only. `Stage 15A` is a source-note expansion control only. `Stage 15B` is acquired-priority source-note completion only, not claim verification or evidence completion. `Stage 16A` is claim-summary control for the current claim matrix only, not claim truth or readiness. `Stage 17A` is editable authoring guardrails only, not assembled documents or distribution readiness. The future FBC/statutory decision gate remains `Stage 11` in this repo.
+Terminology note: `Stage 10A` is a control-architecture slice for a future statutory confirmation dossier. `Stage 11A` is a control-architecture slice for the final FBC/statutory assurance gate. Neither is a statutory submission or approval. `Stage 12A` is a public-release control stage only. `Stage 13A` is a critical-path handover control stage only. `Stage 14A` is a source-note control pilot only. `Stage 14B` is a public-repo secret-scanning remediation control only. `Stage 14C` is a history-rewrite dry-run and approval-boundary control only. `Stage 14D` is live history-rewrite execution evidence only. `Stage 14E` is hosted-alert disposition tracking only. `Stage 15A` is a source-note expansion control only. `Stage 15B` is acquired-priority source-note completion only, not claim verification or evidence completion. `Stage 16A` is claim-summary control for the current claim matrix only, not claim truth or readiness. `Stage 17A` is editable authoring guardrails only, not assembled documents or distribution readiness. `Stage 18A` is Nottingham/comparator transferability control only, not evidence that Bristol impacts, mitigation readiness, charge levels, revenue or mode/congestion outcomes transfer. The future FBC/statutory decision gate remains `Stage 11` in this repo.
 
 ## Stage Risk Recording
 
@@ -43,6 +43,7 @@ Each stage should leave a register trail, not just a narrative note. The minimum
 | Stage 15B | Acquired-priority source-note completion for remaining downloaded priority-1 sources | Complete as source-note completion; claim-level source summaries and all WPL readiness gates remain open | `review/stage_gate_reports/stage-15b-source-note-completion-report.md` |
 | Stage 16A | Current-claim-matrix claim-summary control | Complete as claim-summary control; future drafting-specific summaries and all WPL readiness gates remain open | `review/stage_gate_reports/stage-16a-claim-summary-control-report.md` |
 | Stage 17A | Editable document assembly and authoring guardrails | Complete as authoring control; assembled OBC/FBC/statutory/consultation/officer outputs remain blocked | `review/stage_gate_reports/stage-17a-editable-document-assembly-report.md` |
+| Stage 18A | Nottingham displacement and transferability controls | Complete as comparator-learning control; Bristol impact transfer, CPZ/RPZ readiness, current Nottingham refresh and all WPL readiness gates remain blocked | `review/stage_gate_reports/stage-18a-nottingham-displacement-transferability-report.md` |
 
 ## Detailed Notes
 
@@ -68,6 +69,7 @@ Each stage should leave a register trail, not just a narrative note. The minimum
 - [Stage 15B Source Note Completion](stage-15b-source-note-completion.md)
 - [Stage 16A Claim Summary Control](stage-16a-claim-summary-control.md)
 - [Stage 17A Editable Document Assembly](stage-17a-editable-document-assembly.md)
+- [Stage 18A Nottingham Displacement And Transferability](stage-18a-nottingham-displacement-transferability.md)
 
 ## Current Hard Blockers
 
@@ -94,3 +96,4 @@ Each stage should leave a register trail, not just a narrative note. The minimum
 - Stage 15B source-note completion controls are explanatory and control-only; they do not verify claims, create claim-level summaries, provide legal advice, settle WECA/MCA or DfT positions, prove appraisal compliance, transfer Nottingham or comparator findings to Bristol or change any WPL readiness gate.
 - Stage 16A claim-summary controls are explanatory and control-only; they do not prove claim truth, provide legal advice, cover future drafting-specific claims, settle WECA/MCA or DfT positions, prove appraisal compliance, transfer Nottingham or comparator findings to Bristol or change any WPL readiness gate.
 - Stage 17A editable authoring controls are explanatory and control-only; they do not assemble an OBC, FBC, statutory dossier, consultation pack, officer-review DOCX, public pack, scheme order, statutory submission or authored officer-distribution PDF.
+- Stage 18A Nottingham transferability controls are explanatory and control-only; they do not prove Bristol impacts, select CPZ/RPZ mitigation, refresh current Nottingham evidence or close spatial, appraisal, consultation, OBC, FBC or statutory gates.

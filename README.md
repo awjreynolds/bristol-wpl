@@ -10,10 +10,10 @@ This repository is public. Stage 12A records that public visibility is not appro
 
 | Item | Current position |
 |---|---|
-| Last completed stage | Stage 17A: editable authoring guardrails. |
-| What Stage 17A controls | It maps editable outputs, maintains blocked business-case assembly files, preserves the claim-level source-summary layer, prohibits authored officer-distribution PDFs and validates authoring-control wording. |
-| What Stage 17A cannot do | It does not assemble, approve or certify an OBC, FBC, statutory dossier, consultation pack, officer-review DOCX, public pack, scheme order or statutory submission. |
-| Main live blockers | `ISS-0001`, `ISS-0002`, `ISS-0003`, `ISS-0004`, `ISS-0008`, `ISS-0011`, `ISS-0012`, `ISS-0015`, `ISS-0016`, `ISS-0025`, `ISS-0026`, `ISS-0027`, `EG-0045`. |
+| Last completed stage | Stage 18A: Nottingham displacement and transferability controls. |
+| What Stage 18A controls | It turns Nottingham and UK comparator material into blocked Bristol transferability questions, especially residential spillover, CPZ/RPZ readiness, monitoring triggers, revenue, acceptability, employer behaviour and current Nottingham evidence. |
+| What Stage 18A cannot do | It does not prove Bristol impacts, select a boundary, create a parking inventory, design or approve CPZ/RPZ controls, refresh current Nottingham sources, or transfer Nottingham charge, congestion, mode-shift, revenue or public-transport outcomes to Bristol. |
+| Main live blockers | `ISS-0001`, `ISS-0002`, `ISS-0003`, `ISS-0004`, `ISS-0005`, `ISS-0008`, `ISS-0011`, `ISS-0012`, `ISS-0015`, `ISS-0016`, `ISS-0025`, `ISS-0026`, `ISS-0027`, `ISS-0028`, `EG-0008`, `EG-0014`, `EG-0045`, `EG-0046`. |
 
 ## Current No-Go Position
 
@@ -72,6 +72,7 @@ Editable authoring outputs are working files only. They help future drafters ass
 | Evidence reviewer or drafter | `evidence/source_notes/README.md` | Source-note cohorts and claim-use limits; source-note backlog remains controlled at claim-summary level. |
 | Claim reviewer or drafter | `evidence/claim_summaries/README.md` | Claim-level summaries for existing matrix claims; summaries do not prove claim truth. |
 | Document author or editor | `docs/authoring/README.md` | Editable output rules, blocked assembly paths and no-PDF controls. |
+| Nottingham/comparator lessons | `docs/officer/nottingham-and-comparator-lessons.md` | Read after the dashboard; lessons are not Bristol forecasts or ready mitigations. |
 | Public repo maintainer | `review/stage_gate_reports/stage-14b-public-repo-secret-scan-report.md` | GitGuardian/Grafana-token-pattern incident response, source omissions and secret-scan controls. |
 | Maintainer considering history rewrite | `review/stage_gate_reports/stage-14c-history-rewrite-decision-report.md` | Dry-run result, force-push boundary and residual GitGuardian/history risk. |
 | Maintainer checking rewrite completion | `review/stage_gate_reports/stage-14d-live-history-rewrite-completion-report.md` | Live force-push result, local and fresh-remote verification, and residual hosted-alert caveats. |
@@ -84,7 +85,7 @@ Editable authoring outputs are working files only. They help future drafters ass
 
 ## Visual Stage Map
 
-The current workflow map is in `docs/visuals/stage-gate-map.mmd`. Stage 9A is the public/officer assurance layer. Stage 7 OBC, Stage 8 consultation launch and Stage 11 FBC/statutory gates remain blocked. Stage 10A is only a control layer for a future statutory dossier; Stage 11A is only a control layer for the final FBC/statutory gate. Stage 12A records the public repository release controls. Stage 13A records the critical-path handover controls; the critical path is not approval. Stage 14A creates a source-note pilot. Stage 14B records public-repo secret-scanning remediation after a GitGuardian detector collision. Stage 14C dry-runs the history-rewrite option. Stage 14D records the approved live history rewrite. Stage 14E records repository-side hosted-alert checks; GitGuardian disposition remains external. Stage 15A expands legal/governance source-note coverage. Stage 15B completes downloaded priority-1 source-note coverage only. Stage 16A creates current-claim-matrix claim summaries only. Stage 17A creates editable authoring guardrails only; no assembled OBC/FBC, statutory submission, consultation pack, officer-review DOCX, authored PDF or WPL readiness gate changes.
+The current workflow map is in `docs/visuals/stage-gate-map.mmd`. Stage 9A is the public/officer assurance layer. Stage 7 OBC, Stage 8 consultation launch and Stage 11 FBC/statutory gates remain blocked. Stage 10A is only a control layer for a future statutory dossier; Stage 11A is only a control layer for the final FBC/statutory gate. Stage 12A records the public repository release controls. Stage 13A records the critical-path handover controls; the critical path is not approval. Stage 14A creates a source-note pilot. Stage 14B records public-repo secret-scanning remediation after a GitGuardian detector collision. Stage 14C dry-runs the history-rewrite option. Stage 14D records the approved live history rewrite. Stage 14E records repository-side hosted-alert checks; GitGuardian disposition remains external. Stage 15A expands legal/governance source-note coverage. Stage 15B completes downloaded priority-1 source-note coverage only. Stage 16A creates current-claim-matrix claim summaries only. Stage 17A creates editable authoring guardrails only. Stage 18A strengthens Nottingham and comparator transferability controls only; no assembled OBC/FBC, statutory submission, consultation pack, officer-review DOCX, authored PDF, Bristol displacement assessment, CPZ/RPZ readiness or WPL readiness gate changes.
 
 ```mermaid
 flowchart LR
@@ -112,6 +113,7 @@ flowchart LR
     S15A --> S15B["Stage 15B<br/>Acquired-priority source-note completion"]
     S15B --> S16A["Stage 16A<br/>Claim-summary controls"]
     S16A --> S17A["Stage 17A<br/>Editable authoring guardrails"]
+    S17A --> S18A["Stage 18A<br/>Nottingham transferability controls"]
 ```
 
 ## Stage 9A Status
@@ -160,6 +162,7 @@ The stage-by-stage workflow narrative is maintained in `docs/stages/`:
 - `docs/stages/stage-15b-source-note-completion.md`
 - `docs/stages/stage-16a-claim-summary-control.md`
 - `docs/stages/stage-17a-editable-document-assembly.md`
+- `docs/stages/stage-18a-nottingham-displacement-transferability.md`
 
 Each completed stage package should be committed and pushed before the next stage begins. Detailed discoveries, data points and unresolved issues live in the stage docs and controlled registers.
 
@@ -172,7 +175,7 @@ Each completed stage package should be committed and pushed before the next stag
 - 1 source acquisition failed: `SRC-ACADEMIC-0001`.
 - `evidence/extraction_manifest.csv` is the current extraction state: 91 extracted, 2 extracted with raw PDFs omitted from the public repo, 1 extracted with redacted text and raw PDF omitted, 16 skipped because not downloaded and 1 skipped because acquisition failed.
 - `evidence/extraction_log.csv` is the append-only extraction audit log.
-- `evidence/source_notes/source-note-coverage-register.csv` now tracks 91 controlled source notes: 13 Stage 14A pilot notes, 42 Stage 15A legal/governance expansion notes and 36 Stage 15B acquired-priority completion notes. Current claim-matrix summaries are controlled in Stage 16A; future drafting-specific summaries remain open under `EG-0045`.
+- `evidence/source_notes/source-note-coverage-register.csv` now tracks 91 controlled source notes: 13 Stage 14A pilot notes, 42 Stage 15A legal/governance expansion notes and 36 Stage 15B acquired-priority completion notes. Current claim-matrix summaries are controlled in the Stage 16A claim-level source-summary layer; future drafting-specific summaries remain open under `EG-0045`.
 - `evidence/claim_summaries/claim-summary-register.csv` now tracks 38 Stage 16A claim summaries for current claim-matrix rows. Future drafting-specific claim summaries remain open under `EG-0045`.
 
 ## Controlled Gate Reports
@@ -201,6 +204,7 @@ Current gate reports live under `review/stage_gate_reports/`. Key current report
 - `review/stage_gate_reports/stage-15b-source-note-completion-report.md`
 - `review/stage_gate_reports/stage-16a-claim-summary-control-report.md`
 - `review/stage_gate_reports/stage-17a-editable-document-assembly-report.md`
+- `review/stage_gate_reports/stage-18a-nottingham-displacement-transferability-report.md`
 
 ## Context Discipline
 
@@ -216,6 +220,7 @@ For public/officer-facing explanation after Stage 9A, also start with:
 - `governance/pitfalls_register.csv`
 - `governance/stage_risk_matrix.csv`
 - `analysis/economic/nottingham_lessons_register.csv`
+- `analysis/context/stage-18a-nottingham-displacement-transferability-context.md`
 
 For all future stages, also apply `instructions/20-stage-continuation-and-context-control.md`. Subagents should receive bounded task packets rather than the whole context set, and the main agent should commit and push each validated stage before moving on.
 
