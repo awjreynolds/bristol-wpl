@@ -1,5 +1,5 @@
 flowchart TD
-    A["Stage 0-1: Repo and evidence baseline<br/>Complete with conditions"] --> B["Stage 2: Legal and governance controls<br/>No-go remains"]
+    A["Stage 0-1: Repo and evidence baseline<br/>Controls recorded; gates still separate"] --> B["Stage 2: Legal and governance controls<br/>No-go remains"]
     B --> C["Stage 3A: Strategic controls<br/>No Strategic Case yet"]
     C --> D["Stage 4A: Boundary and parking controls<br/>No boundary or inventory"]
     D --> E["Stage 5A: Options and appraisal controls<br/>No BCR or VFM"]
@@ -8,7 +8,7 @@ flowchart TD
     F2 --> G["Stage 7: OBC gate<br/>BLOCKED"]
     G --> H["Stage 8A: Consultation controls<br/>No launch"]
     H --> I["Stage 8: Consultation launch<br/>BLOCKED"]
-    I --> J["Stage 9A: Public/officer assurance layer<br/>Complete"]
+    I --> J["Stage 9A: Public/officer assurance layer<br/>Control only; no readiness gate closes"]
     J --> J2["Stage 10A: Statutory dossier controls<br/>No submission"]
     J2 --> K2["Stage 11A: FBC/statutory gate controls<br/>No approval"]
     K2 --> K["Stage 11: FBC and statutory gate<br/>BLOCKED"]
@@ -24,6 +24,7 @@ flowchart TD
     T --> U["Stage 16A: Claim summary controls<br/>Future claims remain open"]
     U --> V["Stage 17A: Editable authoring guardrails<br/>Assembly remains blocked"]
     V --> W["Stage 18A: Nottingham transferability controls<br/>No Bristol impact transfer"]
+    W --> X["Stage 19A: Public/cabinet comprehension controls<br/>Navigation only; no readiness gate closes"]
 
     B -. "P0: Bristol route and WECA/MCA role" .-> G
     D -. "P0: boundary and inventory" .-> G
@@ -55,11 +56,13 @@ flowchart TD
     W -. "Comparator lessons do not prove Bristol impacts" .-> G
     W -. "CPZ/RPZ and displacement evidence remain absent" .-> D
     W -. "Nottingham currentness and congestion-source gaps remain open" .-> K2
+    X -. "Reader guides do not approve scheme or close gates" .-> G
+    X -. "Comprehension not user-tested or professionally assured" .-> K2
 
     classDef blocked fill:#ffdddd,stroke:#990000,color:#111111;
     classDef control fill:#fff4cc,stroke:#996600,color:#111111;
     classDef current fill:#ddf4ff,stroke:#005f99,color:#111111;
 
     class G,I,K blocked;
-    class A,B,C,D,E,F,F2,H,J,J2,K2,L,M,N,O,P,Q,R,S,T,U,V control;
-    class W current;
+    class A,B,C,D,E,F,F2,H,J,J2,K2,L,M,N,O,P,Q,R,S,T,U,V,W control;
+    class X current;

@@ -15,8 +15,8 @@ Editable authoring outputs are working files only. They help future drafters ass
 | `statutory_dossier/` | Scheme order, legal compliance and confirmation dossier controls | Ready statutory submission or not approved/not assembled/not PDF statutory pack |
 | `analysis/` | Source-linked analysis and stage-control packages | Final advice |
 | `evidence/` | Source register, raw evidence, extraction manifests and source-note controls | Uncontrolled claim library |
-| `governance/` | Risks, issues, decisions, approvals, sign-offs and requirements | Real public-body approvals |
-| `review/` | Simulated peer review, red team and stage-gate reports | Real officer/legal sign-off |
+| `governance/` | Risks, issues, decisions, approvals, simulation sign-off rows and requirements | Real public-body approvals |
+| `review/` | Simulated peer review, red team and stage-gate reports | Real officer/legal approval |
 | `models/` | Model controls, cards, inputs and outputs | Completed model outputs |
 | `spatial/` | Boundary, parking inventory and spatial QA controls | Authoritative boundary or map |
 | `consultation/` | Consultation controls and future material locations | Launch-ready consultation pack |
@@ -24,3 +24,13 @@ Editable authoring outputs are working files only. They help future drafters ass
 ## File Type Rule
 
 Officer-facing material should remain editable Markdown, CSV, XLSX, DOCX or HTML. Authored PDFs are prohibited. Downloaded third-party PDFs may remain only under `evidence/raw/**`.
+
+## Public And Cabinet Entry Points
+
+| Reader question | Entry point |
+|---|---|
+| I am new. What is this? | `docs/public/how-to-read-this-repo.md` |
+| What can this repo tell me? | `docs/public/what-this-repo-can-and-cannot-tell-you.md` |
+| I need the cabinet/officer route. | `docs/officer/cabinet-and-officer-navigation-guide.md` |
+| I need the risk/gate route. | `docs/officer/risk-gate-atlas.md` |
+| I need the joined issue-risk-gap view. | `docs/officer/risk-control-crosswalk.csv` |

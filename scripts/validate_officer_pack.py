@@ -9,10 +9,15 @@ ROOT = Path(__file__).resolve().parents[1]
 
 REQUIRED_FILES = [
     "docs/public/README.md",
+    "docs/public/how-to-read-this-repo.md",
+    "docs/public/what-this-repo-can-and-cannot-tell-you.md",
     "docs/public/evidence-and-assumptions-summary.md",
     "docs/officer/assurance-dashboard.md",
+    "docs/officer/cabinet-and-officer-navigation-guide.md",
     "docs/officer/legal-and-governance-briefing.md",
     "docs/officer/programme-risk-briefing.md",
+    "docs/officer/risk-gate-atlas.md",
+    "docs/officer/risk-control-crosswalk.csv",
     "docs/officer/nottingham-and-comparator-lessons.md",
     "docs/officer/checks-and-balances-map.md",
     "docs/officer/document-map.md",
@@ -75,7 +80,8 @@ REQUIRED_README_PHRASES = [
 
 REQUIRED_DASHBOARD_PHRASES = [
     "not an approved Bristol WPL scheme",
-    "RAG Decision Dashboard",
+    "Simulation Control Dashboard",
+    "RAG colours describe repository control status, not real-world WPL readiness.",
     "What Can Be Relied On",
     "Nottingham transfer",
 ]
@@ -90,6 +96,7 @@ REQUIRED_VISUAL_PHRASES = [
     "Stage 7",
     "Stage 8A",
     "Stage 9A",
+    "Stage 19A",
     "Stage 11",
     "BLOCKED",
 ]

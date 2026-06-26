@@ -33,7 +33,7 @@ Date: 2026-06-26.
 
 - Bristol has approved implementation.
 - A boundary, charge, threshold or exemption has been selected.
-- Consultation is ready to launch.
+- Consultation launch is authorised.
 - WECA/MCA has approved, consented, objected or has no role.
 - Nottingham proves Bristol revenue, congestion, mode shift or employer impact.
 - Nottingham, TfL or Leicester evidence means Bristol already has selected, costed, consulted or ready CPZ/RPZ mitigation.

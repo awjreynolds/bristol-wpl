@@ -20,7 +20,7 @@ The simulation has mostly completed control architecture, not substantive case e
 | Assembling OBC before evidence dependencies exist | Stage 6 | False officer/cabinet readiness | OBC assembly guard and section dependency register |
 | Launching consultation without authority/material/privacy/accessibility controls | Stage 8 | Public-law and data-protection risk | Stage 8A launch-readiness controls |
 | Treating statutory dossier controls as a submission pack | Stage 10A | Premature statutory submission, DfT-process overclaim and scheme-order challenge | Statutory dossier no-go register and `python3 scripts/validate_statutory_dossier.py --gate` |
-| Treating final FBC/statutory gate controls as approval to submit or implement | Stage 11A | False FBC approval, procurement authority, legal sign-off or implementation recommendation | FBC/statutory no-go register and `python3 scripts/validate_fbc_statutory_gate.py --gate` |
+| Treating final FBC/statutory gate controls as approval to submit or implement | Stage 11A | False FBC approval, procurement authority, legal review or implementation recommendation | FBC/statutory no-go register and `python3 scripts/validate_fbc_statutory_gate.py --gate` |
 | Treating public repo visibility as public-body endorsement | Stage 12A | Public misunderstanding, political overclaim or reliance on simulation sign-offs | Public-release no-go register and `python3 scripts/validate_public_release.py` |
 | Treating the critical path as an approved programme | Stage 13A | False authority to spend procure consult or progress gates | Handover no-go register and `python3 scripts/validate_handover.py` |
 | Treating source notes as verified claim evidence | Stage 14A | False confidence in OBC/FBC drafting and unsupported source-heavy claims | Source-note no-go register and `python3 scripts/validate_source_notes.py` |
@@ -37,6 +37,12 @@ The simulation has mostly completed control architecture, not substantive case e
 - `governance/issues_register.csv`
 - `governance/pitfalls_register.csv`
 - `governance/stage_risk_matrix.csv`
+
+## Risk-Control Crosswalk
+
+Use `docs/officer/risk-control-crosswalk.csv` when a reader needs the joined view: stage, blocker, issue ID, risk ID, pitfall ID, evidence-gap ID, current control, residual blocker, gate effect, owner, next evidence or decision, and validator.
+
+The crosswalk is still a navigation control. It does not mean mitigations are complete, residual risk is accepted or a gate can pass.
 
 ## Escalation Rule
 

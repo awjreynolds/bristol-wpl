@@ -7,7 +7,9 @@ Date: 2026-06-26.
 
 This is a controlled simulation. It is not an approved Bristol WPL scheme, not an OBC/FBC, not consultation-ready and not statutory-submission-ready.
 
-## RAG Decision Dashboard
+## Simulation Control Dashboard
+
+RAG colours describe repository control status, not real-world WPL readiness. `GREEN` means a control exists for the stated limited purpose only. `AMBER` means controlled but still dependent on unresolved evidence or external checks. `RED` means blocked for reliance.
 
 | Decision area | Current answer | Status | Why blocked | Next evidence needed |
 |---|---|---|---|---|
@@ -19,12 +21,12 @@ This is a controlled simulation. It is not an approved Bristol WPL scheme, not a
 | Options and appraisal | Not ready | RED | ISS-0004 remains open P0 | OAR, ASR, ASST, model cards, outputs, uncertainty and reviewer sign-off |
 | OBC | Not assembled and gate cannot pass | RED | ISS-0011 and RISK-0014 remain open; Stage 7A creates controls only | Populated evidence dependencies and Stage 7 assurance |
 | Consultation launch | Not ready | RED | ISS-0012 and RISK-0015 remain open | Authority to consult, materials, privacy, accessibility, response-analysis and public-law checks |
-| Statutory dossier | Not ready | RED | Stage 10A creates controls only; ISS-0001, ISS-0002, ISS-0008 and FBC/consultation blockers remain open | DfT route, certified order, FBC, consultation statement, boundary schedule and legal sign-off |
-| FBC/statutory gate | Not ready | RED | Stage 11A creates final gate controls only; no FBC, legal sign-off, S151 review, consultation disposition or implementation readiness exists | Complete FBC evidence packet, Monitoring Officer route, Section 151 review, DfT/WECA disposition and decision report |
+| Statutory dossier | Not ready | RED | Stage 10A creates controls only; ISS-0001, ISS-0002, ISS-0008 and FBC/consultation blockers remain open | DfT route, certified order, FBC, consultation statement, boundary schedule and legal review evidence |
+| FBC/statutory gate | Not ready | RED | Stage 11A creates final gate controls only; no FBC, legal review evidence, S151 review, consultation disposition or implementation readiness exists | Complete FBC evidence packet, Monitoring Officer route, Section 151 review, DfT/WECA disposition and decision report |
 | Public repository release | Public but not approval | GREEN for publication controls only | Stage 12A records public GitHub visibility and no-overclaim controls | Re-run public-release QA before external circulation claims |
 | Critical-path handover | Mapped but not approved | GREEN for handover controls only | Stage 13A maps blockers to work packages and a control-only 90-day plan | Use work packages as planning inputs only; obtain real authority before spend or procurement |
 | Source notes | Downloaded priority coverage complete; claim summaries controlled separately | GREEN for coverage only, AMBER for drafting reliance | Stage 15B adds the remaining 36 downloaded priority-1 notes; Stage 16A covers current claim summaries | Use source notes as source-use controls only; cite underlying sources and claim summaries before drafting reliance |
-| Claim summaries | Current claim matrix covered; future drafting claims open | GREEN for current-matrix coverage only, AMBER for drafting reliance | Stage 16A creates 38 summaries for `CLM-0001` to `CLM-0038`; EG-0045 remains open | Add or update claim summaries for every new OBC, FBC, consultation, statutory or public/officer claim before reliance |
+| Claim summaries | Current claim matrix covered; future drafting claims open | GREEN for current-matrix coverage control only, AMBER for drafting reliance | Stage 16A creates 38 summaries for `CLM-0001` to `CLM-0038`; EG-0045 remains open | Add or update claim summaries for every new OBC, FBC, consultation, statutory or public/officer claim before reliance |
 | Editable outputs | Guardrails mapped; assembly blocked | GREEN for authoring controls only, RED for assembled outputs | Stage 17A maps editable outputs and blocks assembled OBC/FBC/statutory/officer-distribution outputs | Treat editable outputs as controlled inputs for future assurance; no authored officer-distribution PDFs |
 | Public repo secret-scanning | Repository controls recorded | AMBER | Stage 14B-E record current-tree cleanup, history rewrite and repository-side hosted-alert checks; GitGuardian disposition remains external | Check GitGuardian directly before claiming hosted-alert closure |
 | Data protection and operations | Not ready | AMBER | ISS-0006 and RISK-0007 remain open | DPIA, lawful basis, PCN, appeals, recovery and service controls |
@@ -40,19 +42,23 @@ This is a controlled simulation. It is not an approved Bristol WPL scheme, not a
 | Stage 5A creates appraisal controls. | That a BCR, VFM category or preferred option exists. |
 | Stage 8A creates consultation controls. | That consultation can launch. |
 | Stage 11A creates final gate controls. | That FBC approval, statutory submission or implementation can be recommended. |
-| Stage 12A records public repository release controls. | That publication is approval or professional sign-off. |
+| Stage 12A records public repository release controls. | That publication is not approval or professional sign-off. |
 | Stage 13A records critical-path handover controls. | That work packages or the 90-day plan approve a programme, spending, procurement or gate passage. |
 | Stage 14A, Stage 15A and Stage 15B record source-note cohorts; Stage 15B completes downloaded priority-1 coverage. | That source notes verify claims, provide legal advice or close evidence readiness. |
 | Stage 16A records claim summaries for current claim-matrix rows. | That claim summaries prove claim truth, complete the evidence base, replace legal advice or cover future drafting-specific claims. |
 | Stage 17A records editable output guardrails. | That editable outputs are assembled decision papers, consultation packs, statutory submissions, officer-review DOCX files or authored PDFs. |
+| Stage 19A records public and cabinet comprehension controls. | That the materials have been user-tested, professionally assured or approved by officers or elected members. |
 | Stage 14B-E record public-repository security controls. | That GitGuardian has closed its alert or that WPL readiness has changed. |
 | Nottingham can inform lessons. | That Nottingham impacts transfer to Bristol. |
 
 ## Key Read Paths
 
 - Public summary: `docs/public/README.md`
+- New reader guide: `docs/public/how-to-read-this-repo.md`
+- Cabinet/officer guide: `docs/officer/cabinet-and-officer-navigation-guide.md`
 - Legal route: `docs/officer/legal-and-governance-briefing.md`
 - Risk summary: `docs/officer/programme-risk-briefing.md`
+- Risk gate atlas: `docs/officer/risk-gate-atlas.md`
 - Next steps: `docs/officer/next-steps-critical-path.md`
 - Source notes: `evidence/source_notes/README.md`
 - Nottingham lessons: `docs/officer/nottingham-and-comparator-lessons.md`

@@ -13,6 +13,19 @@ The GitHub repository is public. Public visibility is not approval, endorsement,
 
 Editable files in this repo are drafting scaffolds, not finished documents. They show what would need to be checked before a real decision, but they do not make or approve that decision.
 
+## Common Terms
+
+| Term | Meaning here |
+|---|---|
+| WPL | Workplace Parking Levy. |
+| OBC | Outline Business Case. It is not assembled in this repo. |
+| FBC | Full Business Case. It is not assembled in this repo. |
+| WECA/MCA | West of England Combined Authority / Mayoral Combined Authority role, still unresolved for WPL purposes. |
+| DfT | Department for Transport. No WPL-specific DfT process response is held. |
+| CPZ/RPZ | Controlled or residents' parking zone. No Bristol CPZ/RPZ mitigation is selected, costed, consulted on or ready. |
+| BCR/VFM | Benefit-cost ratio / value for money. No BCR or VFM category exists. |
+| Green control | A repo control exists. It does not mean a real scheme is ready. |
+
 ## What This Repo Is
 
 - An auditable simulation workspace.
@@ -50,8 +63,12 @@ The simulation currently says:
 
 | Reader | First document | Purpose |
 |---|---|---|
+| New reader | `docs/public/how-to-read-this-repo.md` | Five-minute route and safeguards |
+| Anyone asking what this can tell them | `docs/public/what-this-repo-can-and-cannot-tell-you.md` | Known assumptions gaps and prohibited claims |
 | Public reader | `docs/public/evidence-and-assumptions-summary.md` | What is known, assumed, open or prohibited |
 | Cabinet member or leader | `docs/officer/assurance-dashboard.md` | One-page status and blockers |
+| Cabinet member checking gates | `docs/officer/cabinet-and-officer-navigation-guide.md` | Gate taxonomy and decision routes |
+| Cabinet member checking risks | `docs/officer/risk-gate-atlas.md` | Risk location mitigation limits and next proof |
 | Officer or programme manager | `docs/officer/programme-risk-briefing.md` | Risks, mitigations and next checks |
 | Anyone asking what happens next | `docs/officer/next-steps-critical-path.md` | Critical path work packages; critical path is not approval |
 | Evidence reviewer or drafter | `evidence/source_notes/README.md` | Source-note cohorts; source notes do not verify every claim |
@@ -64,4 +81,4 @@ The simulation currently says:
 
 ## Visual Map
 
-See `docs/visuals/stage-gate-map.mmd` for the current stage-gate flow.
+See `docs/visuals/stage-gate-map.mmd` for the current stage-gate flow and `docs/visuals/risk-control-atlas.mmd` for the simplified risk-control flow.

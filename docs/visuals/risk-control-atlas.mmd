@@ -1,0 +1,40 @@
+flowchart TD
+    Start["Cold reader starts here<br/>README and public guide"] --> Dash["Assurance dashboard<br/>status and blockers"]
+    Dash --> Legal["Legal route gate<br/>ISS-0001 RISK-0001"]
+    Dash --> WECA["WECA/MCA role gate<br/>ISS-0002 RISK-0002"]
+    Dash --> Spatial["Boundary and inventory gate<br/>ISS-0003 RISK-0004 EG-0014"]
+    Dash --> Appraisal["Options and appraisal gate<br/>ISS-0004 RISK-0005"]
+    Dash --> Consult["Consultation launch gate<br/>ISS-0012 RISK-0015"]
+    Dash --> FBC["FBC/statutory gate<br/>ISS-0011 RISK-0014"]
+    Dash --> Nottingham["Nottingham transferability gate<br/>ISS-0005 ISS-0028 EG-0046 RISK-0031"]
+    Dash --> Authoring["Editable output gate<br/>ISS-0027 RISK-0030"]
+    Dash --> Comprehension["Public/cabinet comprehension<br/>ISS-0029 EG-0047 RISK-0032"]
+
+    Legal --> NoGo["No-go for approval<br/>until real evidence and authority exist"]
+    WECA --> NoGo
+    Spatial --> NoGo
+    Appraisal --> NoGo
+    Consult --> NoGo
+    FBC --> NoGo
+    Nottingham --> NoGo
+    Authoring --> NoGo
+    Comprehension --> NoGo
+
+    Legal -. "next proof: Monitoring Officer route and statutory submitter evidence" .-> Proof["Future real-world proof"]
+    WECA -. "next proof: current-law role and funding/consent disposition" .-> Proof
+    Spatial -. "next proof: authoritative GIS and parking inventory" .-> Proof
+    Appraisal -. "next proof: OAR ASR ASST models BCR VFM" .-> Proof
+    Consult -. "next proof: authority materials privacy accessibility analysis" .-> Proof
+    FBC -. "next proof: FBC legal S151 consultation operations package" .-> Proof
+    Nottingham -. "next proof: Bristol transferability evidence and current Nottingham refresh" .-> Proof
+    Authoring -. "next proof: evidence-populated editable packs with human review" .-> Proof
+    Comprehension -. "next proof: cold-reader testing, accessibility review, and rendered-visual checks" .-> Proof
+
+    classDef start fill:#ddf4ff,stroke:#005f99,color:#111111;
+    classDef blocked fill:#ffdddd,stroke:#990000,color:#111111;
+    classDef guide fill:#fff4cc,stroke:#996600,color:#111111;
+    classDef future fill:#eeeeee,stroke:#555555,color:#111111;
+
+    class Start,Dash guide;
+    class Legal,WECA,Spatial,Appraisal,Consult,FBC,Nottingham,Authoring,Comprehension,NoGo blocked;
+    class Proof future;

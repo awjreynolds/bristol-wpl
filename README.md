@@ -6,14 +6,18 @@ This repo is a public, editable simulation of what a government-grade Bristol Wo
 
 This repository is public. Stage 12A records that public visibility is not approval, not an official council publication and does not change the no-go position below.
 
+## Current Reader Answer
+
+This is a simulation repository. It records controls, gaps and risks. It does not approve, launch, fund, procure or submit a Bristol Workplace Parking Levy.
+
 ## Current Workflow Snapshot
 
 | Item | Current position |
 |---|---|
-| Last completed stage | Stage 18A: Nottingham displacement and transferability controls. |
-| What Stage 18A controls | It turns Nottingham and UK comparator material into blocked Bristol transferability questions, especially residential spillover, CPZ/RPZ readiness, monitoring triggers, revenue, acceptability, employer behaviour and current Nottingham evidence. |
-| What Stage 18A cannot do | It does not prove Bristol impacts, select a boundary, create a parking inventory, design or approve CPZ/RPZ controls, refresh current Nottingham sources, or transfer Nottingham charge, congestion, mode-shift, revenue or public-transport outcomes to Bristol. |
-| Main live blockers | `ISS-0001`, `ISS-0002`, `ISS-0003`, `ISS-0004`, `ISS-0005`, `ISS-0008`, `ISS-0011`, `ISS-0012`, `ISS-0015`, `ISS-0016`, `ISS-0025`, `ISS-0026`, `ISS-0027`, `ISS-0028`, `EG-0008`, `EG-0014`, `EG-0045`, `EG-0046`. |
+| Last completed stage | Stage 19A: public and cabinet comprehension controls. |
+| What Stage 19A controls | It adds a public reading guide, cabinet/officer navigation guide, risk-gate atlas, risk-control crosswalk, simplified risk visual and validator checks for false-readiness language. |
+| What Stage 19A cannot do | It does not prove user comprehension, provide professional assurance, approve a WPL, close any readiness gate, or replace human officer, legal, finance, modelling, consultation, equalities, data-protection or elected-member decisions. |
+| Main live blockers | `ISS-0001`, `ISS-0002`, `ISS-0003`, `ISS-0004`, `ISS-0005`, `ISS-0008`, `ISS-0011`, `ISS-0012`, `ISS-0015`, `ISS-0016`, `ISS-0025`, `ISS-0026`, `ISS-0027`, `ISS-0028`, `ISS-0029`, `EG-0008`, `EG-0014`, `EG-0045`, `EG-0046`, `EG-0047`. |
 
 ## Current No-Go Position
 
@@ -56,7 +60,7 @@ Editable authoring outputs are working files only. They help future drafters ass
 |---|---|
 | It identifies evidence, decisions, risks and checks needed for a professional WPL workflow. | That Bristol City Council, WECA/MCA, DfT or the Secretary of State has approved anything in this repo. |
 | It is public on GitHub and can be inspected as a learning record. | That publication approves the WPL, the business case, consultation or statutory submission. |
-| It records agent-simulated legal, finance, appraisal, governance, data, consultation and red-team reviews. | That those agent sign-offs replace qualified human advice or public-authority decisions. |
+| It records agent-simulated legal, finance, appraisal, governance, data, consultation and red-team reviews. | That those simulation-only agent sign-offs are qualified human advice or public-authority decisions. They are not. |
 | It has a stage-gate structure and validators that block readiness overclaims. | That a blocked gate is ready just because the template exists. |
 | It maps Nottingham and comparator lessons. | That Nottingham charge levels, impacts, mode shift or congestion outcomes transfer to Bristol. |
 | It uses editable Markdown, CSV, XLSX, JSON, HTML and GIS-ready artefacts. | That any authored PDF is an officer-distribution product. Authored PDFs are not allowed. |
@@ -65,8 +69,10 @@ Editable authoring outputs are working files only. They help future drafters ass
 
 | Reader | Start here | Why |
 |---|---|---|
+| First-time reader | `docs/public/how-to-read-this-repo.md` | Five-minute route and plain-English safeguards. |
 | Public reader | `docs/public/README.md` | Plain-English explanation of what this is and is not. |
 | Cabinet member or council leader | `docs/officer/assurance-dashboard.md` | One-page decision dashboard with blockers and safe statements. |
+| Cabinet member checking risks | `docs/officer/risk-gate-atlas.md` | Gate-by-gate risks, mitigations and next proof needed. |
 | Officer or programme manager | `docs/officer/programme-risk-briefing.md` | Programme risks, mitigations and next checks. |
 | Officer planning next work | `docs/officer/next-steps-critical-path.md` | Critical path work packages and 90-day planning controls. |
 | Evidence reviewer or drafter | `evidence/source_notes/README.md` | Source-note cohorts and claim-use limits; source-note backlog remains controlled at claim-summary level. |
@@ -83,9 +89,9 @@ Editable authoring outputs are working files only. They help future drafters ass
 | Consultation, equality or accessibility specialist | `analysis/consultation/stage-8a-consultation-readiness-control-package.md` | Launch, material, privacy, accessibility and analysis controls. |
 | Agent or technical contributor | `CODEX_MASTER_PROMPT.md` and `instructions/00-operating-model.md` | Source operating model and context discipline. |
 
-## Visual Stage Map
+## Visual Stage And Risk Maps
 
-The current workflow map is in `docs/visuals/stage-gate-map.mmd`. Stage 9A is the public/officer assurance layer. Stage 7 OBC, Stage 8 consultation launch and Stage 11 FBC/statutory gates remain blocked. Stage 10A is only a control layer for a future statutory dossier; Stage 11A is only a control layer for the final FBC/statutory gate. Stage 12A records the public repository release controls. Stage 13A records the critical-path handover controls; the critical path is not approval. Stage 14A creates a source-note pilot. Stage 14B records public-repo secret-scanning remediation after a GitGuardian detector collision. Stage 14C dry-runs the history-rewrite option. Stage 14D records the approved live history rewrite. Stage 14E records repository-side hosted-alert checks; GitGuardian disposition remains external. Stage 15A expands legal/governance source-note coverage. Stage 15B completes downloaded priority-1 source-note coverage only. Stage 16A creates current-claim-matrix claim summaries only. Stage 17A creates editable authoring guardrails only. Stage 18A strengthens Nottingham and comparator transferability controls only; no assembled OBC/FBC, statutory submission, consultation pack, officer-review DOCX, authored PDF, Bristol displacement assessment, CPZ/RPZ readiness or WPL readiness gate changes.
+The current workflow map is in `docs/visuals/stage-gate-map.mmd`. The public/cabinet risk-control map is in `docs/visuals/risk-control-atlas.mmd`. Stage 9A is the public/officer assurance layer. Stage 7 OBC, Stage 8 consultation launch and Stage 11 FBC/statutory gates remain blocked. Stage 10A is only a control layer for a future statutory dossier; Stage 11A is only a control layer for the final FBC/statutory gate. Stage 12A records the public repository release controls. Stage 13A records the critical-path handover controls; the critical path is not approval. Stage 14A creates a source-note pilot. Stage 14B records public-repo secret-scanning remediation after a GitGuardian detector collision. Stage 14C dry-runs the history-rewrite option. Stage 14D records the approved live history rewrite. Stage 14E records repository-side hosted-alert checks; GitGuardian disposition remains external. Stage 15A expands legal/governance source-note coverage. Stage 15B completes downloaded priority-1 source-note coverage only. Stage 16A creates current-claim-matrix claim summaries only. Stage 17A creates editable authoring guardrails only. Stage 18A strengthens Nottingham and comparator transferability controls only. Stage 19A adds public/cabinet comprehension controls only; no assembled OBC/FBC, statutory submission, consultation pack, officer-review DOCX, authored PDF, Bristol displacement assessment, CPZ/RPZ readiness or WPL readiness gate changes.
 
 ```mermaid
 flowchart LR
@@ -114,6 +120,7 @@ flowchart LR
     S15B --> S16A["Stage 16A<br/>Claim-summary controls"]
     S16A --> S17A["Stage 17A<br/>Editable authoring guardrails"]
     S17A --> S18A["Stage 18A<br/>Nottingham transferability controls"]
+    S18A --> S19A["Stage 19A<br/>Public/cabinet comprehension controls"]
 ```
 
 ## Stage 9A Status
@@ -205,6 +212,7 @@ Current gate reports live under `review/stage_gate_reports/`. Key current report
 - `review/stage_gate_reports/stage-16a-claim-summary-control-report.md`
 - `review/stage_gate_reports/stage-17a-editable-document-assembly-report.md`
 - `review/stage_gate_reports/stage-18a-nottingham-displacement-transferability-report.md`
+- `review/stage_gate_reports/stage-19a-public-cabinet-comprehension-report.md`
 
 ## Context Discipline
 
@@ -242,6 +250,7 @@ make public-release-qa
 make handover-qa
 make source-notes-qa
 make secrets-qa
+make comprehension-qa
 make red-team
 python3 scripts/acquire_sources.py --priority 1_must
 python3 scripts/extract_sources.py
