@@ -24,10 +24,12 @@ OPEN_STATUSES = {
 
 REQUIRED_README_IDS = {
     "ISS-0041",
+    "ISS-0042",
     "EG-0059",
+    "EG-0060",
 }
 
-REQUIRED_DASHBOARD_IDS = REQUIRED_README_IDS | {"RISK-0044"}
+REQUIRED_DASHBOARD_IDS = REQUIRED_README_IDS | {"RISK-0044", "RISK-0045"}
 
 REQUIRED_PUBLIC_PHRASES = {
     "README.md": [
@@ -43,6 +45,10 @@ REQUIRED_PUBLIC_PHRASES = {
         "validation evidence log for Stage 30A",
         "ISS-0041",
         "EG-0059",
+        "Stage 32A",
+        "WECA OBC/FBC exemplar corpus",
+        "ISS-0042",
+        "EG-0060",
     ],
     "docs/officer/assurance-dashboard.md": [
         "Validation evidence coverage",
@@ -60,6 +66,9 @@ REQUIRED_PUBLIC_PHRASES = {
         "Stage 30A validation evidence logging",
         "Stage 31A records validation evidence for Stage 30A.",
         "scripts/validate_validation_evidence_log.py",
+        "WECA-style simulated OBC",
+        "Stage 32A records a WECA-style exemplar corpus",
+        "scripts/validate_obc.py",
     ],
     "docs/stages/README.md": [
         "Stage 27A",
@@ -72,6 +81,8 @@ REQUIRED_PUBLIC_PHRASES = {
         "validation coverage for Stage 29A",
         "Stage 31A",
         "validation evidence log for Stage 30A",
+        "Stage 32A",
+        "WECA OBC/FBC exemplar corpus",
     ],
     "docs/visuals/stage-gate-map.mmd": [
         "Stage 29A",
@@ -80,6 +91,8 @@ REQUIRED_PUBLIC_PHRASES = {
         "Validation coverage for Stage 29A",
         "Stage 31A",
         "Validation evidence log for Stage 30A",
+        "Stage 32A",
+        "WECA-style WPL OBC simulation",
     ],
     "docs/visuals/risk-control-atlas.mmd": [
         "Subagent context-control hardening",
@@ -88,6 +101,8 @@ REQUIRED_PUBLIC_PHRASES = {
         "ISS-0040 EG-0058 RISK-0043",
         "Stage 30A validation evidence log",
         "ISS-0041 EG-0059 RISK-0044",
+        "Stage 32A: WECA-style WPL OBC simulation",
+        "ISS-0042 EG-0060 RISK-0045",
     ],
 }
 
@@ -233,6 +248,15 @@ def check_latest_stage_register_rows() -> list[str]:
         ("governance/decision_log.csv", "decision_id", "DEC-0045"),
         ("governance/approvals_register.csv", "approval_id", "APP-0050"),
         ("governance/simulation_signoff_register.csv", "signoff_id", "SSO-0111"),
+        ("governance/issues_register.csv", "issue_id", "ISS-0042"),
+        ("governance/risk_register.csv", "risk_id", "RISK-0045"),
+        ("governance/pitfalls_register.csv", "pitfall_id", "PIT-0039"),
+        ("evidence/evidence_gap_register.csv", "gap_id", "EG-0060"),
+        ("governance/requirements_register.csv", "requirement_id", "REQ-0053"),
+        ("governance/checks_and_balances_register.csv", "control_id", "CB-0039"),
+        ("governance/decision_log.csv", "decision_id", "DEC-0046"),
+        ("governance/approvals_register.csv", "approval_id", "APP-0051"),
+        ("governance/simulation_signoff_register.csv", "signoff_id", "SSO-0113"),
     ]
     errors: list[str] = []
     for rel, column, row_id in expected:

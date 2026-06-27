@@ -14,10 +14,10 @@ This is a simulation repository. It records controls, gaps and risks. It does no
 
 | Item | Current position |
 |---|---|
-| Last completed stage | Stage 31A: validation evidence log for Stage 30A. |
-| What Stage 31A controls | It records Stage 30A validation command evidence in the validation register and `evidence/validation/stage-30a-validation-run-log.md`, including the repository-state caveat and no-overclaim wording. |
-| What Stage 31A cannot do | It does not prove command sufficiency, command authenticity, future agent compliance, evidence truth, source currentness, legal correctness, professional review, blocker completeness, risk adequacy or WPL readiness. |
-| Main live blockers | `ISS-0001`, `ISS-0002`, `ISS-0003`, `ISS-0004`, `ISS-0005`, `ISS-0008`, `ISS-0011`, `ISS-0012`, `ISS-0015`, `ISS-0016`, `ISS-0025`, `ISS-0026`, `ISS-0027`, `ISS-0028`, `ISS-0029`, `ISS-0030`, `ISS-0031`, `ISS-0032`, `ISS-0033`, `ISS-0034`, `ISS-0035`, `ISS-0036`, `ISS-0037`, `ISS-0038`, `ISS-0039`, `ISS-0040`, `ISS-0041`, `EG-0008`, `EG-0014`, `EG-0045`, `EG-0046`, `EG-0047`, `EG-0048`, `EG-0049`, `EG-0050`, `EG-0051`, `EG-0052`, `EG-0053`, `EG-0054`, `EG-0055`, `EG-0056`, `EG-0057`, `EG-0058`, `EG-0059`. |
+| Last completed stage | Stage 32A: WECA OBC/FBC exemplar corpus and simulated WPL OBC draft. |
+| What Stage 32A controls | It creates a WPL-focused simulated OBC working draft in WECA-style Five Case Model form, backed by a WECA exemplar corpus, source notes, subagent reviews, no-go claims and validation controls. |
+| What Stage 32A cannot do | It does not create a real Bristol OBC, WECA/MCA endorsement, officer advice, procurement authority, consultation readiness, statutory readiness, professional assurance or WPL readiness. |
+| Main live blockers | `ISS-0001`, `ISS-0002`, `ISS-0003`, `ISS-0004`, `ISS-0005`, `ISS-0008`, `ISS-0011`, `ISS-0012`, `ISS-0015`, `ISS-0016`, `ISS-0025`, `ISS-0026`, `ISS-0027`, `ISS-0028`, `ISS-0029`, `ISS-0030`, `ISS-0031`, `ISS-0032`, `ISS-0033`, `ISS-0034`, `ISS-0035`, `ISS-0036`, `ISS-0037`, `ISS-0038`, `ISS-0039`, `ISS-0040`, `ISS-0041`, `ISS-0042`, `EG-0008`, `EG-0014`, `EG-0045`, `EG-0046`, `EG-0047`, `EG-0048`, `EG-0049`, `EG-0050`, `EG-0051`, `EG-0052`, `EG-0053`, `EG-0054`, `EG-0055`, `EG-0056`, `EG-0057`, `EG-0058`, `EG-0059`, `EG-0060`. |
 
 ## Current No-Go Position
 
@@ -43,6 +43,7 @@ The blockers are not cosmetic:
 - Stage 29A subagent context-control hardening is explanatory only. Stage 29A does not prove future agents obey instructions, prompt fidelity, actual context isolation, reasoning quality, evidence truth, legal correctness, professional assurance, substantive gate correctness or WPL readiness.
 - Stage 30A validation coverage for Stage 29A is explanatory only. It checks recorded Stage 29A validation evidence coverage, including the `6a69ec0+working-tree` limitation, but does not prove command sufficiency, command authenticity, future agent compliance, prompt fidelity, actual context isolation, reasoning quality, evidence truth, legal correctness, professional assurance, substantive gate correctness or WPL readiness.
 - Stage 31A validation evidence logging for Stage 30A is explanatory only. It records command-run evidence, including the `d955732+working-tree` limitation and final Stage 30A commit `639f738`, but does not prove command sufficiency, command authenticity, future agent compliance, evidence truth, source currentness, legal correctness, professional assurance, substantive gate correctness or WPL readiness.
+- Stage 32A WECA-style OBC drafting is explanatory only. It creates a professional WPL OBC-shaped working draft and comparator corpus, but it does not create a real OBC, WECA/MCA endorsement, officer advice, procurement authority, consultation readiness, statutory readiness, professional assurance or WPL readiness.
 
 ## Risk Recording
 
@@ -91,10 +92,12 @@ Editable authoring outputs are working files only. They help future drafters ass
 | Agent/context-control QA maintainer | `scripts/validate_subagent_context_control.py` | Checks Stage 29A bounded-context instructions and template wording; does not prove future agents obey instructions. |
 | Stage 29A validation coverage reviewer | `review/stage_gate_reports/stage-30a-validation-coverage-for-stage-29a-report.md` | Stage 30A lagged coverage report for Stage 29A validation rows and log. |
 | Stage 30A validation evidence reviewer | `evidence/validation/stage-30a-validation-run-log.md` | Stage 31A validation evidence log for Stage 30A command-run evidence. |
+| WECA-style simulated OBC reader | `business_case/obc/simulated-working-draft/bristol-wpl-simulated-weca-style-obc.md` | Full editable Stage 32A WPL-focused OBC working draft; simulation-only and not for reliance. |
+| WECA OBC/FBC exemplar reviewer | `analysis/weca-obc-fbc-exemplars/stage-32a-weca-obc-fbc-exemplar-corpus.md` | Source hierarchy, comparator matrix and drafting standard for WECA-style OBC discipline. |
 | Register integrity reviewer | `scripts/validate_register_references.py` | Cross-register ID and selected control-path integrity checks. |
 | Dashboard consistency reviewer | `scripts/validate_dashboard_consistency.py` | README and officer-dashboard blocker surfacing checks. |
 | Stage-gate report reviewer | `scripts/validate_stage_gate_reports.py` | Recent gate-report structure and validation-command reference checks. |
-| Latest gate report | `review/stage_gate_reports/stage-31a-validation-evidence-log-for-stage-30a-report.md` | Stage 31A validation evidence log for Stage 30A gate report. |
+| Latest gate report | `review/stage_gate_reports/stage-32a-weca-obc-fbc-exemplar-corpus-report.md` | Stage 32A WECA-style simulated OBC gate report. |
 | Validation evidence reviewer | `evidence/validation/README.md` | Command-run evidence logs and their process-only limits. |
 | Validation evidence QA maintainer | `scripts/validate_validation_evidence_log.py` | Validation-log structure, command-row and scope-limit checks, including Stage 30A validation evidence. |
 | Validation coverage QA maintainer | `scripts/validate_validation_coverage.py` | Lagged validation evidence coverage checks for Stage 26A and Stage 29A. |
@@ -116,7 +119,7 @@ Editable authoring outputs are working files only. They help future drafters ass
 
 ## Visual Stage And Risk Maps
 
-The current workflow map is in `docs/visuals/stage-gate-map.mmd`. The public/cabinet risk-control map is in `docs/visuals/risk-control-atlas.mmd`. Stage 9A is the public/officer assurance layer. Stage 7 OBC, Stage 8 consultation launch and Stage 11 FBC/statutory gates remain blocked. Stage 10A is only a control layer for a future statutory dossier; Stage 11A is only a control layer for the final FBC/statutory gate. Stage 12A records the public repository release controls. Stage 13A records the critical-path handover controls; the critical path is not approval. Stage 14A creates a source-note pilot. Stage 14B records public-repo secret-scanning remediation after a GitGuardian detector collision. Stage 14C dry-runs the history-rewrite option. Stage 14D records the approved live history rewrite. Stage 14E records repository-side hosted-alert checks; GitGuardian disposition remains external. Stage 15A expands legal/governance source-note coverage. Stage 15B completes downloaded priority-1 source-note coverage only. Stage 16A creates current-claim-matrix claim summaries only. Stage 17A creates editable authoring guardrails only. Stage 18A strengthens Nottingham and comparator transferability controls only. Stage 19A adds public/cabinet comprehension controls only. Stage 20A adds static visual/accessibility QA controls only. Stage 21A adds repo-local link and navigation integrity controls only. Stage 22A exposes source-link/freshness navigation only. Stage 23A validates scoped register-ID and control-path references only. Stage 24A validates dashboard blocker surfacing only. Stage 25A validates recent stage-gate report structure only. Stage 26A records validation evidence logs only. Stage 27A checks lag-one validation coverage for Stage 26A only. Stage 28A validates selected Bristol live public-source coverage only. Stage 29A validates instruction/template presence for bounded subagent context control only. Stage 30A validates lagged coverage of Stage 29A validation evidence only. Stage 31A records Stage 30A validation evidence only; it does not prove command sufficiency, command authenticity, evidence truth, legal correctness, professional assurance, substantive gate correctness or WPL readiness.
+The current workflow map is in `docs/visuals/stage-gate-map.mmd`. The public/cabinet risk-control map is in `docs/visuals/risk-control-atlas.mmd`. Stage 9A is the public/officer assurance layer. Stage 7 OBC, Stage 8 consultation launch and Stage 11 FBC/statutory gates remain blocked. Stage 10A is only a control layer for a future statutory dossier; Stage 11A is only a control layer for the final FBC/statutory gate. Stage 12A records the public repository release controls. Stage 13A records the critical-path handover controls; the critical path is not approval. Stage 14A creates a source-note pilot. Stage 14B records public-repo secret-scanning remediation after a GitGuardian detector collision. Stage 14C dry-runs the history-rewrite option. Stage 14D records the approved live history rewrite. Stage 14E records repository-side hosted-alert checks; GitGuardian disposition remains external. Stage 15A expands legal/governance source-note coverage. Stage 15B completes downloaded priority-1 source-note coverage only. Stage 16A creates current-claim-matrix claim summaries only. Stage 17A creates editable authoring guardrails only. Stage 18A strengthens Nottingham and comparator transferability controls only. Stage 19A adds public/cabinet comprehension controls only. Stage 20A adds static visual/accessibility QA controls only. Stage 21A adds repo-local link and navigation integrity controls only. Stage 22A exposes source-link/freshness navigation only. Stage 23A validates scoped register-ID and control-path references only. Stage 24A validates dashboard blocker surfacing only. Stage 25A validates recent stage-gate report structure only. Stage 26A records validation evidence logs only. Stage 27A checks lag-one validation coverage for Stage 26A only. Stage 28A validates selected Bristol live public-source coverage only. Stage 29A validates instruction/template presence for bounded subagent context control only. Stage 30A validates lagged coverage of Stage 29A validation evidence only. Stage 31A records Stage 30A validation evidence only. Stage 32A creates a WECA-style WPL OBC simulation only; it does not prove evidence truth, legal correctness, professional assurance, substantive gate correctness or WPL readiness.
 
 ```mermaid
 flowchart LR
@@ -158,6 +161,7 @@ flowchart LR
     S28A --> S29A["Stage 29A<br/>Subagent context-control hardening"]
     S29A --> S30A["Stage 30A<br/>Validation coverage for Stage 29A"]
     S30A --> S31A["Stage 31A<br/>Validation evidence log for Stage 30A"]
+    S31A --> S32A["Stage 32A<br/>WECA-style WPL OBC simulation"]
 ```
 
 ## Stage 9A Status
@@ -220,6 +224,7 @@ The stage-by-stage workflow narrative is maintained in `docs/stages/`:
 - `docs/stages/stage-29a-subagent-context-control-hardening.md`
 - `docs/stages/stage-30a-validation-coverage-for-stage-29a.md`
 - `docs/stages/stage-31a-validation-evidence-log-for-stage-30a.md`
+- `docs/stages/stage-32a-weca-obc-fbc-exemplar-corpus.md`
 
 Each completed stage package should be committed and pushed before the next stage begins. Detailed discoveries, data points and unresolved issues live in the stage docs and controlled registers.
 
@@ -227,13 +232,14 @@ Each completed stage package should be committed and pushed before the next stag
 
 - `evidence/source_register.csv` contains 111 rows.
 - `evidence/external_source_liveness_register.csv` records a Stage 22A priority-1 URL reachability snapshot: 91 checked, 89 directly reachable and 2 reachable via redirect. It is metadata only and does not prove source truth or readiness.
-- 91 sources are downloaded and tracked in the current public tree.
+- 93 sources are downloaded and tracked in the current public tree.
 - 3 public Bristol committee-pack PDFs were downloaded and extracted but their raw binaries are now omitted from the public GitHub tree after a GitGuardian legacy Grafana/Power BI detector collision: `SRC-BCC-0005`, `SRC-BCC-0011` and `SRC-BCC-0015`.
-- 16 sources remain seeded but not downloaded.
+- 14 sources remain seeded but not downloaded.
 - 1 source acquisition failed: `SRC-ACADEMIC-0001`.
-- `evidence/extraction_manifest.csv` is the current extraction state: 91 extracted, 2 extracted with raw PDFs omitted from the public repo, 1 extracted with redacted text and raw PDF omitted, 16 skipped because not downloaded and 1 skipped because acquisition failed.
+- `evidence/extraction_manifest.csv` is the current extraction state: 93 extracted, 2 extracted with raw PDFs omitted from the public repo, 1 extracted with redacted text and raw PDF omitted, 14 skipped because not downloaded and 1 skipped because acquisition failed.
 - `evidence/extraction_log.csv` is the append-only extraction audit log.
-- `evidence/source_notes/source-note-coverage-register.csv` now tracks 91 controlled source notes: 13 Stage 14A pilot notes, 42 Stage 15A legal/governance expansion notes and 36 Stage 15B acquired-priority completion notes. Current claim-matrix summaries are controlled in the Stage 16A claim-level source-summary layer; future drafting-specific summaries remain open under `EG-0045`.
+- `evidence/source_notes/source-note-coverage-register.csv` now tracks 93 controlled source notes: 13 Stage 14A pilot notes, 42 Stage 15A legal/governance expansion notes, 36 Stage 15B acquired-priority completion notes and 2 Stage 32A WECA exemplar notes. Current claim-matrix summaries are controlled in the Stage 16A claim-level source-summary layer; future drafting-specific summaries remain open under `EG-0045`.
+- `analysis/weca-obc-fbc-exemplars/` records the Stage 32A WECA exemplar corpus and the authoring standard for the simulated WPL OBC. It is style and source-hierarchy control only.
 - `evidence/claim_summaries/claim-summary-register.csv` now tracks 38 Stage 16A claim summaries for current claim-matrix rows. Future drafting-specific claim summaries remain open under `EG-0045`.
 - `evidence/validation/validation-run-register.csv` records bounded command-run evidence rows for validation checks. It is process evidence only and does not prove evidence truth or WPL readiness.
 - `evidence/validation/stage-26a-validation-run-log.md` records Stage 26A validation evidence and is checked by Stage 27A coverage controls. It is not raw transcript proof or readiness assurance.
@@ -282,6 +288,7 @@ Current gate reports live under `review/stage_gate_reports/`. Key current report
 - `review/stage_gate_reports/stage-29a-subagent-context-control-hardening-report.md`
 - `review/stage_gate_reports/stage-30a-validation-coverage-for-stage-29a-report.md`
 - `review/stage_gate_reports/stage-31a-validation-evidence-log-for-stage-30a-report.md`
+- `review/stage_gate_reports/stage-32a-weca-obc-fbc-exemplar-corpus-report.md`
 
 ## Context Discipline
 

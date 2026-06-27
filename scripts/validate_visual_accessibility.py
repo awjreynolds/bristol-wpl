@@ -76,6 +76,8 @@ REQUIRED_MERMAID_PHRASES = {
         "Validation coverage for Stage 29A",
         "Stage 31A",
         "Validation evidence log for Stage 30A",
+        "Stage 32A",
+        "WECA-style WPL OBC simulation",
     ],
     "docs/visuals/risk-control-atlas.mmd": [
         "flowchart",
@@ -94,6 +96,7 @@ REQUIRED_MERMAID_PHRASES = {
         "Subagent context-control hardening",
         "Stage 29A validation coverage",
         "Stage 30A validation evidence log",
+        "Stage 32A: WECA-style WPL OBC simulation",
         "Legend",
     ],
 }

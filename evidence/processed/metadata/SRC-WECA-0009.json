@@ -1,0 +1,12 @@
+{
+  "characters": 155657,
+  "extracted_date": "2026-06-27",
+  "method": "pdftotext-layout",
+  "output_path": "evidence/processed/text/SRC-WECA-0009.txt",
+  "sha256": "f8fc64d30c8253ac1831c6c64f4ef78f3f6b5ee846d9a916a90607569e98e1b0",
+  "source_id": "SRC-WECA-0009",
+  "source_path": "evidence/raw/west-of-england-mca/src-weca-0009_bristol-bridge-signals-junction-car-park-vms-project-business-case-2022-09-29.pdf",
+  "source_status": "downloaded",
+  "title": "Bristol Bridge Signals Junction and Car Park VMS Project business case",
+  "url": "https://www.westofengland-ca.gov.uk/wp-content/uploads/2022/09/Bristol-Bridge-Signals-Junction-and-Car-Park-VMS-Project-bsuiness-case.pdf"
+}

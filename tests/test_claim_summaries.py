@@ -32,7 +32,7 @@ class ClaimSummaryControlTest(unittest.TestCase):
         ) as handle:
             summaries = {row["claim_id"] for row in csv.DictReader(handle)}
 
-        expected = {f"CLM-{number:04d}" for number in range(1, 39)}
+        expected = {f"CLM-{number:04d}" for number in range(1, 40)}
         self.assertEqual(claims, expected)
         self.assertEqual(summaries, expected)
 

@@ -49,6 +49,8 @@ Officer-facing material should remain editable Markdown, CSV, XLSX, DOCX or HTML
 | I need to check Stage 29A subagent context-control wording. | `scripts/validate_subagent_context_control.py` |
 | I need to know whether Stage 29A validation evidence coverage is present. | `review/stage_gate_reports/stage-30a-validation-coverage-for-stage-29a-report.md` |
 | I need to inspect Stage 30A validation command evidence. | `evidence/validation/stage-30a-validation-run-log.md` |
+| I need to inspect the Stage 32A simulated OBC working draft. | `business_case/obc/simulated-working-draft/bristol-wpl-simulated-weca-style-obc.md` |
+| I need the WECA OBC/FBC exemplar corpus behind Stage 32A. | `analysis/weca-obc-fbc-exemplars/stage-32a-weca-obc-fbc-exemplar-corpus.md` |
 
 The visual fallback route is `docs/visuals/visual-accessibility-qa-register.csv`; it is a static source-control route, not rendered accessibility assurance.
 
@@ -56,3 +58,4 @@ Stage 28A Bristol live public-source coverage does not prove source truth, curre
 Stage 29A subagent context-control hardening does not prove future agents obey instructions, evidence truth, legal correctness, professional assurance, substantive gate correctness or WPL readiness.
 Stage 30A validation coverage for Stage 29A does not prove command sufficiency, command authenticity, future agent compliance, evidence truth, legal correctness, professional assurance, substantive gate correctness or WPL readiness.
 Stage 31A validation evidence logging for Stage 30A does not prove command sufficiency, command authenticity, evidence truth, source currentness, legal correctness, professional assurance, substantive gate correctness or WPL readiness.
+Stage 32A WECA-style OBC simulation does not prove real OBC status, WECA/MCA endorsement, procurement authority, consultation readiness, statutory readiness, professional assurance or WPL readiness.

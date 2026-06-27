@@ -48,6 +48,9 @@ REQUIRED_NAV_REFERENCES = {
         "review/stage_gate_reports/stage-29a-subagent-context-control-hardening-report.md",
         "review/stage_gate_reports/stage-30a-validation-coverage-for-stage-29a-report.md",
         "review/stage_gate_reports/stage-31a-validation-evidence-log-for-stage-30a-report.md",
+        "review/stage_gate_reports/stage-32a-weca-obc-fbc-exemplar-corpus-report.md",
+        "business_case/obc/simulated-working-draft/bristol-wpl-simulated-weca-style-obc.md",
+        "analysis/weca-obc-fbc-exemplars/stage-32a-weca-obc-fbc-exemplar-corpus.md",
     ],
     "docs/public/README.md": [
         "docs/public/how-to-read-this-repo.md",
@@ -90,6 +93,8 @@ REQUIRED_NAV_REFERENCES = {
         "review/stage_gate_reports/stage-30a-validation-coverage-for-stage-29a-report.md",
         "stage-31a-validation-evidence-log-for-stage-30a.md",
         "review/stage_gate_reports/stage-31a-validation-evidence-log-for-stage-30a-report.md",
+        "stage-32a-weca-obc-fbc-exemplar-corpus.md",
+        "review/stage_gate_reports/stage-32a-weca-obc-fbc-exemplar-corpus-report.md",
     ],
 }
 
@@ -108,6 +113,7 @@ REQUIRED_STAGE_REPORTS = [
     "review/stage_gate_reports/stage-29a-subagent-context-control-hardening-report.md",
     "review/stage_gate_reports/stage-30a-validation-coverage-for-stage-29a-report.md",
     "review/stage_gate_reports/stage-31a-validation-evidence-log-for-stage-30a-report.md",
+    "review/stage_gate_reports/stage-32a-weca-obc-fbc-exemplar-corpus-report.md",
 ]
 
 LINK_PATTERN = re.compile(r"\[[^\]]+\]\(([^)]+)\)")
@@ -195,10 +201,10 @@ def check_required_nav_references() -> list[str]:
 def check_latest_stage_alignment() -> list[str]:
     errors = []
     expectations = {
-        "README.md": "Stage 31A",
-        "docs/stages/README.md": "Stage 31A",
-        "docs/visuals/stage-gate-map.mmd": "Stage 31A",
-        "docs/visuals/risk-control-atlas.mmd": "Stage 30A validation evidence log",
+        "README.md": "Stage 32A",
+        "docs/stages/README.md": "Stage 32A",
+        "docs/visuals/stage-gate-map.mmd": "Stage 32A",
+        "docs/visuals/risk-control-atlas.mmd": "Stage 32A: WECA-style WPL OBC simulation",
     }
     for rel, phrase in expectations.items():
         path = ROOT / rel

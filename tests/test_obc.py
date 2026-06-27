@@ -6,6 +6,7 @@ import csv
 
 from scripts.validate_obc import (
     OBC_SECTION_FILES,
+    STAGE_32A_STATUS_PHRASE,
     check_positive_claims,
     check_obc_output_roots_empty,
     collect_readiness_blockers,
@@ -27,6 +28,14 @@ class ObcControlTest(unittest.TestCase):
         )
         self.assertEqual(result.returncode, 0, result.stderr)
         self.assertIn("OBC assembly remains blocked", result.stdout)
+
+    def test_stage32a_simulated_obc_draft_is_allowed_only_with_status_formula(self):
+        draft = ROOT / "business_case/obc/simulated-working-draft/bristol-wpl-simulated-weca-style-obc.md"
+        self.assertTrue(draft.exists())
+        text = draft.read_text(encoding="utf-8")
+        self.assertIn(STAGE_32A_STATUS_PHRASE, text)
+        self.assertIn("Stage 7 OBC gate remains blocked", text)
+        self.assertIn("not for real-world reliance", text)
 
     def test_assemble_obc_blocks_output(self):
         result = subprocess.run(
@@ -118,6 +127,11 @@ class ObcControlTest(unittest.TestCase):
             "boundary is decision grade": "boundary decision-grade claim",
             "charge-base is decision-grade": "charge-base decision-grade claim",
             "revenue is decision grade": "revenue decision-grade claim",
+            "recommend proceed to consultation": "recommend proceed",
+            "approve the OBC for submission": "approve the OBC",
+            "launch consultation": "launch consultation",
+            "submit the OBC": "submit the OBC",
+            "WECA-ready": "WECA-ready",
         }
         for text, expected in samples.items():
             with self.subTest(text=text):

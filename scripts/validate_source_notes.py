@@ -107,7 +107,12 @@ STAGE_15B_SOURCE_IDS = {
     "SRC-DFT-0004",
 }
 
-REQUIRED_SOURCE_IDS = CORE_SOURCE_IDS | STAGE_15A_SOURCE_IDS | STAGE_15B_SOURCE_IDS
+STAGE_32A_SOURCE_IDS = {
+    "SRC-WECA-0008",
+    "SRC-WECA-0009",
+}
+
+REQUIRED_SOURCE_IDS = CORE_SOURCE_IDS | STAGE_15A_SOURCE_IDS | STAGE_15B_SOURCE_IDS | STAGE_32A_SOURCE_IDS
 
 REQUIRED_FILES = [
     "analysis/evidence/stage-14a-source-note-control-package.md",
@@ -272,6 +277,8 @@ def expected_status(source_id: str) -> str | None:
         return "stage_15a_note_created"
     if source_id in STAGE_15B_SOURCE_IDS:
         return "stage_15b_note_created"
+    if source_id in STAGE_32A_SOURCE_IDS:
+        return "stage_32a_note_created"
     return None
 
 
@@ -282,6 +289,8 @@ def expected_stage(source_id: str) -> str | None:
         return "Stage 15A"
     if source_id in STAGE_15B_SOURCE_IDS:
         return "Stage 15B"
+    if source_id in STAGE_32A_SOURCE_IDS:
+        return "Stage 32A"
     return None
 
 
@@ -292,6 +301,8 @@ def expected_note_dir(source_id: str) -> str | None:
         return "evidence/source_notes/expanded/"
     if source_id in STAGE_15B_SOURCE_IDS:
         return "evidence/source_notes/stage15b/"
+    if source_id in STAGE_32A_SOURCE_IDS:
+        return "evidence/source_notes/stage32a/"
     return None
 
 
@@ -403,7 +414,7 @@ def check_coverage_register() -> list[str]:
                 required = "raw PDF is deliberately omitted from the public repository"
                 if required not in note_text:
                     errors.append(f"{note_path} missing raw-omitted public repo control wording")
-        if source_id in STAGE_15A_SOURCE_IDS | STAGE_15B_SOURCE_IDS:
+        if source_id in STAGE_15A_SOURCE_IDS | STAGE_15B_SOURCE_IDS | STAGE_32A_SOURCE_IDS:
             manifest = manifest_rows.get(source_id)
             if not manifest:
                 errors.append(f"evidence/extraction_manifest.csv missing {source_id}")

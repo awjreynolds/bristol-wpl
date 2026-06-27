@@ -5,7 +5,7 @@ Date: 2026-06-26.
 
 ## What This Stage Does
 
-Stage 16A creates editable claim summaries for the 38 existing `CLM-0001` to `CLM-0038` rows in `evidence/claim_evidence_matrix.csv`.
+Stage 16A creates editable claim summaries for the original 38 `CLM-0001` to `CLM-0038` rows in `evidence/claim_evidence_matrix.csv`. Stage 32A extends the same control layer with `CLM-0039`.
 
 Each summary records the claim text, source IDs, source locations or evidence basis, reviewer, review status, last verified date, evidence limits and no-go wording. This gives future drafters a compact way to check what an existing claim can and cannot support without loading the whole evidence base.
 

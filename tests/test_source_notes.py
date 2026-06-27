@@ -106,6 +106,11 @@ STAGE_15B_SOURCE_IDS = {
     "SRC-DFT-0004",
 }
 
+STAGE_32A_SOURCE_IDS = {
+    "SRC-WECA-0008",
+    "SRC-WECA-0009",
+}
+
 
 class SourceNoteControlTest(unittest.TestCase):
     def test_source_note_validator_passes(self):
@@ -135,8 +140,12 @@ class SourceNoteControlTest(unittest.TestCase):
         expanded_15b = {
             row["source_id"] for row in rows if row["note_status"] == "stage_15b_note_created"
         }
+        expanded_32a = {
+            row["source_id"] for row in rows if row["note_status"] == "stage_32a_note_created"
+        }
         self.assertTrue(STAGE_15A_SOURCE_IDS <= expanded_15a)
         self.assertTrue(STAGE_15B_SOURCE_IDS <= expanded_15b)
+        self.assertTrue(STAGE_32A_SOURCE_IDS <= expanded_32a)
         for row in rows:
             if row["source_id"] in CORE_SOURCE_IDS:
                 self.assertEqual(row["coverage_stage"], "Stage 14A")
@@ -147,6 +156,9 @@ class SourceNoteControlTest(unittest.TestCase):
             if row["source_id"] in STAGE_15B_SOURCE_IDS:
                 self.assertEqual(row["coverage_stage"], "Stage 15B")
                 self.assertTrue(row["note_path"].startswith("evidence/source_notes/stage15b/"))
+            if row["source_id"] in STAGE_32A_SOURCE_IDS:
+                self.assertEqual(row["coverage_stage"], "Stage 32A")
+                self.assertTrue(row["note_path"].startswith("evidence/source_notes/stage32a/"))
 
     def test_core_source_notes_are_editable_and_bound_claims(self):
         note_paths = [
@@ -160,6 +172,10 @@ class SourceNoteControlTest(unittest.TestCase):
         note_paths.extend(
             ROOT / "evidence/source_notes/stage15b" / f"{source_id.lower()}.md"
             for source_id in STAGE_15B_SOURCE_IDS
+        )
+        note_paths.extend(
+            ROOT / "evidence/source_notes/stage32a" / f"{source_id.lower()}.md"
+            for source_id in STAGE_32A_SOURCE_IDS
         )
         for path in note_paths:
             text = path.read_text(encoding="utf-8")
@@ -206,7 +222,7 @@ class SourceNoteControlTest(unittest.TestCase):
         ) as handle:
             manifest = {row["source_id"]: row for row in csv.DictReader(handle)}
 
-        for source_id in STAGE_15A_SOURCE_IDS | STAGE_15B_SOURCE_IDS:
+        for source_id in STAGE_15A_SOURCE_IDS | STAGE_15B_SOURCE_IDS | STAGE_32A_SOURCE_IDS:
             self.assertIn(source_id, manifest)
             self.assertTrue(manifest[source_id]["status"].startswith("extracted"))
             self.assertEqual(manifest[source_id]["quality"], "usable")

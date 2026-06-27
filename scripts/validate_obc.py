@@ -12,11 +12,17 @@ ROOT = Path(__file__).resolve().parents[1]
 
 REQUIRED_FILES = [
     "analysis/obc/stage-6a-obc-readiness-control-package.md",
+    "analysis/context/stage-32a-weca-obc-fbc-exemplar-corpus/stage-context.md",
+    "analysis/weca-obc-fbc-exemplars/stage-32a-weca-obc-fbc-exemplar-corpus.md",
+    "analysis/weca-obc-fbc-exemplars/exemplar-register.csv",
+    "analysis/weca-obc-fbc-exemplars/comparator-matrix.csv",
+    "analysis/weca-obc-fbc-exemplars/weca-style-obc-authoring-standard.md",
     "business_case/obc/controls/section-dependency-matrix.csv",
     "business_case/obc/controls/section-readiness-register.csv",
     "business_case/obc/controls/section-claim-dependency-register.csv",
     "business_case/obc/controls/no-go-claim-register.csv",
     "business_case/obc/controls/obc-assurance-review-plan.md",
+    "business_case/obc/simulated-working-draft/bristol-wpl-simulated-weca-style-obc.md",
     "business_case/shared/assembly_manifest.md",
     "scripts/assemble_obc.py",
 ]
@@ -73,6 +79,26 @@ CSV_HEADERS = {
         "source_gate",
         "gate_effect",
     ],
+    "analysis/weca-obc-fbc-exemplars/exemplar-register.csv": [
+        "exemplar_id",
+        "source_id",
+        "exemplar_category",
+        "project_or_document",
+        "source_status",
+        "local_reference",
+        "pattern_supported",
+        "stage32_use",
+        "claim_limit",
+        "risk_control",
+    ],
+    "analysis/weca-obc-fbc-exemplars/comparator-matrix.csv": [
+        "pattern_id",
+        "pattern_area",
+        "weca_example_evidence",
+        "bristol_wpl_application",
+        "required_control",
+        "no_go_limit",
+    ],
 }
 
 OBC_SECTION_FILES = [
@@ -86,10 +112,21 @@ OBC_SECTION_FILES = [
     "business_case/obc/07-conclusions-and-decisions/recommendations.md",
 ]
 
+STAGE_32A_OBC_FILES = [
+    *OBC_SECTION_FILES,
+    "business_case/obc/simulated-working-draft/bristol-wpl-simulated-weca-style-obc.md",
+]
+
 OBC_OUTPUT_ROOTS = [
     "business_case/obc/assembled",
     "deliverables/review/docx",
 ]
+
+STAGE_32A_STATUS_PHRASE = (
+    "Stage 32A simulated WECA-style OBC working draft. Not an approved Bristol OBC, "
+    "not officer advice, not a consultation document, not WECA/MCA/DfT endorsed, "
+    "not Secretary of State confirmed and not for real-world reliance."
+)
 
 REQUIRED_PHRASES = {
     "analysis/obc/stage-6a-obc-readiness-control-package.md": [
@@ -100,6 +137,22 @@ REQUIRED_PHRASES = {
     "business_case/shared/assembly_manifest.md": [
         "Stage 6A creates OBC readiness and assembly-blocking controls only",
         "No assembled OBC or FBC should be generated",
+    ],
+    "analysis/weca-obc-fbc-exemplars/weca-style-obc-authoring-standard.md": [
+        STAGE_32A_STATUS_PHRASE,
+        "Every material paragraph must be one of",
+        "WECA/MCA Trigger Tags",
+        "Do not",
+    ],
+    "analysis/weca-obc-fbc-exemplars/stage-32a-weca-obc-fbc-exemplar-corpus.md": [
+        "full downloaded WECA source documents",
+        "does not support any claim that Bristol WPL has a real OBC",
+        "Stage 32A Gate Effect",
+    ],
+    "analysis/context/stage-32a-weca-obc-fbc-exemplar-corpus/stage-context.md": [
+        "Stage 32A promotes WECA-facing OBC/FBC examples",
+        "simulation-only",
+        "not impersonate an approved Bristol City Council, WECA/MCA, DfT or Secretary of State document",
     ],
 }
 
@@ -112,6 +165,12 @@ FORBIDDEN_POSITIVE_CLAIMS = [
     "WECA supports",
     "DfT has accepted",
     "statutory submission is ready",
+    "recommend proceed",
+    "approve the OBC",
+    "launch consultation",
+    "submit the OBC",
+    "WECA-ready",
+    "MCA assurance compliant",
 ]
 
 FORBIDDEN_POSITIVE_PATTERNS = [
@@ -122,7 +181,9 @@ FORBIDDEN_POSITIVE_PATTERNS = [
     ("benefits decision-grade claim", re.compile(r"\bbenefits?\b.*\b(decision[- ]grade|ready|approved|quantified|created|available)\b", re.IGNORECASE)),
     ("boundary decision-grade claim", re.compile(r"\bboundary\b.*\b(decision[- ]grade|ready|approved|created|available)\b", re.IGNORECASE)),
     ("charge-base decision-grade claim", re.compile(r"\bcharge[- ]base\b.*\b(decision[- ]grade|ready|approved|created|available)\b", re.IGNORECASE)),
-    ("revenue decision-grade claim", re.compile(r"\brevenue\b.*\b(decision[- ]grade|ready|approved|created|available)\b", re.IGNORECASE)),
+    ("revenue decision-grade claim", re.compile(r"\brevenue\b.{0,80}\b(decision[- ]grade|ready|approved|created|available)\b", re.IGNORECASE)),
+    ("official officer report claim", re.compile(r"\b(officer|committee)\s+report\b.*\b(ready|approved|final|distribution|submitted)\b", re.IGNORECASE)),
+    ("WECA endorsement claim", re.compile(r"\bWECA(?:/MCA)?\b.*\b(endorsed|approved|accepted|cleared|supports|sponsored|consented)\b", re.IGNORECASE)),
 ]
 
 NEGATING_CONTEXT = (
@@ -132,6 +193,8 @@ NEGATING_CONTEXT = (
     "no ",
     "not ",
     "without",
+    "preventing",
+    "prevent ",
     "blocked",
     "no-go",
     "cannot",
@@ -303,6 +366,59 @@ def check_section_control_notes() -> list[str]:
     return errors
 
 
+def check_stage32a_simulation_status() -> list[str]:
+    errors = []
+    for rel in STAGE_32A_OBC_FILES:
+        path = ROOT / rel
+        if not path.exists():
+            errors.append(f"missing Stage 32A OBC simulation file: {rel}")
+            continue
+        text = path.read_text(encoding="utf-8")
+        if STAGE_32A_STATUS_PHRASE not in text:
+            errors.append(f"{rel} missing required Stage 32A simulation status phrase")
+        for phrase in [
+            "Stage 7 OBC gate remains blocked",
+            "not for real-world reliance",
+            "simulation-only",
+        ]:
+            if phrase not in text:
+                errors.append(f"{rel} missing Stage 32A no-reliance phrase: {phrase}")
+    return errors
+
+
+def check_stage32a_exemplar_corpus() -> list[str]:
+    errors = []
+    exemplar_rows = read_rows("analysis/weca-obc-fbc-exemplars/exemplar-register.csv")
+    if len(exemplar_rows) < 10:
+        errors.append("Stage 32A exemplar register must contain at least ten exemplar rows")
+    categories = {row.get("exemplar_category", "") for row in exemplar_rows}
+    for category in {
+        "full_fbc_source_document",
+        "soc_source_document",
+        "committee_minutes_route_pattern",
+        "report_pack_route_pattern",
+        "bristol_wpl_status_pattern",
+        "programme_line_pattern",
+    }:
+        if category not in categories:
+            errors.append(f"Stage 32A exemplar register missing category {category}")
+    for row in exemplar_rows:
+        exemplar_id = row.get("exemplar_id", "<unknown>")
+        if "SRC-" not in row.get("source_id", ""):
+            errors.append(f"Stage 32A exemplar {exemplar_id} missing source_id")
+        if "lines" not in row.get("local_reference", ""):
+            errors.append(f"Stage 32A exemplar {exemplar_id} missing line-referenced local_reference")
+        claim_limit = row.get("claim_limit", "").lower()
+        if not any(term in claim_limit for term in ["does not", "not "]):
+            errors.append(f"Stage 32A exemplar {exemplar_id} missing explicit claim limit")
+    matrix_rows = read_rows("analysis/weca-obc-fbc-exemplars/comparator-matrix.csv")
+    if len(matrix_rows) < 8:
+        errors.append("Stage 32A comparator matrix must contain at least eight pattern rows")
+    if not any("WECA" in row.get("pattern_area", "") or "WECA" in row.get("no_go_limit", "") for row in matrix_rows):
+        errors.append("Stage 32A comparator matrix must include WECA trigger limits")
+    return errors
+
+
 def check_obc_output_roots_empty() -> list[str]:
     errors = []
     for rel_root in OBC_OUTPUT_ROOTS:
@@ -389,6 +505,11 @@ def check_no_go_claims() -> list[str]:
         "boundary charge base or revenue is decision grade",
         "BCR VFM or benefits are decision grade",
         "statutory submission is ready",
+        "Stage 32A simulated OBC is a real Bristol OBC",
+        "WECA-style drafting means WECA MCA endorsement or assurance compliance",
+        "minutes report packs or programme lines are full OBC FBC exemplars",
+        "simulation sign-off replaces officer legal Monitoring Officer Section 151 finance modelling data consultation or professional review",
+        "Stage 32A draft may be distributed as an officer report committee report WECA submission or consultation document",
     }
     present = {row.get("prohibited_claim", "") for row in rows}
     for claim in required:
@@ -430,14 +551,26 @@ def check_positive_claims() -> list[str]:
         "analysis/obc/stage-6a-obc-readiness-control-package.md",
         "review/peer_review/stage-6a-obc-readiness-review.md",
         "review/stage_gate_reports/stage-6a-obc-readiness-control-report.md",
+        "review/stage_gate_reports/stage-32a-weca-obc-fbc-exemplar-corpus-report.md",
+        "analysis/weca-obc-fbc-exemplars/stage-32a-weca-obc-fbc-exemplar-corpus.md",
+        "analysis/weca-obc-fbc-exemplars/weca-style-obc-authoring-standard.md",
         *OBC_SECTION_FILES,
+        "business_case/obc/simulated-working-draft/bristol-wpl-simulated-weca-style-obc.md",
     ]
     for rel in paths:
         path = ROOT / rel
         if not path.exists():
             continue
         exempt_level = None
+        exempt_table = False
         for line_number, line in enumerate(path.read_text(encoding="utf-8").splitlines(), start=1):
+            if exempt_table and not line.strip():
+                exempt_table = False
+            if "| Safe to rely on | Do not infer |" in line:
+                exempt_table = True
+                continue
+            if exempt_table:
+                continue
             level = heading_level(line)
             if level is not None:
                 if exempt_level is not None and level <= exempt_level:
@@ -474,10 +607,12 @@ def collect_control_errors() -> list[str]:
     errors.extend(check_csv_headers())
     errors.extend(check_required_phrases())
     errors.extend(check_section_control_notes())
+    errors.extend(check_stage32a_simulation_status())
     errors.extend(check_obc_output_roots_empty())
     errors.extend(check_dependency_matrix_blocks())
     errors.extend(check_claim_dependency_register())
     errors.extend(check_no_go_claims())
+    errors.extend(check_stage32a_exemplar_corpus())
     errors.extend(check_positive_claims())
     errors.extend(check_assemble_obc_blocks())
     if not collect_readiness_blockers():

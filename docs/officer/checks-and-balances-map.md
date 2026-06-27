@@ -24,6 +24,7 @@ This is a simulation control map. It is not approval, legal advice, consultation
 | Claim summaries | Current claim-matrix summaries, source IDs, source locations, reviewer status, limitations, no-go claims and `EG-0045` future-claim gap | Evidence/Citation Agent, domain reviewers and Red Team | Stage 16A controls |
 | Transferability controls | Blocked Nottingham lesson rows, blocked transferability matrix, residential spillover checklist, current Nottingham refresh gap and cross-register blockers | Comparator Evidence Agent, Spatial Data Agent, Public Officer Review Agent and Red Team | Stage 18A controls |
 | Public/cabinet comprehension | Public guide, cabinet guide, RAG legend, gate taxonomy, risk atlas, risk-control crosswalk and simulation sign-off limits | Public Officer Review Agent, Cabinet/Officer Navigation Agent, Risk-Control Reviewer and Red Team | Stage 19A controls |
+| WECA-style simulated OBC | Stage 32A status formula, source hierarchy, WECA/MCA trigger tags, no-go claims, subagent handovers, full WPL-focused Markdown draft and OBC validator | WECA Business Case Pattern Agent, Evidence Citation Agent, Officer Readability Agent, Red Team and Simulation Gate Authority | Stage 32A controls |
 
 ## Registers
 

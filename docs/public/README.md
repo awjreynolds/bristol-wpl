@@ -36,6 +36,8 @@ Stage 30A adds validation coverage for Stage 29A. It checks that Stage 29A valid
 
 Stage 31A adds a validation evidence log for Stage 30A. It records the Stage 30A validation commands and repository-state caveat. It does not prove command sufficiency, command authenticity, evidence truth, legal correctness, professional assurance or WPL readiness.
 
+Stage 32A adds a WECA-style WPL OBC simulation. It creates a full editable working draft and comparator corpus, but it is not a real Bristol OBC, not a generic procurement engine, not WECA/MCA endorsed, not officer advice and not WPL readiness evidence.
+
 ## What This Repo Is
 
 - An auditable simulation workspace.
@@ -74,6 +76,7 @@ The simulation currently says:
 - subagent context-control hardening exists, but it does not prove future agents obey instructions, prompt fidelity, actual context isolation, reasoning quality, professional assurance or readiness;
 - Stage 29A validation coverage exists, but it does not prove command sufficiency, command authenticity, future agent compliance, prompt fidelity, actual context isolation, reasoning quality, professional assurance or readiness;
 - Stage 30A validation evidence logging exists, but it does not prove command sufficiency, command authenticity, evidence truth, source currentness, legal correctness, professional assurance or readiness;
+- Stage 32A WECA-style OBC drafting exists, but it does not prove real OBC status, WECA/MCA endorsement, procurement authority, consultation readiness, statutory readiness, professional assurance or readiness;
 - Nottingham lessons cannot be copied to Bristol without transferability evidence.
 
 ## Where To Start
@@ -94,6 +97,8 @@ The simulation currently says:
 | Bristol public-source QA maintainer | `scripts/validate_bristol_public_sources.py` | Checks source-status rows and no-overclaim wording; does not prove source truth, currentness or WPL readiness |
 | Future-stage agent/context maintainer | `docs/agents/subagent-stage-packet-template.md` | Bounded subagent packet template; instruction/template presence only |
 | Subagent context-control QA maintainer | `scripts/validate_subagent_context_control.py` | Checks Stage 29A context-control wording; does not prove future agents obey instructions |
+| WECA-style simulated OBC reader | `business_case/obc/simulated-working-draft/bristol-wpl-simulated-weca-style-obc.md` | Full editable Stage 32A WPL-focused OBC working draft; simulation-only and not for reliance |
+| WECA OBC/FBC exemplar reviewer | `analysis/weca-obc-fbc-exemplars/stage-32a-weca-obc-fbc-exemplar-corpus.md` | Source hierarchy, comparator matrix and drafting standard for WECA-style OBC discipline |
 | Register integrity reviewer | `scripts/validate_register_references.py` | Cross-register ID and selected control-path checks |
 | Dashboard consistency reviewer | `scripts/validate_dashboard_consistency.py` | README and officer-dashboard blocker surfacing checks |
 | Stage-gate report reviewer | `scripts/validate_stage_gate_reports.py` | Recent gate-report structure checks; not evidence truth, source currentness or readiness |
@@ -112,4 +117,4 @@ The simulation currently says:
 
 ## Visual Map
 
-See `docs/visuals/stage-gate-map.mmd` for the current stage-gate flow, `docs/visuals/risk-control-atlas.mmd` for the simplified risk-control flow, `docs/visuals/visual-accessibility-qa-register.csv` for static visual QA and text fallback controls, `docs/public/source-link-and-freshness-status.md` for source-link/freshness status, `docs/public/bristol-live-public-source-status.md` for Bristol live public-source coverage, `docs/agents/subagent-stage-packet-template.md` for future-stage bounded subagent packets, `review/stage_gate_reports/stage-30a-validation-coverage-for-stage-29a-report.md` for Stage 29A validation coverage, `evidence/validation/stage-30a-validation-run-log.md` for Stage 30A validation evidence, and `evidence/validation/README.md` for logged validation evidence and coverage limits.
+See `docs/visuals/stage-gate-map.mmd` for the current stage-gate flow, `docs/visuals/risk-control-atlas.mmd` for the simplified risk-control flow, `docs/visuals/visual-accessibility-qa-register.csv` for static visual QA and text fallback controls, `docs/public/source-link-and-freshness-status.md` for source-link/freshness status, `docs/public/bristol-live-public-source-status.md` for Bristol live public-source coverage, `docs/agents/subagent-stage-packet-template.md` for future-stage bounded subagent packets, `review/stage_gate_reports/stage-30a-validation-coverage-for-stage-29a-report.md` for Stage 29A validation coverage, `evidence/validation/stage-30a-validation-run-log.md` for Stage 30A validation evidence, `business_case/obc/simulated-working-draft/bristol-wpl-simulated-weca-style-obc.md` for the Stage 32A simulated OBC, and `evidence/validation/README.md` for logged validation evidence and coverage limits.

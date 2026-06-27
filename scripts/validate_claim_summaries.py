@@ -8,7 +8,9 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
 
-EXPECTED_CLAIM_IDS = {f"CLM-{number:04d}" for number in range(1, 39)}
+EXPECTED_CLAIM_IDS = {f"CLM-{number:04d}" for number in range(1, 40)}
+SUMMARY_STAGE_BY_CLAIM = {"CLM-0039": "Stage 32A"}
+SUMMARY_STATUS_BY_CLAIM = {"CLM-0039": "stage_32a_summary_created"}
 
 REQUIRED_FILES = [
     "analysis/context/stage-16a-claim-summary-control-context.md",
@@ -83,6 +85,7 @@ LEGAL_CLAIM_IDS = {
     "CLM-0021",
     "CLM-0028",
     "CLM-0038",
+    "CLM-0039",
 }
 
 APPRAISAL_CLAIM_IDS = {
@@ -217,7 +220,7 @@ def check_claim_matrix_scope() -> list[str]:
     ids = set(rows)
     if ids != EXPECTED_CLAIM_IDS:
         errors.append(
-            "evidence/claim_evidence_matrix.csv Stage 16A scope must be exactly CLM-0001 through CLM-0038"
+            "evidence/claim_evidence_matrix.csv claim-summary scope must be exactly CLM-0001 through CLM-0039"
         )
         for claim_id in sorted(EXPECTED_CLAIM_IDS - ids):
             errors.append(f"claim matrix missing required Stage 16A claim {claim_id}")
@@ -255,10 +258,12 @@ def check_summary_register() -> list[str]:
         claim = claims.get(claim_id)
         if not row or not claim:
             continue
-        if row.get("summary_stage") != "Stage 16A":
-            errors.append(f"{claim_id} summary_stage must be Stage 16A")
-        if row.get("summary_status") != "stage_16a_summary_created":
-            errors.append(f"{claim_id} summary_status must be stage_16a_summary_created")
+        expected_stage = SUMMARY_STAGE_BY_CLAIM.get(claim_id, "Stage 16A")
+        expected_status = SUMMARY_STATUS_BY_CLAIM.get(claim_id, "stage_16a_summary_created")
+        if row.get("summary_stage") != expected_stage:
+            errors.append(f"{claim_id} summary_stage must be {expected_stage}")
+        if row.get("summary_status") != expected_status:
+            errors.append(f"{claim_id} summary_status must be {expected_status}")
         if row.get("review_status") != claim.get("review_status"):
             errors.append(f"{claim_id} summary review_status must match claim matrix")
         if row.get("reviewer") != claim.get("reviewer"):

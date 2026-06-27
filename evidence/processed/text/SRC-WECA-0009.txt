@@ -1,0 +1,2293 @@
+Bristol Bridge Signals
+Junction and Car Park VMS
+Project
+Full Business Case
+West of England Combined Authority
+19th August 2022
+Notice
+This document and its contents have been prepared and are intended solely as information for West of England
+Combined Authority and use in relation to the delivery of cycling infrastructure at Bristol Bridge and as well as
+replacement of city centre Variable Message Signs.
+ assumes no responsibility to any other party in respect of or arising out of or in connection with this document
+and/or its contents.
+This document has 53 pages including the cover.
+
+
+
+Document history
+Document title: Full Business Case
+Document reference: v2.0
+  Revision          Purpose description            Originated        Checked          Reviewed        Authorised      Date
+ 1.0            First issue                             KR               SG               SP               PK       22/07/2022
+ 2.0            Revised issue                          EED               SG               SP               SP       19/08/2022
+
+
+
+
+Client signoff
+ Client                    West of England Combined Authority
+ Project                   Bristol Bridge Signals Junction and Car Park VMS Project
+ Job number
+ Client
+ signature/date
+
+
+
+
+Bristol Bridge Signals Junction and Car Park VMS Project - accessible WECA v2docx.docx | 2.0 | 19th August 2022 |     Page 2 of 53
+Contents
+Chapter                                                                                                     Page
+1.       Introduction                                                                                                6
+Scheme overview                                                                                                      6
+Report purpose                                                                                                       6
+Report structure                                                                                                     6
+2.       Strategic Case                                                                                              7
+Introduction                                                                                                         7
+Geographic and strategic context                                                                                     7
+Case for change                                                                                                     17
+Objectives                                                                                                          25
+Measures for success                                                                                                25
+Constraints                                                                                                         26
+Interdependencies                                                                                                   26
+Stakeholders                                                                                                        26
+Option development                                                                                                  26
+Options assessment                                                                                                  27
+Environmental sustainability and climate change considerations                                                      30
+3. Economic Case                                                                                                    31
+Introduction                                                                                                        31
+Appraisal methodology                                                                                               31
+Demand forecast and economic impacts appraisal                                                                      33
+Scheme costs                                                                                                        34
+Economic appraisal summary                                                                                          35
+Value for Money Statement                                                                                           35
+Sensitivity testing                                                                                                 36
+Unquantified impacts                                                                                                36
+4. Financial Case                                                                                                   38
+Introduction                                                                                                        38
+Chief Financial Officer sign-off                                                                                    38
+Scheme cost                                                                                                         38
+Spend profile and funding source                                                                                    40
+5. Commercial Case                                                                                                  41
+Introduction                                                                                                        41
+Output-based specification                                                                                          41
+Procurement strategy                                                                                                41
+Sourcing options                                                                                                    41
+Payment mechanisms                                                                                                  42
+Pricing framework and charging mechanisms                                                                           42
+Risk allocation and transfer                                                                                        42
+Contract length                                                                                                     42
+Contract management                                                                                                 43
+Social Value Act                                                                                                    43
+6. Management Case                                                                                                  44
+Introduction                                                                                                        44
+Promoter and delivery arrangements                                                                                  44
+
+
+Bristol Bridge Signals Junction and Car Park VMS Project - accessible WECA v2docx.docx | 2.0 | 19th August 2022 |        Page 3 of 53
+Communications and stakeholder management                                                                           44
+Project governance and delivery                                                                                     44
+Programme plan                                                                                                      46
+Risks, constraints and dependencies                                                                                 47
+Land acquisition, planning and other consents                                                                       49
+Project assurance                                                                                                   49
+Benefit realisation                                                                                                 49
+Monitoring and evaluation                                                                                           50
+
+
+
+Tables
+Table 2-1 - Proposed public transport corridors                                                                      8
+Table 2-2 - JLTP4 objectives and outcomes                                                                           11
+Table 2-3 - Summary of the Climate Emergency Action Plan actions                                                    13
+Table 2-4 - Scheme objectives                                                                                       25
+Table 2-5 - Measures of success                                                                                     25
+Table 2-6 - Criteria for Option Assessment                                                                          27
+Table 2-7 - Multi Criteria Assessment of Options                                                                    29
+Table 3-1 - Summary of data and assumptions driving walking and cycling forecasts                                   31
+Table 3-2 - Summary of data and assumptions for VMS appraisal                                                       32
+Table 3-3 - Summary of forecast cyclist uplift                                                                      34
+Table 3-4 - Breakdown of scheme costs                                                                               35
+Table 3-5 - Quantified benefits                                                                                     35
+Table 3-6 - Benefit Cost Ratios                                                                                     35
+Table 3-7 - Overview of DfT Value for Money categories by scheme benefit-to-cost ratio                              35
+Table 3-8 – Sensitivity test 1: Benefit Cost Ratios                                                                 36
+Table 3-9 – Sensitivity test 2: Benefit Cost Ratios                                                                 36
+Table 4-1 - Sunk costs                                                                                              38
+Table 4-2 - Inflation index                                                                                         38
+Table 4-3 - Scheme costs net of sunk costs                                                                          39
+Table 4-4 - Spend profile by source and financial year                                                              40
+Table 6-1 - Examples of BCC's previous successes in scheme delivery                                                 46
+Table 6-2 - Project milestones                                                                                      46
+Table 6-3 - Top risks and their proposed mitigations                                                                47
+Table 6-4 - Project dependencies                                                                                    48
+Table 6-5 - Evaluation data requirements                                                                            51
+Table 6-6 - Data collection plan                                                                                    52
+
+
+
+
+Figures
+Figure 2-1 - Proposed bus corridor network                                                                           9
+Figure 2-2 - Scheme area                                                                                            10
+Figure 2-3 - Proposed Bristol Cycling Network (as per 2015 Bristol Cycle Strategy)                                  16
+Figure 2-4 - Bristol Clean Air Zone                                                                                 17
+Figure 2-5 - NO2 diffusion tube data in the context of the scheme                                                   19
+Figure 2-6 - Bristol Bridge                                                                                         20
+
+
+Bristol Bridge Signals Junction and Car Park VMS Project - accessible WECA v2docx.docx | 2.0 | 19th August 2022 |        Page 4 of 53
+Figure 2-7 - Pedestrian and cycling facilities on the A37/A4018 corridor (central section)                          21
+Figure 2-8 - VMS at Temple Meads                                                                                    22
+Figure 2-9 - VMS at The Grove                                                                                       23
+Figure 2-10 - VMS at Newfoundland Circus (inbound)                                                                  23
+Figure 2-11 - VMS at Stokes Croft inbound                                                                           24
+Figure 2-12 - Logic map                                                                                             25
+Figure 6-1 - Project governance structure                                                                           45
+
+
+
+
+Bristol Bridge Signals Junction and Car Park VMS Project - accessible WECA v2docx.docx | 2.0 | 19th August 2022 |        Page 5 of 53
+1. Introduction
+Scheme overview
+Bristol City Council (BCC) is currently working on proposals to improve public transport, walking, cycling and
+public realm along the A37 / A4018 corridor in north Bristol to the city centre. An opportunity has arisen to bring
+forward part of this corridor for early delivery at Bristol Bridge. This section of the corridor has been brought
+forward as the traffic signals at Bristol Bridge are at the end of their usable life, while the funding source, the
+Transforming City Fund (TCF), has limited spend stipulations (completion by April 1st 2023).
+This package of works includes two components:
+•   Cycle infrastructure improvements and traffic signal replacements at Bristol Bridge.
+• Replacement of four Variable Message Signs (VMS) in the city centre.
+The Bristol Bridge Experimental Traffic Regulation Order (ETRO) project introduced restrictions on vehicles,
+which presented a considerable opportunity for mode shift. In 2021, this ETRO was made permanent resulting
+in the ban of through traffic on Bristol Bridge. However, the existing Bristol Bridge signals are at the end of their
+service life and are unable to extend green times to pedestrians and cyclists. The proposed design will
+introduce new signals and deliver enhanced cycling infrastructure. The design is provided in Appendix B.
+The second element of the scheme is the renewal of VMS. Four locations require new VMS, as recent highway
+changes have made the existing signage obsolete. Improving VMS will better inform vehicle users on which car
+parks to travel to, reducing circulation of vehicles around Bristol city centre.
+As a package, the two schemes will together encourage the uptake of walking and cycling and reduce the
+negative impacts of private vehicles.
+
+Report purpose
+This document and its appendices form the Full Business Case (FBC) for the improvements to Bristol Bridge
+and VMS. This FBC forms the submission through the West of England Combined Authority (the ‘Combined
+Authority’) approvals process to demonstrate Value for Money and the ability to successfully deliver the
+scheme.
+
+Report structure
+The FBC is structured in accordance with the Department for Transport’s recommended five cases model for a
+Transport Business Case:
+•   Strategic Case (Section 2) sets out the problems that the scheme is intended to address and the case for
+    intervention.
+•   Economic Case (Section 3) provides a Value for Money assessment of the scheme.
+•   Commercial Case (Section 4) provides details around the procurement aspects of the scheme.
+•   Financial Case (Section 5) provides details on the costs and funding aspects of the scheme.
+•   Management Case (Section 6) provides details on delivery of the scheme.
+
+
+
+
+Bristol Bridge Signals Junction and Car Park VMS Project - accessible WECA v2docx.docx 2.0 | 19th August
+2022                                                                                                       Page 6 of 53
+2. Strategic Case
+Introduction
+This section sets out the ‘case for change’, by explaining the rationale for making an investment and presenting
+evidence on the strategic policy fit of the proposed scheme. It also sets out the scheme options under
+consideration.
+The Strategic Case establishes the:
+•   Context for the proposed interventions outlining the strategic aims and responsibilities of the Combined
+    Authority and Bristol City Council.
+•   Transport-related problems that have been identified, using evidence to justify the proposed interventions
+    and examining the impact of not changing.
+•   Specific, Measurable, Achievable, Realistic and Time-bound (SMART) objectives that solve the problem,
+    identified through alignment with regional and local strategic aims and responsibilities.
+•   Measures for determining successful delivery of the objectives.
+•   Constraints and opportunities for investment.
+•   Interdependencies of the scheme options.
+•   Details of main stakeholder(s).
+•   Evaluation of the options considered.
+
+Detailed information regarding the transport problems, transport needs, objectives and options for the wider
+A37/A4018 corridor is presented in its Options Assessment Report (OAR) and the forthcoming Outline
+Business Case (OBC).
+
+Geographic and strategic context
+The West of England Combined Authority is a Combined Authority consisting of the local authorities of Bristol,
+South Gloucestershire, and Bath and North East Somerset. Founded in 2017, the government’s vision was to
+create a ‘Western Powerhouse’ analogous to the Northern Powerhouse concept designed to boost economic
+growth in the north of England.
+The West of England outlined the Core Strategic Functions of the Combined Authority in a Constitution
+document, the Core Strategic Functions are as follows:
+•   Transport.
+•   Planning and housing.
+•   Skills.
+•   Employment.
+•   Finance.
+•   Governance and Other Administration.
+
+The Combined Authority’s objectives in relation to the Core Strategic Functions are:
+•   Contribute to providing strong collective leadership and strategic direction to realise the full economic
+    potential of the West of England.
+•   Support the development and delivery of key strategies to improve the economic conditions across the
+    West of England area.
+•   Contribute to the formulation and expression of joint views (of the West of England Mayor and the local
+    authorities) to central government and other bodies and organisations in respect of legislation,
+    proposed legislation and other matters of concern, interest or relevance to the West of England
+    economy with a particular focus on removing barriers to growth and the delegation of additional powers
+    and funding.
+•   Actively support the co-ordination of joint local authority activity across the West of England, including
+    the activities of the Local Enterprise Partnership Business Board.
+•   Work with appropriate agencies and bodies both within and beyond the West of England in order to
+    achieve any shared economic objectives.
+
+
+
+Bristol Bridge Signals Junction and Car Park VMS Project - accessible WECA v2docx.docx 2.0 | 19th August
+2022                                                                                                       Page 7 of 53
+•      Ensuring arrangements are in place to report the proposals and activities of the Combined Authority to the
+       constituent councils.
+•      Take any decisions required to deliver the West of England Devolution Deal(s) and the relevant
+       Strategic Plans including additional funding, freedoms and flexibilities.
+•      Provide a formal and accountable forum for decision making relating to all relevant West of England
+       Combined Authority functions.
+
+A37 / A4018 corridor study
+The City Region Sustainable Transport Settlement (CRSTS), announced in 2021 by the Department for
+Transport (DfT), is an unprecedented investment in local transport networks and a major driver for significant
+change to level up across England.
+Furthermore, the West of England Bus Strategy sets out options to improve the bus network, and how further
+growth in bus usage can be encouraged, with the goal of doubling bus patronage by 2036.
+The West of England Joint Local Transport Plan 4 sets out the required infrastructure investment required to
+deliver the region’s ambitious growth targets, which includes the delivery of bus and active mode infrastructure
+including the measures being proposed in this FBC.
+The West of England Local Cycling and Walking Infrastructure Plan also identifies significant investment
+required to enable further growth in the uptake of sustainable modes of transport including walking and cycling.
+Improvements in public transport connectivity across Bristol and in particular along key corridors will therefore
+help to make it easier to connect people to employment, leisure opportunities and key public services such as
+education and medical care, and subsequently help in accommodating the city’s growing population, and
+support its economic growth ambitions.
+In response to the announcement of the CRSTS, the Combined Authority published its bid 1 to the central
+government in October 2021, which included their plans to develop a set of strategic public transport corridors
+across Bristol. The proposed public transport corridors have been identified based on existing highway
+congestion, connecting households with employment and education, current and future patronage, supporting
+areas of deprivation and deliverability, and have been categorised as ‘City Corridors’ and ‘Town Corridors’ (see
+Table 2-1 below).
+
+Table 2-1 - Proposed public transport corridors
+    City Corridors                                                 Town Corridors
+    High level of separation is possible and desired. The          Bus services connecting towns and suburbs with the
+    backbone of the bus network characterised by high              high frequency City Corridor routes. Segregation
+    frequency services connecting rural and suburban               where possible, especially in areas of frequent and
+    areas to the centre. Considerable opportunities for            significant congestion.
+    interchange between different modes.
+    Bristol City Centre - Changes to facilitate priority           A38 – Connections from Thornbury to the M32 and
+    access for other City Corridor routes.                         from Thornbury to Charfield.
+    A4 Portway – Including expansion of existing Park &            A432 – Connections from Yate to the M32.
+    Ride site to incorporate links to new rail station.
+    A370 – Improved connections to existing Long                   A37 – Improving access from the Somer Valley
+    Ashton Park & Ride site.                                       areas into central Bristol, which is included as part of
+                                                                   this scheme.
+    M32 – Delivery of a new transport hub and changes              A367 – Improving access from the Somer Valley
+    to the corridor.                                               area into central Bath.
+    A4 Bristol to Bath – Segregated route between the              A4018 – Ensuring joined up connections between
+    two cities, with a new transport hub at Hicks Gate.            central Bristol and key residential, employment and
+                                                                   retail developments in the North Fringe, which is
+                                                                   included as part of this scheme.
+
+
+The location of these proposed transport corridors is presented in Figure 2-1.
+
+1
+    https://www.westofengland-ca.gov.uk/wp-content/uploads/2021/10/West-of-England-Combined-Authority-CRSTS.pdf
+
+Bristol Bridge Signals Junction and Car Park VMS Project - accessible WECA v2docx.docx 2.0 | 19th August
+2022                                                                                                       Page 8 of 53
+Figure 2-1 - Proposed bus corridor network 2
+
+
+
+
+The first corridor to be considered for improvement is the one considered in the wider OAR, that is the route
+between Stockwood in South Bristol (along the A37), and Cribbs Causeway in the north of the city (along the
+A4018). This route is the one followed by bus route 2 and is referred to as the A37/A4018 transport corridor.
+This FBC is focused on a section within the A37/A4018 transport corridor where an opportunity has arisen for
+the early delivery of several proposed interventions.
+The A37/A4018 City Centre Junctions scheme will aid in meeting a number of aims of the wider A37/A4018
+project, which focuses on reducing car use by offering residents alternative modes of transport which are more
+sustainable. The wider scheme will incorporate bus priority measures, as well as cycling and walking
+infrastructure. Key congestion hotspots that will be addressed are the A37 Wells Road, A4018 Whiteladies
+Road and key pinch points in the city centre. The outcomes of the project will be to provide:
+•   An improved pedestrian experience including a reduction in severance and a more attractive public realm.
+•   Reducing road capacity for car users and reallocating this space for bus and active mode users (e.g.,
+    cyclists) in order to promote use of these modes.
+•   Bus prioritisation measures to reduce bus journey times, and improve punctuality and reliability, therefore
+    making this a more attractive mode compared to car use.
+Consequently, the outcomes from this project will support the outcomes from the wider scheme to lead to an
+improvement in air quality, a reduction in carbon emissions, health benefits from an increase in walking and
+cycling, as well as benefits from a modal shift from car to bus use which include decongestion and journey time
+savings.
+
+Scheme area
+The scheme area is presented in Figure 2-2, highlighting the two elements of the scheme: Bristol Bridge cycle
+scheme as well as the location of the four VMS signs that will be replaced.
+Closely related to the evolution of the Bristol Bridge junction projects was the preceding Bristol Bridge
+Experimental Traffic Order project. This established the current Traffic Regulation Order that underpins the bus
+
+2 West of England Combined Authority Sustainable Transport Settlement, October 2021
+
+
+
+Bristol Bridge Signals Junction and Car Park VMS Project - accessible WECA v2docx.docx 2.0 | 19th August
+2022                                                                                                       Page 9 of 53
+gate system now in operation at the Bristol Bridge junction and Victoria Street, St Augustine’s Parade and
+Union Street.
+Following this change to the road network four VMS signs are no longer appropriate and need replacing as a
+consequence of the Bristol Bridge ETRO to TRO project. The Bristol Bridge ETRO to TRO project removed
+general traffic, thus making possible the proposed new Bristol Bridge junction design. The proposed design will
+introduce new signals and deliver enhanced cycling infrastructure.
+Figure 2-2 - Scheme area
+
+
+
+
+Strategic fit
+The Business Case is being submitted by the Combined Authority and Bristol City Council. The Combined
+Authority controls the strategic planning including transport, setting the policy direction for the region, while
+Bristol City Council are the Highway Authority for the proposed scheme.
+The project aligns with the following strategic documents:
+
+Regional policies
+Joint Local Transport Plan 4 (2020)
+The JLTP 4 3 was published in March 2020 and outlines the plans for the West of England Region from 2020-
+2036. The document sets out how the region will meet the key challenges that will appear during this time.
+The A37/A4018 corridor improvements will help contribute to each of the objectives set out above. The scheme
+will improve signals at Bristol Bridge and aid in reducing vehicle circulation around the city centre by removing
+outdated VMS signs, which will support JLTP4 in addressing the issues of climate change and poor air quality,
+as well contributing to better health, wellbeing, safety and security.
+Table 2-2 below sets out the objectives and outcomes that the JLTP4 seeks to achieve by 2036. Bold font
+represents outcomes directly relating to the scheme.
+
+
+3 Joint Local Transport Plan - Combined Authority (westofengland-ca.gov.uk)
+
+
+
+Bristol Bridge Signals Junction and Car Park VMS Project - accessible WECA v2docx.docx 2.0 | 19th August
+2022                                                                                                       Page 10 of 53
+Table 2-2 - JLTP4 objectives and outcomes
+ Objective                       Outcome
+ Take action against             Reduce carbon emissions to net zero by 2030.
+ climate change and
+ address poor air quality
+                                 NOx, particulates and carbon emissions are reduced.
+                                 Air quality in the AQMAs is improved.
+                                 Air quality remains better than national standards outside the AQMAs.
+                                 The transport network is resilient and adaptable.
+                                 Technological advances to improve air quality and monitoring are embraced.
+ Support sustainable and         Improved efficiency and reliability on local, national and international
+ inclusive economic              transport networks.
+ growth
+                                 Delivery of new housing and jobs is supported.
+                                 Access opportunities to employment growth areas and education is provided
+                                 for all.
+                                 Transport assets are maintained and managed, and demonstrate value
+                                 for money.
+                                 The high-quality transport network generates inward investment.
+                                 Congestion and demand on the network is better managed through
+                                 technological changes.
+ Enable equality and             Connectivity is increased and transformed, enabling seamless “door-
+ improve accessibility           to-door” movements of people and goods.
+                                 Access for those with both visible and hidden disabilities is improved.
+                                 Access to services and opportunities for residents in rural, remote and
+                                 deprived areas is improved.
+                                 Better information to aid travel decisions is provided.
+                                 Low carbon transport and opportunities for reducing the need to travel
+                                 are maximised.
+                                 New public transport systems, smarter ticketing and faster payment options
+                                 are enabled.
+ Contribute to better            There is a step change in the number of healthy, low carbon walking
+ health, wellbeing, safety       and cycling trips.
+ and security
+                                 There is a continued reduction in the number of road casualties on the
+                                 transport network.
+                                 Road safety for transport users is improved, particularly for those
+                                 most at risk.
+                                 Personal safety on the transport network is improved and there is less crime
+                                 and fear of crime.
+ Create better places            Journey experience is enhanced through an integrated and connected
+                                 transport network.
+                                 The impact of the transport network on the built, natural and historic
+                                 environment is minimised.
+                                 Streetscape, public spaces and urban environments are enhanced.
+
+
+Bristol Bridge Signals Junction and Car Park VMS Project - accessible WECA v2docx.docx 2.0 | 19th August
+2022                                                                                                       Page 11 of 53
+    Objective                     Outcome
+                                  The transport network support neighbourhood renewal and the regeneration
+                                  of deprived areas.
+
+
+The JLTP4 also includes ambitions for the provision of an attractive, safe and usable walking and cycling
+network.
+The JLTP4 sets out a number of ambitious targets for the period to 2036, which the A37/A4018 corridor
+improvements will help contribute towards. These targets include:
+•     Modal shift: to reduce single-occupancy car commuting from 59% to 45% against a backdrop of forecast
+      growth in housing and employment.
+•     Air quality: to ensure levels of NO2 across all of the West of England monitoring sites are below the
+      annual mean air quality objective of 40μg/m3. There are two monitoring stations close to the corridor – one
+      on Colston Street and another on Bond Street South.
+•     Carbon emissions: to ensure that transport in the West of England is carbon neutral by 2030.
+•     Bus passenger satisfaction: to increase overall levels of passenger satisfaction in the overall journey
+      from a base of 85% (2018) to 95% (2036).
+
+Climate Emergency Action Plan (2020)
+The Combined Authority published its Climate Emergency Action Plan 4 in September 2020. The document re-
+affirmed its commitment to achieving net zero (carbon neutrality) by 2030. The Climate Emergency Action Plan
+identified five challenge areas, the most relevant to this scheme being a ‘low carbon transport system’ –
+Decarbonisation of transport system, increase in use of PT alongside walking and cycling. The report found
+that:
+•     Transport emissions account for 32% of all greenhouse gas and CO2 emissions in the region and
+      emissions from transport are likely to grow in the absence of intervention as population growth in the region
+      is likely to increase car trips.
+•     The COVID-19 pandemic has demonstrated that social change (e.g., working from home, air quality
+      improvements) can have a significant impact on individuals travel behaviour (decreased car trips, increase
+      in cycling and walking). However, as the number of car trips return to normal following the relaxation of
+      lockdown measures the number of trips made by walking and cycling could potentially fall, as well as
+      leading to a reduction in patronage levels on public transport.
+
+The Action Plan identified a number of measures that were key to achieving decarbonisation goals for the
+transport sector. These were:
+•     Reducing the number of car trips.
+•     Increasing active travel.
+•     Increasing the uptake of low carbon vehicles.
+• Increasing the uptake of public transport.
+Table 2-3 sets out the actions that will be taken to enable low carbon transport.
+The A37/A4018 City Centre Junctions scheme supports this action plan as it will contribute to reduction of CO2
+emissions from transport by providing infrastructure which will encourage the update of walking and cycling.
+
+
+
+
+4 CE-Action-Plan.pdf (westofengland-ca.gov.uk)
+
+
+
+Bristol Bridge Signals Junction and Car Park VMS Project - accessible WECA v2docx.docx 2.0 | 19th August
+2022                                                                                                       Page 12 of 53
+Table 2-3 - Summary of the Climate Emergency Action Plan actions
+ Theme                  Action or opportunity                            Description
+ Reduce the             Take steps towards implementing the              Suggestions for demand management
+ number of car          demand management measures within                within JLTP4 include management of
+ trips                  JLTP4 [as appropriate] and ensure that           parking provision, reallocation of road
+                        they are a central feature of JLTP5.             space to sustainable transport, road user
+                                                                         charging, workplace parking levy.
+                                                                         Revenue raised from demand
+                                                                         management measures could be
+                                                                         reinvested in active travel & public
+                                                                         transport.
+                        Use appropriate levers that local                This could include measures such as
+                        authorities have to make it less                 speed limits, traffic calming,
+                        attractive for cars to enter the city            pedestrianisation, fewer routes and
+                        centre.                                          parking charges, whilst also making it
+                                                                         more attractive to use alternative travel
+                                                                         options.
+ Increase active        Work with the unitary authorities to             The Local Cycling and Walking
+ travel across the      take steps towards implementing                  Infrastructure Plan covers some of this but
+ region,                cycling and walking lanes and improve            there is a funding shortfall to deliver all
+ capitalising on        maintenance (raising additional funds            improvements to cycle routes detailed in
+ recent                 where necessary).                                the plan.
+ behaviour
+ change (created
+ by the covid-19
+ lock down
+ period)
+                        Work with unitary authorities to support         Pedestrianisation of the streets for local
+                        the pedestrianisation of streets                 shopping areas could encourage more
+                        (potentially including mixed mode                people to leave their car at home and walk
+                        street use) building on the social               or cycle instead.
+                        distance measures put in place as a
+                        result of the COVID-19 pandemic.
+ Increase the           Consider how to support the                      To make people’s journeys easier,
+ uptake of public       development of better transport                  transport interchanges should facilitate the
+ transport              interchanges and bus prioritisation              easy transfer of one mode to another.
+                        including the reallocation of road               Reallocating road space to buses will
+                        space, enhanced local rail services              improve the reliability and speed of
+                        and the development of smart ticketing           services and increase their attractiveness
+                        / journey planning tools.                        over car use.
+                        Continue to develop mass transit                 Continue to plan a mass transit system,
+                        proposals.                                       other public transport improvements and
+                                                                         consider the expansion of metro bus.
+                        Continue to work with providers to               Work with bus and rail operators to
+                        improve and promote reliability to               promote reliability, accessibility and
+                        increase uptake.                                 convenience to increase uptake.
+
+
+City Region Sustainable Transport Settlement (2021)
+The Combined Authority Sustainable Transport Settlement 5 was published in 2021. The document describes a
+programme of investment in public transport, cycling and walking between 2022 and 2027 with the aim of
+decarbonising transport and driving growth and productivity through infrastructure investment.
+
+
+
+5 West-of-England-Combined-Authority-CRSTS.pdf (westofengland-ca.gov.uk)
+
+
+
+Bristol Bridge Signals Junction and Car Park VMS Project - accessible WECA v2docx.docx 2.0 | 19th August
+2022                                                                                                       Page 13 of 53
+The Settlement notes a number of challenges faced by the region and suggests that it is estimated that the
+region experiences a £300m annual loss as a result of congestion. The document outlines that Bristol was
+ranked as the 6th most congested city in England, as of 2019.
+The CRSTS sets out a number of objectives that the improvements to Bristol Bridge junction and the VMS
+replacements will help to deliver. These objectives centre around:
+•   Carbon emissions: to secure the region’s future with a 30% gross reduction in carbon emissions by 2027,
+    measured against a 2021 baseline, leading to a carbon net zero position by 2030.
+•   Air quality: to achieve legal air quality across the West of England by 2025, measured by the requirements
+    in the EU Directive 2008/50/EC.
+•   Strategic investment: to deliver 100 additional miles of strategic public transport corridors by 2027,
+    measured against a 2021 baseline.
+Further to this, the wider A37/A4018 corridor is a key corridor identified in the CRSTS of which the A37/A4018
+City Centre Junctions scheme is an integral part of that corridor. Therefore, the delivery of this scheme will
+support the delivery of the aforementioned objectives by contributing to improvements along the wider
+A37/A4018 corridor.
+
+West of England Combined Authority Transport Delivery Plan (2021)
+The Combined Authority Transport Delivery Plan 6 was published in February 2021. The document outlines the
+current funded transport projects that will be progressed over the next five years across the West of England
+region. The programme of transport delivery has been developed to address challenges set out in JLTP4.
+The document focuses on delivering a post-COVID recovery of the transport system, addressing climate
+change, reducing car dependency, reducing congestion and addressing poor air quality.
+The Transport Delivery Plan’s five objectives are to:
+•   Take action against climate change and address poor air quality.
+•   Support sustainable and inclusive economic growth.
+•   Enable equality and improve accessibility.
+•   Contribute to better health, wellbeing, safety and security.
+•   Create better places.
+
+The FBC scheme will support the delivery of all objectives mentioned above. This is because the improvements
+to walking and cycling infrastructure will improve accessibility for pedestrians and cyclists and make the public
+realm more attractive which in turn will contribute to reduced carbon emissions and better air quality. Further to
+this, the anticipated update in active travel will bring health benefits to users. Additionally, the removal of
+outdated VMS around the city is anticipated to reduce vehicle circulation around the city centre which is also
+anticipate to result in health benefits in terms of better air quality.
+
+Combined Authority Local Cycling and Walking Infrastructure Plan (2020-2036)
+The Combined Authority’s Local Cycling and Walking Infrastructure Plan (LCWIP) 7 was published in March
+2020 and outlines how the West of England authorities will aim to boost the infrastructure surrounding local
+walking and cycling. This is with the goal to make walking and cycling the preferred travel modes for all short
+journeys and as a part of longer journeys. The key targets of the policy are to:
+•   Enable equality and improve accessibility.
+•   Contribute to better health, wellbeing, safety and security.
+•   Take action against climate change and improve poor air quality.
+•   Support sustainable and inclusive economic growth.
+•   Create better places.
+
+The Bristol Bridge scheme will contribute to health and wellbeing, improved air quality as well as higher quality
+public space through the anticipated uptake of walking and cycling as a result of the improvements which will
+be implemented.
+
+
+6 TRANSPORT DELIVERY PLAN (westofengland-ca.gov.uk)
+7 Full-LCWIP-Jan-2021.pdf (westofengland-ca.gov.uk)
+
+
+
+Bristol Bridge Signals Junction and Car Park VMS Project - accessible WECA v2docx.docx 2.0 | 19th August
+2022                                                                                                       Page 14 of 53
+Local policies
+Bristol Transport Strategy (2019)
+Bristol Transport Strategy 8 was adopted in July 2019 following a public consultation in Autumn 2018. It sets out
+a vision for a city that is well-connected, and which enables people to move around efficiently with increased
+transport options that are accessible and inclusive to all.
+The Strategy sets out six key challenges which the city faces and which the A37/A4018 bus corridor will help to
+address. These are:
+•   Housing, jobs and regeneration: over 100,000 new homes and new jobs needed across the region by
+    2036.
+•   Equality: Bristol has some of the most deprived areas across the country, with a difference of 16 years in
+    healthy life expectancy between the most and least deprived areas of the city.
+•   Health: physical inactivity contributes to 1 in 6 deaths and around 300 deaths a year due to air pollution.
+•   Better places: the city needs to address poor quality public space by creating high quality places and
+    making better use of our streets.
+•   Reliable journeys: Bristol has some of the worst congestion in the country, causing unreliable journeys for
+    many people.
+•   Sustainable growth: the city needs to support economic growth and accommodate emerging technologies
+    while cutting carbon emissions.
+The Strategy sets out a number of outcomes which the scheme may help to deliver. The scheme will help to
+deliver outcomes 1,2,5 and 6 as set out below
+•   Outcome 1: efficient movement of people and goods around the city with increased resilience of the
+    network and minimised impacts of congestion and air pollution.
+•   Outcome 2: on and off-street parking managed efficiently to encourage use of sustainable transport and
+    tackle congestion, while providing options that support the city’s 24-hour economy.
+•   Outcome 5: walking to be safe, pleasant, accessible and the first choice for local journeys and combined
+    with public transport for longer journeys.
+•   Outcome 6: cycling to be safe, segregated from other modes wherever possible, simple, accessible and
+    convenient, either as an option for the whole journey or as part of a journey combined with public transport.
+
+The Transport Strategy is relevant to this scheme, as the scheme will help to promote health and better spaces,
+and by increasing active travel infrastructure capacity will help to support sustainable growth.
+
+Bristol Cycle Strategy (2015)
+The Bristol Cycle Strategy 9 was published in 2015 and sets out the Council’s commitments to investing in
+cycling. It sets out the following objectives that should be met from any future investments in sustainable travel.
+•   Sustainable economy: 20% of commuter trips to city centre by bicycle.
+•   Laboratory for change: delivery of cutting-edge cycle projects.
+•   Healthy children: 20% of children cycling to secondary school.
+•   Normalising cycling: progressing delivery of attractive, safe, 8 to 80 cycle networks.
+•   Increasing confidence and safety: 75% of pupils to have completed Level 2 Bike ability training by end of
+    primary school. Increasing number of adults taking up training year on year.
+
+Figure 2-3 below provides an overview of the Bristol Cycling Network that the Bristol Bridge scheme will help
+contribute towards.
+
+
+
+
+8 383a996e-2219-dbbb-dc75-3a270bfce26c (bristol.gov.uk)
+9 Bristol-Cycle-Strategy-Jan2015.pdf (bristolcycling.org.uk)
+
+
+
+Bristol Bridge Signals Junction and Car Park VMS Project - accessible WECA v2docx.docx 2.0 | 19th August
+2022                                                                                                       Page 15 of 53
+Figure 2-3 - Proposed Bristol Cycling Network (as per 2015 Bristol Cycle Strategy)
+
+
+
+
+Bristol Clean Air Zone (2022)
+The Bristol Clean Air Zone 10 (outlined in Figure 2-4), which is due to be introduced in late 2022, will aim to
+improve air quality by discouraging vehicles which significantly contribute to harmful air pollution levels through
+daily user charging. This revenue will then be reinvested back into the local community, supporting individuals
+and businesses to switch to less-polluting modes, such as walking and cycling, and to switch to cleaner
+vehicles for both personal and public transport.
+
+
+
+
+10 Bristol's Clean Air Zone - bristol.gov.uk
+
+
+
+Bristol Bridge Signals Junction and Car Park VMS Project - accessible WECA v2docx.docx 2.0 | 19th August
+2022                                                                                                       Page 16 of 53
+Figure 2-4 - Bristol Clean Air Zone
+
+
+
+
+The scheme will help to deliver the Clean Air Zone as the improvements to walking and cycling infrastructure
+will provide local residents with an alternative means of accessing the city centre. The removal of outdated
+VMS signs around the city centre will also help in reducing car circulation for those still using private vehicles as
+a mode of transport.
+
+Case for change
+In this section, the case for change is presented, evidencing what the proposed scheme seeks to achieve through
+consideration of its strategic alignment, an analysis of contemporary transport issues along the A37/A4018 and
+through a clear identification of the impacts of not changing. SMART objectives are then identified, rooted in the
+identification of transport problems. The risks and constraints to the scheme are then presented.
+
+Identified problems and evidence
+A number of transport issues have been identified along the Bristol Bridge section of A37/A4018 transport
+corridor:
+•   Issue 1: Outdated signals at risk of failing.
+•   Issue 2: Air quality issues in Bristol city centre.
+•   Issue 3: Unattractive public realm which is car dominated.
+•   Issue 4: Lack of continuous cycling infrastructure.
+•   Issue 5: Vehicle circulation when looking for car parks.
+
+Issue 1: Outdated signals at risk of failing
+The traffic signals at Bristol Bridge are old and are at risk of falling and/or having to be condemned. The signals
+on this site are 29 years old. Traffic signals equipment has a design life of around 15 years; therefore the
+signals have long surpassed their design life and need to be replaced with modern standards in order to cater
+for current demand of increased active travel users.
+Further to this, the signals no longer reflect their current usage due to their outdated design. The existing
+junction configurations and signal sequences have been designed to control large volumes of traffic, where the
+conflicting movements for vehicles, pedestrians and cyclists need to be separated out in order for them to be
+
+Bristol Bridge Signals Junction and Car Park VMS Project - accessible WECA v2docx.docx 2.0 | 19th August
+2022                                                                                                       Page 17 of 53
+safely made. The signal sequence then has to run minimum green times (7 seconds) and minimum all-red
+clearance times (5 to 10 seconds), which are currently overly generous due to the Bristol Bridge ETRO
+restricting vehicle movement. As such, the junction at Bristol Bridge is already running on minimal signal
+timings but still takes over a minute to complete a whole cycle, catering for each turn and crossing, thus making
+the offer for pedestrians and cyclists inadequate.
+
+Issue 2: Air quality issues in Bristol City Centre
+Congestion continues to impact on air quality in Bristol, with the city centre being designated as an Air Quality
+Management Area (AQMA), and a Clean Air Zone will be introduced in 2022. The Government set legal limits
+for pollution, which means that Bristol City Council needs to ensure those limits are met within the shortest
+possible time. Figure 2-5 shows the NO2 diffusion tube data for 2020. It can be seen that there are number of
+sites across the city centre which exceed the legal limit of nitrogen oxide (40ugm).
+Road traffic is a major source of air pollution in towns and cities, particularly diesel engines. Poor air quality has
+an adverse effect on the population, in particular older people, children and those with certain underlying health
+conditions. Toxic air pollution contributes to 300 deaths per year in Bristol 11.
+Transport is also the second largest source of carbon emissions in the UK, accounting for about 27% of
+greenhouse gas emissions. Within domestic transport the car accounts for 55% of the GHG emissions so cars
+are therefore a main target for reducing GHG emissions in order to achieve net zero3.
+The proposed cycling scheme will help to deliver the city council’s climate emergency agenda by helping to
+increase the uptake of walking and cycling, and consequently encourage a mode shift away from private
+vehicles which is anticipated to improve air quality within the city centre.
+
+
+
+
+11 https://www.cleanairforbristol.org/caz/
+
+
+
+Bristol Bridge Signals Junction and Car Park VMS Project - accessible WECA v2docx.docx 2.0 | 19th August
+2022                                                                                                       Page 18 of 53
+Figure 2-5 - NO2 diffusion tube data in the context of the scheme
+
+
+
+
+Issue 3: Unattractive public realm which is car-dominated
+Pedestrians suffer from an unattractive public realm in the City Centre. The key problems at Bristol Bridge
+include:
+•   Outdated traffic signals which disadvantage pedestrians.
+•   Poor signposting.
+•   Narrow footpaths.
+•   Lack of convenient crossing points leading to severance.
+• Lack of a segregated cycle lane.
+As illustrated in Figure 2-6, in general, the environment for pedestrians is hostile with limited crossing points
+given a historic tendency to prioritise motorised traffic over pedestrians.
+
+
+
+
+Bristol Bridge Signals Junction and Car Park VMS Project - accessible WECA v2docx.docx 2.0 | 19th August
+2022                                                                                                       Page 19 of 53
+Figure 2-6 - Bristol Bridge 12
+
+
+
+
+Issue 4: Lack of continuous cycling infrastructure
+Cyclists suffer from poor cycling conditions at Bristol Bridge. The key challenges cyclists are faced with are:
+•    A lack of a segregated cycle lane which makes the environment for cyclists less safe.
+•    A lack of pedestrian and cycle priority at Redcliff Street Junction which creates a hostile environment for
+     active travel users.
+• A lack of connection crossing for pedestrians and cyclists which result in increased severance.
+Further to this, desktop analysis using the CrashMap platform 13 has revealed that a serious collision involving a
+pedal cycle occurred in 2021 on Bristol Bridge.
+
+Figure 2-7 illustrates the current provision of lack of segregated cycling facilities pedestrian and cycling facilities
+on the A37/A4018 corridor.
+The proposed improvements would help to fulfil the council’s agenda to provide continuous cycling facilities
+throughout the city and ensure cyclist priority at Bristol Bridge. Furthermore, a report published from Vivacity 14,
+a provider of traffic count data for BCC, finds that Bristol Bridge serves as a major connector for cyclists
+through the city and an evident surge in cyclists has been observed since 2021. This highlights the importance
+of Bristol Bridge in connecting key routes through the city and thus the need for dedicated cycle infrastructure
+to make it easier and safer for cyclists to cross the bridge.
+
+
+
+
+12 Google Streetview
+13 CrashMap
+14 Bristol is Using Vivacity Labs Sensors to Monitor Cycling Trends - Vivacity Labs
+
+
+
+Bristol Bridge Signals Junction and Car Park VMS Project - accessible WECA v2docx.docx 2.0 | 19th August
+2022                                                                                                       Page 20 of 53
+Figure 2-7 - Pedestrian and cycling facilities on the A37/A4018 corridor (central section)
+
+
+
+
+Issue 5: Vehicle circulation when looking for car parks
+Closely related to the evolution of the Bristol Bridge junction project was the preceding Bristol Bridge
+Experimental Traffic Order (ETRO) project. The Bristol Bridge ETRO predicated the current Traffic Regulation
+Order which introduced the current Bus Gate system now in operation at the Bristol Bridge junction, Victoria
+Street, St Augustine’s Parade and Union Street.
+Following this change to the road network four VMS signs are no longer appropriate and need replacing as a
+consequence of the Bristol Bridge ETRO to TRO project. The Bristol Bridge ETRO to TRO project removed
+general traffic thus making possible the proposed new Bristol Bridge junction design.
+
+Bristol Bridge Signals Junction and Car Park VMS Project - accessible WECA v2docx.docx 2.0 | 19th August
+2022                                                                                                       Page 21 of 53
+The Traffic Control Service has identified that a leading cause of congestion in the city centre on weekends and
+during school holidays is circulating traffic looking for parking, or queuing outside of car parks, awaiting entry.
+A commonly implemented solution to this is a car park guidance system. A car park guidance system is a
+dynamically updated roadside signage system, which routes drivers to available parking spaces around the city
+network. These systems can reduce congestion in the vicinity of car parks by effectively routing drivers to car
+parking with available spaces. They can also reduce the instances of drivers queuing on the highway for entry
+to full car parks.
+The Traffic Control Service therefore manages a car park guidance system for the larger city centre car parks
+and will continue to maintain and develop this system for the foreseeable future. As the city centre road network
+has changed, it is necessary to alter the car park guidance system to accommodate those changes. The VMS
+and reasons for why they are no longer appropriate are detailed below:
+•   VMS 1: Temple Meads – the facing is no longer appropriate due to altered road layout.
+•   VMS 2: The Grove - the facing is no longer appropriate; it is not possible to access Broadmead car parks
+    from this road anymore.
+•   VMS 3: Newfoundland Circus inbound - the facing is no longer appropriate, the centre can only be
+    accessed by turning right, not left with the new road layout.
+•   VMS 4: Stokes Croft inbound – the facing is no longer appropriate, ‘Centre’ can only be accessed by
+    turning right, not left with the new road layout.
+These existing VMS result in circulating vehicles which in turn led to longer travel distances. Consequently, this
+has contributed to increased carbon emissions and depleted air quality. Figure 2-8 to Figure 2-11 identify the
+locations where the VMS are in need of replacement.
+
+Figure 2-8 - VMS at Temple Meads
+
+
+
+
+Bristol Bridge Signals Junction and Car Park VMS Project - accessible WECA v2docx.docx 2.0 | 19th August
+2022                                                                                                       Page 22 of 53
+Figure 2-9 - VMS at The Grove
+
+
+
+
+Figure 2-10 - VMS at Newfoundland Circus (inbound)
+
+
+
+
+Bristol Bridge Signals Junction and Car Park VMS Project - accessible WECA v2docx.docx 2.0 | 19th August
+2022                                                                                                       Page 23 of 53
+Figure 2-11 - VMS at Stokes Croft inbound
+
+
+
+
+Impact of not changing
+The lack of intervention at Bristol Bridge junction is anticipated to result in traffic signals failing. This would
+create an unsafe road environment for pedestrians and cyclists due to the uncertainty around safe crossing
+times.
+In addition, the lack of improvements to active travel infrastructure could result in low levels of cycling uptake.
+This would have a negative impact on the city and Combined Authority’s aim to decrease carbon emissions in
+the city centre and as a result BCC and the Combined Authority may not meet their committed Net Zero targets
+and CAZ agenda. Further to this, cycling has the potential to bring physical and mental health benefits therefore
+the lack of cycling uptake could impede the Combined Authority’s objective of improved wellbeing.
+Furthermore, air quality would continue to suffer. The city centre includes a number of sites which are routinely
+in excess of legal air quality limits. A continuation of traffic circulating would negatively impact Bristol City
+Council’s ability to meet the aims of its prospective CAZ.
+Mode shift targets from car use to more sustainable modes of transport would not be achieved. Data from
+Vivacity 15 shows that cyclist counts are higher along routes that have a shared cycle path or a protected cycle
+lane, highlighting the importance of dedicated active travel infrastructure in achieving a mode shift.
+Without change, the public realm quality on key urban arteries will continue to be sub-par. Improvements in
+the public realm have the potential to spur growth in particular sectors of the economy such as local retail. High
+streets and urban centres are more likely to thrive if people find it more attractive to walk and cycle to them.
+This applies to residents as well as visitors, who are more likely to have a positive. Public realm improvements
+which benefit walking and cycling can increase retail sales by up to 30% 16. Hence, the lack of walking and
+cycling infrastructure improvements could contribute to a negative impact on the city centre’s economy.
+
+
+
+15 Bristol is Using Vivacity Labs Sensors to Monitor Cycling Trends - Vivacity Labs
+16 Pedestrian Pound (2018)
+
+
+
+Bristol Bridge Signals Junction and Car Park VMS Project - accessible WECA v2docx.docx 2.0 | 19th August
+2022                                                                                                       Page 24 of 53
+Objectives
+Following the identification of the transport problems, the scheme objectives are identified as follows, with their
+measures of success identified in Table 2-5.
+
+Table 2-4 - Scheme objectives
+ Theme                    Objective
+ Mode shift               Increase the proportion of journeys undertaken by walking and cycling along Bristol
+                          Bridge.
+ Environment              Reduce levels of air pollution and CO2 emissions at Bristol Bridge.
+ Urban realm              Enhance streetscape, public spaces and urban environment at Bristol Bridge.
+ Safety                   Improve road safety at Bristol Bridge for active travel users through the provision of
+                          segregated cycleways.
+ Circulation              Making sure the VMS signs are up to date with the existing traffic arrangements to avoid
+                          unnecessary circulation of traffic around the city centre.
+
+
+
+Logic map
+Problems, inputs, outputs and outcomes for users are identified in the logic map in Figure 2-12.
+Figure 2-12 - Logic map
+
+
+
+
+Measures for success
+Table 2-5 - Measures of success
+ Objective                                                         Measure
+ Mode shift: Increase the proportion of journeys                   An observed increase in walking and cycling levels at
+ undertaken by walking and cycling along Bristol                   Bristol Bridge.
+ Bridge.
+
+ Environment: Reduce levels of air pollution and CO2               Reduction in NO2 emissions observed at diffuser
+ emissions at Bristol Bridge.                                      tubes
+
+
+
+
+Bristol Bridge Signals Junction and Car Park VMS Project - accessible WECA v2docx.docx 2.0 | 19th August
+2022                                                                                                       Page 25 of 53
+    Objective                                                      Measure
+    Urban realm: Enhance streetscape, public spaces                Provision for walking, cycling and wheeling journeys
+    and urban environment at Bristol Bridge.                       consistently meets standards in LTN 1/20 including i)
+                                                                   separation of cyclists/wheelers from other vehicles
+                                                                   and pedestrians and ii) continuity within the
+                                                                   A37/A4018 corridor.
+
+    Safety: Improve road safety at Bristol Bridge for              The impact on the risk of collision that involves active
+    active travel users through the provision of                   mode users should be neutral or improved based on
+    segregated cycleways.                                          casualty data collected 5 years on from the scheme.
+
+    Circulation: Making sure the VMS signs are up to               Routing surveys before and after the scheme to
+    date with the existing traffic arrangements to avoid           ensure car park users travel using shorter and more
+    unnecessary circulation of traffic around the city             efficient routes
+    centre.
+
+Constraints
+With Transforming City Fund (TCF) having restricted spend stipulations (completion by April 1st 2023), the main
+constraint to this project is the short timescale as there is little room for delays. Additionally, there are
+implications of the short timescale on the affordability of this project as the failure to complete the project by the
+set deadline could result in the lack of funding.
+
+Interdependencies
+The delivery of the Bristol Bridge scheme is related to the wider A37/A4018 bus corridor project. The success
+of the scheme and, in regard to city-wide objectives, is dependent on the completion of the wider A37/A4018
+corridor project. This is particularly relevant as both schemes are aiming to provide continuous walking and
+cycling infrastructure across Bristol. Therefore, the successful completion of both schemes is necessary to
+ensure such continuity.
+
+Stakeholders
+A range of stakeholders have been identified throughout the development of the A37/A4018 City Centre
+Junctions scheme, as well as the wider corridor study. Key partners that have been involved to date include:
+•     Bristol City Council.
+• The Combined Authority.
+A public consultation was held in early 2022 on the proposed improvements for the number 2 bus route
+(A37/A4018). The Bristol Bridge scheme formed part of the proposed improvements. The public were asked to
+provide their feedback on the proposals.
+Option development
+This section provides an introduction to the different options which have been identified as being potentially
+able to meet the objectives identified above. Although the study is focussed on providing improvements to
+Bristol Bridge junction in Bristol City Centre, as per the DfT’s guidance, alternative options to the proposed
+interventions are also presented.
+
+Option 1: Do Nothing
+A Do Nothing scenario would result in the scheme not being brought forward. Therefore, the traffic signals at
+Bristol Bridge junction would not be replaced, along with no improvements being introduced to the walking and
+cycling infrastructure. Additionally, the outdated VMS signs would not be replaced.
+This option would not generate any improvements to walking, cycling, and consequently would not contribute to
+addressing the climate emergency, as outlined in section 2.3.2. Furthermore, it would not support the delivery
+of objective outlined in section 2.4. Therefore, this option is deemed as not acceptable.
+
+Option 2: Do Minimum
+The Do Minimum would encompass the replacement of traffic signals at Bristol Bridge only. This option would
+result in slight improvements of crossing facilities for cyclists and pedestrians, but it would not address the lack
+of continuous cycling infrastructure and lack of priority for cyclists at Bristol Bridge. The outdated VMS would
+
+
+
+Bristol Bridge Signals Junction and Car Park VMS Project - accessible WECA v2docx.docx 2.0 | 19th August
+2022                                                                                                       Page 26 of 53
+not be replaced and therefore the problem of vehicle circulation would not be addressed. Consequently, this
+option would not support the delivery of all objectives outlined in section 2.4.
+
+Option 3: Do Something
+The Do Something entails the replacement of traffic light signals at Bristol Bridge junction. Additionally, this
+option involved the provision of a dedicated and segregated cycleway as well as the expansion of footways.
+Crossing facilities would also be changed to make them more favourable for pedestrians and road layout would
+be changed to give priority to cyclists. VMS would be removed the address the problem of vehicle circulation
+around the city centre.
+This option would align with the objectives of the wider corridor study and contribute towards the climate
+emergency agenda.
+
+Options assessment
+A tailored high-level Multi-Criteria Assessment Framework (MCAF) has been developed to assess the three
+scheme options against the project’s Critical Success Factors (CSFs), which are the attributes essential for the
+successful delivery of the project. The CSFs cover a breadth of considerations across the Business Case
+appraisal process and are well-aligned with DfT and HM Treasury Guidance, as well as with the scheme’s
+objectives.
+In line with the guidance for this stage of assessment, the MCAF scoring has been undertaken using a 3-point
+qualitative scoring system with all the criteria given the same weighting. Table 2-6 sets out the alignment of the
+assessment criteria with the specific components of the objectives, and the data and rationale used for the
+judgement of scoring. The assessment is then presented in Table 2-7.
+
+Table 2-6 - Criteria for Option Assessment
+
+     Critical          Aligned            Source of
+    Success            Scheme            Data Used for                             Rationale for Scoring
+    Factors           Objectives         Assessment
+                                         Professional         +1 – the intervention is aligned with a lot of policy.
+                    Alignment with       judgement of
+ Policy Fit                                                   0 – the intervention is aligned with some policy.
+                    policy               alignment to
+                                         objectives           -1 – the intervention has little or no alignment with policy.
+                                                              +1 – the intervention improves crossing facilities for
+                    Provide                                   pedestrians and cyclists.
+ Contribution                            Provision of
+                    improved
+ to Improved                             new traffic          0 – neutral impact, the intervention improves crossing
+                    walking and
+ Transport                               lights at            facilities for pedestrians or cyclists.
+                    cycling
+ Network                                 junctions            -1 – the intervention does not improve crossing facilities
+                    facilities
+                                                              for pedestrians or cyclists.
+                                                              +1 – the intervention provides a dedicated, segregated
+                    Provide a            Provision of a       cycling infrastructure.
+                    safer transport      segregated
+                                                              0 – neutral impact, the intervention provides dedicated
+                    network for          cycle path and
+                                                              cycling infrastructure.
+                    cyclists and         crossing
+                    pedestrians          facilities           -1 – the intervention does not provide dedicated or
+                                                              segregated cycling infrastructure.
+
+                    Address                                   +1 – the intervention would reduce delays.
+                    congestion in        Demand for           0 – neutral impact, the intervention will have minimal
+                    the City             scheme option        delay change impacts.
+                    Centre.                                   -1 – the intervention will increase delays.
+                                                              +1 – the intervention would significantly encourage modal
+                    Address                                   shift away from private cars.
+ Contribution
+                    carbon               Demand for           0 – neutral impact, the intervention would have a small
+ to Quality of
+                    emissions and        scheme option        impact on modal shift away from private cars.
+ Life
+                    air quality                               -1 – the intervention would have no impact on modal shift
+                                                              away from private cars.
+
+
+Bristol Bridge Signals Junction and Car Park VMS Project - accessible WECA v2docx.docx 2.0 | 19th August
+2022                                                                                                       Page 27 of 53
+     Critical          Aligned            Source of
+    Success            Scheme            Data Used for                             Rationale for Scoring
+    Factors           Objectives         Assessment
+                                                              +1 – the intervention’s capital costs are expected to be
+                                                              below £2m.
+ Scheme                                  Initial cost         0 – the intervention’s capital costs are expected to be
+                    Affordability
+ Deliverability                          brackets             between £2m and £2.5m.
+                                                              -1 – the intervention’s capital costs are expected to be
+                                                              more than £2.5m.
+                                         Professional
+                                         judgement and        +1 – the intervention’s delivery faces no key constraints.
+                    Engineering          knowledge of
+                                                              0 – the intervention’s delivery faces some constraints
+                    and                  the scheme
+                                                              which may be mitigated.
+                    environmental        and local area,
+                    constraints          and scheme           -1 – the intervention’s delivery faces key constraints and
+                                         drawings and         other constraints which cannot be mitigated.
+                                         design
+                                                              +1 – the intervention’s delivery faces limited delivery
+                                         Professional         risks.
+                    Risks and            judgement as         0 – the intervention’s delivery faces some delivery risks
+                    uncertainties        to the key           which may be mitigated.
+                                         delivery risks       -1 – the intervention’s delivery faces some key delivery
+                                                              risks.
+
+                                         Professional         +1 – the intervention can be delivered in under 10
+                                         judgement as         months.
+                    Project
+                                         to how long          0 – the intervention can be delivered in between 10 and
+                    delivery
+                                         the project          12 months.
+                    timescales
+                                         might take to        -1 – the intervention is unlikely to be delivered in over 12
+                                         deliver              months.
+
+
+
+
+Bristol Bridge Signals Junction and Car Park VMS Project - accessible WECA v2docx.docx 2.0 | 19th August
+2022                                                                                                       Page 28 of 53
+Table 2-7 - Multi Criteria Assessment of Options
+
+
+
+
+Bristol Bridge Signals Junction and Car Park VMS Project - accessible WECA v2docx.docx 2.0 | 19th August
+2022                                                                                                       Page 29 of 53
+As outlined in Table 2-7, the MCAF has showed that a Do Nothing scenario (option 1) scored the
+least (-1), Do Minimum scenario (option 2) scored 3 overall, and a Do Something scenario (option 3)
+scored the highest (8). For this reason, option 3 is brought forward.
+
+Environmental sustainability and climate change
+considerations
+Environmental sustainability has been considered throughout the scheme development process,
+primarily by ensuring the scheme objectives align with the overarching ambitions and existing policies
+of both BCC and the Combined Authority with regards to environmental sustainability. By encouraging
+further use of sustainable means of travel, the scheme supports the Combined Authority and BCC
+objectives.
+
+
+
+
+Bristol Bridge Signals Junction and Car Park VMS Project - accessible WECA v2docx.docx 2.0 | 19th August
+2022                                                                                                       Page 30 of 53
+3. Economic Case
+Introduction
+The purpose of the Economic Case is to demonstrate the Value for Money (VfM) of the scheme
+through an
+assessment of the scheme’s likely costs and benefits. A VfM assessment typically includes assessing
+all the
+economic, environmental, social and distributional impacts of a proposal, using either qualitative,
+quantitative or
+monetised information. These impacts are not limited to those directly impacting on the measured
+economy,
+nor to those which can be monetised. The TAG Databook Nov 2021 is the source of values used
+throughout
+the subsequent appraisal. The Economic Case covers the following topics as part of the overall VfM
+assessment:
+• Appraisal methodology.
+•       Demand forecast and economic impacts appraisal approach.
+•       Economic appraisal summary.
+•       Unquantified impacts.
+•       VfM assessment.
+Appraisal methodology
+The appraisal methodology is split into active modes and VMS to provide a distinction between the
+two different types of schemes that make up the project. The scope of the appraisal was led by the
+identified objectives and outcomes from the Strategic Case.
+
+Active modes
+The scheme entails the improvement of active travel infrastructure at Bristol Bridge, as well as the
+replacement of four VMS across the city centre. The economic appraisal of cycling and walking
+infrastructure has been appraised using the Active Model Appraisal Toolkit (AMAT).
+The VMS economic appraisal used a different methodology. Google Maps were used to calculate
+current and future travel times to car parks from the four VMS locations. Analysis using a spreadsheet
+matrix was then undertaken to calculate the Value for Money of this intervention.
+
+Table 3-1 - Summary of data and assumptions driving walking and cycling forecasts
+            Future impacts or                 Methodology                               Relevant parameters
+            benefits quantified                                                         and assumptions and
+                                                                                        sources
+    1       Future cycling demand             Analysis of forecast increase in          Existing traffic counts at
+                                              cycling using DfT’s PCT tool.             Vivacity sensors and MCC
+                                              Active Mode Appraisal Toolkit.            locations.
+
+    2       Benefits of higher quality        Analysis of scheme drawings to            Scheme drawings.
+            public realm on pedestrians       identify improved public realm
+                                              elements.
+                                              Active Mode Appraisal Toolkit.
+
+
+The Active Mode Appraisal Tool (AMAT) is a spreadsheet model developed within the Department for
+Transport to estimate key economic impacts from cycling and walking interventions. It follows the
+appraisal guidance consistent with that set out in TAG Unit A5.1 Active Mode Appraisal (May 2022
+version). The Propensity to Cycle Tool (PCT) was used to forecast the increase in the number of
+pedestrians and cyclists on account of the proposed scheme.
+
+
+
+
+Bristol Bridge Signals Junction and Car Park VMS Project - accessible WECA v2docx.docx 2.0 | 19th August
+2022                                                                                                       Page 31 of 53
+AMAT assessments were completed for Bristol Bridge and weekend monetised benefits which were
+later combined to provide overall annual scheme impacts. Following this, the outputs are then totalled
+to provide the PVB/PVC and subsequently the BCR.
+Benefits have been assumed to accrue from 2024 over a period of 20 years, based on the design life
+of the investments. Application of growth in parameters such as values of time and of discounting to
+2010 is carried out as part of the AMAT function.
+A range of inputs and parameters are required in order to undertake the relevant economic
+assessment using AMAT, these primarily include:
+•       The pre-scheme and post-scheme level of walking and cycling infrastructure along the route.
+•       The number of walking/cycle trips per day within the scheme area before and after the
+        introduction of the proposed scheme.
+•   The length of the improved walking/cycle route as a percentage of the average length of a
+    walking/cycle trip which travels through the infrastructure.
+Due to the lack of continuous and segregated cycling infrastructure at Bristol Bridge, for the purpose
+of appraisal, the parameter for current level of provision within the AMAT was input as ‘on-road non-
+segregated cycle lane’, and the post-scheme infrastructure was categorised within AMAT as an ‘on-
+road segregated cycle lane’, reflecting the segregation of cyclists.
+The improvement in the quality of the environment for pedestrians was also inputted into AMAT, with
+the introduction of benches, pavement evenness and reduced crowding at the location recorded.
+During the appraisal, it was assumed that the scheme would not lead to an uplift in the number of
+pedestrians in the intervention area, which is a conservative assumption.
+
+VMS
+Spreadsheet appraisal was undertaken for the assessment of the impacts of replacing the four VMS.
+Table 3-2 sets out the methodology for the VMS appraisal.
+A spreadsheet-based appraisal has been used to monetise the expected benefits of VMS
+replacements. The appraisal establishes the size of travel market to identify travel demand and the
+number of users that may be impacted by VMS.
+The impacts of upgraded VMS are assessed based on journey times and distance travelled. Journey
+planning data has been used to establish:
+•       Current time and distance taken from VMS sign to destinations marked on the existing VMS.
+•       Future time and distance taken from the VMS to destinations marked on the proposed VMS.
+•       Most direct route time/distance vs. current route time/distance.
+
+An assumption is that VMS will not change demand for car parking in Bristol city centre, while induced
+demand is beyond scope.
+
+
+Table 3-2 - Summary of data and assumptions for VMS appraisal
+            Future impacts or                 Methodology                               Relevant parameters
+            benefits quantified                                                         and assumptions and
+                                                                                        their sources
+    1       Journey time savings              Analysis of journey times using           Google Maps journey
+                                              routing advised by existing VMS           planner at AM peak
+                                              against routing advised by the            weekday and IP weekend
+                                              new VMS
+    2       Distance travelled savings        Analysis of journey distances             Google Maps route
+                                              using routing advised by                  planner
+                                              existing VMS against routing
+                                              advised by the new VMS
+
+
+
+
+Bristol Bridge Signals Junction and Car Park VMS Project - accessible WECA v2docx.docx 2.0 | 19th August
+2022                                                                                                       Page 32 of 53
+          Future impacts or                   Methodology                               Relevant parameters
+          benefits quantified                                                           and assumptions and
+                                                                                        their sources
+ 3        Percentage of users                 Derive the number of drivers              Assumption that 10% of
+          needing the VMS                     that are reliant on the existing          drivers require VMS
+                                              VMS signs for directions to the           signage for directions
+                                              listed car parks
+ 4        Car park information                Information on car park capacity          Parkopedia for car park
+                                              and usage per day of car parks            capacities
+                                              signed by the four VMS
+ 5        Origin of trips                     How many people are driving               Analysis of WERTM
+                                              past the VMS sign to get to that          sector maps
+                                              car park
+ 6        Estimation of flows using           Estimate the daily number of
+          VMS                                 people expected to benefit from
+                                              VMS sign
+ 7        Quantification of impacts           Generate value of time and                2010 Market prices and
+                                              vehicle operating cost benefits.          values
+                                              Annualised and discounted                 TAG Data Book v1.18
+                                              across the 20-year scheme
+                                              lifecycle
+
+
+Demand forecast and economic impacts appraisal
+Active Mode Appraisal Toolkit
+Analysis of future walking and cycling demand is documented in this section. Recent traffic counts
+were used to establish a baseline for the demand. The PCT was then used to estimate future forecast
+flows for economic appraisal.
+
+Baseline conditions
+Traffic counts were used to establish baseline conditions for the pedestrian and cyclist demand.
+Vivacity sensor data was used to calculate the average 24-hour pedestrian and cyclist flows on
+weekdays for Bristol Bridge. The baseline flows do not consider future growth (without the scheme),
+therefore the approach undertaken is conservative.
+ Scheme element                                               Baseline conditions (trips per day)
+ Bristol Bridge                                               2,042
+
+Future changes in cyclist demand - Propensity to Cycle Tool
+The Propensity to Cycle Tool 17 (PCT), funded by the Department for Transport (DfT), provides an
+evidence base and future projections of what walking and cycling uptake could be achieved in
+England and Wales given various policy scenarios in line with the Government’s target to double
+cycling nationally by 2026 18. Data from the PCT is available as Origin to Destination trips based on
+Census 2011 Journey to Work data between Lower Layer Super Output Areas (LSOA). The PCT then
+estimates for each Origin-Destination trip the potential pedestrian and cycle mode share for each of
+the different policy scenarios profiles given the characteristics of the Origin-Destination trip. The four
+profiles provided in the PCT are as follows:
+
+
+17 https://www.pct.bike/m/?r=avon
+18
+https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/364791/141015_Cycling_Del
+ivery_Plan.pdf
+
+Bristol Bridge Signals Junction and Car Park VMS Project - accessible WECA v2docx.docx 2.0 | 19th August
+2022                                                                                                       Page 33 of 53
+•     Government Target (Equality) - doubling of cycling nationally, corresponding to the target in DfT’s
+      draft Cycling Delivery Plan 2014. Increase occurs solely as a function of trip distance and hilliness
+      equitably across age, sex, and socio-economic groups.
+•     Government Target (Near Market) - doubling of cycling nationally, corresponding to the target in
+      DfT’ s draft Cycling Delivery Plan 2014. Increase occurs as a function of trip distance, hilliness,
+      plus several socio-economic and geographical characteristics.
+•     Go Dutch - what would happen if English and Welsh people were as likely as Dutch people to
+      cycle a trip of a given distance and hilliness. Captures proportion of commuters that would be
+      expected to cycle if all areas of E&W had the same good cycle infrastructure and cycling culture
+      as Netherlands.
+• E-bike - Additional cycle above Go Dutch if there was widespread uptake of electric bikes.
+For the purpose of this appraisal the PCT profile of Government Target (Equality) was used to
+calculate the percentage increase in uplift of cyclists. The economic appraisal can be considered to
+be conservative given that the most conservative PCT profile has been selected.
+
+Table 3-3 - Summary of forecast cyclist uplift
+    Scheme element             Number of cyclists with scheme (trips                Uplift
+                               per day)
+    Bristol Bridge             2,613                                                570 (27.9%)
+
+
+Scheme costs
+A certain amount of costs has already been incurred prior to the submission of the FBC. These costs
+are regarded as ‘sunk costs’, which is not taken into account in the economic assessment. These
+costs total £36,820. Details of the sunk costs are set out in the Financial Case.
+In addition to the sunk costs, the scheme’s base costs are estimated to be £1,068,884 as provided by
+BCC. Appropriate inflation and contingency have been considered leading to a total estimated outturn
+cost of £1,652,646 (including sunk costs). Details of the breakdown are presented in the Financial
+Case and are summarised in Table 3-4.
+The estimate for capital cost was developed by the BCC design team in 2022. The Bill of Quantities
+(BoQ) for the construction work was produced by the Bristol City Council Engineering and Design
+team in parallel with the designs for the works. The designs are construction standard and the BoQ is
+considered to be reflective of this. The BoQ was used along with the latest rates in the new BCC
+Framework (released in late 2021). These rates reflect up-to-date costs for materials, supplies,
+resources and already include allowance for potential inflation within 2022.
+To estimate the Present Value of Cost (PVC) for appraisal, the estimated base cost was taken
+through the standard process recommended in TAG A1.2. Consideration of inflation was applied
+between 2022 and scheme opening in 2024. Section 4.3 discusses how the inflation has been arrived
+at and applied.
+A contingency allowance of £412,183 was estimated based on an QRA exercise following the single
+probabilistic approach in the Green Book. Details of the QRA exercise are presented in Appendix A.
+After reviewing Table 8 of TAG Unit A1.2, 20% Optimism Bias (OB) is used in this FBC. As per TAG
+guidance, this 20% OB figure has been used for the economic appraisal rather than the quantified risk
+figure.
+All the usual treatment of cost such as rebasing and discounting to 2010 and conversion to market
+price unit of account were all undertaken following TAG to arrive at a PVC of £848,491 for the
+combined scheme.
+Operating costs are forecast to be net zero for the scheme as the cycling scheme will see reduced
+maintenance cost through use of more modern materials at signals (e.g. LED) which will generate
+fewer faults. The change of use from road to footway and public realm will generally incur less
+maintenance costs given that there is a slower rate of wear from pedestrians and cyclists rather than
+vehicles.
+
+
+
+
+Bristol Bridge Signals Junction and Car Park VMS Project - accessible WECA v2docx.docx 2.0 | 19th August
+2022                                                                                                       Page 34 of 53
+The costs are annual and have been profiled over the 20-year appraisal period, taking into account of
+real cost increase, price base adjustment to 2010 and discounting to 2010 as per the guidance in
+TAG.
+
+Table 3-4 - Breakdown of scheme costs
+                                                Bristol Bridge               VMS                       Total
+ Sunk costs                                         £26,820                £10,000                   £36,820
+ Base costs                                        £924,767                £144,117                £1,068,884
+ Inflation                                         £118,906                £15,853                  £134,759
+ Risk                                                                                               £412,183
+ Outturn cost (excluding sunk cost)                                                                £1,615,826
+ Present Value of Costs (PVC)                      £720,868                £114,596                 £835,463
+
+
+Economic appraisal summary
+The Present Value of Benefits (PVB) is the summation of two benefit streams discussed in Section
+3.2. Quantified benefits for the period from 2022 to 2041 are summarised in Table 3-5 below.
+Breakdowns are provided to demonstrate the PVBs and BCRs for the three individual scheme
+elements as well as the overall scheme package.
+
+Table 3-5 - Quantified benefits
+                                                                                                    Combined
+                                                 Bristol Bridge                 VMS              scheme package
+ Present Value of Benefits (PVB)                      £3.85m                  £0.20m                   £4.05m
+
+
+Table 3-6 applies the PVB with the calculated PVC for both the overall scheme package and its
+individual elements.
+
+Table 3-6 - Benefit Cost Ratios
+                                                                                                    Combined
+                                                 Bristol Bridge                 VMS              scheme package
+ Present Value of Benefits (PVB)                      £3.85m                  £0.20m                   £4.05m
+ Present Value of Costs (PVC)                         £0.72m                  £0.12m                   £0.84m
+ Benefit Cost Ratio (BCR)                               5.3                      1.8                       4.8
+
+
+Value for Money Statement
+TAG guidance provides a framework for categorising and ranking projects by the perceived value-for-
+money
+they potentially offer the taxpayer. This allows funding bodies to compare projects against each other
+on a like-for-like basis when making investment decisions. The DfT’s Value for Money Framework
+sets out each of the VfM categories that projects should be categorised into. These are set out in
+Table 3-7.
+
+Table 3-7 - Overview of DfT Value for Money categories by scheme benefit-to-cost ratio
+ VfM Category                                                 Implied by….
+ Very High                                                    BCR greater than or equal to 4
+ High                                                         BCR between 2 and 4
+
+
+Bristol Bridge Signals Junction and Car Park VMS Project - accessible WECA v2docx.docx 2.0 | 19th August
+2022                                                                                                        Page 35 of 53
+ VfM Category                                                 Implied by….
+ Medium                                                       BCR between 1.5 and 2
+ Low                                                          BCR between 1 and 1.5
+ Poor                                                         BCR between 0 and 1
+ Very Poor                                                    BCR less than or equal to 0
+
+
+Based on an indicative BCR of 4.8 presented in Table 3-6, the scheme can be considered as having a
+Value for Money rating of ‘very high’.
+
+
+Sensitivity testing
+The appraisal of walking and cycling scheme using the methodology outlined in TAG A5.1 – Active
+Mode Appraisal is recognised as being sensitive to forecasts and assumptions used. It is therefore
+recommended to undertake sensitivity tests based on the core scenario to increase the robustness of
+the analysis.
+
+Sensitivity test 1: Increased scheme cost
+In order to indicate the potential impact of a cost run, a test has been performed of the impact on the
+BCR should the eventual spend be higher than forecast. For instance, inflation may be higher than
+forecasted which would impact on the overall scheme cost. A 20% increase to the base cost (or PVC)
+has been selected. Table 3-8 highlights that the BCR would reduce to 4.0.
+
+Table 3-8 – Sensitivity test 1: Benefit Cost Ratios
+
+
+                                                                                                    Combined
+                                                 Bristol Bridge                 VMS              scheme package
+ Present Value of Benefits (PVB)                      £3.85m                  £0.20m                   £4.05m
+ Present Value of Costs (PVC)                         £0.87m                  £0.14m                   £1.00m
+ Benefit Cost Ratio (BCR)                               4.4                      1.5                       4.0
+
+
+Sensitivity test 2: Changes to AMAT uplift approach
+The AMAT approach presented in section 3.3.1 outlined the approach to calculating the uplift in the
+number of cyclists generated by the Bristol Bridge scheme. PCT’s Government Target (equality)
+factor was selected. For this sensitivity test, the Government Target (near market) factor was instead
+selected. Consequently, the uplift at Bristol Bridge increases from 28% to 36%.
+The results of the change to the PVB and BCR are presented below.
+
+Table 3-9 – Sensitivity test 2: Benefit Cost Ratios
+                                                                                                    Combined
+                                                 Bristol Bridge                 VMS              scheme package
+ Present Value of Benefits (PVB)                      £4.95m                  £0.20m                   £6.42m
+ Present Value of Costs (PVC)                         £0.72m                  £0.12m                   £0.84m
+ Benefit Cost Ratio (BCR)                               6.9                      1.8                       7.7
+
+
+Unquantified impacts
+As well as the monetised economic benefits, the scheme will also deliver several non-quantifiable
+benefits. In the interests of proportionality, the environmental, social and distributional, construction
+
+
+Bristol Bridge Signals Junction and Car Park VMS Project - accessible WECA v2docx.docx 2.0 | 19th August
+2022                                                                                                        Page 36 of 53
+and maintenance
+impacts have been considered qualitatively. An Appraisal Summary Table (AST) is provided in
+Appendix D which summarises all benefits.
+
+An increase in footfall and cycling levels
+Whilst the economic benefits relating to ambience and health improvements is captured in AMAT
+there is a further benefit of the economic activity of increasing these trip numbers which will also be
+realised. The scheme will create and enhance a safer, more welcoming environment for people
+including the most vulnerable road users. These regenerative measures will encourage those that
+can, to travel across the city using sustainable modes, increasing footfall in key retail and leisure
+areas, subsequently increasing economic expenditure within the city.
+
+Increased reliability for bus users
+The scheme will reduce congestion as VMS users are guided in a corrected and more appropriate
+manner. This will reduce circulation of vehicles in Bristol city centre. A reduction in congestion will
+also lead to increased reliability for bus users as well as those that have a legitimate reason to travel
+through the centre, such as emergency service vehicles.
+
+Air quality and noise
+The scheme encourages and protects mode shift away from the use of motorised vehicles for
+commuting
+journeys, in favour the use of walking and cycling around Bristol city centre. This mode shift protected
+(through the provision of increased capacity) would avoid an increase in vehicle km travelled in the
+highway network. This reduction would therefore have a beneficial impact on noise, air quality and
+greenhouse gases.
+
+Social and distributional impacts
+The proposed intervention is not expected to disadvantage the sensitive groups (such as people with
+reduced mobility, older people, and people experiencing higher levels of deprivation) as it facilitates
+equitable access to walking and cycling. More detailed assessment is covered in a step one
+distributional impact screening (Appendix C) undertaken following the guidance in TAG unit A4.2. No
+further assessment was needed following the findings of the step one screening process.
+
+
+
+
+Bristol Bridge Signals Junction and Car Park VMS Project - accessible WECA v2docx.docx 2.0 | 19th August
+2022                                                                                                       Page 37 of 53
+4. Financial Case
+Introduction
+The Financial Case discusses the costs and affordability of works to deliver the City Centre Junctions
+package of schemes. The capital costs are presented by scheme element; and any potential
+additional operational, maintenance and renewals costs associated with the scheme are also
+considered. This section is structured as follows:
+•     Chief Financial Officer sign-off.
+•     Scheme costs.
+•     Spend profile and funding sources.
+Chief Financial Officer sign-off
+Although BCC is responsible for the delivery of the proposed intervention, the Combined Authority is
+the promoting body of the scheme and therefore the financial sign-off will be required from the
+Combined Authority.
+This business case also needs to obtain BCC’s cabinet or delegated approval. Therefore, it will go
+through the BCC’s internal assurance process in parallel with the grant assurance review. Both the
+BCC approval and the Combined Authority approval (at joint committee) is anticipated to be obtained
+in September 2022.
+
+Scheme cost
+The sunk cost occurred before the submission of the FBC is outlined in Table 4-1.
+
+Table 4-1 - Sunk costs
+    Item                                                        Cost
+    Engineering Design Fees Bristol Bridge                      £14,608
+    C4 Design Fees Bristol Bridge – Open Reach                  £9,712
+    C4 Design Fees Bristol Bridge - Vodafone                    £2,500
+    Traffic Signals Design Fees                                 £10,000
+    Total sunk cost                                             £36,820
+
+
+The total estimated scheme outturn cost is £1,652,646 which includes a sunk cost of £36,820 and
+further £1,615,826 for the remainder of the delivery. The estimate for capital cost was developed by
+the BCC design team in 2022. The Bill of Quantities (BoQ) for the construction work was produced by
+the Bristol City Council Engineering and Design team in parallel with the designs for the works. The
+designs are construction standard and the BoQ is considered to be reflective of this.
+The BoQ was used along with the latest rates in the new BCC Framework (released in late 2021).
+These rates reflect up-to-date costs for materials, supplies, resources and already include allowance
+for potential inflation within 2022.
+Inflation from September 2021 to March 2022 is based on ONS Construction Output Price Indices 19.
+Inflation in subsequent years is based on the Faithful and Gould Quarterly Intelligence report 20 which
+provides a forward look on expected inflation in the construction industry. Table 4-2 shows the
+inflation index that has been used; inflation has been applied based on the spend profile of the
+scheme.
+
+Table 4-2 - Inflation index
+    Year             Inflation Index
+    Sep 2021         1.00
+
+19 https://www.ons.gov.uk/businessindustryandtrade/constructionindustry/datasets/interimconstructionoutputpriceindices
+20 https://www.fgould.com/perspectives/uk-construction-intelligence-report-q2-2022/
+
+
+
+Bristol Bridge Signals Junction and Car Park VMS Project - accessible WECA v2docx.docx 2.0 | 19th August
+2022                                                                                                           Page 38 of 53
+ Year                Inflation Index
+ 2022/23             1.11
+ 2023/24             1.15
+ 2024/25             1.18
+ 2025/26             1.22
+ 2026/27             1.25
+
+
+Contingency was estimated through a separate Quantified Risk Assessment (QRA) exercise, which
+has considered the potential project risks, their likelihood, and their potential cost implications.
+Preparation of the QRA following the single probabilistic approach documented in the Green Book.
+The outcome of the QRA was an estimated contingency of £412,183. Risks considered are discussed
+in more detail in Section 6.4 and Appendix A.
+A breakdown of the costs that yet to occur (excluding sunk costs) is provided in Table 4-3 below.
+
+Table 4-3 - Scheme costs net of sunk costs
+ Infrastructure                                                           Total                 Total
+ Construction works and              Civils works                         £546,593
+ other
+                                     Site investigations                  £2,800
+                                     Bus stops                            £21,000
+                                     Traffic signals                      £30,500
+                                     Street lighting and signage          £18,500
+                                     Landscaping and SUDS                 £28,500
+                                     CCTV                                 £2,000
+                                     C4 estimates                         £16,713
+                                     C3 estimates                         £221,348              £887,954
+ Preparation and project             PM fees                              £78,158
+ fees including PM
+                                     Supervision fees                     £85,395
+                                     Communications fees                  £6,918
+                                     Monitoring and evaluation            £3,459
+                                     Legal fees                           £7,000                £180,930
+
+ Inflation                                                                £134,759
+ Contingency                                                              £412,183
+ Outturn costs (excluding                                                 £1,615,826
+ sunk costs)
+
+
+OPEX costs (Operational, maintenance and renewal costs) are not included in the table above. They
+will be funded through BCC’s existing maintenance budget. Operating costs have been forecast to be
+net zero for the scheme as the cycling scheme will see reduced maintenance cost through use of
+more modern materials at signals (e.g. LED) which will generate fewer faults. The change of use from
+road to footway and public realm will generally incur less maintenance costs given that there is a
+slower rate of wear from pedestrians and cyclists rather than vehicles.
+
+
+Bristol Bridge Signals Junction and Car Park VMS Project - accessible WECA v2docx.docx 2.0 | 19th August
+2022                                                                                                       Page 39 of 53
+Spend profile and funding source
+The spend profile for the scheme is presented in Table 4-4. It is noted that this includes a nominal
+allowance for monitoring and evaluation. The funding source for scheme delivery is anticipated to be
+the West of England Combined Authority. The scheme opening is assumed to be September 2023.
+
+Table 4-4 - Spend profile by source and financial year
+ Cost heading                                  2022/23                              2023/24
+ West of England Combined                      £509,755                             £1,106,071
+ Authority
+*Sunk cost already covered by the Combined Authority through a different funding pot
+
+
+
+
+Bristol Bridge Signals Junction and Car Park VMS Project - accessible WECA v2docx.docx 2.0 | 19th August
+2022                                                                                                       Page 40 of 53
+5. Commercial Case
+Introduction
+The Commercial Case covers the following topics which consider the operational and commercial
+viability of the proposed scheme, sets out the process that BCC will take in procuring services and
+materials to deliver the project. It also covers the approach for contract and risk management to
+ensure the achievement of the commercial outcome.
+
+Output-based specification
+The outputs of this scheme are as described in the Strategic Case with the scheme drawings
+presented in Appendix B. The cost of its implementation is set out in the Financial Case.
+In summary, the scheme will deliver:
+•   Cycle infrastructure improvements and traffic signal replacements at Bristol Bridge.
+•   Replacement of four Variable Message Signs (VMS) in the city centre.
+Procurement strategy
+Bristol City Council operates a Framework Contract for Procuring Highway Works – BHAMaAWF
+(Bristol Highway Assets and Associated Works Framework. The contract runs between 2021 and
+2024. The contract consists of several lots. The lots which will be used to procure the goods and
+services required to deliver this project are:
+•   Lot 1 – Machine Laid Surfacing Framework.
+•   Lot 4 – High Friction Surfacing Framework.
+•   Lot 5 – Highway Works Framework (for works under £150K).
+•   Lot 6 – Highway Works Framework (for works over £150K) - open competition between pre-
+    approved contractors.
+• Lot 12 – Traffic Management Framework.
+BCC also appoints contractors through long-term maintenance contracts for the supply and
+installation of signalling equipment and the supply and installation of street lighting equipment
+(Including illuminated signs and other electrical connections such as bus shelters.
+The contracts operate under NEC4 Terms and Conditions with a Schedule of Rates other than Lot 6.
+Lot 6 is open competition and Option B is generally used (Priced Bill of Quantities). There is the
+flexibility to use Option A or any other option, but Option B is preferred. Inflation indices are applied to
+the Schedules of Rates in year 2 of the contract.
+
+Sourcing options
+Bristol Bridge cycle scheme
+The winning contractors operating on the Schedule of Rates Contracts will all be selected based on
+price, quality and social value. BCC goes to the first placed contractor (the ‘preferred contractor’
+approach) and if they turn down the work there is a process in place for offering the work to the
+contractor in second place and so on. Tenders are evaluated based on Price, Social Value and
+Quality.
+Lot 6 is normally awarded based on price and quality. The price is based on the tender price and an
+assessment of the contractor’s approach to a typical compensation event. Quality is assessed by a
+panel. Attached is a worked example of a Lot 6 Tender Evaluation.
+This goes into a tender report and is signed off by the BCC business partner and the director.
+
+VMS replacements
+The VMS replacements will be procured using a different route to the cycling scheme due to the
+different nature of the scheme. VMS replacements will be procured using a sole source framework.
+BCC selected the supplier, as the signs have the lowest whole life costs. The signs have reputation of
+being very reliable, and for their green credentials. They are the only sign type that has water
+
+
+
+Bristol Bridge Signals Junction and Car Park VMS Project - accessible WECA v2docx.docx 2.0 | 19th August
+2022                                                                                                       Page 41 of 53
+absorbant mats inside rather than heaters, so they use approximately 10x less power than the
+existing VMS used across Bristol.
+
+Payment mechanisms
+Contractors submit monthly accounts based on a measure of the work that has been carried out.
+Variations may be costed based of the Contractors submitted Framework rates, unless there is a
+reason why these would not be applicable. The contracts are managed in line with the NEC4 contract
+with the use of Early Warning Notices and Performance Measurement Indicators.
+To measure performance of contractors against targets, monthly progress meetings are held, often
+with key stakeholders such as Network Management and the Signals Team and a culture of mutual
+co-operation is fostered to successfully complete contracts. There is also the threat of delay damages
+written into the tender in order to incentivise suppliers to deliver on-time.
+
+Pricing framework and charging mechanisms
+The form of Tender spells out the contract period, boundaries of the site, that we operate under
+English Law, the name of the Adjudicator, that we will communicate in English and use GBP, the
+contract period. The Contractor signs, BCC signs, a Purchase Order is sent (as the mechanism for
+payment through BCC's finance system). Cost and programme are monitored through the contract
+period and BCC works with the contractor to identify any potential cost or time savings as the project
+progresses.
+The contractor submits monthly remeasure accounts which are checked by the BCC site team and a
+payment certificate is issued against which the contractor invoice sums due.
+BCC will have a single specification, form of tender and contract for the Bristol Bridge cycling scheme
+and a bill of quantities and monthly accounts from the contractor for the junction. The contractor will
+make a payment application based of remeasured works and our site team will issue a payment
+certificate.
+For VMS, the signs will be bought and installed through use of the approved suppliers.
+
+Risk allocation and transfer
+BCC projects are well planned and supervised to ensure that the projects are well co-ordinated and
+risk reduced.
+Many of the risks (such as working around buried services) are apportioned to the contractor via the
+contract.
+The selected construction company and its supply chain work in accordance with the principles as set
+out in NEC3/NEC4. The standard NEC3/NEC4 approach to risk will be utilised. The NEC3/NEC4
+operates an early warning system where both parties notify each other of any matter that could
+increase the prices, interfere with the timescales or impair the effectiveness of the works. An Early
+Warning Register shall be maintained during the construction phase. Where change occurs these are
+recorded as compensation events and the Contractor maybe entitled to additional payment and
+extension to the programme. A Compensation Event Register shall be maintained during the
+construction phase.
+As the project progresses it shall maintain a Project Risk Register, which includes items to do with
+funding, planning, legal, environmental, political and construction phase risks. It shall be maintained
+by the Project Manager, Principal Designer and the Principal Contractor, with appropriate support
+where required by the wider project team.
+
+Contract length
+BCC plans to have one contract for the Bristol Bridge cycling scheme, while the VMS can be
+delivered on a sole source framework, speeding up its delivery by delivering it separately.
+For the delivery of the Bristol Bridge cycling scheme, BCC have allowed four months for the main
+civils work. The resurfacing will follow on.
+BCC will maintain a high-level programme of all the projects within the programme and bring schemes
+forward in a timely manner.
+
+
+
+
+Bristol Bridge Signals Junction and Car Park VMS Project - accessible WECA v2docx.docx 2.0 | 19th August
+2022                                                                                                       Page 42 of 53
+Contract management
+The project will be resourced with an NEC4 project manager and also site for larger contracts. Design
+support will also be offered by BCC Engineering Design.
+A tender report will be prepared for each contract in the programme and signed for acceptance by the
+relevant BCC Director under Delegated Authority. The level of authority is dependent on the size of
+the contract and will be in line with BCC Financial Regulations.
+It is too early to name people who will be responsible for administering contracts and will depend on
+the level of internal resource available and workload. This is a task that could be brought in from the
+private sector.
+BCC’s Design team will manage the contract, supervise the quality of the works, deal with accounts
+and undertake design support. They will also co-ordinate the third-party dependencies e.g. signals
+contractor, lighting contractor, utilities companies.
+
+Social Value Act
+BCC notes the importance of the Social Value Act and wishes to demonstrate its commitment to the
+principles of the Act and to achieving the top ten priorities listed below:
+1. Promote the local economy through the use of local suppliers and the voluntary and community
+   sector in order to creatine and sustain new local jobs and apprenticeships.
+2. Contribute to carbon reduction targets and use resources wisely.
+3. Conserve and enhance the environment, supporting biodiversity, minimising pollution and waste
+   and making best use of the environmental opportunities of work undertaken by our suppliers.
+4. Promote the personal and physical health and the mental and emotional well-being of people
+   within Bristol and the rest of West of England.
+5. Support schools and colleges e.g., through new work placement schemes, providing mentors or
+   assisting in mock interviews.
+6. Increase participation in the Children’s 6. Commissioner Takeover Challenge, find details here:
+   https://www.childrenscommissioner.gov.uk/takeover-challenge/
+7. Provide training, workplace experience and/or employment opportunities for:
+         •    People with Disabilities.
+         •    People with Learning Difficulties.
+         •    Care Leavers.
+         •Young People who are not in Education, Employment or Training, or Others who may find
+          access to employment more challenging or who may be under-represented in the
+          workforce e.g., ex-offenders.
+8. Support schools through the provision of business support services.
+9. Reduce health and social care inequalities across the Bristol area.
+10. Achieving a service delivery model which uses, engages, or supports the local community and
+    voluntary sector including ideas such as adopting a local voluntary organisation as the provider’s
+    ‘charity of the year’.
+
+
+During the construction of the scheme, it has been agreed that the framework sourced contractors
+will:
+•   Continue to achieve priority 1 through its procurement framework - any commissions or
+    purchases for this project will contribute to priority 1, however these could not be easily quantified.
+•   Continue to achieve priority 2 through its day-to-day operations – meaning that activities under
+    this project will contribute to this priority, however these could not be easily quantified.
+•   Continue to achieve priority 3 through its day-to-day operations - so activities under this project
+    will contribute to priority 3, however these could not be easily quantified.
+
+
+
+
+Bristol Bridge Signals Junction and Car Park VMS Project - accessible WECA v2docx.docx 2.0 | 19th August
+2022                                                                                                       Page 43 of 53
+6. Management Case
+Introduction
+The Management Case covers the following topics which concern how the project will be delivered. –
+The chapter discusses the proposed governance structures, delivery programme with key
+dependencies and milestones, how the project’s risks will be managed, plans for effective
+communications and stakeholder engagement, as well as plans for monitoring and evaluation.
+•   Promoter and delivery arrangements.
+•   Project governance and delivery.
+•   Programme plan.
+•   Risks, constraints, and dependencies.
+•   Land acquisition, planning, and other consents.
+•   Project assurance.
+•   Monitoring and evaluation.
+Promoter and delivery arrangements
+The Combined Authority has secured funding for the delivery of this scheme from the Transforming
+Cities Fund (TCF). Bristol City Council is the organisation with responsibility for the development of
+this FBC and ensuring that the funds allocated for this scheme are managed effectively to ensure that
+the benefits of the scheme are realised.
+BCC has the responsibility to deliver the scheme, which will include responsibilities for development
+of the designs, technical approvals and cost estimates. The BCC lead will also act as the interface
+between this scheme and the wider corridor study, which is currently at OBC stage.
+
+Communications and stakeholder management
+In terms of engagement for the scheme, the Bristol Bridge cycling scheme design was included in a
+recent public consultation on the wider A37/A4018 public consultation (29th November to 28th
+January 2022).
+The following milestones are anticipated for the communications aspect of the project:
+•   Press release: announcement of successful funding bid (post the Combined Authority Committee
+    meeting of 29th September 2022).
+•   Press release: announcement of works beginning. Post contractor appointment and programme
+    agreement.
+Project governance and delivery
+Governance
+Bristol Bridge Cycling scheme
+Figure 6-1 illustrates the project governance structure. This integrates the Transport Programme
+Delivery Board with the Strategic Corridors Programme Delivery Board.
+
+
+
+
+Bristol Bridge Signals Junction and Car Park VMS Project - accessible WECA v2docx.docx 2.0 | 19th August
+2022                                                                                                       Page 44 of 53
+Figure 6-1 - Project governance structure
+
+
+
+
+BCC has established a Strategic Corridors Programme Delivery Board which is responsible for
+overseeing the delivery of projects along the strategic corridors. The programme board is led by
+Senior Responsible Officer, Pete Woodhouse, who is responsible for the achievement of benefits
+identified within the business case and in alignment with the Combined Authority’s strategic
+objectives. The Programme Manager, Steve Pick, is responsible for the delivery of the project and is
+accountable to the SRO and the Programme Delivery Board.
+The appointed Work Package Project Manager (PM) is Thor Sever. The primary focus of the PM will
+be to define the Project Plan and to ensure that the project is delivered on time and within
+specification and budget, seeking additional financial authorities as necessary. In addition, the PM will
+be responsible for reporting back on progress, resolving any problems that arise and responding to
+changes throughout the lifecycle of the project delivery. The PM will further be responsible for the
+monitoring and evaluation stages of the project.
+
+VMS scheme
+Due to the basic nature of the scheme delivery, no full governance structure is required. The scheme
+will be delivered according to the normal practices of the department, and the signs will be bought and
+installed through use of the approved suppliers.
+The signs will be ordered and commissioned from Swarco, with civils, poles and traffic management
+and project management from Yunex. The VMS signs will be delivered, and Yunex booked for traffic
+management and sign installation.
+BCC will raise orders, inspect the installation quality and ensure it is adopted into the maintenance
+programmes.
+
+Delivery
+BCC has a proven track record of delivering major transport infrastructure alongside considerable
+experience in:
+•   Delivering major transport schemes.
+•   Successfully obtaining consents for major infrastructure schemes.
+•   Developing and maintaining good working relationship with key partners and stakeholders.
+
+
+Bristol Bridge Signals Junction and Car Park VMS Project - accessible WECA v2docx.docx 2.0 | 19th August
+2022                                                                                                       Page 45 of 53
+• Internal resourcing and governance requirements for major schemes.
+A few examples of BCC’s successes in delivery transport infrastructure schemes are outlined in Table
+6-1.
+
+Table 6-1 - Examples of BCC's previous successes in scheme delivery
+ Schemes                        Summary
+ Baldwin Street (2016)          BCC delivered a segregated bidirectional cycle lane from Bristol Bridge
+                                through the harbourside fountains linking the bottom of Park Street. This
+                                cycling infrastructure resulted in a 231% increase over 5 years.
+ Prince Street (2018)           A segregated bidirectional cycle lane linking Cumberland Rd across
+                                Prince St bridge to join the Baldwin Street works (as part of Metrobus).
+                                This saw a 146% increase over 5 years.
+ Whitehouse Street              Whitehouse Street segregated bidirectional cycle lane was installed to
+ (2018)                         link Windmill Close with York Road. This particular length of cycle
+                                infrastructure is an exemplar example of continuous crossings over side
+                                roads.
+
+
+Between August 2020 and July 2021 BCC implemented an Experimental Traffic Regulation Order
+(ETRO) at the Bristol Bridge Junction funded by Emergency Active Travel Funding. The scheme
+objectives were focused on the reallocation of road space to sustainable transport modes by
+prioritising buses, cycling and walking through a series of Bus Gates located at either end of Baldwin
+Street and Bristol Bridge. The effect of the Bus Gates was to remove through traffic from key corridors
+between the Shopping District, Temple Meads and the City Centre. These key corridors could then be
+utilised for sustainable transport purposes with reduced impediment from general traffic. The ETRO
+was made permanent in July 2021 after the results of the experimental period concluded that the road
+network continued to function well, taking into account the new restrictions, and that bus journey times
+and the conditions for active travel had improved.
+
+Programme plan
+Key project milestones are shown in Table 6-2, and a distinction between the delivery of the cycling
+scheme and VMS. The milestones have considered the constraints and dependencies listed in
+Section 6.6.2. The full programme is set out in Appendix F.
+
+Table 6-2 - Project milestones
+ Item                                                    Milestone date
+ BCC cabinet approval                                    September 2022
+ Funding decision in Joint Committee                     September 2022
+ meeting
+ Tender awarded (cycling scheme)                         October 2022
+ VMS signs ordered (VMS scheme)                          December 2022
+ Contractor mobilisation (cycling scheme)                December 2022
+ Contractor mobilisation (VMS scheme)                    March 2023
+ Completion (VMS scheme)                                 May 2023
+ Completion (cycling scheme)                             September 2023
+
+
+
+
+Bristol Bridge Signals Junction and Car Park VMS Project - accessible WECA v2docx.docx 2.0 | 19th August
+2022                                                                                                       Page 46 of 53
+Risks, constraints and dependencies
+Risks
+Bristol City Council’s Risk Management Assurance Policy 21 sets out the framework for the council’s
+approach to systematic management of risk. The council is committed to maintain effective control of
+public funds and efficient deployment and use of resources achieving value for money.
+A risk register and Quantified Risk Assessment (QRA) has been completed for the scheme, following
+the single point probability analysis documented in Section A5.14 of the Green Book. This approach is
+focused on deriving the ‘expected value’ of a risk by multiplying the probability of this risk occurring by
+the costs associated with the risk materialising. Output from the assessment is contained in Appendix
+A.
+The main purpose of a QRA is to support the scheme costing to cover the construction of the scheme,
+by predicting the level of risk contribution, having a defined level of confidence. QRA allows for
+uncertainty in unplanned and unforeseen additional cost items that cannot be included in the project
+costs. It helps focus attention on priority areas. Consideration is given to both cost risks (financial) and
+schedule risks (delay).
+The project risk register has identified the main risks, mitigation measures and owners. The risk
+register was reviewed by BCC’s design and costing teams and the QRA updated accordingly on a
+regular basis. The management strategy will enforce a systematic approach to responding to the
+various risks during the project lifecycle and will continuously look to avoid, mitigate, transfer, or
+accept risks. In many cases, additional technical work or surveys, or early discussions with partners,
+will reduce or mitigate risks. Risk control measures, such as preventive, corrective, directive or
+detective measures will be in place to treat risks. Delivery and contractor teams will be responsible for
+managing their risks and reporting any newly identified risks to the PM. Risks escalated to Medium or
+High which could impact on the progress or financial position of the project will be referred by the
+BCC PM.
+Several top risks identified in the risk assessment are illustrated in Table 3-3 along with their ratings
+before and after the proposed mitigation measures. Full details of the assessment are in Appendix A.
+
+Table 6-3 - Top risks and their proposed mitigations
+ Top risks                     RAG            Proposed mitigation measures                           RAG rating
+                               rating                                                                (post
+                                                                                                     mitigation)
+ High levels of inflation      Red            An inflationary uplift has been applied to             Amber
+ nationally impacts the                       the base case cost, while an additional risk
+ delivery of the project                      budget for inflation has been set aside at
+                                              10% of the scheme cost
+ TCF spend deadline            Red            Project is being submitted on the basis it             Amber
+ of March 31st 2023 for                       will be funded by TCF until March 23 or
+ project completion                           later subject to DfT confirmation, any
+ missed                                       outstanding budget required will be funded
+                                              through CRSTS allocation to be considered
+                                              as the process unfolds
+ Inflation in the              Red            An inflationary uplift has been applied to             Amber
+ construction sector                          the construction cost
+ impacts the
+ construction costs of
+ the project
+
+
+
+
+21 10 - Appendix A - Risk Management Assurance Policy 2019.pdf (bristol.gov.uk)
+
+
+
+Bristol Bridge Signals Junction and Car Park VMS Project - accessible WECA v2docx.docx 2.0 | 19th August
+2022                                                                                                       Page 47 of 53
+ Top risks                     RAG            Proposed mitigation measures                           RAG rating
+                               rating                                                                (post
+                                                                                                     mitigation)
+ Network availability to       Amber          Highways works will be carefully managed               Green
+ carry out the required                       by the BCC Network Management Team
+ delivery of the project.                     and any full closures would be kept to a
+ Bristol Bridge signal                        minimum. The BCC Network Management
+ junction is located at a                     Team co-ordinates planned highways
+ critical node within the                     works and events on the network and will
+ Bristol central area. A                      ensure minimum disruption. The Redcliffe
+ full closure of the                          Bridge works are due to complete three
+ junction would need to                       months before the project delivery
+ be minimised given
+ the long alternative
+ routes required.
+ BCC and/or the                Amber          Project has a strategic fit within a wider             Green
+ Combined Authority                           programme of corridor investment. The
+ no longer see the                            project is coherent with the objectives as
+ project as necessary                         set out in the Joint Local Transport Plan 4.
+ in the delivery of long                      Ongoing dialogue with BCC management
+ term aims for the                            and the Combined Authority colleagues to
+ region and                                   ensure that strategic alignment is clear.
+ consequently halt                            Time contingency placed at the end of the
+ proceedings                                  programme to allow for delay.
+ A delay in the                Amber          Ongoing communication with the Combined                Green
+ Combined Authority                           Authority regarding the requirements.
+ assurance process                            Atkins Appraisal Specification Note
+ could result in a late                       (business case methodology) shared with
+ submission of the                            the Combined Authority, while time
+ FBC, again this could                        contingency placed at the end of the
+ push the project back                        programme to allow for delay.
+ to the next Combined
+ Authority Joint
+ Committee date
+ The submission of a           Amber          Ongoing communication with the Combined                Green
+ late FBC could mean                          Authority regarding the requirements. Time
+ that the project is                          contingency placed at the end of the
+ pushed back to the                           programme to allow for delay.
+ next the Combined
+ Authority Joint
+ Committee
+
+Constraints and dependencies
+The project is largely a standalone scheme and is not dependent on any other scheme.
+
+Table 6-4 - Project dependencies
+ Dependency                     Information                                                          Owner
+ Approvals                      Approvals are required from BCC and the Combined                     BCC / the
+                                Authority. A BCC and the Combined Authority                          Combined
+                                approvals timetable is provided in Appendix E.                       Authority
+ Backing from political         A programme for meetings with key decision makers is                 BCC / the
+ stakeholders                   provided in Appendix E.                                              Combined
+                                                                                                     Authority
+
+
+Bristol Bridge Signals Junction and Car Park VMS Project - accessible WECA v2docx.docx 2.0 | 19th August
+2022                                                                                                       Page 48 of 53
+    Dependency                  Information                                                          Owner
+    Delivery of project         The original deadline for TCF funding to be spent is end             BCC / the
+    within agreed TCF           of FY 2022/23, however, given that the soonest funding               Combined
+    funding timescales          can be agreed (30th September 2022) and taking into                  Authority
+                                account tendering processes and contractor lead in
+                                times to immediately follow it is realistic to think that the
+                                project may not begin until December 2022.
+    BCC procurement             BCC’s procurement team provide scrutiny to the                       BCC
+    processes                   procurement process. This is to enable the tendering
+                                and appointment of the contract can take time.
+                                Preparation of the required information will be carried
+                                out as much as possible to enable this process to hit
+                                the ground running once funding is approved.
+    Materials availability      The materials identified for use on the project are varied           BCC /
+                                including high quality stone as well as traffic signals              Contractor
+                                equipment. Ordering of materials can only begin once
+                                the contactor has been appointed and availability of
+                                such materials can only be confirmed at that time.
+    Contractor Lead In          The programme has given over 3 months for the                        BCC /
+    time                        appointed contractor to mobilise.                                    Contractor
+    Network availability        The Bristol Bridge signal junction is located at a critical          BCC
+                                node within the Bristol central area. Full closure of the
+                                junction would need to be minimised given the long
+                                alternative route required.
+                                Key events and other planned highway works within the
+                                city will need to be considered. A full closure of
+                                Redcliffe Bascule Bridge is planned from September to
+                                December 2022 to enable repairs. If this does not
+                                complete on time this may have a bearing on when
+                                works take place at the Bristol Bridge traffic signals
+                                junction given its relationship on the traffic network.
+
+
+Land acquisition, planning and other consents
+All interventions in the proposed package are contained within the highway boundary. Therefore, the
+proposed interventions do not require any land acquisition or planning permission. There will be no
+requirement for planning consent, conservation area consent or specific approvals for materials other
+than BCC’s internal assurance and signoff.
+Furthermore, there are no outstanding Traffic Regulation Order (TRO) processes to complete. Any
+TRO work necessary for the project has already been carried out at Bristol Bridge.
+
+Project assurance
+The project board will provide project assurance for the whole project. The project will be subject to
+BCC’s own internal audit processes as well as the Combined Authority’s audit processes in
+accordance with the funding requirements.
+Regular reviews of the risk register will be undertaken, and lessons learnt sessions are held from
+other similar projects and the information from these is disseminated to the project team.
+
+Benefit realisation
+The anticipated benefits of the scheme, as set out in the logic map (Figure 2-12 from Strategic Case)
+are:
+•      More attractive and higher quality active travel facilities.
+•      Better connectivity of active travel facilities.
+•      Safer and more inclusive streets and environments.
+
+Bristol Bridge Signals Junction and Car Park VMS Project - accessible WECA v2docx.docx 2.0 | 19th August
+2022                                                                                                       Page 49 of 53
+•   Highway network with reduced congestion.
+
+In order to ensure these benefits have indeed been realised, post scheme opening monitoring and
+evaluation must be undertaken. This evaluation will allow the identification of the extent to which the
+scheme objectives have been met. Based on DfT monitoring and evaluation guidance, and the
+requirement to undertake ‘standard evaluation’ for this scheme, the key types of questions to be
+addressed through this process are:
+•   How was the scheme delivered?
+•   What difference did the scheme make?
+•   Did the benefits justify the costs?
+
+The anticipated benefits set out above pose a challenge when it comes to quantifying them and as a
+result any future monitoring and evaluation framework must target a different set of metrics which are
+expected to reflect changes in the aforementioned benefits. Thus, the monitoring and evaluation will
+assess the scheme impacts on:
+•   Walking and cycling levels.
+•   Collisions.
+•   Levels of congestion for journeys using VMS.
+•   Levels of collisions for pedestrians and cyclists.
+Monitoring and evaluation
+Rationale and logic model
+The development of a monitoring and evaluation plan is informed by the benefit realisation plan above
+and the logic map of the proposed intervention. A copy of the logic map is presented in Figure 2-12 of
+the business case document.
+
+Evaluation design and methodology
+The design of the evaluation process is focused on the three questions set out in the section above.
+To enable evaluation to take place, a monitoring framework needs to be in place. The data
+requirements of the ‘standard monitoring’ outlined in the September 2012 DfT guidance and the key
+objectives of the proposed intervention have been used as a guide. The requirements are:
+•   Scheme build.
+•   Delivered scheme.
+•   Costs.
+•   Travel demand and time.
+•   Scheme objectives.
+
+Data requirements
+As part of the programme of monitoring, data will be collected (before and after scheme construction),
+to assess how the impacts of the scheme are progressing in relation to predictions. This data will be
+analysed to better understand the consequences and causality of the scheme measures.
+The data required as part of this monitoring programme is set out in Table 6-5 below.
+
+
+
+
+Bristol Bridge Signals Junction and Car Park VMS Project - accessible WECA v2docx.docx 2.0 | 19th August
+2022                                                                                                       Page 50 of 53
+Table 6-5 - Evaluation data requirements
+ Item                     Content                                                ‘One year            Final report
+                                                                                 after’ report        (opening + 5
+                                                                                                      years)
+ Scheme build             •    Programme/project plan assessment,
+                               including measures of delivery at key
+                               milestones (e.g., implementation log).
+                          •    Risk management effectiveness
+                               (assessing                                                
+                               impacts from the risk register).
+                          •    Assessment of whether the scheme is
+                               on track to the anticipated benefits and
+                               details of any benefits realised.
+ Delivered scheme         •    Full description of implemented scheme
+                               outputs including a clear plan of the
+                               overall scheme.
+                          •    Identification of any changes to the                      
+                               scheme since funding approval.
+                          •    An assessment of whether the scheme
+                               has reached the intended beneficiaries.
+ Outturn costs            •    Outturn investment costs.
+                          •    Analysis of manifestation of identified
+                               risk in the elements of investment
+                               costs.
+                          •    Identification of cost elements where
+                               cost savings were achieved and the
+                               reasons for cost savings.
+                          •    Analysis of cost elements with overruns
+                               and identification of causes for
+                               overruns.                                                 
+                          •    Outturn operating costs; including
+                               evidence of differences between
+                               outturn and forecasts and identification
+                               of any reasons for the differences.
+                          •    Outturn maintenance or other capital
+                               costs compared with forecasts and any
+                               unanticipated costs identified. The
+                               causes of any variations from forecast
+                               costs should be analysed.
+ Walking and              Survey to assess walking and cycling levels
+ cycling levels                                                                                            
+                          at Bristol Bridge.
+ Routing at VMS           Survey to assess routing of traffic from
+ locations                                                                                                 
+                          VMS locations to car parks.
+ Collisions               Monitoring of collisions involving
+ frequency and            pedestrians and/or cyclists.                                                     
+ severity
+ Air quality              Reduction in NO2 emissions observed at
+                                                                                                           
+                          diffuser tubes at Bristol Bridge.
+
+Data collection methods
+The data collection methods adopted for the evaluation activities are set out below.
+
+
+Bristol Bridge Signals Junction and Car Park VMS Project - accessible WECA v2docx.docx 2.0 | 19th August
+2022                                                                                                       Page 51 of 53
+Outturn costs
+Information around the outturn costs can be obtained from relevant departments within Bristol City
+Council and / or the Combined Authority.
+Specifically, outturn cost data will be obtained from primarily from supplier and / or BCC invoices to
+the Combined Authority, project manager input and yearly grant claims. Where there are any cost
+savings / cost overruns the reasons for these will need to be identified and reported within the
+relevant documentation.
+The outturn data collection will cover both the operation costs and the capital cost, the exercise will
+involve comparing the forecasted costs with the outturn position following the scheme delivery.
+This data will be collected throughout the construction stage, until the completion of the scheme. It will
+feature within the “One Year After” report and the 5 Years After report.
+Scheme build
+Information around the scheme build activities will be obtained from the relevant departments within
+Bristol City Council and \ or the Combined Authority. This will also be presented within the
+construction programme. The project programme will contain scheme build information, outlining the
+key milestones. Further, the risk register and benefits realisation plan will be used to report on the
+scheme build phase. Any benefits that materialise within the construction stage period will also be
+reported. This data will be collected throughout the construction stage, until the completion of the
+scheme. This data will feature within the “One Year After” report.
+Walking and cycling levels
+In order to determine the levels of walking and cycling at Bristol Bridge, traffic count data will be
+recorded before and after the scheme delivery. This data will show whether walking and cycling
+schemes have increased following the delivery.
+Congestion at VMS locations
+In order to assess the impact of the VMS replacements, routing surveys should be undertaken before
+and after the scheme to ensure car park users travel using shorter and more efficient routes
+Collision frequency and severity
+Collision data will be evaluated to assess the frequency and severity of collisions before and after the
+cycling scheme is delivered.
+
+Data collection and establishing the baseline
+A summary of the data collection plan for the scheme is provided in Table 6-6.
+
+Table 6-6 - Data collection plan
+Inputs
+ Metric               Unit                Frequency           Data source          Baseline            Reporting to
+                                                              and                  date
+                                                              responsibility
+ Construction         £, by source        Annual until        Project Team         2024                BCC,
+ costs (forecast                          scheme              (BCC and the                             One year
+ and outturn)                             completion          Combined                                 after report
+                                                              Authority)                               5 years after
+                                                                                                       report
+
+
+
+Outputs
+
+
+
+
+Bristol Bridge Signals Junction and Car Park VMS Project - accessible WECA v2docx.docx 2.0 | 19th August
+2022                                                                                                       Page 52 of 53
+    Metric            Unit                 Frequency          Data source           Baseline date          Reporting to
+                                                              and
+                                                              responsibility
+    Walking and       Number of            Monthly            Surveys               2022 / 2024            BCC,
+    cycling levels    pedestrians                                                                          One year
+                      and cyclists                                                                         after report
+                                                                                                           5 years after
+                                                                                                           report
+    Congestion at     Journey time         Monthly            Surveys               2022 / 2024            BCC,
+    VMS locations                                                                                          One year
+                                                                                                           after report
+                                                                                                           5 years after
+                                                                                                           report
+    Collision         Number of            Monthly            BCC /                 2022 / 2024            BCC,
+    frequency and     collisions by                           STATS19                                      One year
+    severity          severity                                                                             after report
+                                                                                                           5 years after
+                                                                                                           report
+
+
+
+
+Delivery plan
+Three reports are proposed:
+•     Baseline report (due 2023): this report will present data recorded along the corridor before the
+      scheme is opened to the public.
+•     ‘One year after’ report (due 2025): this report will be completed approximately 1 year after the
+      scheme is opened
+•     Final report (due 2029): this report will be completed approximately 5 years after the scheme is
+      opened. It will build upon the ‘One Year After’ report.
+
+Resourcing and governance
+A BCC Officer will be appointed to carry out the reports, with potential consultant support. Pre-
+scheme data should be collected once Full Scheme Approval has been granted. BCC will provide the
+contact details of the nominated officer once the project has received funding approval. BCC will be
+responsible for risk management and quality assurance.
+
+Dissemination
+Report will be shared with stakeholders and decision-makers via email, meetings, and briefings. The
+documents will be disseminated to the public via the BCC.
+
+
+
+
+Bristol Bridge Signals Junction and Car Park VMS Project - accessible WECA v2docx.docx 2.0 | 19th August
+2022                                                                                                          Page 53 of 53
+

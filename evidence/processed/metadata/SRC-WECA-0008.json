@@ -1,0 +1,12 @@
+{
+  "characters": 2018432,
+  "extracted_date": "2026-06-27",
+  "method": "pdftotext-layout",
+  "output_path": "evidence/processed/text/SRC-WECA-0008.txt",
+  "sha256": "5d794e2e4af5798a07dcbbd4f2c837f2921029c84bb950e05e76dafee5d0ed06",
+  "source_id": "SRC-WECA-0008",
+  "source_path": "evidence/raw/west-of-england-mca/src-weca-0008_future4west-mass-transit-strategic-outline-case-2023-09-26.pdf",
+  "source_status": "downloaded",
+  "title": "Future4WEST Mass Transit Strategic Outline Case",
+  "url": "https://www.westofengland-ca.gov.uk/wp-content/uploads/2023/11/Future4West-SOC-Final-26-Sept-2023-Acc.pdf"
+}

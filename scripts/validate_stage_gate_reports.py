@@ -120,6 +120,21 @@ REPORTS = {
             "substantive gate correctness",
         ],
     },
+    "review/stage_gate_reports/stage-32a-weca-obc-fbc-exemplar-corpus-report.md": {
+        "stage": "Stage 32A",
+        "focused_commands": [
+            "python3 scripts/validate_obc.py",
+            "python3 scripts/validate_source_notes.py",
+            "python3 -m unittest tests.test_obc tests.test_source_notes",
+        ],
+        "extra_limit_terms": [
+            "command sufficiency",
+            "source currentness",
+            "legal correctness",
+            "procurement authority",
+            "substantive gate correctness",
+        ],
+    },
 }
 
 COMMON_COMMANDS = [
