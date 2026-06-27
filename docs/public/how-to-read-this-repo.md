@@ -7,7 +7,9 @@ Date: 2026-06-26.
 
 This repository is a simulation of the work needed before a Bristol Workplace Parking Levy could be considered safely.
 
-It is not a Bristol City Council decision. It is not legal advice. It is not a consultation launch. It is not an Outline Business Case, Full Business Case or statutory submission.
+It includes an editable simulated OBC release.
+
+It is not a Bristol City Council decision. It is not legal advice. It is not a consultation launch. It is not an approved Outline Business Case, Full Business Case or statutory submission.
 
 ## Five-Minute Route
 
@@ -33,6 +35,7 @@ For example:
 - green Stage 30A validation evidence logging means the Stage 30A commands are recorded in a validation log.
 - green Stage 32A WECA-style OBC simulation means a full editable WPL-focused draft exists for learning and control only.
 - green Stage 33A OBC simulation release means the editable simulation OBC has been shipped for reading and critique only.
+- green Stage 34A GOV.UK style skill adoption means a repo-local writing-control skill exists for public and officer prose only.
 
 None of those green controls approve a charge, boundary, consultation, OBC, FBC or statutory submission.
 
@@ -42,6 +45,7 @@ Stage 30A validation coverage for Stage 29A does not prove command sufficiency, 
 Stage 31A validation evidence logging for Stage 30A does not prove command sufficiency, command authenticity, evidence truth, source currentness, legal correctness, professional assurance, substantive gate correctness or WPL readiness.
 Stage 32A WECA-style OBC simulation does not prove a real Bristol OBC exists, does not prove WECA/MCA endorsement, and does not create procurement authority, consultation readiness, statutory readiness, professional assurance or WPL readiness.
 Stage 33A OBC simulation release does not prove a real Bristol OBC has been approved, does not create officer advice, and does not create procurement authority, consultation readiness, statutory readiness, professional assurance or WPL readiness.
+Stage 34A GOV.UK style skill adoption does not prove official GOV.UK/GDS endorsement, legal assurance, accessibility certification, user-tested comprehension, professional assurance or WPL readiness.
 
 ## What Red Means
 
@@ -57,7 +61,7 @@ The most important red blockers are:
 - FBC/statutory evidence;
 - Bristol-specific Nottingham transferability evidence.
 
-## How To Deep Dive
+## How to look in detail
 
 | Question | Start here |
 |---|---|
@@ -70,6 +74,8 @@ The most important red blockers are:
 | Was Stage 29A validation evidence covered by the lagged check? | `review/stage_gate_reports/stage-30a-validation-coverage-for-stage-29a-report.md` |
 | Was Stage 30A validation evidence logged? | `evidence/validation/stage-30a-validation-run-log.md` |
 | Where is the shipped OBC simulation? | `business_case/obc/simulation-release/bristol-wpl-outline-business-case-simulation-release.md` |
+| What writing-control skill should future agents use for public prose? | `skills/govuk-style/SKILL.md` |
+| Why was the GOV.UK style skill adopted? | `analysis/content/stage-34a-govuk-style-application.md` |
 | Where is the simulated WECA-style OBC? | `business_case/obc/simulated-working-draft/bristol-wpl-simulated-weca-style-obc.md` |
 | What WECA examples shaped the OBC style? | `analysis/weca-obc-fbc-exemplars/stage-32a-weca-obc-fbc-exemplar-corpus.md` |
 | What can be learned from Nottingham? | `docs/officer/nottingham-and-comparator-lessons.md` |

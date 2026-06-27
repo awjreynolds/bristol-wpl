@@ -23,6 +23,7 @@ SCAN_FILES = [
     "docs/officer/document-map.md",
     "docs/officer/programme-risk-briefing.md",
     "docs/stages/README.md",
+    "docs/agents/README.md",
 ]
 
 REQUIRED_NAV_REFERENCES = {
@@ -54,6 +55,10 @@ REQUIRED_NAV_REFERENCES = {
         "business_case/obc/simulation-release/bristol-wpl-outline-business-case-simulation-release.md",
         "business_case/obc/simulation-release/README.md",
         "review/stage_gate_reports/stage-33a-obc-simulation-release-report.md",
+        "skills/govuk-style/SKILL.md",
+        "analysis/content/stage-34a-govuk-style-application.md",
+        "review/stage_gate_reports/stage-34a-govuk-style-skill-adoption-report.md",
+        "scripts/validate_govuk_style_skill.py",
     ],
     "docs/public/README.md": [
         "docs/public/how-to-read-this-repo.md",
@@ -73,6 +78,9 @@ REQUIRED_NAV_REFERENCES = {
         "evidence/validation/README.md",
         "docs/public/bristol-live-public-source-status.md",
         "docs/agents/subagent-stage-packet-template.md",
+        "skills/govuk-style/SKILL.md",
+        "analysis/content/stage-34a-govuk-style-application.md",
+        "scripts/validate_govuk_style_skill.py",
     ],
     "docs/officer/document-map.md": [
         "docs/public/source-link-and-freshness-status.md",
@@ -88,6 +96,10 @@ REQUIRED_NAV_REFERENCES = {
         "docs/agents/subagent-stage-packet-template.md",
         "docs/officer/risk-control-crosswalk.csv",
         "docs/visuals/visual-accessibility-qa-register.csv",
+        "skills/govuk-style/SKILL.md",
+        "analysis/content/stage-34a-govuk-style-application.md",
+        "review/stage_gate_reports/stage-34a-govuk-style-skill-adoption-report.md",
+        "scripts/validate_govuk_style_skill.py",
     ],
     "docs/stages/README.md": [
         "stage-29a-subagent-context-control-hardening.md",
@@ -100,6 +112,8 @@ REQUIRED_NAV_REFERENCES = {
         "review/stage_gate_reports/stage-32a-weca-obc-fbc-exemplar-corpus-report.md",
         "stage-33a-obc-simulation-release.md",
         "review/stage_gate_reports/stage-33a-obc-simulation-release-report.md",
+        "stage-34a-govuk-style-skill-adoption.md",
+        "review/stage_gate_reports/stage-34a-govuk-style-skill-adoption-report.md",
     ],
 }
 
@@ -120,11 +134,12 @@ REQUIRED_STAGE_REPORTS = [
     "review/stage_gate_reports/stage-31a-validation-evidence-log-for-stage-30a-report.md",
     "review/stage_gate_reports/stage-32a-weca-obc-fbc-exemplar-corpus-report.md",
     "review/stage_gate_reports/stage-33a-obc-simulation-release-report.md",
+    "review/stage_gate_reports/stage-34a-govuk-style-skill-adoption-report.md",
 ]
 
 LINK_PATTERN = re.compile(r"\[[^\]]+\]\(([^)]+)\)")
 INLINE_PATH_PATTERN = re.compile(
-    r"`((?:docs|analysis|review|governance|evidence|scripts|tests|models|spatial|business_case|statutory_dossier|consultation|publication)/[^`]+)`"
+    r"`((?:docs|analysis|review|governance|evidence|scripts|tests|models|spatial|business_case|statutory_dossier|consultation|publication|skills)/[^`]+)`"
 )
 
 
@@ -207,10 +222,10 @@ def check_required_nav_references() -> list[str]:
 def check_latest_stage_alignment() -> list[str]:
     errors = []
     expectations = {
-        "README.md": "Stage 33A",
-        "docs/stages/README.md": "Stage 33A",
-        "docs/visuals/stage-gate-map.mmd": "Stage 33A",
-        "docs/visuals/risk-control-atlas.mmd": "Stage 33A: OBC simulation release",
+        "README.md": "Stage 34A",
+        "docs/stages/README.md": "Stage 34A",
+        "docs/visuals/stage-gate-map.mmd": "Stage 34A",
+        "docs/visuals/risk-control-atlas.mmd": "Stage 34A: GOV.UK style skill adoption",
     }
     for rel, phrase in expectations.items():
         path = ROOT / rel

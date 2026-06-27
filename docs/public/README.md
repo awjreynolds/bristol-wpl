@@ -40,6 +40,8 @@ Stage 32A adds a WECA-style WPL OBC simulation. It creates a full editable worki
 
 Stage 33A ships the editable OBC simulation release. It is useful for reading and critique, but it is not a real Bristol OBC, not officer advice, not procurement authority, not consultation-ready and not statutory-ready.
 
+Stage 34A adds a repo-local GOV.UK style skill for public, officer and cabinet-facing prose. It is useful for clearer writing, but it is not official GOV.UK/GDS endorsement, not legal assurance, not accessibility certification, not user testing, not professional sign-off and not readiness evidence.
+
 ## What This Repo Is
 
 - An auditable simulation workspace.
@@ -80,6 +82,7 @@ The simulation currently says:
 - Stage 30A validation evidence logging exists, but it does not prove command sufficiency, command authenticity, evidence truth, source currentness, legal correctness, professional assurance or readiness;
 - Stage 32A WECA-style OBC drafting exists, but it does not prove real OBC status, WECA/MCA endorsement, procurement authority, consultation readiness, statutory readiness, professional assurance or readiness;
 - Stage 33A OBC simulation release exists, but it does not prove real OBC approval, officer advice, procurement authority, consultation readiness, statutory readiness, professional assurance or readiness;
+- Stage 34A GOV.UK style skill adoption exists, but it does not prove official GOV.UK/GDS endorsement, legal assurance, accessibility certification, user-tested comprehension, professional assurance, public-authority approval or readiness;
 - Nottingham lessons cannot be copied to Bristol without transferability evidence.
 
 ## Where To Start
@@ -101,6 +104,8 @@ The simulation currently says:
 | Future-stage agent/context maintainer | `docs/agents/subagent-stage-packet-template.md` | Bounded subagent packet template; instruction/template presence only |
 | Subagent context-control QA maintainer | `scripts/validate_subagent_context_control.py` | Checks Stage 29A context-control wording; does not prove future agents obey instructions |
 | Shipped OBC simulation reader | `business_case/obc/simulation-release/bristol-wpl-outline-business-case-simulation-release.md` | Complete editable Stage 33A Bristol WPL OBC simulation release; not for real-world reliance |
+| GOV.UK style skill user | `skills/govuk-style/SKILL.md` | Stage 34A plain-English writing control; not legal, accessibility or readiness assurance |
+| GOV.UK style QA maintainer | `scripts/validate_govuk_style_skill.py` | Checks Stage 34A skill wiring and no-overclaim references |
 | WECA-style simulated OBC reader | `business_case/obc/simulated-working-draft/bristol-wpl-simulated-weca-style-obc.md` | Full editable Stage 32A WPL-focused OBC working draft; simulation-only and not for reliance |
 | WECA OBC/FBC exemplar reviewer | `analysis/weca-obc-fbc-exemplars/stage-32a-weca-obc-fbc-exemplar-corpus.md` | Source hierarchy, comparator matrix and drafting standard for WECA-style OBC discipline |
 | Register integrity reviewer | `scripts/validate_register_references.py` | Cross-register ID and selected control-path checks |
@@ -121,4 +126,4 @@ The simulation currently says:
 
 ## Visual Map
 
-See `docs/visuals/stage-gate-map.mmd` for the current stage-gate flow, `docs/visuals/risk-control-atlas.mmd` for the simplified risk-control flow, `docs/visuals/visual-accessibility-qa-register.csv` for static visual QA and text fallback controls, `docs/public/source-link-and-freshness-status.md` for source-link/freshness status, `docs/public/bristol-live-public-source-status.md` for Bristol live public-source coverage, `docs/agents/subagent-stage-packet-template.md` for future-stage bounded subagent packets, `review/stage_gate_reports/stage-30a-validation-coverage-for-stage-29a-report.md` for Stage 29A validation coverage, `evidence/validation/stage-30a-validation-run-log.md` for Stage 30A validation evidence, `business_case/obc/simulation-release/bristol-wpl-outline-business-case-simulation-release.md` for the Stage 33A shipped OBC simulation, `business_case/obc/simulated-working-draft/bristol-wpl-simulated-weca-style-obc.md` for the Stage 32A simulated OBC working draft, and `evidence/validation/README.md` for logged validation evidence and coverage limits.
+See `docs/visuals/stage-gate-map.mmd` for the current stage-gate flow, `docs/visuals/risk-control-atlas.mmd` for the simplified risk-control flow, `docs/visuals/visual-accessibility-qa-register.csv` for static visual QA and text fallback controls, `docs/public/source-link-and-freshness-status.md` for source-link/freshness status, `docs/public/bristol-live-public-source-status.md` for Bristol live public-source coverage, `docs/agents/subagent-stage-packet-template.md` for future-stage bounded subagent packets, `review/stage_gate_reports/stage-30a-validation-coverage-for-stage-29a-report.md` for Stage 29A validation coverage, `evidence/validation/stage-30a-validation-run-log.md` for Stage 30A validation evidence, `business_case/obc/simulation-release/bristol-wpl-outline-business-case-simulation-release.md` for the Stage 33A shipped OBC simulation, `skills/govuk-style/SKILL.md` for the Stage 34A GOV.UK style skill, `analysis/content/stage-34a-govuk-style-application.md` for the relevance decision, `business_case/obc/simulated-working-draft/bristol-wpl-simulated-weca-style-obc.md` for the Stage 32A simulated OBC working draft, and `evidence/validation/README.md` for logged validation evidence and coverage limits.

@@ -26,12 +26,14 @@ REQUIRED_README_IDS = {
     "ISS-0041",
     "ISS-0042",
     "ISS-0043",
+    "ISS-0044",
     "EG-0059",
     "EG-0060",
     "EG-0061",
+    "EG-0062",
 }
 
-REQUIRED_DASHBOARD_IDS = REQUIRED_README_IDS | {"RISK-0044", "RISK-0045", "RISK-0046"}
+REQUIRED_DASHBOARD_IDS = REQUIRED_README_IDS | {"RISK-0044", "RISK-0045", "RISK-0046", "RISK-0047"}
 
 REQUIRED_PUBLIC_PHRASES = {
     "README.md": [
@@ -52,9 +54,14 @@ REQUIRED_PUBLIC_PHRASES = {
         "ISS-0042",
         "EG-0060",
         "Stage 33A",
-        "OBC simulation release package",
+        "OBC simulation release",
         "ISS-0043",
         "EG-0061",
+        "Stage 34A",
+        "GOV.UK style skill adoption",
+        "ISS-0044",
+        "EG-0062",
+        "skills/govuk-style/SKILL.md",
     ],
     "docs/officer/assurance-dashboard.md": [
         "Validation evidence coverage",
@@ -78,6 +85,12 @@ REQUIRED_PUBLIC_PHRASES = {
         "OBC simulation release",
         "Stage 33A records the shipped OBC simulation release.",
         "business_case/obc/simulation-release/bristol-wpl-outline-business-case-simulation-release.md",
+        "GOV.UK style skill",
+        "Stage 34A records the GOV.UK style skill.",
+        "scripts/validate_govuk_style_skill.py",
+        "ISS-0044",
+        "EG-0062",
+        "RISK-0047",
     ],
     "docs/stages/README.md": [
         "Stage 27A",
@@ -94,6 +107,8 @@ REQUIRED_PUBLIC_PHRASES = {
         "WECA OBC/FBC exemplar corpus",
         "Stage 33A",
         "OBC simulation release package",
+        "Stage 34A",
+        "GOV.UK style skill adoption",
     ],
     "docs/visuals/stage-gate-map.mmd": [
         "Stage 29A",
@@ -106,6 +121,8 @@ REQUIRED_PUBLIC_PHRASES = {
         "WECA-style WPL OBC simulation",
         "Stage 33A",
         "OBC simulation release",
+        "Stage 34A",
+        "GOV.UK style skill adoption",
     ],
     "docs/visuals/risk-control-atlas.mmd": [
         "Subagent context-control hardening",
@@ -118,6 +135,8 @@ REQUIRED_PUBLIC_PHRASES = {
         "ISS-0042 EG-0060 RISK-0045",
         "Stage 33A: OBC simulation release",
         "ISS-0043 EG-0061 RISK-0046",
+        "Stage 34A: GOV.UK style skill adoption",
+        "ISS-0044 EG-0062 RISK-0047",
     ],
 }
 
@@ -281,6 +300,15 @@ def check_latest_stage_register_rows() -> list[str]:
         ("governance/decision_log.csv", "decision_id", "DEC-0047"),
         ("governance/approvals_register.csv", "approval_id", "APP-0052"),
         ("governance/simulation_signoff_register.csv", "signoff_id", "SSO-0115"),
+        ("governance/issues_register.csv", "issue_id", "ISS-0044"),
+        ("governance/risk_register.csv", "risk_id", "RISK-0047"),
+        ("governance/pitfalls_register.csv", "pitfall_id", "PIT-0041"),
+        ("evidence/evidence_gap_register.csv", "gap_id", "EG-0062"),
+        ("governance/requirements_register.csv", "requirement_id", "REQ-0055"),
+        ("governance/checks_and_balances_register.csv", "control_id", "CB-0041"),
+        ("governance/decision_log.csv", "decision_id", "DEC-0048"),
+        ("governance/approvals_register.csv", "approval_id", "APP-0053"),
+        ("governance/simulation_signoff_register.csv", "signoff_id", "SSO-0117"),
     ]
     errors: list[str] = []
     for rel, column, row_id in expected:

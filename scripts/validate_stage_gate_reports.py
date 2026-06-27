@@ -151,6 +151,22 @@ REPORTS = {
             "substantive gate correctness",
         ],
     },
+    "review/stage_gate_reports/stage-34a-govuk-style-skill-adoption-report.md": {
+        "stage": "Stage 34A",
+        "focused_commands": [
+            "python3 -m unittest tests.test_govuk_style_skill",
+            "python3 scripts/validate_govuk_style_skill.py",
+            "python3 scripts/validate_public_cabinet_comprehension.py",
+            "python3 scripts/validate_navigation_integrity.py",
+        ],
+        "extra_limit_terms": [
+            "accessibility assurance",
+            "user comprehension",
+            "legal correctness",
+            "professional assurance",
+            "substantive gate correctness",
+        ],
+    },
 }
 
 COMMON_COMMANDS = [

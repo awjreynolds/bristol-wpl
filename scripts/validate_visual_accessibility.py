@@ -80,6 +80,8 @@ REQUIRED_MERMAID_PHRASES = {
         "WECA-style WPL OBC simulation",
         "Stage 33A",
         "OBC simulation release",
+        "Stage 34A",
+        "GOV.UK style skill adoption",
     ],
     "docs/visuals/risk-control-atlas.mmd": [
         "flowchart",
@@ -100,6 +102,7 @@ REQUIRED_MERMAID_PHRASES = {
         "Stage 30A validation evidence log",
         "Stage 32A: WECA-style WPL OBC simulation",
         "Stage 33A: OBC simulation release",
+        "Stage 34A: GOV.UK style skill adoption",
         "Legend",
     ],
 }

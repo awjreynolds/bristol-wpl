@@ -9,4 +9,6 @@ Start with `docs/agents/subagent-stage-packet-template.md` when dispatching futu
 
 The control is checked by `scripts/validate_subagent_context_control.py`.
 
+Use `skills/govuk-style/SKILL.md` when future agents write or edit public, officer, cabinet, README, guidance, summary, report or review prose. That Stage 34A skill is a repo-local writing control only. It is not GOV.UK/GDS endorsement, legal assurance, accessibility certification, user-tested comprehension, professional assurance or WPL readiness evidence.
+
 This does not prove future agents obeyed the instruction, that findings are correct, that reviews are independent, that evidence is true, that professional assurance exists or that WPL readiness has changed.
