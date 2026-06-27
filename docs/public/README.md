@@ -60,6 +60,7 @@ The simulation currently says:
 - downloaded priority source-note coverage is complete;
 - current claim-matrix summaries exist, but they do not prove claim truth and future drafting-specific summaries remain open;
 - stage-gate report structure checks exist, but they do not prove command execution history, substantive gate correctness, evidence truth, source currentness or readiness;
+- validation evidence logs exist, but they do not prove evidence truth, source currentness, legal correctness, professional assurance or readiness;
 - Nottingham lessons cannot be copied to Bristol without transferability evidence.
 
 ## Where To Start
@@ -79,6 +80,8 @@ The simulation currently says:
 | Register integrity reviewer | `scripts/validate_register_references.py` | Cross-register ID and selected control-path checks |
 | Dashboard consistency reviewer | `scripts/validate_dashboard_consistency.py` | README and officer-dashboard blocker surfacing checks |
 | Stage-gate report reviewer | `scripts/validate_stage_gate_reports.py` | Recent gate-report structure checks; not evidence truth, source currentness or readiness |
+| Validation evidence reviewer | `evidence/validation/README.md` | Logged repo-check evidence; QA evidence for the simulation only |
+| Validation evidence QA maintainer | `scripts/validate_validation_evidence_log.py` | Checks validation-log rows and scope limits |
 | Officer or programme manager | `docs/officer/programme-risk-briefing.md` | Risks, mitigations and next checks |
 | Anyone asking what happens next | `docs/officer/next-steps-critical-path.md` | Critical path work packages; critical path is not approval |
 | Evidence reviewer or drafter | `evidence/source_notes/README.md` | Source-note cohorts; source notes do not verify every claim |
@@ -91,4 +94,4 @@ The simulation currently says:
 
 ## Visual Map
 
-See `docs/visuals/stage-gate-map.mmd` for the current stage-gate flow, `docs/visuals/risk-control-atlas.mmd` for the simplified risk-control flow, `docs/visuals/visual-accessibility-qa-register.csv` for static visual QA and text fallback controls, and `docs/public/source-link-and-freshness-status.md` for source-link/freshness status.
+See `docs/visuals/stage-gate-map.mmd` for the current stage-gate flow, `docs/visuals/risk-control-atlas.mmd` for the simplified risk-control flow, `docs/visuals/visual-accessibility-qa-register.csv` for static visual QA and text fallback controls, `docs/public/source-link-and-freshness-status.md` for source-link/freshness status, and `evidence/validation/README.md` for logged validation evidence.

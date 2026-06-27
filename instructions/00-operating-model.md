@@ -839,7 +839,10 @@ For each new stage, the main agent must:
 5. prohibit subagents from reviewing "the whole repo" or inferring from memory where a cited source exists;
 6. synthesize subagent outputs, resolve contradictions and update the stage artefacts and registers;
 7. run focused validators, `make validate`, `git diff --check` and public-repo secret checks before claiming completion;
-8. commit and push the completed stage before moving to the next stage, unless the user has prohibited pushing or the remote is unavailable.
+8. record focused and full command evidence in `evidence/validation/validation-run-register.csv` and a stage-specific validation log where the stage materially changes public/officer navigation, validators, registers or gate reports;
+9. commit and push the completed stage before moving to the next stage, unless the user has prohibited pushing or the remote is unavailable.
+
+Validation evidence is process evidence only. It can record command text, run date, repo state, exit code and output summary. It does not prove evidence truth, source currentness, legal correctness, substantive gate judgement, professional assurance, blocker completeness, risk adequacy, mitigation adequacy or WPL readiness.
 
 Subagent context packets must name exact files and source IDs to inspect, allowed write paths if any, maximum output length, review criteria and no-go claims. If a subagent needs more context, it must request the specific file, source ID or register row rather than widening to the whole repository.
 

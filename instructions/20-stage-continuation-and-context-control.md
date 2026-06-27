@@ -87,7 +87,10 @@ Before a stage is complete:
 - run `make validate`;
 - run `git diff --check`;
 - run `python3 scripts/scan_secrets.py --all-history` before public pushes;
+- record focused and full command evidence in `evidence/validation/validation-run-register.csv` and a stage-specific validation log where the stage materially changes public/officer navigation, validators, registers or gate reports;
 - commit with a stage-specific message;
 - push the branch unless the user has prohibited pushing or the remote is unavailable.
 
 Never claim that a stage is complete until the validation evidence has been read and recorded in the stage gate report or final response.
+
+Validation evidence is process evidence only. It can record command text, run date, repo state, exit code and output summary. It does not prove evidence truth, source currentness, legal correctness, substantive gate judgement, professional assurance, blocker completeness, risk adequacy, mitigation adequacy or WPL readiness.

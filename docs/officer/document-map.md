@@ -39,5 +39,7 @@ Officer-facing material should remain editable Markdown, CSV, XLSX, DOCX or HTML
 | I need to know whether register IDs and control paths resolve. | `scripts/validate_register_references.py` |
 | I need to know whether visible blocker IDs still resolve to open rows. | `scripts/validate_dashboard_consistency.py` |
 | I need to know whether recent gate reports carry the expected validation and limitation wording. | `scripts/validate_stage_gate_reports.py` |
+| I need to know what validation evidence has been logged for repo checks. | `evidence/validation/README.md` |
+| I need to check validation-log structure and scope limits. | `scripts/validate_validation_evidence_log.py` |
 
 The visual fallback route is `docs/visuals/visual-accessibility-qa-register.csv`; it is a static source-control route, not rendered accessibility assurance.

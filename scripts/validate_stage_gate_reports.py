@@ -47,6 +47,17 @@ REPORTS = {
             "substantive gate",
         ],
     },
+    "review/stage_gate_reports/stage-26a-validation-evidence-log-controls-report.md": {
+        "stage": "Stage 26A",
+        "focused_commands": [
+            "python3 scripts/validate_validation_evidence_log.py",
+            "python3 -m unittest tests.test_validation_evidence_log",
+        ],
+        "extra_limit_terms": [
+            "source currentness",
+            "substantive gate",
+        ],
+    },
 }
 
 COMMON_COMMANDS = [

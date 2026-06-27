@@ -37,7 +37,9 @@ REQUIRED_NAV_REFERENCES = {
         "scripts/validate_register_references.py",
         "scripts/validate_dashboard_consistency.py",
         "scripts/validate_stage_gate_reports.py",
-        "review/stage_gate_reports/stage-25a-stage-gate-report-evidence-consistency-report.md",
+        "scripts/validate_validation_evidence_log.py",
+        "evidence/validation/README.md",
+        "review/stage_gate_reports/stage-26a-validation-evidence-log-controls-report.md",
     ],
     "docs/public/README.md": [
         "docs/public/how-to-read-this-repo.md",
@@ -50,18 +52,22 @@ REQUIRED_NAV_REFERENCES = {
         "scripts/validate_register_references.py",
         "scripts/validate_dashboard_consistency.py",
         "scripts/validate_stage_gate_reports.py",
+        "scripts/validate_validation_evidence_log.py",
+        "evidence/validation/README.md",
     ],
     "docs/officer/document-map.md": [
         "docs/public/source-link-and-freshness-status.md",
         "scripts/validate_register_references.py",
         "scripts/validate_dashboard_consistency.py",
         "scripts/validate_stage_gate_reports.py",
+        "scripts/validate_validation_evidence_log.py",
+        "evidence/validation/README.md",
         "docs/officer/risk-control-crosswalk.csv",
         "docs/visuals/visual-accessibility-qa-register.csv",
     ],
     "docs/stages/README.md": [
-        "stage-25a-stage-gate-report-evidence-consistency.md",
-        "review/stage_gate_reports/stage-25a-stage-gate-report-evidence-consistency-report.md",
+        "stage-26a-validation-evidence-log-controls.md",
+        "review/stage_gate_reports/stage-26a-validation-evidence-log-controls-report.md",
     ],
 }
 
@@ -74,6 +80,7 @@ REQUIRED_STAGE_REPORTS = [
     "review/stage_gate_reports/stage-23a-register-reference-integrity-report.md",
     "review/stage_gate_reports/stage-24a-dashboard-blocker-consistency-report.md",
     "review/stage_gate_reports/stage-25a-stage-gate-report-evidence-consistency-report.md",
+    "review/stage_gate_reports/stage-26a-validation-evidence-log-controls-report.md",
 ]
 
 LINK_PATTERN = re.compile(r"\[[^\]]+\]\(([^)]+)\)")
@@ -161,10 +168,10 @@ def check_required_nav_references() -> list[str]:
 def check_latest_stage_alignment() -> list[str]:
     errors = []
     expectations = {
-        "README.md": "Stage 25A",
-        "docs/stages/README.md": "Stage 25A",
-        "docs/visuals/stage-gate-map.mmd": "Stage 25A",
-        "docs/visuals/risk-control-atlas.mmd": "Stage-gate report structure consistency",
+        "README.md": "Stage 26A",
+        "docs/stages/README.md": "Stage 26A",
+        "docs/visuals/stage-gate-map.mmd": "Stage 26A",
+        "docs/visuals/risk-control-atlas.mmd": "Validation evidence log",
     }
     for rel, phrase in expectations.items():
         path = ROOT / rel

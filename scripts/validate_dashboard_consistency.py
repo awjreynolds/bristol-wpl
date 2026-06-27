@@ -23,35 +23,35 @@ OPEN_STATUSES = {
 }
 
 REQUIRED_README_IDS = {
-    "ISS-0035",
-    "EG-0053",
+    "ISS-0036",
+    "EG-0054",
 }
 
-REQUIRED_DASHBOARD_IDS = REQUIRED_README_IDS | {"RISK-0038"}
+REQUIRED_DASHBOARD_IDS = REQUIRED_README_IDS | {"RISK-0039"}
 
 REQUIRED_PUBLIC_PHRASES = {
     "README.md": [
-        "Stage 25A",
-        "stage-gate report structure consistency controls",
-        "ISS-0035",
-        "EG-0053",
+        "Stage 26A",
+        "validation evidence log controls",
+        "ISS-0036",
+        "EG-0054",
     ],
     "docs/officer/assurance-dashboard.md": [
-        "Stage-gate report structure consistency",
-        "Stage 25A records stage-gate report structure checks.",
-        "scripts/validate_stage_gate_reports.py",
+        "Validation evidence logging",
+        "Stage 26A records validation evidence logs.",
+        "scripts/validate_validation_evidence_log.py",
     ],
     "docs/stages/README.md": [
-        "Stage 25A",
-        "stage-gate report structure",
+        "Stage 26A",
+        "validation evidence log",
     ],
     "docs/visuals/stage-gate-map.mmd": [
-        "Stage 25A",
-        "Stage-gate report structure consistency",
+        "Stage 26A",
+        "Validation evidence logging",
     ],
     "docs/visuals/risk-control-atlas.mmd": [
-        "Stage-gate report structure consistency",
-        "ISS-0035 EG-0053 RISK-0038",
+        "Validation evidence log",
+        "ISS-0036 EG-0054 RISK-0039",
     ],
 }
 
@@ -152,21 +152,21 @@ def check_required_phrases() -> list[str]:
 
 def check_latest_stage_register_rows() -> list[str]:
     expected = [
-        ("governance/issues_register.csv", "issue_id", "ISS-0035"),
-        ("governance/risk_register.csv", "risk_id", "RISK-0038"),
-        ("governance/pitfalls_register.csv", "pitfall_id", "PIT-0032"),
-        ("evidence/evidence_gap_register.csv", "gap_id", "EG-0053"),
-        ("governance/requirements_register.csv", "requirement_id", "REQ-0046"),
-        ("governance/checks_and_balances_register.csv", "control_id", "CB-0032"),
-        ("governance/decision_log.csv", "decision_id", "DEC-0039"),
-        ("governance/approvals_register.csv", "approval_id", "APP-0044"),
-        ("governance/simulation_signoff_register.csv", "signoff_id", "SSO-0099"),
+        ("governance/issues_register.csv", "issue_id", "ISS-0036"),
+        ("governance/risk_register.csv", "risk_id", "RISK-0039"),
+        ("governance/pitfalls_register.csv", "pitfall_id", "PIT-0033"),
+        ("evidence/evidence_gap_register.csv", "gap_id", "EG-0054"),
+        ("governance/requirements_register.csv", "requirement_id", "REQ-0047"),
+        ("governance/checks_and_balances_register.csv", "control_id", "CB-0033"),
+        ("governance/decision_log.csv", "decision_id", "DEC-0040"),
+        ("governance/approvals_register.csv", "approval_id", "APP-0045"),
+        ("governance/simulation_signoff_register.csv", "signoff_id", "SSO-0101"),
     ]
     errors: list[str] = []
     for rel, column, row_id in expected:
         rows = register_lookup(rel, column)
         if row_id not in rows:
-            errors.append(f"{rel} missing Stage 25A row {row_id}")
+            errors.append(f"{rel} missing Stage 26A row {row_id}")
     return errors
 
 

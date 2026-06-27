@@ -35,6 +35,7 @@ flowchart TD
     AA --> AB["Stage 23A: Register reference integrity<br/>Linkage only"]
     AB --> AC["Stage 24A: Dashboard blocker consistency<br/>Surfacing only"]
     AC --> AD["Stage 25A: Stage-gate report structure consistency<br/>Wording consistency only"]
+    AD --> AE["Stage 26A: Validation evidence logging<br/>Logged QA evidence only"]
 
     B -. "P0: Bristol route and WECA/MCA role" .-> G
     D -. "P0: boundary and inventory" .-> G
@@ -74,11 +75,12 @@ flowchart TD
     AB -. "Resolved register links do not prove row substance or readiness" .-> K2
     AC -. "Visible blockers do not prove blocker completeness or risk adequacy" .-> K2
     AD -. "Evidence-status wording does not prove evidence truth completeness currentness or readiness" .-> K2
+    AE -. "Logged command evidence does not prove evidence truth source currentness professional assurance or readiness" .-> K2
 
     classDef blocked fill:#ffdddd,stroke:#990000,color:#111111;
     classDef control fill:#fff4cc,stroke:#996600,color:#111111;
     classDef current fill:#ddf4ff,stroke:#005f99,color:#111111;
 
     class G,I,K blocked;
-    class A,B,C,D,E,F,F2,H,J,J2,K2,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z,AA,AB,AC,Caption,Legend control;
-    class AD current;
+    class A,B,C,D,E,F,F2,H,J,J2,K2,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z,AA,AB,AC,AD,Caption,Legend control;
+    class AE current;

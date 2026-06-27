@@ -14,10 +14,10 @@ This is a simulation repository. It records controls, gaps and risks. It does no
 
 | Item | Current position |
 |---|---|
-| Last completed stage | Stage 25A: stage-gate report structure consistency controls. |
-| What Stage 25A controls | It checks that recent stage-gate reports contain the expected validation-command references, blocker sections, gate-decision sections and no-overclaim wording. |
-| What Stage 25A cannot do | It does not prove command execution history, substantive gate correctness, evidence truth, blocker completeness, source currentness, professional review or WPL readiness. |
-| Main live blockers | `ISS-0001`, `ISS-0002`, `ISS-0003`, `ISS-0004`, `ISS-0005`, `ISS-0008`, `ISS-0011`, `ISS-0012`, `ISS-0015`, `ISS-0016`, `ISS-0025`, `ISS-0026`, `ISS-0027`, `ISS-0028`, `ISS-0029`, `ISS-0030`, `ISS-0031`, `ISS-0032`, `ISS-0033`, `ISS-0034`, `ISS-0035`, `EG-0008`, `EG-0014`, `EG-0045`, `EG-0046`, `EG-0047`, `EG-0048`, `EG-0049`, `EG-0050`, `EG-0051`, `EG-0052`, `EG-0053`. |
+| Last completed stage | Stage 26A: validation evidence log controls. |
+| What Stage 26A controls | It records bounded command-run evidence for validation checks, including command text, run date, commit reference, exit code, output summary, evidence file and scope limits. |
+| What Stage 26A cannot do | It does not prove evidence truth, source currentness, legal correctness, substantive gate correctness, professional review, blocker completeness, risk adequacy or WPL readiness. |
+| Main live blockers | `ISS-0001`, `ISS-0002`, `ISS-0003`, `ISS-0004`, `ISS-0005`, `ISS-0008`, `ISS-0011`, `ISS-0012`, `ISS-0015`, `ISS-0016`, `ISS-0025`, `ISS-0026`, `ISS-0027`, `ISS-0028`, `ISS-0029`, `ISS-0030`, `ISS-0031`, `ISS-0032`, `ISS-0033`, `ISS-0034`, `ISS-0035`, `ISS-0036`, `EG-0008`, `EG-0014`, `EG-0045`, `EG-0046`, `EG-0047`, `EG-0048`, `EG-0049`, `EG-0050`, `EG-0051`, `EG-0052`, `EG-0053`, `EG-0054`. |
 
 ## Current No-Go Position
 
@@ -37,6 +37,7 @@ The blockers are not cosmetic:
 - Future OBC, FBC, consultation, statutory and public/officer drafting-specific claim summaries do not exist.
 - Nottingham lessons are lessons only. They cannot be copied into Bristol assumptions without Bristol transferability evidence.
 - Stage-gate report structure checks are explanatory only. They do not prove command execution history, substantive gate correctness, evidence truth, source currentness, professional assurance or WPL readiness.
+- Validation evidence logs are explanatory only. They do not prove evidence truth, legal correctness, source currentness, professional assurance, substantive gate correctness, public-authority approval or WPL readiness.
 
 ## Risk Recording
 
@@ -82,6 +83,8 @@ Editable authoring outputs are working files only. They help future drafters ass
 | Register integrity reviewer | `scripts/validate_register_references.py` | Cross-register ID and selected control-path integrity checks. |
 | Dashboard consistency reviewer | `scripts/validate_dashboard_consistency.py` | README and officer-dashboard blocker surfacing checks. |
 | Stage-gate report reviewer | `scripts/validate_stage_gate_reports.py` | Recent gate-report structure and validation-command reference checks. |
+| Validation evidence reviewer | `evidence/validation/README.md` | Command-run evidence logs and their process-only limits. |
+| Validation evidence QA maintainer | `scripts/validate_validation_evidence_log.py` | Validation-log structure, command-row and scope-limit checks. |
 | Officer or programme manager | `docs/officer/programme-risk-briefing.md` | Programme risks, mitigations and next checks. |
 | Officer planning next work | `docs/officer/next-steps-critical-path.md` | Critical path work packages and 90-day planning controls. |
 | Evidence reviewer or drafter | `evidence/source_notes/README.md` | Source-note cohorts and claim-use limits; source-note backlog remains controlled at claim-summary level. |
@@ -100,7 +103,7 @@ Editable authoring outputs are working files only. They help future drafters ass
 
 ## Visual Stage And Risk Maps
 
-The current workflow map is in `docs/visuals/stage-gate-map.mmd`. The public/cabinet risk-control map is in `docs/visuals/risk-control-atlas.mmd`. Stage 9A is the public/officer assurance layer. Stage 7 OBC, Stage 8 consultation launch and Stage 11 FBC/statutory gates remain blocked. Stage 10A is only a control layer for a future statutory dossier; Stage 11A is only a control layer for the final FBC/statutory gate. Stage 12A records the public repository release controls. Stage 13A records the critical-path handover controls; the critical path is not approval. Stage 14A creates a source-note pilot. Stage 14B records public-repo secret-scanning remediation after a GitGuardian detector collision. Stage 14C dry-runs the history-rewrite option. Stage 14D records the approved live history rewrite. Stage 14E records repository-side hosted-alert checks; GitGuardian disposition remains external. Stage 15A expands legal/governance source-note coverage. Stage 15B completes downloaded priority-1 source-note coverage only. Stage 16A creates current-claim-matrix claim summaries only. Stage 17A creates editable authoring guardrails only. Stage 18A strengthens Nottingham and comparator transferability controls only. Stage 19A adds public/cabinet comprehension controls only. Stage 20A adds static visual/accessibility QA controls only. Stage 21A adds repo-local link and navigation integrity controls only. Stage 22A exposes source-link/freshness navigation only. Stage 23A validates scoped register-ID and control-path references only. Stage 24A validates dashboard blocker surfacing only. Stage 25A validates recent stage-gate report structure only; it does not prove command execution history, substantive gate correctness, evidence truth, source currentness or WPL readiness.
+The current workflow map is in `docs/visuals/stage-gate-map.mmd`. The public/cabinet risk-control map is in `docs/visuals/risk-control-atlas.mmd`. Stage 9A is the public/officer assurance layer. Stage 7 OBC, Stage 8 consultation launch and Stage 11 FBC/statutory gates remain blocked. Stage 10A is only a control layer for a future statutory dossier; Stage 11A is only a control layer for the final FBC/statutory gate. Stage 12A records the public repository release controls. Stage 13A records the critical-path handover controls; the critical path is not approval. Stage 14A creates a source-note pilot. Stage 14B records public-repo secret-scanning remediation after a GitGuardian detector collision. Stage 14C dry-runs the history-rewrite option. Stage 14D records the approved live history rewrite. Stage 14E records repository-side hosted-alert checks; GitGuardian disposition remains external. Stage 15A expands legal/governance source-note coverage. Stage 15B completes downloaded priority-1 source-note coverage only. Stage 16A creates current-claim-matrix claim summaries only. Stage 17A creates editable authoring guardrails only. Stage 18A strengthens Nottingham and comparator transferability controls only. Stage 19A adds public/cabinet comprehension controls only. Stage 20A adds static visual/accessibility QA controls only. Stage 21A adds repo-local link and navigation integrity controls only. Stage 22A exposes source-link/freshness navigation only. Stage 23A validates scoped register-ID and control-path references only. Stage 24A validates dashboard blocker surfacing only. Stage 25A validates recent stage-gate report structure only. Stage 26A records validation evidence logs only; it does not prove evidence truth, source currentness, substantive gate correctness, professional assurance or WPL readiness.
 
 ```mermaid
 flowchart LR
@@ -136,6 +139,7 @@ flowchart LR
     S22A --> S23A["Stage 23A<br/>Register reference integrity controls"]
     S23A --> S24A["Stage 24A<br/>Dashboard blocker consistency controls"]
     S24A --> S25A["Stage 25A<br/>Stage-gate report structure controls"]
+    S25A --> S26A["Stage 26A<br/>Validation evidence log controls"]
 ```
 
 ## Stage 9A Status
@@ -192,6 +196,7 @@ The stage-by-stage workflow narrative is maintained in `docs/stages/`:
 - `docs/stages/stage-23a-register-reference-integrity.md`
 - `docs/stages/stage-24a-dashboard-blocker-consistency.md`
 - `docs/stages/stage-25a-stage-gate-report-evidence-consistency.md`
+- `docs/stages/stage-26a-validation-evidence-log-controls.md`
 
 Each completed stage package should be committed and pushed before the next stage begins. Detailed discoveries, data points and unresolved issues live in the stage docs and controlled registers.
 
@@ -207,6 +212,7 @@ Each completed stage package should be committed and pushed before the next stag
 - `evidence/extraction_log.csv` is the append-only extraction audit log.
 - `evidence/source_notes/source-note-coverage-register.csv` now tracks 91 controlled source notes: 13 Stage 14A pilot notes, 42 Stage 15A legal/governance expansion notes and 36 Stage 15B acquired-priority completion notes. Current claim-matrix summaries are controlled in the Stage 16A claim-level source-summary layer; future drafting-specific summaries remain open under `EG-0045`.
 - `evidence/claim_summaries/claim-summary-register.csv` now tracks 38 Stage 16A claim summaries for current claim-matrix rows. Future drafting-specific claim summaries remain open under `EG-0045`.
+- `evidence/validation/validation-run-register.csv` records bounded command-run evidence rows for validation checks. It is process evidence only and does not prove evidence truth or WPL readiness.
 
 ## Controlled Gate Reports
 
@@ -242,6 +248,7 @@ Current gate reports live under `review/stage_gate_reports/`. Key current report
 - `review/stage_gate_reports/stage-23a-register-reference-integrity-report.md`
 - `review/stage_gate_reports/stage-24a-dashboard-blocker-consistency-report.md`
 - `review/stage_gate_reports/stage-25a-stage-gate-report-evidence-consistency-report.md`
+- `review/stage_gate_reports/stage-26a-validation-evidence-log-controls-report.md`
 
 ## Context Discipline
 
@@ -286,6 +293,7 @@ make external-liveness-qa
 make register-references-qa
 make dashboard-consistency-qa
 make stage-gate-reports-qa
+make validation-evidence-qa
 make refresh-external-liveness
 make red-team
 python3 scripts/acquire_sources.py --priority 1_must
