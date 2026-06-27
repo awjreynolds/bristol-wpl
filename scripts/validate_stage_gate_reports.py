@@ -107,6 +107,19 @@ REPORTS = {
             "substantive gate correctness",
         ],
     },
+    "review/stage_gate_reports/stage-31a-validation-evidence-log-for-stage-30a-report.md": {
+        "stage": "Stage 31A",
+        "focused_commands": [
+            "python3 scripts/validate_validation_evidence_log.py",
+            "python3 -m unittest tests.test_validation_evidence_log",
+        ],
+        "extra_limit_terms": [
+            "command sufficiency",
+            "command authenticity",
+            "source currentness",
+            "substantive gate correctness",
+        ],
+    },
 }
 
 COMMON_COMMANDS = [

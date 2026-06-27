@@ -13,5 +13,6 @@ Current files:
 - `stage-25a-validation-run-log.md`
 - `stage-26a-validation-run-log.md`
 - `stage-29a-validation-run-log.md`
+- `stage-30a-validation-run-log.md`
 
 `scripts/validate_validation_coverage.py` currently checks lagged coverage for Stage 26A and Stage 29A. This is coverage of recorded process evidence only; it does not prove command sufficiency, future agent compliance, evidence truth, legal correctness, professional assurance or WPL readiness.

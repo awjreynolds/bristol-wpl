@@ -23,11 +23,11 @@ OPEN_STATUSES = {
 }
 
 REQUIRED_README_IDS = {
-    "ISS-0040",
-    "EG-0058",
+    "ISS-0041",
+    "EG-0059",
 }
 
-REQUIRED_DASHBOARD_IDS = REQUIRED_README_IDS | {"RISK-0043"}
+REQUIRED_DASHBOARD_IDS = REQUIRED_README_IDS | {"RISK-0044"}
 
 REQUIRED_PUBLIC_PHRASES = {
     "README.md": [
@@ -39,8 +39,10 @@ REQUIRED_PUBLIC_PHRASES = {
         "subagent context-control hardening",
         "Stage 30A",
         "validation coverage for Stage 29A",
-        "ISS-0040",
-        "EG-0058",
+        "Stage 31A",
+        "validation evidence log for Stage 30A",
+        "ISS-0041",
+        "EG-0059",
     ],
     "docs/officer/assurance-dashboard.md": [
         "Validation evidence coverage",
@@ -55,6 +57,9 @@ REQUIRED_PUBLIC_PHRASES = {
         "Stage 29A validation coverage",
         "Stage 30A records validation coverage for Stage 29A.",
         "scripts/validate_validation_coverage.py",
+        "Stage 30A validation evidence logging",
+        "Stage 31A records validation evidence for Stage 30A.",
+        "scripts/validate_validation_evidence_log.py",
     ],
     "docs/stages/README.md": [
         "Stage 27A",
@@ -65,18 +70,24 @@ REQUIRED_PUBLIC_PHRASES = {
         "subagent context-control hardening",
         "Stage 30A",
         "validation coverage for Stage 29A",
+        "Stage 31A",
+        "validation evidence log for Stage 30A",
     ],
     "docs/visuals/stage-gate-map.mmd": [
         "Stage 29A",
         "Subagent context-control hardening",
         "Stage 30A",
         "Validation coverage for Stage 29A",
+        "Stage 31A",
+        "Validation evidence log for Stage 30A",
     ],
     "docs/visuals/risk-control-atlas.mmd": [
         "Subagent context-control hardening",
         "ISS-0039 EG-0057 RISK-0042",
         "Stage 29A validation coverage",
         "ISS-0040 EG-0058 RISK-0043",
+        "Stage 30A validation evidence log",
+        "ISS-0041 EG-0059 RISK-0044",
     ],
 }
 
@@ -213,6 +224,15 @@ def check_latest_stage_register_rows() -> list[str]:
         ("governance/decision_log.csv", "decision_id", "DEC-0044"),
         ("governance/approvals_register.csv", "approval_id", "APP-0049"),
         ("governance/simulation_signoff_register.csv", "signoff_id", "SSO-0109"),
+        ("governance/issues_register.csv", "issue_id", "ISS-0041"),
+        ("governance/risk_register.csv", "risk_id", "RISK-0044"),
+        ("governance/pitfalls_register.csv", "pitfall_id", "PIT-0038"),
+        ("evidence/evidence_gap_register.csv", "gap_id", "EG-0059"),
+        ("governance/requirements_register.csv", "requirement_id", "REQ-0052"),
+        ("governance/checks_and_balances_register.csv", "control_id", "CB-0038"),
+        ("governance/decision_log.csv", "decision_id", "DEC-0045"),
+        ("governance/approvals_register.csv", "approval_id", "APP-0050"),
+        ("governance/simulation_signoff_register.csv", "signoff_id", "SSO-0111"),
     ]
     errors: list[str] = []
     for rel, column, row_id in expected:

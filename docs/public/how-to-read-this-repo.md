@@ -30,12 +30,14 @@ For example:
 - green Bristol live public-source coverage means `SRC-BCC-0001`, `SRC-BCC-0002` and media context `SRC-BCC-0020` have source-status controls;
 - green subagent context-control hardening means future-stage packet instructions and a template exist.
 - green Stage 29A validation coverage means the Stage 29A validation rows and log are covered by a lagged check.
+- green Stage 30A validation evidence logging means the Stage 30A commands are recorded in a validation log.
 
 None of those green controls approve a charge, boundary, consultation, OBC, FBC or statutory submission.
 
 Stage 28A source-status controls also do not prove source truth, currentness, media accuracy, formal decision status, legal correctness or WPL readiness.
 Stage 29A subagent context-control hardening does not prove future agents obey instructions, evidence truth, legal correctness, professional assurance, substantive gate correctness or WPL readiness.
 Stage 30A validation coverage for Stage 29A does not prove command sufficiency, command authenticity, future agent compliance, evidence truth, legal correctness, professional assurance, substantive gate correctness or WPL readiness.
+Stage 31A validation evidence logging for Stage 30A does not prove command sufficiency, command authenticity, evidence truth, source currentness, legal correctness, professional assurance, substantive gate correctness or WPL readiness.
 
 ## What Red Means
 
@@ -62,6 +64,7 @@ The most important red blockers are:
 | Are the three Bristol public links tracked? | `docs/public/bristol-live-public-source-status.md` |
 | How should future agents avoid context bloat? | `docs/agents/subagent-stage-packet-template.md` |
 | Was Stage 29A validation evidence covered by the lagged check? | `review/stage_gate_reports/stage-30a-validation-coverage-for-stage-29a-report.md` |
+| Was Stage 30A validation evidence logged? | `evidence/validation/stage-30a-validation-run-log.md` |
 | What can be learned from Nottingham? | `docs/officer/nottingham-and-comparator-lessons.md` |
 | What documents are editable working files? | `docs/authoring/README.md` |
 

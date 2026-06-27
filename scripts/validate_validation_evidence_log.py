@@ -57,6 +57,37 @@ STAGE_LINKS = {
     "Stage 25A": ("ISS-0035", "EG-0053"),
     "Stage 26A": ("ISS-0036", "EG-0054"),
     "Stage 29A": ("ISS-0039", "EG-0057"),
+    "Stage 30A": ("ISS-0040", "EG-0058"),
+}
+
+STAGE_LOG_REQUIREMENTS = {
+    "Stage 30A": {
+        "log": "evidence/validation/stage-30a-validation-run-log.md",
+        "commands": {
+            "python3 scripts/validate_validation_coverage.py",
+            "python3 -m unittest tests.test_validation_coverage",
+            "make validate",
+            "git diff --check",
+            "python3 scripts/scan_secrets.py --all-history",
+        },
+        "phrases": [
+            "not a raw terminal transcript",
+            "working tree based on d955732 before Stage 30A commit",
+            "final Stage 30A commit 639f738",
+            "does not prove command sufficiency",
+            "command authenticity",
+            "future agent compliance",
+            "prompt fidelity",
+            "actual context isolation",
+            "reasoning quality",
+            "evidence truth",
+            "source currentness",
+            "legal correctness",
+            "professional assurance",
+            "WPL readiness",
+            "Working directory: repository root",
+        ],
+    },
 }
 
 
@@ -137,6 +168,23 @@ def check_log() -> list[str]:
     return errors
 
 
+def check_stage_logs() -> list[str]:
+    errors: list[str] = []
+    for stage, requirement in STAGE_LOG_REQUIREMENTS.items():
+        path = ROOT / requirement["log"]
+        if not path.exists():
+            errors.append(f"missing validation run log for {stage}: {requirement['log']}")
+            continue
+        text = path.read_text(encoding="utf-8")
+        for command in requirement["commands"]:
+            if command not in text:
+                errors.append(f"{requirement['log']} missing command evidence: {command}")
+        for phrase in requirement["phrases"]:
+            if phrase not in text:
+                errors.append(f"{requirement['log']} missing phrase: {phrase}")
+    return errors
+
+
 def check_makefile_integration() -> list[str]:
     makefile = ROOT / "Makefile"
     if not makefile.exists():
@@ -156,6 +204,7 @@ def collect_errors() -> list[str]:
     errors: list[str] = []
     errors.extend(check_register())
     errors.extend(check_log())
+    errors.extend(check_stage_logs())
     errors.extend(check_makefile_integration())
     errors.extend(check_no_authored_pdfs(ROOT))
     return errors

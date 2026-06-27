@@ -34,6 +34,8 @@ Stage 29A adds subagent context-control hardening for future stages. It provides
 
 Stage 30A adds validation coverage for Stage 29A. It checks that Stage 29A validation rows and log are covered by the lagged validator. It does not prove command sufficiency, command authenticity, future agent compliance, evidence truth, legal correctness, professional assurance or WPL readiness.
 
+Stage 31A adds a validation evidence log for Stage 30A. It records the Stage 30A validation commands and repository-state caveat. It does not prove command sufficiency, command authenticity, evidence truth, legal correctness, professional assurance or WPL readiness.
+
 ## What This Repo Is
 
 - An auditable simulation workspace.
@@ -71,6 +73,7 @@ The simulation currently says:
 - Bristol live public-source coverage exists, but it does not prove source truth, currentness, media accuracy, formal decision status, legal correctness, professional assurance or readiness;
 - subagent context-control hardening exists, but it does not prove future agents obey instructions, prompt fidelity, actual context isolation, reasoning quality, professional assurance or readiness;
 - Stage 29A validation coverage exists, but it does not prove command sufficiency, command authenticity, future agent compliance, prompt fidelity, actual context isolation, reasoning quality, professional assurance or readiness;
+- Stage 30A validation evidence logging exists, but it does not prove command sufficiency, command authenticity, evidence truth, source currentness, legal correctness, professional assurance or readiness;
 - Nottingham lessons cannot be copied to Bristol without transferability evidence.
 
 ## Where To Start
@@ -95,7 +98,7 @@ The simulation currently says:
 | Dashboard consistency reviewer | `scripts/validate_dashboard_consistency.py` | README and officer-dashboard blocker surfacing checks |
 | Stage-gate report reviewer | `scripts/validate_stage_gate_reports.py` | Recent gate-report structure checks; not evidence truth, source currentness or readiness |
 | Validation evidence reviewer | `evidence/validation/README.md` | Logged repo-check evidence; QA evidence for the simulation only |
-| Validation evidence QA maintainer | `scripts/validate_validation_evidence_log.py` | Checks validation-log rows and scope limits |
+| Validation evidence QA maintainer | `scripts/validate_validation_evidence_log.py` | Checks validation-log rows and scope limits, including Stage 30A validation evidence |
 | Validation coverage QA maintainer | `scripts/validate_validation_coverage.py` | Checks Stage 26A and Stage 29A validation evidence coverage; not command sufficiency, future agent compliance or readiness |
 | Officer or programme manager | `docs/officer/programme-risk-briefing.md` | Risks, mitigations and next checks |
 | Anyone asking what happens next | `docs/officer/next-steps-critical-path.md` | Critical path work packages; critical path is not approval |
@@ -109,4 +112,4 @@ The simulation currently says:
 
 ## Visual Map
 
-See `docs/visuals/stage-gate-map.mmd` for the current stage-gate flow, `docs/visuals/risk-control-atlas.mmd` for the simplified risk-control flow, `docs/visuals/visual-accessibility-qa-register.csv` for static visual QA and text fallback controls, `docs/public/source-link-and-freshness-status.md` for source-link/freshness status, `docs/public/bristol-live-public-source-status.md` for Bristol live public-source coverage, `docs/agents/subagent-stage-packet-template.md` for future-stage bounded subagent packets, `review/stage_gate_reports/stage-30a-validation-coverage-for-stage-29a-report.md` for Stage 29A validation coverage, and `evidence/validation/README.md` for logged validation evidence and coverage limits.
+See `docs/visuals/stage-gate-map.mmd` for the current stage-gate flow, `docs/visuals/risk-control-atlas.mmd` for the simplified risk-control flow, `docs/visuals/visual-accessibility-qa-register.csv` for static visual QA and text fallback controls, `docs/public/source-link-and-freshness-status.md` for source-link/freshness status, `docs/public/bristol-live-public-source-status.md` for Bristol live public-source coverage, `docs/agents/subagent-stage-packet-template.md` for future-stage bounded subagent packets, `review/stage_gate_reports/stage-30a-validation-coverage-for-stage-29a-report.md` for Stage 29A validation coverage, `evidence/validation/stage-30a-validation-run-log.md` for Stage 30A validation evidence, and `evidence/validation/README.md` for logged validation evidence and coverage limits.
