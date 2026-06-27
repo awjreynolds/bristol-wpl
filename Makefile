@@ -1,7 +1,7 @@
 PYTHON ?= python3
 DOCX_PYTHON ?= $(PYTHON)
 
-.PHONY: bootstrap acquire ingest extract source-register register-workbooks source-scan templates evidence-qa claims-qa secrets-qa validate models model-qa strategic-qa spatial-qa appraisal-qa obc-qa obc-assurance-qa consultation-qa statutory-qa fbc-statutory-qa public-release-qa handover-qa source-notes-qa authoring-qa officer-pack-qa nottingham-qa comprehension-qa visual-accessibility-qa navigation-qa external-liveness-qa register-references-qa dashboard-consistency-qa stage-gate-reports-qa validation-evidence-qa validation-coverage-qa bristol-public-sources-qa subagent-context-control-qa govuk-style-qa obc-docx-pack obc-docx-pack-qa refresh-external-liveness assemble-obc assemble-fbc build-docx accessibility-check red-team gate-obc gate-fbc all
+.PHONY: bootstrap acquire ingest extract source-register register-workbooks source-scan templates evidence-qa claims-qa secrets-qa validate models model-qa strategic-qa spatial-qa appraisal-qa obc-qa obc-assurance-qa consultation-qa statutory-qa fbc-statutory-qa public-release-qa handover-qa source-notes-qa authoring-qa officer-pack-qa nottingham-qa comprehension-qa visual-accessibility-qa navigation-qa external-liveness-qa register-references-qa dashboard-consistency-qa stage-gate-reports-qa validation-evidence-qa validation-coverage-qa bristol-public-sources-qa subagent-context-control-qa govuk-style-qa license-qa obc-docx-pack obc-docx-pack-qa refresh-external-liveness assemble-obc assemble-fbc build-docx accessibility-check red-team gate-obc gate-fbc all
 
 bootstrap:
 	$(PYTHON) scripts/bootstrap_repo.py
@@ -65,6 +65,7 @@ validate:
 	$(PYTHON) scripts/validate_bristol_public_sources.py
 	$(PYTHON) scripts/validate_subagent_context_control.py
 	$(PYTHON) scripts/validate_govuk_style_skill.py
+	$(PYTHON) scripts/validate_licensing.py
 	$(PYTHON) scripts/validate_obc_docx_pack.py
 
 models:
@@ -151,6 +152,9 @@ subagent-context-control-qa:
 
 govuk-style-qa:
 	$(PYTHON) scripts/validate_govuk_style_skill.py
+
+license-qa:
+	$(PYTHON) scripts/validate_licensing.py
 
 obc-docx-pack:
 	$(DOCX_PYTHON) scripts/build_obc_docx_pack.py

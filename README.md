@@ -363,6 +363,7 @@ make validation-evidence-qa
 make validation-coverage-qa
 make subagent-context-control-qa
 make govuk-style-qa
+make license-qa
 make obc-docx-pack-qa
 DOCX_PYTHON=/Users/awjre/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 make obc-docx-pack
 make refresh-external-liveness
@@ -387,3 +388,9 @@ Officer review and distribution copies must be editable DOCX/XLSX/HTML or contro
 - controlled Markdown, CSV, XLSX, JSON, HTML and GIS artefacts generated under this repo
 
 This is not legal advice, statutory confirmation, financial certification or approval by any public body. All sign-offs are agentic simulation sign-offs unless explicitly replaced in a future real-world process.
+
+## License And Third-Party Notices
+
+Original repository content is MIT licensed. See [LICENSE](LICENSE).
+
+Third-party source material keeps its original licence or terms. See [THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md), including the GOV.UK content and publishing guidance attribution under the Open Government Licence v3.0 and the attribution note for the `fofr` GOV.UK style skill gist.

@@ -37,6 +37,10 @@ REQUIRED_APPLICATION_PHRASES = [
 
 REQUIRED_SOURCE_PHRASES = [
     "This repo-local skill is an adapted implementation.",
+    "Open Government Licence v3.0",
+    "Contains public sector information licensed under the Open Government Licence v3.0.",
+    "No explicit licence statement was observed on the reviewed gist page.",
+    "THIRD_PARTY_NOTICES.md",
     "Neither source makes this repo official GOV.UK content, GOV.UK/GDS endorsed, legally assured, accessibility certified or WPL-ready.",
 ]
 

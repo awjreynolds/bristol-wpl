@@ -9,6 +9,8 @@ Use this skill for public, officer and cabinet prose. It is adapted for this Bri
 
 Using this guidance does not make repo content official GOV.UK content or certified GOV.UK/GDS-compliant.
 
+See `skills/govuk-style/references/sources.md` and `THIRD_PARTY_NOTICES.md` for attribution and licensing notes.
+
 Sources:
 
 - `https://gist.github.com/fofr/505e225f9bf5e839d30c12ba6bfa0be2`

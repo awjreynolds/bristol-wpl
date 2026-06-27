@@ -8,4 +8,12 @@ External sources reviewed on 2026-06-27:
 - GOV.UK content and publishing guidance, writing guidelines: `https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/writing-guidelines/`
 - GOV.UK content and publishing guidance, A to Z style guide: `https://guidance.publishing.service.gov.uk/writing-to-gov-uk-standards/style-guides/a-to-z-style-guide/`
 
+Licensing and attribution:
+
+- The GOV.UK guidance page reviewed on 2026-06-27 states that all content is available under the Open Government Licence v3.0, except where otherwise stated.
+- Attribution statement: Contains public sector information licensed under the Open Government Licence v3.0.
+- The gist page reviewed on 2026-06-27 was live and attributed to `fofr`. No explicit licence statement was observed on the reviewed gist page.
+- This repo-local skill is an adapted implementation, not a verbatim copy of the gist.
+- Repository-level third-party attribution is recorded in `THIRD_PARTY_NOTICES.md`.
+
 Use the public GOV.UK guidance as a style reference. Use the gist as the agent-skill pattern that made this repo-local skill relevant. Neither source makes this repo official GOV.UK content, GOV.UK/GDS endorsed, legally assured, accessibility certified or WPL-ready.
