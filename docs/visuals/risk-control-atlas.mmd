@@ -21,6 +21,7 @@ flowchart TD
     Dash --> GateReportQA["Stage-gate report structure consistency<br/>ISS-0035 EG-0053 RISK-0038"]
     Dash --> ValidationEvidence["Validation evidence log<br/>Logged checks only; no readiness proof<br/>ISS-0036 EG-0054 RISK-0039"]
     Dash --> ValidationCoverage["Latest-stage validation coverage<br/>Shows whether latest-stage checks have logged evidence coverage<br/>No truth, currentness or readiness proof<br/>ISS-0037 EG-0055 RISK-0040"]
+    Dash --> BristolPublicSources["Stage 28A: Bristol live public-source coverage<br/>SRC-BCC-0001 SRC-BCC-0002 media context SRC-BCC-0020<br/>does not prove source truth currentness media accuracy or WPL readiness<br/>ISS-0038 EG-0056 RISK-0041"]
 
     Legal --> NoGo["No-go for approval<br/>until real evidence and authority exist"]
     WECA --> NoGo
@@ -39,6 +40,7 @@ flowchart TD
     GateReportQA --> NoGo
     ValidationEvidence --> NoGo
     ValidationCoverage --> NoGo
+    BristolPublicSources --> NoGo
 
     Legal -. "next proof: Monitoring Officer route and statutory submitter evidence" .-> Proof["Future real-world proof"]
     WECA -. "next proof: current-law role and funding/consent disposition" .-> Proof
@@ -57,6 +59,7 @@ flowchart TD
     GateReportQA -. "next proof: evidence substance review, source currentness review, command execution record and professional gate assurance" .-> Proof
     ValidationEvidence -. "next proof: separate evidence source legal appraisal consultation statutory and professional review" .-> Proof
     ValidationCoverage -. "next proof: command sufficiency evidence substance source legal appraisal consultation statutory and professional review" .-> Proof
+    BristolPublicSources -. "next proof: refreshed source content primary Bristol committee legal and statutory-route evidence media corroboration where needed" .-> Proof
 
     classDef start fill:#ddf4ff,stroke:#005f99,color:#111111;
     classDef blocked fill:#ffdddd,stroke:#990000,color:#111111;
@@ -64,5 +67,5 @@ flowchart TD
     classDef future fill:#eeeeee,stroke:#555555,color:#111111;
 
     class Start,Dash,Caption,Legend guide;
-    class Legal,WECA,Spatial,Appraisal,Consult,FBC,Nottingham,Authoring,Comprehension,VisualQA,NavigationQA,SourceFreshness,RegisterIntegrity,DashboardConsistency,GateReportQA,ValidationEvidence,ValidationCoverage,NoGo blocked;
+    class Legal,WECA,Spatial,Appraisal,Consult,FBC,Nottingham,Authoring,Comprehension,VisualQA,NavigationQA,SourceFreshness,RegisterIntegrity,DashboardConsistency,GateReportQA,ValidationEvidence,ValidationCoverage,BristolPublicSources,NoGo blocked;
     class Proof future;

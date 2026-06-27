@@ -28,6 +28,7 @@ The repo records a simulation workflow: evidence gathered, risks found, controls
 | FBC/statutory decision | Blocked | No FBC evidence packet, Monitoring Officer route, Section 151 review, DfT/WECA disposition or implementation readiness. |
 | Spend/procurement | Blocked | The critical path is a planning control only and does not authorise expenditure or procurement. |
 | Public repository | Controlled only | Public visibility is not official council publication, endorsement or approval. |
+| Bristol live public-source coverage | Controlled only | `SRC-BCC-0001`, `SRC-BCC-0002` and media context `SRC-BCC-0020` are visible and claim-limited; this does not prove source truth, currentness, legal correctness, formal decision status or WPL readiness. |
 
 ## Top Blockers In Plain English
 
@@ -48,6 +49,7 @@ The repo records a simulation workflow: evidence gathered, risks found, controls
 | What could go wrong? | `docs/officer/risk-gate-atlas.md` | `docs/officer/risk-control-crosswalk.csv` |
 | What does Nottingham tell us? | `docs/officer/nottingham-and-comparator-lessons.md` | `analysis/economic/nottingham-transferability-matrix.csv` |
 | What is known, assumed, missing or prohibited? | `docs/public/what-this-repo-can-and-cannot-tell-you.md` | `docs/public/evidence-and-assumptions-summary.md` |
+| Are the three Bristol public links already tracked? | `docs/public/bristol-live-public-source-status.md` | `evidence/bristol_public_source_status.csv` and `scripts/validate_bristol_public_sources.py` |
 | What documents exist? | `docs/officer/document-map.md` | `docs/authoring/README.md` |
 
 ## Simulation Sign-Off Rule

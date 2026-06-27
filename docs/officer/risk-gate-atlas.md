@@ -21,6 +21,7 @@ This atlas explains where the main risks sit in the simulated workflow. It is a 
 | Consultation launch | Blocked | Public-law, privacy or accessibility challenge | `ISS-0012`; `RISK-0015`; Stage 8A controls | Authority to consult, materials, privacy notice, accessible formats and response-analysis method |
 | OBC/FBC/statutory outputs | Blocked | Templates mistaken for decision papers | `ISS-0011`; `RISK-0014`; `ISS-0027`; `RISK-0030` | Evidence-populated OBC/FBC sections, legal and finance review, consultation disposition and implementation readiness evidence |
 | Public repository | Controlled but not approval | Public visibility mistaken for official endorsement | `ISS-0020` to `ISS-0023`; `RISK-0023` to `RISK-0026` | Continued secret scanning and external GitGuardian disposition where relevant |
+| Bristol live public-source coverage | Controlled but not source truth | Public pages, press releases or media context mistaken for formal decision evidence | `ISS-0038`; `RISK-0041`; `PIT-0035`; `EG-0056` | Refresh sources and verify substantive claims against primary Bristol committee, legal and statutory-route evidence |
 
 ## How To Use This Atlas
 
@@ -39,3 +40,5 @@ This atlas explains where the main risks sit in the simulated workflow. It is a 
 The stage-gate map is in `docs/visuals/stage-gate-map.mmd`. The risk-control visual is in `docs/visuals/risk-control-atlas.mmd`. Static visual QA controls are tracked in `docs/visuals/visual-accessibility-qa-register.csv`.
 
 If a visual does not render, use this atlas and `docs/officer/risk-control-crosswalk.csv` as the text fallback.
+
+Stage 28A Bristol live public-source coverage distinguishes `SRC-BCC-0001`, `SRC-BCC-0002` and media context `SRC-BCC-0020`. It does not prove source truth, currentness, media accuracy, formal decision status, legal correctness or WPL readiness.

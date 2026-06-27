@@ -1,6 +1,6 @@
 PYTHON ?= python3
 
-.PHONY: bootstrap acquire ingest extract source-register register-workbooks source-scan templates evidence-qa claims-qa secrets-qa validate models model-qa strategic-qa spatial-qa appraisal-qa obc-qa obc-assurance-qa consultation-qa statutory-qa fbc-statutory-qa public-release-qa handover-qa source-notes-qa authoring-qa officer-pack-qa nottingham-qa comprehension-qa visual-accessibility-qa navigation-qa external-liveness-qa register-references-qa dashboard-consistency-qa stage-gate-reports-qa validation-evidence-qa validation-coverage-qa refresh-external-liveness assemble-obc assemble-fbc build-docx accessibility-check red-team gate-obc gate-fbc all
+.PHONY: bootstrap acquire ingest extract source-register register-workbooks source-scan templates evidence-qa claims-qa secrets-qa validate models model-qa strategic-qa spatial-qa appraisal-qa obc-qa obc-assurance-qa consultation-qa statutory-qa fbc-statutory-qa public-release-qa handover-qa source-notes-qa authoring-qa officer-pack-qa nottingham-qa comprehension-qa visual-accessibility-qa navigation-qa external-liveness-qa register-references-qa dashboard-consistency-qa stage-gate-reports-qa validation-evidence-qa validation-coverage-qa bristol-public-sources-qa refresh-external-liveness assemble-obc assemble-fbc build-docx accessibility-check red-team gate-obc gate-fbc all
 
 bootstrap:
 	$(PYTHON) scripts/bootstrap_repo.py
@@ -61,6 +61,7 @@ validate:
 	$(PYTHON) scripts/validate_stage_gate_reports.py
 	$(PYTHON) scripts/validate_validation_evidence_log.py
 	$(PYTHON) scripts/validate_validation_coverage.py
+	$(PYTHON) scripts/validate_bristol_public_sources.py
 
 models:
 	$(PYTHON) scripts/build_models.py
@@ -137,6 +138,9 @@ validation-evidence-qa:
 
 validation-coverage-qa:
 	$(PYTHON) scripts/validate_validation_coverage.py
+
+bristol-public-sources-qa:
+	$(PYTHON) scripts/validate_bristol_public_sources.py
 
 refresh-external-liveness:
 	$(PYTHON) scripts/check_external_source_liveness.py --write

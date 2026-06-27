@@ -23,35 +23,42 @@ OPEN_STATUSES = {
 }
 
 REQUIRED_README_IDS = {
-    "ISS-0037",
-    "EG-0055",
+    "ISS-0038",
+    "EG-0056",
 }
 
-REQUIRED_DASHBOARD_IDS = REQUIRED_README_IDS | {"RISK-0040"}
+REQUIRED_DASHBOARD_IDS = REQUIRED_README_IDS | {"RISK-0041"}
 
 REQUIRED_PUBLIC_PHRASES = {
     "README.md": [
         "Stage 27A",
         "validation evidence coverage controls",
-        "ISS-0037",
-        "EG-0055",
+        "Stage 28A",
+        "Bristol live public-source coverage controls",
+        "ISS-0038",
+        "EG-0056",
     ],
     "docs/officer/assurance-dashboard.md": [
         "Validation evidence coverage",
         "Stage 27A records validation evidence coverage checks.",
         "scripts/validate_validation_coverage.py",
+        "Bristol live public-source coverage",
+        "Stage 28A records Bristol live public-source coverage",
+        "scripts/validate_bristol_public_sources.py",
     ],
     "docs/stages/README.md": [
         "Stage 27A",
         "validation evidence coverage",
+        "Stage 28A",
+        "Bristol live public-source coverage",
     ],
     "docs/visuals/stage-gate-map.mmd": [
-        "Stage 27A",
-        "Latest-stage validation coverage",
+        "Stage 28A",
+        "Bristol live public-source coverage",
     ],
     "docs/visuals/risk-control-atlas.mmd": [
-        "Latest-stage validation coverage",
-        "ISS-0037 EG-0055 RISK-0040",
+        "Bristol live public-source coverage",
+        "ISS-0038 EG-0056 RISK-0041",
     ],
 }
 
@@ -161,6 +168,15 @@ def check_latest_stage_register_rows() -> list[str]:
         ("governance/decision_log.csv", "decision_id", "DEC-0041"),
         ("governance/approvals_register.csv", "approval_id", "APP-0046"),
         ("governance/simulation_signoff_register.csv", "signoff_id", "SSO-0103"),
+        ("governance/issues_register.csv", "issue_id", "ISS-0038"),
+        ("governance/risk_register.csv", "risk_id", "RISK-0041"),
+        ("governance/pitfalls_register.csv", "pitfall_id", "PIT-0035"),
+        ("evidence/evidence_gap_register.csv", "gap_id", "EG-0056"),
+        ("governance/requirements_register.csv", "requirement_id", "REQ-0049"),
+        ("governance/checks_and_balances_register.csv", "control_id", "CB-0035"),
+        ("governance/decision_log.csv", "decision_id", "DEC-0042"),
+        ("governance/approvals_register.csv", "approval_id", "APP-0047"),
+        ("governance/simulation_signoff_register.csv", "signoff_id", "SSO-0105"),
     ]
     errors: list[str] = []
     for rel, column, row_id in expected:

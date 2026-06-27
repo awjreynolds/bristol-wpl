@@ -39,8 +39,10 @@ REQUIRED_NAV_REFERENCES = {
         "scripts/validate_stage_gate_reports.py",
         "scripts/validate_validation_evidence_log.py",
         "scripts/validate_validation_coverage.py",
+        "scripts/validate_bristol_public_sources.py",
         "evidence/validation/README.md",
-        "review/stage_gate_reports/stage-27a-validation-evidence-coverage-report.md",
+        "docs/public/bristol-live-public-source-status.md",
+        "review/stage_gate_reports/stage-28a-bristol-live-public-source-coverage-report.md",
     ],
     "docs/public/README.md": [
         "docs/public/how-to-read-this-repo.md",
@@ -55,7 +57,9 @@ REQUIRED_NAV_REFERENCES = {
         "scripts/validate_stage_gate_reports.py",
         "scripts/validate_validation_evidence_log.py",
         "scripts/validate_validation_coverage.py",
+        "scripts/validate_bristol_public_sources.py",
         "evidence/validation/README.md",
+        "docs/public/bristol-live-public-source-status.md",
     ],
     "docs/officer/document-map.md": [
         "docs/public/source-link-and-freshness-status.md",
@@ -64,13 +68,15 @@ REQUIRED_NAV_REFERENCES = {
         "scripts/validate_stage_gate_reports.py",
         "scripts/validate_validation_evidence_log.py",
         "scripts/validate_validation_coverage.py",
+        "scripts/validate_bristol_public_sources.py",
         "evidence/validation/README.md",
+        "docs/public/bristol-live-public-source-status.md",
         "docs/officer/risk-control-crosswalk.csv",
         "docs/visuals/visual-accessibility-qa-register.csv",
     ],
     "docs/stages/README.md": [
-        "stage-27a-validation-evidence-coverage.md",
-        "review/stage_gate_reports/stage-27a-validation-evidence-coverage-report.md",
+        "stage-28a-bristol-live-public-source-coverage.md",
+        "review/stage_gate_reports/stage-28a-bristol-live-public-source-coverage-report.md",
     ],
 }
 
@@ -85,6 +91,7 @@ REQUIRED_STAGE_REPORTS = [
     "review/stage_gate_reports/stage-25a-stage-gate-report-evidence-consistency-report.md",
     "review/stage_gate_reports/stage-26a-validation-evidence-log-controls-report.md",
     "review/stage_gate_reports/stage-27a-validation-evidence-coverage-report.md",
+    "review/stage_gate_reports/stage-28a-bristol-live-public-source-coverage-report.md",
 ]
 
 LINK_PATTERN = re.compile(r"\[[^\]]+\]\(([^)]+)\)")
@@ -172,10 +179,10 @@ def check_required_nav_references() -> list[str]:
 def check_latest_stage_alignment() -> list[str]:
     errors = []
     expectations = {
-        "README.md": "Stage 27A",
-        "docs/stages/README.md": "Stage 27A",
-        "docs/visuals/stage-gate-map.mmd": "Stage 27A",
-        "docs/visuals/risk-control-atlas.mmd": "Latest-stage validation coverage",
+        "README.md": "Stage 28A",
+        "docs/stages/README.md": "Stage 28A",
+        "docs/visuals/stage-gate-map.mmd": "Stage 28A",
+        "docs/visuals/risk-control-atlas.mmd": "Bristol live public-source coverage",
     }
     for rel, phrase in expectations.items():
         path = ROOT / rel

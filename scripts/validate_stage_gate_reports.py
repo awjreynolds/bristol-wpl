@@ -70,6 +70,18 @@ REPORTS = {
             "substantive gate",
         ],
     },
+    "review/stage_gate_reports/stage-28a-bristol-live-public-source-coverage-report.md": {
+        "stage": "Stage 28A",
+        "focused_commands": [
+            "python3 scripts/validate_bristol_public_sources.py",
+            "python3 -m unittest tests.test_bristol_public_sources",
+        ],
+        "extra_limit_terms": [
+            "source currentness",
+            "media accuracy",
+            "formal decision",
+        ],
+    },
 }
 
 COMMON_COMMANDS = [

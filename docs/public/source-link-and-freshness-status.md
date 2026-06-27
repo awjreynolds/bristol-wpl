@@ -9,6 +9,8 @@ Some source pages change, move or disappear. This page explains where to check w
 
 The latest recorded snapshot is in `evidence/external_source_liveness_register.csv`.
 
+Stage 28A adds a separate Bristol live public-source coverage view for the three user-provided Bristol WPL links. It records `SRC-BCC-0001`, `SRC-BCC-0002` and `SRC-BCC-0020`, including the fact that `SRC-BCC-0020` is Bristol Post media context only. This view does not prove source truth, currentness, media accuracy, formal decision status or WPL readiness.
+
 ## Latest Snapshot
 
 | Item | Recorded position |
@@ -26,6 +28,16 @@ The two redirected sources are:
 |---|---|
 | `SRC-HMT-0004` | GOV.UK redirects the Aqua Book publication URL to the current guidance URL. |
 | `SRC-BCC-0031` | Bristol's officer delegation document URL redirects to a `/file` PDF endpoint. |
+
+## Bristol Live Public Sources
+
+The detailed table is `docs/public/bristol-live-public-source-status.md`; the machine-readable status table is `evidence/bristol_public_source_status.csv`.
+
+| Source | Current status | Claim limit |
+|---|---|---|
+| `SRC-BCC-0001` Bristol WPL project page | Official project page; registered, downloaded, extracted, source-noted and browser-readable on 2026-06-27. | Public narrative only; does not prove approval, legal route, consultation readiness, OBC/FBC readiness, statutory readiness or WPL readiness. |
+| `SRC-BCC-0002` Bristol news release | Official news release; registered, downloaded and source-noted; browser returned a loading shell on 2026-06-27. | Communications context only; does not prove committee decision, legal effect, consultation readiness or WPL readiness. |
+| `SRC-BCC-0020` Bristol Post article | Registered as `seeded_not_downloaded`; browser fetch returned `402 Payment Required` on 2026-06-27; no source note exists. | Media context only; does not prove official decision, charge level, media accuracy, legal correctness or WPL readiness. |
 
 ## How To Use This
 
@@ -47,6 +59,8 @@ Then use the source notes and claim summaries before relying on the source:
 Stage 22A does not prove that any source is authoritative, legally current, substantively accurate, complete, still applicable or sufficient for OBC, FBC, consultation, statutory submission, approval, funding, procurement or WPL readiness.
 
 A reachable source link only means the endpoint responded during the recorded check. It does not prove the document is unchanged, legally current, correct, complete or suitable for a specific claim.
+
+Stage 28A also does not prove that the selected Bristol public-source cohort is exhaustive or decision-grade. It only records selected-source coverage and claim-use limits.
 
 ## Before Decision-Grade Reliance
 

@@ -68,6 +68,8 @@ REQUIRED_MERMAID_PHRASES = {
         "Stage 25A",
         "Stage 26A",
         "Stage 27A",
+        "Stage 28A",
+        "Bristol live public-source coverage",
     ],
     "docs/visuals/risk-control-atlas.mmd": [
         "flowchart",
@@ -82,6 +84,7 @@ REQUIRED_MERMAID_PHRASES = {
         "Stage-gate report structure consistency",
         "Validation evidence log",
         "Latest-stage validation coverage",
+        "Bristol live public-source coverage",
         "Legend",
     ],
 }
