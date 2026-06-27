@@ -30,6 +30,8 @@ REQUIRED_PHRASES = {
         "Current Reader Answer",
         "Stage 27A",
         "validation evidence coverage controls",
+        "Stage 30A",
+        "validation coverage for Stage 29A",
         "It does not approve, launch, fund, procure or submit a Bristol Workplace Parking Levy.",
         "docs/public/how-to-read-this-repo.md",
         "docs/public/source-link-and-freshness-status.md",
@@ -74,6 +76,7 @@ REQUIRED_PHRASES = {
         "Stage 27A records validation evidence coverage checks.",
         "Stage 28A records Bristol live public-source coverage",
         "Stage 29A records bounded context controls",
+        "Stage 30A records validation coverage for Stage 29A.",
     ],
     "docs/stages/README.md": [
         "Gate Taxonomy",
@@ -83,6 +86,7 @@ REQUIRED_PHRASES = {
         "Stage 27A",
         "Stage 28A",
         "Stage 29A",
+        "Stage 30A",
         "not evidence that readers understand the repo",
         "does not pass a readiness gate",
     ],
@@ -162,6 +166,7 @@ REQUIRED_CROSSWALK_STAGES = {
     "Stage 27A",
     "Stage 28A",
     "Stage 29A",
+    "Stage 30A",
 }
 
 REQUIRED_REGISTER_ROWS = [
@@ -305,7 +310,7 @@ def check_visual_language() -> list[str]:
         text = stage_map.read_text(encoding="utf-8")
         if "Complete" in text:
             errors.append("docs/visuals/stage-gate-map.mmd must not use standalone Complete labels")
-        for phrase in ["Stage 19A", "Navigation only; no tested comprehension", "Stage 20A", "Stage 21A", "Stage 22A", "Stage 23A", "Stage 24A", "Stage 25A", "Stage 26A", "Stage 27A", "Stage 28A", "Stage 29A"]:
+        for phrase in ["Stage 19A", "Navigation only; no tested comprehension", "Stage 20A", "Stage 21A", "Stage 22A", "Stage 23A", "Stage 24A", "Stage 25A", "Stage 26A", "Stage 27A", "Stage 28A", "Stage 29A", "Stage 30A"]:
             if phrase not in text:
                 errors.append(f"docs/visuals/stage-gate-map.mmd missing phrase: {phrase}")
     risk_map = ROOT / "docs/visuals/risk-control-atlas.mmd"
@@ -313,7 +318,7 @@ def check_visual_language() -> list[str]:
         errors.append("missing docs/visuals/risk-control-atlas.mmd")
     else:
         text = risk_map.read_text(encoding="utf-8")
-        for phrase in ["No-go for approval", "Future real-world proof", "Public/cabinet comprehension", "Source-link/freshness status", "Register reference integrity", "Dashboard blocker consistency", "Stage-gate report structure consistency", "Validation evidence log", "Latest-stage validation coverage", "Bristol live public-source coverage", "Subagent context-control hardening"]:
+        for phrase in ["No-go for approval", "Future real-world proof", "Public/cabinet comprehension", "Source-link/freshness status", "Register reference integrity", "Dashboard blocker consistency", "Stage-gate report structure consistency", "Validation evidence log", "Latest-stage validation coverage", "Bristol live public-source coverage", "Subagent context-control hardening", "Stage 29A validation coverage"]:
             if phrase not in text:
                 errors.append(f"docs/visuals/risk-control-atlas.mmd missing phrase: {phrase}")
     return errors

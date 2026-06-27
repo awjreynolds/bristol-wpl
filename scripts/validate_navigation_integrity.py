@@ -46,6 +46,7 @@ REQUIRED_NAV_REFERENCES = {
         "docs/agents/subagent-stage-packet-template.md",
         "review/stage_gate_reports/stage-28a-bristol-live-public-source-coverage-report.md",
         "review/stage_gate_reports/stage-29a-subagent-context-control-hardening-report.md",
+        "review/stage_gate_reports/stage-30a-validation-coverage-for-stage-29a-report.md",
     ],
     "docs/public/README.md": [
         "docs/public/how-to-read-this-repo.md",
@@ -84,6 +85,8 @@ REQUIRED_NAV_REFERENCES = {
     "docs/stages/README.md": [
         "stage-29a-subagent-context-control-hardening.md",
         "review/stage_gate_reports/stage-29a-subagent-context-control-hardening-report.md",
+        "stage-30a-validation-coverage-for-stage-29a.md",
+        "review/stage_gate_reports/stage-30a-validation-coverage-for-stage-29a-report.md",
     ],
 }
 
@@ -100,6 +103,7 @@ REQUIRED_STAGE_REPORTS = [
     "review/stage_gate_reports/stage-27a-validation-evidence-coverage-report.md",
     "review/stage_gate_reports/stage-28a-bristol-live-public-source-coverage-report.md",
     "review/stage_gate_reports/stage-29a-subagent-context-control-hardening-report.md",
+    "review/stage_gate_reports/stage-30a-validation-coverage-for-stage-29a-report.md",
 ]
 
 LINK_PATTERN = re.compile(r"\[[^\]]+\]\(([^)]+)\)")
@@ -187,10 +191,10 @@ def check_required_nav_references() -> list[str]:
 def check_latest_stage_alignment() -> list[str]:
     errors = []
     expectations = {
-        "README.md": "Stage 29A",
-        "docs/stages/README.md": "Stage 29A",
-        "docs/visuals/stage-gate-map.mmd": "Stage 29A",
-        "docs/visuals/risk-control-atlas.mmd": "Subagent context-control hardening",
+        "README.md": "Stage 30A",
+        "docs/stages/README.md": "Stage 30A",
+        "docs/visuals/stage-gate-map.mmd": "Stage 30A",
+        "docs/visuals/risk-control-atlas.mmd": "Stage 29A validation coverage",
     }
     for rel, phrase in expectations.items():
         path = ROOT / rel

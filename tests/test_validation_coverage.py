@@ -17,9 +17,9 @@ class ValidationCoverageTest(unittest.TestCase):
         )
         self.assertEqual(result.returncode, 0, result.stderr)
         self.assertIn("Validation coverage QA passed", result.stdout)
-        self.assertIn("not command sufficiency or WPL readiness", result.stdout)
+        self.assertIn("Stage 26A and Stage 29A", result.stdout)
+        self.assertIn("not command sufficiency, future agent compliance or WPL readiness", result.stdout)
 
 
 if __name__ == "__main__":
     unittest.main()
-

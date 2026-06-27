@@ -94,6 +94,19 @@ REPORTS = {
             "substantive gate correctness",
         ],
     },
+    "review/stage_gate_reports/stage-30a-validation-coverage-for-stage-29a-report.md": {
+        "stage": "Stage 30A",
+        "focused_commands": [
+            "python3 scripts/validate_validation_coverage.py",
+            "python3 -m unittest tests.test_validation_coverage",
+        ],
+        "extra_limit_terms": [
+            "command sufficiency",
+            "command authenticity",
+            "future agent compliance",
+            "substantive gate correctness",
+        ],
+    },
 }
 
 COMMON_COMMANDS = [

@@ -23,6 +23,7 @@ flowchart TD
     Dash --> ValidationCoverage["Latest-stage validation coverage<br/>Shows whether latest-stage checks have logged evidence coverage<br/>No truth, currentness or readiness proof<br/>ISS-0037 EG-0055 RISK-0040"]
     Dash --> BristolPublicSources["Stage 28A: Bristol live public-source coverage<br/>SRC-BCC-0001 SRC-BCC-0002 media context SRC-BCC-0020<br/>does not prove source truth currentness media accuracy or WPL readiness<br/>ISS-0038 EG-0056 RISK-0041"]
     Dash --> SubagentContextControl["Stage 29A: Subagent context-control hardening<br/>Instruction/template presence only<br/>does not prove future agents obey instructions or WPL readiness<br/>ISS-0039 EG-0057 RISK-0042"]
+    Dash --> Stage29ValidationCoverage["Stage 30A: Stage 29A validation coverage<br/>Lagged coverage only<br/>does not prove command sufficiency future compliance or WPL readiness<br/>ISS-0040 EG-0058 RISK-0043"]
 
     Legal --> NoGo["No-go for approval<br/>until real evidence and authority exist"]
     WECA --> NoGo
@@ -43,6 +44,7 @@ flowchart TD
     ValidationCoverage --> NoGo
     BristolPublicSources --> NoGo
     SubagentContextControl --> NoGo
+    Stage29ValidationCoverage --> NoGo
 
     Legal -. "next proof: Monitoring Officer route and statutory submitter evidence" .-> Proof["Future real-world proof"]
     WECA -. "next proof: current-law role and funding/consent disposition" .-> Proof
@@ -63,6 +65,7 @@ flowchart TD
     ValidationCoverage -. "next proof: command sufficiency evidence substance source legal appraisal consultation statutory and professional review" .-> Proof
     BristolPublicSources -. "next proof: refreshed source content primary Bristol committee legal and statutory-route evidence media corroboration where needed" .-> Proof
     SubagentContextControl -. "next proof: future-stage bounded packets handovers synthesis disposition and separate substantive review" .-> Proof
+    Stage29ValidationCoverage -. "next proof: separate command sufficiency evidence and professional review of Stage 29A process evidence" .-> Proof
 
     classDef start fill:#ddf4ff,stroke:#005f99,color:#111111;
     classDef blocked fill:#ffdddd,stroke:#990000,color:#111111;
@@ -70,5 +73,5 @@ flowchart TD
     classDef future fill:#eeeeee,stroke:#555555,color:#111111;
 
     class Start,Dash,Caption,Legend guide;
-    class Legal,WECA,Spatial,Appraisal,Consult,FBC,Nottingham,Authoring,Comprehension,VisualQA,NavigationQA,SourceFreshness,RegisterIntegrity,DashboardConsistency,GateReportQA,ValidationEvidence,ValidationCoverage,BristolPublicSources,SubagentContextControl,NoGo blocked;
+    class Legal,WECA,Spatial,Appraisal,Consult,FBC,Nottingham,Authoring,Comprehension,VisualQA,NavigationQA,SourceFreshness,RegisterIntegrity,DashboardConsistency,GateReportQA,ValidationEvidence,ValidationCoverage,BristolPublicSources,SubagentContextControl,Stage29ValidationCoverage,NoGo blocked;
     class Proof future;

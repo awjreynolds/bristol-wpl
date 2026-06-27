@@ -47,8 +47,10 @@ Officer-facing material should remain editable Markdown, CSV, XLSX, DOCX or HTML
 | I need to check Bristol live public-source coverage for `SRC-BCC-0001`, `SRC-BCC-0002` and media context `SRC-BCC-0020`. | `scripts/validate_bristol_public_sources.py` |
 | I need the bounded subagent packet template for a future stage. | `docs/agents/subagent-stage-packet-template.md` |
 | I need to check Stage 29A subagent context-control wording. | `scripts/validate_subagent_context_control.py` |
+| I need to know whether Stage 29A validation evidence coverage is present. | `review/stage_gate_reports/stage-30a-validation-coverage-for-stage-29a-report.md` |
 
 The visual fallback route is `docs/visuals/visual-accessibility-qa-register.csv`; it is a static source-control route, not rendered accessibility assurance.
 
 Stage 28A Bristol live public-source coverage does not prove source truth, currentness, media accuracy, formal decision status, legal correctness or WPL readiness.
 Stage 29A subagent context-control hardening does not prove future agents obey instructions, evidence truth, legal correctness, professional assurance, substantive gate correctness or WPL readiness.
+Stage 30A validation coverage for Stage 29A does not prove command sufficiency, command authenticity, future agent compliance, evidence truth, legal correctness, professional assurance, substantive gate correctness or WPL readiness.

@@ -16,6 +16,7 @@ REGISTER = "evidence/validation/validation-run-register.csv"
 STAGE_REQUIREMENTS = {
     "Stage 26A": {
         "commit": "2fe88f5",
+        "log_commit_phrase": "2fe88f5",
         "log": "evidence/validation/stage-26a-validation-run-log.md",
         "issue": "ISS-0036",
         "gap": "EG-0054",
@@ -26,6 +27,27 @@ STAGE_REQUIREMENTS = {
             "git diff --check",
             "python3 scripts/scan_secrets.py --all-history",
         },
+        "extra_limit_phrases": [],
+    },
+    "Stage 29A": {
+        "commit": "6a69ec0+working-tree",
+        "log_commit_phrase": "working tree based on `6a69ec0` before Stage 29A commit",
+        "log": "evidence/validation/stage-29a-validation-run-log.md",
+        "issue": "ISS-0039",
+        "gap": "EG-0057",
+        "commands": {
+            "python3 scripts/validate_subagent_context_control.py",
+            "python3 -m unittest tests.test_subagent_context_control",
+            "make validate",
+            "git diff --check",
+            "python3 scripts/scan_secrets.py --all-history",
+        },
+        "extra_limit_phrases": [
+            "future agent compliance",
+            "prompt fidelity",
+            "actual context isolation",
+            "reasoning quality",
+        ],
     },
 }
 
@@ -73,7 +95,7 @@ def check_stage_rows() -> list[str]:
             if requirement["gap"] not in row.get("related_gap_ids", ""):
                 errors.append(f"{REGISTER}:{row_number} {row_id} missing related gap {requirement['gap']}")
             scope_limit = row.get("scope_limit", "").lower()
-            for phrase in REQUIRED_LIMIT_PHRASES:
+            for phrase in REQUIRED_LIMIT_PHRASES + requirement["extra_limit_phrases"]:
                 if phrase.lower() not in scope_limit:
                     errors.append(f"{REGISTER}:{row_number} {row_id} scope_limit missing {phrase}")
     return errors
@@ -93,7 +115,7 @@ def check_stage_logs() -> list[str]:
             "source currentness",
             "professional assurance",
             "WPL readiness",
-            requirement["commit"],
+            requirement["log_commit_phrase"],
             "Working directory: repository root",
         ]:
             if phrase not in text:
@@ -118,7 +140,10 @@ def main() -> int:
         for error in errors:
             print(f"ERROR: {error}", file=sys.stderr)
         return 1
-    print("Validation coverage QA passed for Stage 26A lag-one coverage only; not command sufficiency or WPL readiness")
+    print(
+        "Validation coverage QA passed for configured lagged stages Stage 26A and Stage 29A; "
+        "not command sufficiency, future agent compliance or WPL readiness"
+    )
     return 0
 
 
