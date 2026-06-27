@@ -36,7 +36,8 @@ REQUIRED_NAV_REFERENCES = {
         "scripts/validate_navigation_integrity.py",
         "scripts/validate_register_references.py",
         "scripts/validate_dashboard_consistency.py",
-        "review/stage_gate_reports/stage-24a-dashboard-blocker-consistency-report.md",
+        "scripts/validate_stage_gate_reports.py",
+        "review/stage_gate_reports/stage-25a-stage-gate-report-evidence-consistency-report.md",
     ],
     "docs/public/README.md": [
         "docs/public/how-to-read-this-repo.md",
@@ -48,17 +49,19 @@ REQUIRED_NAV_REFERENCES = {
         "scripts/validate_navigation_integrity.py",
         "scripts/validate_register_references.py",
         "scripts/validate_dashboard_consistency.py",
+        "scripts/validate_stage_gate_reports.py",
     ],
     "docs/officer/document-map.md": [
         "docs/public/source-link-and-freshness-status.md",
         "scripts/validate_register_references.py",
         "scripts/validate_dashboard_consistency.py",
+        "scripts/validate_stage_gate_reports.py",
         "docs/officer/risk-control-crosswalk.csv",
         "docs/visuals/visual-accessibility-qa-register.csv",
     ],
     "docs/stages/README.md": [
-        "stage-24a-dashboard-blocker-consistency.md",
-        "review/stage_gate_reports/stage-24a-dashboard-blocker-consistency-report.md",
+        "stage-25a-stage-gate-report-evidence-consistency.md",
+        "review/stage_gate_reports/stage-25a-stage-gate-report-evidence-consistency-report.md",
     ],
 }
 
@@ -70,6 +73,7 @@ REQUIRED_STAGE_REPORTS = [
     "review/stage_gate_reports/stage-22a-external-source-liveness-currentness-report.md",
     "review/stage_gate_reports/stage-23a-register-reference-integrity-report.md",
     "review/stage_gate_reports/stage-24a-dashboard-blocker-consistency-report.md",
+    "review/stage_gate_reports/stage-25a-stage-gate-report-evidence-consistency-report.md",
 ]
 
 LINK_PATTERN = re.compile(r"\[[^\]]+\]\(([^)]+)\)")
@@ -157,10 +161,10 @@ def check_required_nav_references() -> list[str]:
 def check_latest_stage_alignment() -> list[str]:
     errors = []
     expectations = {
-        "README.md": "Stage 24A",
-        "docs/stages/README.md": "Stage 24A",
-        "docs/visuals/stage-gate-map.mmd": "Stage 24A",
-        "docs/visuals/risk-control-atlas.mmd": "Dashboard blocker consistency",
+        "README.md": "Stage 25A",
+        "docs/stages/README.md": "Stage 25A",
+        "docs/visuals/stage-gate-map.mmd": "Stage 25A",
+        "docs/visuals/risk-control-atlas.mmd": "Stage-gate report structure consistency",
     }
     for rel, phrase in expectations.items():
         path = ROOT / rel

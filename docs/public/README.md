@@ -59,6 +59,7 @@ The simulation currently says:
 - no assembled OBC, FBC, consultation pack, officer-review DOCX or authored officer-distribution PDF is ready;
 - downloaded priority source-note coverage is complete;
 - current claim-matrix summaries exist, but they do not prove claim truth and future drafting-specific summaries remain open;
+- stage-gate report structure checks exist, but they do not prove command execution history, substantive gate correctness, evidence truth, source currentness or readiness;
 - Nottingham lessons cannot be copied to Bristol without transferability evidence.
 
 ## Where To Start
@@ -77,6 +78,7 @@ The simulation currently says:
 | Source-link QA maintainer | `scripts/validate_external_liveness.py` | Offline validation of recorded source-link reachability metadata |
 | Register integrity reviewer | `scripts/validate_register_references.py` | Cross-register ID and selected control-path checks |
 | Dashboard consistency reviewer | `scripts/validate_dashboard_consistency.py` | README and officer-dashboard blocker surfacing checks |
+| Stage-gate report reviewer | `scripts/validate_stage_gate_reports.py` | Recent gate-report structure checks; not evidence truth, source currentness or readiness |
 | Officer or programme manager | `docs/officer/programme-risk-briefing.md` | Risks, mitigations and next checks |
 | Anyone asking what happens next | `docs/officer/next-steps-critical-path.md` | Critical path work packages; critical path is not approval |
 | Evidence reviewer or drafter | `evidence/source_notes/README.md` | Source-note cohorts; source notes do not verify every claim |

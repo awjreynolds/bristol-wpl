@@ -38,3 +38,6 @@ Officer-facing material should remain editable Markdown, CSV, XLSX, DOCX or HTML
 | I need to know whether a cited source link is still reachable or needs refresh. | `docs/public/source-link-and-freshness-status.md` |
 | I need to know whether register IDs and control paths resolve. | `scripts/validate_register_references.py` |
 | I need to know whether visible blocker IDs still resolve to open rows. | `scripts/validate_dashboard_consistency.py` |
+| I need to know whether recent gate reports carry the expected validation and limitation wording. | `scripts/validate_stage_gate_reports.py` |
+
+The visual fallback route is `docs/visuals/visual-accessibility-qa-register.csv`; it is a static source-control route, not rendered accessibility assurance.

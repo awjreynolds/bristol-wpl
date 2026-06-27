@@ -144,11 +144,29 @@ def check_latest_stage_register_rows(known: dict[str, set[str]]) -> list[str]:
         "DEC-0037",
         "APP-0042",
         "SSO-0095",
+        "ISS-0034",
+        "RISK-0037",
+        "PIT-0031",
+        "EG-0052",
+        "REQ-0045",
+        "CB-0031",
+        "DEC-0038",
+        "APP-0043",
+        "SSO-0097",
+        "ISS-0035",
+        "RISK-0038",
+        "PIT-0032",
+        "EG-0053",
+        "REQ-0046",
+        "CB-0032",
+        "DEC-0039",
+        "APP-0044",
+        "SSO-0099",
     }
     errors = []
     flat_known = set().union(*known.values())
     for row_id in sorted(required - flat_known):
-        errors.append(f"missing Stage 22A/23A baseline register row: {row_id}")
+        errors.append(f"missing recent-stage baseline register row: {row_id}")
     return errors
 
 
