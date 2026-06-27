@@ -14,10 +14,10 @@ This is a simulation repository. It records controls, gaps and risks. It does no
 
 | Item | Current position |
 |---|---|
-| Last completed stage | Stage 34A: GOV.UK style skill adoption. |
-| What Stage 34A controls | It adds a repo-local, bounded GOV.UK style skill for public, officer and cabinet-facing prose and records why the gist is relevant to this simulation. |
-| What Stage 34A cannot do | It does not create official GOV.UK/GDS endorsement, legal assurance, accessibility certification, user-tested comprehension, real OBC approval, consultation readiness, professional assurance or WPL readiness. |
-| Main live blockers | `ISS-0001`, `ISS-0002`, `ISS-0003`, `ISS-0004`, `ISS-0005`, `ISS-0008`, `ISS-0011`, `ISS-0012`, `ISS-0015`, `ISS-0016`, `ISS-0025`, `ISS-0026`, `ISS-0027`, `ISS-0028`, `ISS-0029`, `ISS-0030`, `ISS-0031`, `ISS-0032`, `ISS-0033`, `ISS-0034`, `ISS-0035`, `ISS-0036`, `ISS-0037`, `ISS-0038`, `ISS-0039`, `ISS-0040`, `ISS-0041`, `ISS-0042`, `ISS-0043`, `ISS-0044`, `EG-0008`, `EG-0014`, `EG-0045`, `EG-0046`, `EG-0047`, `EG-0048`, `EG-0049`, `EG-0050`, `EG-0051`, `EG-0052`, `EG-0053`, `EG-0054`, `EG-0055`, `EG-0056`, `EG-0057`, `EG-0058`, `EG-0059`, `EG-0060`, `EG-0061`, `EG-0062`. |
+| Last completed stage | Stage 35A: OBC DOCX document pack. |
+| What Stage 35A controls | It creates officer-friendly DOCX files and a downloadable ZIP for the OBC simulation, reader support guide and risk/process/control summary. |
+| What Stage 35A cannot do | It does not create an official OBC, officer advice, consultation pack, procurement authority, statutory submission, professional assurance or WPL readiness. |
+| Main live blockers | `ISS-0001`, `ISS-0002`, `ISS-0003`, `ISS-0004`, `ISS-0005`, `ISS-0008`, `ISS-0011`, `ISS-0012`, `ISS-0015`, `ISS-0016`, `ISS-0025`, `ISS-0026`, `ISS-0027`, `ISS-0028`, `ISS-0029`, `ISS-0030`, `ISS-0031`, `ISS-0032`, `ISS-0033`, `ISS-0034`, `ISS-0035`, `ISS-0036`, `ISS-0037`, `ISS-0038`, `ISS-0039`, `ISS-0040`, `ISS-0041`, `ISS-0042`, `ISS-0043`, `ISS-0044`, `ISS-0045`, `EG-0008`, `EG-0014`, `EG-0045`, `EG-0046`, `EG-0047`, `EG-0048`, `EG-0049`, `EG-0050`, `EG-0051`, `EG-0052`, `EG-0053`, `EG-0054`, `EG-0055`, `EG-0056`, `EG-0057`, `EG-0058`, `EG-0059`, `EG-0060`, `EG-0061`, `EG-0062`, `EG-0063`. |
 
 ## Current No-Go Position
 
@@ -46,6 +46,7 @@ The blockers are not cosmetic:
 - Stage 32A WECA-style OBC drafting is explanatory only. It creates a formal WPL OBC-shaped simulation draft and comparator corpus, but it does not create a real OBC, WECA/MCA endorsement, officer advice, procurement authority, consultation readiness, statutory readiness, professional assurance or WPL readiness.
 - Stage 33A OBC simulation release is explanatory only. It ships a complete editable simulation OBC, but it does not create a real OBC, officer advice, WECA/MCA endorsement, procurement authority, consultation readiness, statutory readiness, professional assurance or WPL readiness.
 - Stage 34A GOV.UK style skill adoption is explanatory only. It improves repo-local writing discipline, but it does not create official GOV.UK/GDS endorsement, legal assurance, accessibility certification, user-tested comprehension, professional assurance, public-authority approval or WPL readiness.
+- Stage 35A OBC DOCX pack is explanatory only. It creates officer-friendly DOCX and ZIP outputs, but it does not create an official OBC, officer distribution pack, consultation material, procurement authority, statutory submission, professional assurance or WPL readiness.
 
 ## Risk Recording
 
@@ -75,6 +76,7 @@ Editable authoring outputs are working files only. They help future drafters ass
 | It maps Nottingham and comparator lessons. | That Nottingham charge levels, impacts, mode shift or congestion outcomes transfer to Bristol. |
 | It uses editable Markdown, CSV, XLSX, JSON, HTML and GIS-ready artefacts. | That any authored PDF is an officer-distribution product. Authored PDFs are not allowed. |
 | It includes a bounded GOV.UK style skill for plain-English public and officer prose. | That GOV.UK/GDS has endorsed this repo, that the wording is legally assured, user-tested or accessibility certified, or that readiness has changed. |
+| It includes DOCX files and a ZIP for simulation review. | The pack is not an official council pack, not officer advice, not consultation material, not procurement authority and not an approved OBC. |
 
 ## Where To Start
 
@@ -97,6 +99,10 @@ Editable authoring outputs are working files only. They help future drafters ass
 | Stage 30A validation evidence reviewer | `evidence/validation/stage-30a-validation-run-log.md` | Stage 31A validation evidence log for Stage 30A command-run evidence. |
 | Shipped OBC simulation reader | `business_case/obc/simulation-release/bristol-wpl-outline-business-case-simulation-release.md` | Complete editable Stage 33A Bristol WPL OBC simulation release; not for real-world reliance. |
 | OBC simulation release controls | `business_case/obc/simulation-release/README.md` | Stage 33A release package notes and blocked assembled-path warning. |
+| Officer-friendly OBC DOCX pack | `business_case/obc/docx-pack/bristol-wpl-obc-document-pack.zip` | Stage 35A ZIP containing DOCX files and a text manifest; simulation-only. |
+| DOCX OBC reader support guide | `business_case/obc/docx-pack/bristol-wpl-obc-reader-support-guide.docx` | Word guide for officers, cabinet members and reviewers who do not want to read Markdown. |
+| DOCX risk/process summary | `business_case/obc/docx-pack/bristol-wpl-obc-risk-process-control-summary.docx` | Word summary of blockers, risks, evidence gaps, gate checklist and process trail. |
+| OBC DOCX pack QA maintainer | `scripts/validate_obc_docx_pack.py` | Checks DOCX/ZIP contents and no-reliance wording; does not prove document-control assurance. |
 | GOV.UK style skill user | `skills/govuk-style/SKILL.md` | Stage 34A repo-local plain-English writing control for public, officer and cabinet prose. |
 | GOV.UK style application reviewer | `analysis/content/stage-34a-govuk-style-application.md` | Why the gist is relevant, how it was adapted and what it cannot prove. |
 | GOV.UK style QA maintainer | `scripts/validate_govuk_style_skill.py` | Checks the skill, application record, public-guide wording and Stage 34A references. |
@@ -105,7 +111,7 @@ Editable authoring outputs are working files only. They help future drafters ass
 | Register integrity reviewer | `scripts/validate_register_references.py` | Cross-register ID and selected control-path integrity checks. |
 | Dashboard consistency reviewer | `scripts/validate_dashboard_consistency.py` | README and officer-dashboard blocker surfacing checks. |
 | Stage-gate report reviewer | `scripts/validate_stage_gate_reports.py` | Recent gate-report structure and validation-command reference checks. |
-| Latest gate report | `review/stage_gate_reports/stage-34a-govuk-style-skill-adoption-report.md` | Stage 34A GOV.UK style skill adoption gate report. |
+| Latest gate report | `review/stage_gate_reports/stage-35a-obc-docx-pack-report.md` | Stage 35A OBC DOCX pack gate report. |
 | Validation evidence reviewer | `evidence/validation/README.md` | Command-run evidence logs and their process-only limits. |
 | Validation evidence QA maintainer | `scripts/validate_validation_evidence_log.py` | Validation-log structure, command-row and scope-limit checks, including Stage 30A validation evidence. |
 | Validation coverage QA maintainer | `scripts/validate_validation_coverage.py` | Lagged validation evidence coverage checks for Stage 26A and Stage 29A. |
@@ -127,7 +133,7 @@ Editable authoring outputs are working files only. They help future drafters ass
 
 ## Visual Stage And Risk Maps
 
-The current workflow map is in `docs/visuals/stage-gate-map.mmd`. The public/cabinet risk-control map is in `docs/visuals/risk-control-atlas.mmd`. Stage 9A is the public/officer assurance layer. Stage 7 OBC, Stage 8 consultation launch and Stage 11 FBC/statutory gates remain blocked. Stage 10A is only a control layer for a future statutory dossier; Stage 11A is only a control layer for the final FBC/statutory gate. Stage 12A records the public repository release controls. Stage 13A records the critical-path handover controls; the critical path is not approval. Stage 14A creates a source-note pilot. Stage 14B records public-repo secret-scanning remediation after a GitGuardian detector collision. Stage 14C dry-runs the history-rewrite option. Stage 14D records the approved live history rewrite. Stage 14E records repository-side hosted-alert checks; GitGuardian disposition remains external. Stage 15A expands legal/governance source-note coverage. Stage 15B completes downloaded priority-1 source-note coverage only. Stage 16A creates current-claim-matrix claim summaries only. Stage 17A creates editable authoring guardrails only. Stage 18A strengthens Nottingham and comparator transferability controls only. Stage 19A adds public/cabinet comprehension controls only. Stage 20A adds static visual/accessibility QA controls only. Stage 21A adds repo-local link and navigation integrity controls only. Stage 22A exposes source-link/freshness navigation only. Stage 23A validates scoped register-ID and control-path references only. Stage 24A validates dashboard blocker surfacing only. Stage 25A validates recent stage-gate report structure only. Stage 26A records validation evidence logs only. Stage 27A checks lag-one validation coverage for Stage 26A only. Stage 28A validates selected Bristol live public-source coverage only. Stage 29A validates instruction/template presence for bounded subagent context control only. Stage 30A validates lagged coverage of Stage 29A validation evidence only. Stage 31A records Stage 30A validation evidence only. Stage 32A creates a WECA-style WPL OBC simulation only. Stage 33A ships the editable simulation OBC only. Stage 34A adopts a bounded GOV.UK style skill only; it does not prove evidence truth, legal correctness, accessibility assurance, user comprehension, professional assurance, substantive gate correctness or WPL readiness.
+The current workflow map is in `docs/visuals/stage-gate-map.mmd`. The public/cabinet risk-control map is in `docs/visuals/risk-control-atlas.mmd`. Stage 9A is the public/officer assurance layer. Stage 7 OBC, Stage 8 consultation launch and Stage 11 FBC/statutory gates remain blocked. Stage 10A is only a control layer for a future statutory dossier; Stage 11A is only a control layer for the final FBC/statutory gate. Stage 12A records the public repository release controls. Stage 13A records the critical-path handover controls; the critical path is not approval. Stage 14A creates a source-note pilot. Stage 14B records public-repo secret-scanning remediation after a GitGuardian detector collision. Stage 14C dry-runs the history-rewrite option. Stage 14D records the approved live history rewrite. Stage 14E records repository-side hosted-alert checks; GitGuardian disposition remains external. Stage 15A expands legal/governance source-note coverage. Stage 15B completes downloaded priority-1 source-note coverage only. Stage 16A creates current-claim-matrix claim summaries only. Stage 17A creates editable authoring guardrails only. Stage 18A strengthens Nottingham and comparator transferability controls only. Stage 19A adds public/cabinet comprehension controls only. Stage 20A adds static visual/accessibility QA controls only. Stage 21A adds repo-local link and navigation integrity controls only. Stage 22A exposes source-link/freshness navigation only. Stage 23A validates scoped register-ID and control-path references only. Stage 24A validates dashboard blocker surfacing only. Stage 25A validates recent stage-gate report structure only. Stage 26A records validation evidence logs only. Stage 27A checks lag-one validation coverage for Stage 26A only. Stage 28A validates selected Bristol live public-source coverage only. Stage 29A validates instruction/template presence for bounded subagent context control only. Stage 30A validates lagged coverage of Stage 29A validation evidence only. Stage 31A records Stage 30A validation evidence only. Stage 32A creates a WECA-style WPL OBC simulation only. Stage 33A ships the editable simulation OBC only. Stage 34A adopts a bounded GOV.UK style skill only. Stage 35A creates DOCX and ZIP outputs only; it does not prove evidence truth, legal correctness, accessibility assurance, user comprehension, document-control assurance, professional assurance, substantive gate correctness or WPL readiness.
 
 ```mermaid
 flowchart LR
@@ -172,6 +178,7 @@ flowchart LR
     S31A --> S32A["Stage 32A<br/>WECA-style WPL OBC simulation"]
     S32A --> S33A["Stage 33A<br/>OBC simulation release"]
     S33A --> S34A["Stage 34A<br/>GOV.UK style skill adoption"]
+    S34A --> S35A["Stage 35A<br/>OBC DOCX document pack"]
 ```
 
 ## Stage 9A Status
@@ -237,6 +244,7 @@ The stage-by-stage workflow narrative is maintained in `docs/stages/`:
 - `docs/stages/stage-32a-weca-obc-fbc-exemplar-corpus.md`
 - `docs/stages/stage-33a-obc-simulation-release.md`
 - `docs/stages/stage-34a-govuk-style-skill-adoption.md`
+- `docs/stages/stage-35a-obc-docx-pack.md`
 
 Each completed stage package should be committed and pushed before the next stage begins. Detailed discoveries, data points and unresolved issues live in the stage docs and controlled registers.
 
@@ -255,6 +263,7 @@ Each completed stage package should be committed and pushed before the next stag
 - `evidence/claim_summaries/claim-summary-register.csv` now tracks 39 claim summaries for current claim-matrix rows. Future drafting-specific claim summaries remain open under `EG-0045`.
 - `business_case/obc/simulation-release/bristol-wpl-outline-business-case-simulation-release.md` is the shipped Stage 33A editable OBC simulation release. It is not a real assembled OBC and does not change the no-go position.
 - `skills/govuk-style/SKILL.md` is the Stage 34A repo-local GOV.UK style skill. It is a writing-control aid only and does not create official endorsement, legal assurance, accessibility certification, user-tested comprehension or readiness evidence.
+- `business_case/obc/docx-pack/bristol-wpl-obc-document-pack.zip` is the Stage 35A officer-friendly DOCX pack. It contains DOCX files and a text manifest only; it is not an official distribution pack and does not change the no-go position.
 - `evidence/validation/validation-run-register.csv` records bounded command-run evidence rows for validation checks. It is process evidence only and does not prove evidence truth or WPL readiness.
 - `evidence/validation/stage-26a-validation-run-log.md` records Stage 26A validation evidence and is checked by Stage 27A coverage controls. It is not raw transcript proof or readiness assurance.
 - `evidence/bristol_public_source_status.csv` records Stage 28A status for `SRC-BCC-0001`, `SRC-BCC-0002` and `SRC-BCC-0020`. It is selected-source coverage only and does not prove source truth, currentness, media accuracy, legal correctness or WPL readiness.
@@ -305,6 +314,7 @@ Current gate reports live under `review/stage_gate_reports/`. Key current report
 - `review/stage_gate_reports/stage-32a-weca-obc-fbc-exemplar-corpus-report.md`
 - `review/stage_gate_reports/stage-33a-obc-simulation-release-report.md`
 - `review/stage_gate_reports/stage-34a-govuk-style-skill-adoption-report.md`
+- `review/stage_gate_reports/stage-35a-obc-docx-pack-report.md`
 
 ## Context Discipline
 
@@ -353,6 +363,8 @@ make validation-evidence-qa
 make validation-coverage-qa
 make subagent-context-control-qa
 make govuk-style-qa
+make obc-docx-pack-qa
+DOCX_PYTHON=/Users/awjre/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 make obc-docx-pack
 make refresh-external-liveness
 make red-team
 python3 scripts/acquire_sources.py --priority 1_must

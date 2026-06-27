@@ -59,6 +59,11 @@ REQUIRED_NAV_REFERENCES = {
         "analysis/content/stage-34a-govuk-style-application.md",
         "review/stage_gate_reports/stage-34a-govuk-style-skill-adoption-report.md",
         "scripts/validate_govuk_style_skill.py",
+        "business_case/obc/docx-pack/bristol-wpl-obc-document-pack.zip",
+        "business_case/obc/docx-pack/bristol-wpl-obc-reader-support-guide.docx",
+        "business_case/obc/docx-pack/bristol-wpl-obc-risk-process-control-summary.docx",
+        "scripts/validate_obc_docx_pack.py",
+        "review/stage_gate_reports/stage-35a-obc-docx-pack-report.md",
     ],
     "docs/public/README.md": [
         "docs/public/how-to-read-this-repo.md",
@@ -81,6 +86,9 @@ REQUIRED_NAV_REFERENCES = {
         "skills/govuk-style/SKILL.md",
         "analysis/content/stage-34a-govuk-style-application.md",
         "scripts/validate_govuk_style_skill.py",
+        "business_case/obc/docx-pack/bristol-wpl-obc-document-pack.zip",
+        "business_case/obc/docx-pack/bristol-wpl-obc-reader-support-guide.docx",
+        "scripts/validate_obc_docx_pack.py",
     ],
     "docs/officer/document-map.md": [
         "docs/public/source-link-and-freshness-status.md",
@@ -100,6 +108,11 @@ REQUIRED_NAV_REFERENCES = {
         "analysis/content/stage-34a-govuk-style-application.md",
         "review/stage_gate_reports/stage-34a-govuk-style-skill-adoption-report.md",
         "scripts/validate_govuk_style_skill.py",
+        "business_case/obc/docx-pack/bristol-wpl-obc-document-pack.zip",
+        "business_case/obc/docx-pack/bristol-wpl-obc-reader-support-guide.docx",
+        "business_case/obc/docx-pack/bristol-wpl-obc-risk-process-control-summary.docx",
+        "scripts/validate_obc_docx_pack.py",
+        "review/stage_gate_reports/stage-35a-obc-docx-pack-report.md",
     ],
     "docs/stages/README.md": [
         "stage-29a-subagent-context-control-hardening.md",
@@ -114,6 +127,8 @@ REQUIRED_NAV_REFERENCES = {
         "review/stage_gate_reports/stage-33a-obc-simulation-release-report.md",
         "stage-34a-govuk-style-skill-adoption.md",
         "review/stage_gate_reports/stage-34a-govuk-style-skill-adoption-report.md",
+        "stage-35a-obc-docx-pack.md",
+        "review/stage_gate_reports/stage-35a-obc-docx-pack-report.md",
     ],
 }
 
@@ -135,6 +150,7 @@ REQUIRED_STAGE_REPORTS = [
     "review/stage_gate_reports/stage-32a-weca-obc-fbc-exemplar-corpus-report.md",
     "review/stage_gate_reports/stage-33a-obc-simulation-release-report.md",
     "review/stage_gate_reports/stage-34a-govuk-style-skill-adoption-report.md",
+    "review/stage_gate_reports/stage-35a-obc-docx-pack-report.md",
 ]
 
 LINK_PATTERN = re.compile(r"\[[^\]]+\]\(([^)]+)\)")
@@ -222,10 +238,10 @@ def check_required_nav_references() -> list[str]:
 def check_latest_stage_alignment() -> list[str]:
     errors = []
     expectations = {
-        "README.md": "Stage 34A",
-        "docs/stages/README.md": "Stage 34A",
-        "docs/visuals/stage-gate-map.mmd": "Stage 34A",
-        "docs/visuals/risk-control-atlas.mmd": "Stage 34A: GOV.UK style skill adoption",
+        "README.md": "Stage 35A",
+        "docs/stages/README.md": "Stage 35A",
+        "docs/visuals/stage-gate-map.mmd": "Stage 35A",
+        "docs/visuals/risk-control-atlas.mmd": "Stage 35A: OBC DOCX document pack",
     }
     for rel, phrase in expectations.items():
         path = ROOT / rel

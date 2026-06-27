@@ -167,6 +167,21 @@ REPORTS = {
             "substantive gate correctness",
         ],
     },
+    "review/stage_gate_reports/stage-35a-obc-docx-pack-report.md": {
+        "stage": "Stage 35A",
+        "focused_commands": [
+            "DOCX_PYTHON=/Users/awjre/.cache/codex-runtimes/codex-primary-runtime/dependencies/python/bin/python3 make obc-docx-pack",
+            "python3 scripts/validate_obc_docx_pack.py",
+            "python3 -m unittest tests.test_obc_docx_pack",
+        ],
+        "extra_limit_terms": [
+            "document-control approval",
+            "officer advice",
+            "consultation material",
+            "professional assurance",
+            "WPL readiness",
+        ],
+    },
 }
 
 COMMON_COMMANDS = [

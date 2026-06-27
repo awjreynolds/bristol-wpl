@@ -28,6 +28,7 @@ flowchart TD
     Dash --> Stage32AObcSimulation["Stage 32A: WECA-style WPL OBC simulation<br/>Full editable draft and exemplar corpus only<br/>not a real OBC procurement authority or WPL readiness<br/>ISS-0042 EG-0060 RISK-0045"]
     Dash --> Stage33AObcRelease["Stage 33A: OBC simulation release<br/>Shipped editable simulation OBC only<br/>not approved OBC officer advice procurement authority or WPL readiness<br/>ISS-0043 EG-0061 RISK-0046"]
     Dash --> Stage34AGovukStyle["Stage 34A: GOV.UK style skill adoption<br/>Repo-local writing control only<br/>not official endorsement legal assurance accessibility certification or WPL readiness<br/>ISS-0044 EG-0062 RISK-0047"]
+    Dash --> Stage35AObcDocxPack["Stage 35A: OBC DOCX document pack<br/>Shareable Word and ZIP outputs only<br/>not official OBC officer advice consultation material or WPL readiness<br/>ISS-0045 EG-0063 RISK-0048"]
 
     Legal --> NoGo["No-go for approval<br/>until real evidence and authority exist"]
     WECA --> NoGo
@@ -53,6 +54,7 @@ flowchart TD
     Stage32AObcSimulation --> NoGo
     Stage33AObcRelease --> NoGo
     Stage34AGovukStyle --> NoGo
+    Stage35AObcDocxPack --> NoGo
 
     Legal -. "next proof: Monitoring Officer route and statutory submitter evidence" .-> Proof["Future real-world proof"]
     WECA -. "next proof: current-law role and funding/consent disposition" .-> Proof
@@ -78,6 +80,7 @@ flowchart TD
     Stage32AObcSimulation -. "next proof: real source refresh legal finance modelling equalities consultation data commercial statutory public-authority and professional review" .-> Proof
     Stage33AObcRelease -. "next proof: real public-authority ownership source refresh professional review and formal gate approval" .-> Proof
     Stage34AGovukStyle -. "next proof: user testing accessibility review legal review officer review and public-content assurance" .-> Proof
+    Stage35AObcDocxPack -. "next proof: real officer legal accessibility records-management document-control and distribution review" .-> Proof
 
     classDef start fill:#ddf4ff,stroke:#005f99,color:#111111;
     classDef blocked fill:#ffdddd,stroke:#990000,color:#111111;
@@ -85,5 +88,5 @@ flowchart TD
     classDef future fill:#eeeeee,stroke:#555555,color:#111111;
 
     class Start,Dash,Caption,Legend guide;
-    class Legal,WECA,Spatial,Appraisal,Consult,FBC,Nottingham,Authoring,Comprehension,VisualQA,NavigationQA,SourceFreshness,RegisterIntegrity,DashboardConsistency,GateReportQA,ValidationEvidence,ValidationCoverage,BristolPublicSources,SubagentContextControl,Stage29ValidationCoverage,Stage30ValidationLog,Stage32AObcSimulation,Stage33AObcRelease,Stage34AGovukStyle,NoGo blocked;
+    class Legal,WECA,Spatial,Appraisal,Consult,FBC,Nottingham,Authoring,Comprehension,VisualQA,NavigationQA,SourceFreshness,RegisterIntegrity,DashboardConsistency,GateReportQA,ValidationEvidence,ValidationCoverage,BristolPublicSources,SubagentContextControl,Stage29ValidationCoverage,Stage30ValidationLog,Stage32AObcSimulation,Stage33AObcRelease,Stage34AGovukStyle,Stage35AObcDocxPack,NoGo blocked;
     class Proof future;

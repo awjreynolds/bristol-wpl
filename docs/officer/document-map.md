@@ -12,6 +12,7 @@ Editable authoring outputs are working files only. They help future drafters ass
 | `docs/public/` | Plain-English public summaries and editable control/drafting areas | Legal advice, decision report or not approved/not assembled/not PDF public pack |
 | `docs/officer/` | Officer/cabinet/legal navigation and editable control/drafting areas | Replacement for professional review or not approved/not assembled/not PDF officer pack |
 | `business_case/` | Editable OBC/FBC structure and placeholders | Completed OBC/FBC or not approved/not assembled/not PDF business case |
+| `business_case/obc/docx-pack/` | Officer-friendly DOCX files and ZIP for the OBC simulation | Official OBC pack, officer advice, consultation material or procurement authority |
 | `statutory_dossier/` | Scheme order, legal compliance and confirmation dossier controls | Ready statutory submission or not approved/not assembled/not PDF statutory pack |
 | `analysis/` | Source-linked analysis and stage-control packages | Final advice |
 | `analysis/content/` | Content-control decisions and writing-skill application records | User testing, legal assurance or accessibility certification |
@@ -52,6 +53,11 @@ Officer-facing material should remain editable Markdown, CSV, XLSX, DOCX or HTML
 | I need to know whether Stage 29A validation evidence coverage is present. | `review/stage_gate_reports/stage-30a-validation-coverage-for-stage-29a-report.md` |
 | I need to inspect Stage 30A validation command evidence. | `evidence/validation/stage-30a-validation-run-log.md` |
 | I need to read the shipped OBC simulation release. | `business_case/obc/simulation-release/bristol-wpl-outline-business-case-simulation-release.md` |
+| I need the shareable OBC DOCX pack. | `business_case/obc/docx-pack/bristol-wpl-obc-document-pack.zip` |
+| I need the OBC DOCX reader support guide. | `business_case/obc/docx-pack/bristol-wpl-obc-reader-support-guide.docx` |
+| I need the OBC DOCX risk and process summary. | `business_case/obc/docx-pack/bristol-wpl-obc-risk-process-control-summary.docx` |
+| I need to check the OBC DOCX pack. | `scripts/validate_obc_docx_pack.py` |
+| I need the Stage 35A OBC DOCX pack gate report. | `review/stage_gate_reports/stage-35a-obc-docx-pack-report.md` |
 | I need the Stage 33A OBC simulation release gate report. | `review/stage_gate_reports/stage-33a-obc-simulation-release-report.md` |
 | I need the Stage 34A GOV.UK style skill. | `skills/govuk-style/SKILL.md` |
 | I need to know why the GOV.UK style skill was adopted. | `analysis/content/stage-34a-govuk-style-application.md` |
@@ -69,3 +75,4 @@ Stage 31A validation evidence logging for Stage 30A does not prove command suffi
 Stage 32A WECA-style OBC simulation does not prove real OBC status, WECA/MCA endorsement, procurement authority, consultation readiness, statutory readiness, professional assurance or WPL readiness.
 Stage 33A OBC simulation release does not prove real OBC approval, officer advice, procurement authority, consultation readiness, statutory readiness, professional assurance or WPL readiness.
 Stage 34A GOV.UK style skill adoption does not prove official GOV.UK/GDS endorsement, legal assurance, accessibility certification, user-tested comprehension, professional assurance or WPL readiness.
+Stage 35A OBC DOCX pack does not prove official document-control approval, officer advice, consultation material, procurement authority, professional assurance or WPL readiness.

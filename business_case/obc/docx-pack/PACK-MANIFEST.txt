@@ -1,0 +1,24 @@
+Bristol WPL OBC DOCX document pack
+Status: Stage 35A simulation-only officer-friendly distribution pack
+Date: 2026-06-27
+
+Contents:
+- bristol-wpl-obc-simulation-release.docx
+- bristol-wpl-obc-reader-support-guide.docx
+- bristol-wpl-obc-risk-process-control-summary.docx
+
+Limits:
+- Not an approved Bristol OBC.
+- Not officer advice.
+- Not legal advice.
+- Not consultation material.
+- Not procurement authority.
+- Not a WECA/MCA, DfT or Secretary of State submission.
+- Not for real-world reliance.
+
+Source repository paths:
+- business_case/obc/simulation-release/bristol-wpl-outline-business-case-simulation-release.md
+- governance/risk_register.csv
+- governance/issues_register.csv
+- evidence/evidence_gap_register.csv
+- business_case/obc/controls/
