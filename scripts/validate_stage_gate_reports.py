@@ -82,6 +82,18 @@ REPORTS = {
             "formal decision",
         ],
     },
+    "review/stage_gate_reports/stage-29a-subagent-context-control-hardening-report.md": {
+        "stage": "Stage 29A",
+        "focused_commands": [
+            "python3 scripts/validate_subagent_context_control.py",
+            "python3 -m unittest tests.test_subagent_context_control",
+        ],
+        "extra_limit_terms": [
+            "future agents obey instructions",
+            "legal correctness",
+            "substantive gate correctness",
+        ],
+    },
 }
 
 COMMON_COMMANDS = [

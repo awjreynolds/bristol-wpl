@@ -27,11 +27,13 @@ For example:
 - green claim-summary coverage means current claim summaries exist;
 - green public-release controls mean publication wording is controlled;
 - green authoring controls mean document scaffolds are guarded;
-- green Bristol live public-source coverage means `SRC-BCC-0001`, `SRC-BCC-0002` and media context `SRC-BCC-0020` have source-status controls.
+- green Bristol live public-source coverage means `SRC-BCC-0001`, `SRC-BCC-0002` and media context `SRC-BCC-0020` have source-status controls;
+- green subagent context-control hardening means future-stage packet instructions and a template exist.
 
 None of those green controls approve a charge, boundary, consultation, OBC, FBC or statutory submission.
 
 Stage 28A source-status controls also do not prove source truth, currentness, media accuracy, formal decision status, legal correctness or WPL readiness.
+Stage 29A subagent context-control hardening does not prove future agents obey instructions, evidence truth, legal correctness, professional assurance, substantive gate correctness or WPL readiness.
 
 ## What Red Means
 
@@ -56,6 +58,7 @@ The most important red blockers are:
 | What checks exist? | `docs/officer/checks-and-balances-map.md` |
 | What is known and unknown? | `docs/public/evidence-and-assumptions-summary.md` |
 | Are the three Bristol public links tracked? | `docs/public/bristol-live-public-source-status.md` |
+| How should future agents avoid context bloat? | `docs/agents/subagent-stage-packet-template.md` |
 | What can be learned from Nottingham? | `docs/officer/nottingham-and-comparator-lessons.md` |
 | What documents are editable working files? | `docs/authoring/README.md` |
 

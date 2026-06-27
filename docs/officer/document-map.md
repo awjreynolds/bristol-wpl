@@ -20,6 +20,7 @@ Editable authoring outputs are working files only. They help future drafters ass
 | `models/` | Model controls, cards, inputs and outputs | Completed model outputs |
 | `spatial/` | Boundary, parking inventory and spatial QA controls | Authoritative boundary or map |
 | `consultation/` | Consultation controls and future material locations | Launch-ready consultation pack |
+| `docs/agents/` | Bounded subagent packet templates and context-control instructions | Proof that future agents obey prompts or that reviews are assurance-grade |
 
 ## File Type Rule
 
@@ -44,7 +45,10 @@ Officer-facing material should remain editable Markdown, CSV, XLSX, DOCX or HTML
 | I need to check validation-log structure and scope limits. | `scripts/validate_validation_evidence_log.py` |
 | I need to know whether Stage 26A validation evidence coverage is present. | `scripts/validate_validation_coverage.py` |
 | I need to check Bristol live public-source coverage for `SRC-BCC-0001`, `SRC-BCC-0002` and media context `SRC-BCC-0020`. | `scripts/validate_bristol_public_sources.py` |
+| I need the bounded subagent packet template for a future stage. | `docs/agents/subagent-stage-packet-template.md` |
+| I need to check Stage 29A subagent context-control wording. | `scripts/validate_subagent_context_control.py` |
 
 The visual fallback route is `docs/visuals/visual-accessibility-qa-register.csv`; it is a static source-control route, not rendered accessibility assurance.
 
 Stage 28A Bristol live public-source coverage does not prove source truth, currentness, media accuracy, formal decision status, legal correctness or WPL readiness.
+Stage 29A subagent context-control hardening does not prove future agents obey instructions, evidence truth, legal correctness, professional assurance, substantive gate correctness or WPL readiness.

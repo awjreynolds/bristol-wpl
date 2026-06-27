@@ -830,12 +830,14 @@ Subagents must not infer from memory when a cited source is available. If a sour
 
 Future stages must be run as bounded stage packages, not as broad repo-reading exercises. Before substantive drafting or review, the main agent must read `instructions/20-stage-continuation-and-context-control.md` and apply it.
 
+Stage 29A adds a reusable subagent packet template at `docs/agents/subagent-stage-packet-template.md` and an offline instruction-presence check at `scripts/validate_subagent_context_control.py`. Use the template for future delegated stage tasks unless a narrower stage-specific packet is already available.
+
 For each new stage, the main agent must:
 
 1. start from the latest README, stage index, stage-gate plan, previous gate report and the most relevant domain context packet;
 2. create or update a compact stage context packet listing scope, out-of-scope files, source IDs, open issue/risk/gap IDs, no-go claims, validators and required register updates;
 3. spawn specialised subagents with bounded task packets and `fork_context=false` by default where tooling supports it;
-4. use at least domain, evidence/citation and red-team or public/officer readability review lanes for substantive stages;
+4. use domain, evidence/citation, public/officer readability and red-team review lanes for substantive stages, with any exception justified in the stage context packet;
 5. prohibit subagents from reviewing "the whole repo" or inferring from memory where a cited source exists;
 6. synthesize subagent outputs, resolve contradictions and update the stage artefacts and registers;
 7. run focused validators, `make validate`, `git diff --check` and public-repo secret checks before claiming completion;
@@ -845,6 +847,8 @@ For each new stage, the main agent must:
 Validation evidence is process evidence only. It can record command text, run date, repo state, exit code and output summary. It does not prove evidence truth, source currentness, legal correctness, substantive gate judgement, professional assurance, blocker completeness, risk adequacy, mitigation adequacy or WPL readiness.
 
 Subagent context packets must name exact files and source IDs to inspect, allowed write paths if any, maximum output length, review criteria and no-go claims. If a subagent needs more context, it must request the specific file, source ID or register row rather than widening to the whole repository.
+
+Instruction validation is a context-control check only. It does not prove future agents obeyed the instruction, that subagent findings are correct, that reviews are independent, that evidence is true, that professional assurance exists or that any WPL readiness gate can pass.
 
 Every subagent must return a `handover.md` containing:
 
@@ -859,7 +863,7 @@ Every subagent must return a `handover.md` containing:
 9. confidence;
 10. required professional review;
 11. recommended next action.
-12. simulation sign-off decision, where the task packet requests one.
+12. scoped simulation review decision: `simulation sign-off`, `simulation sign-off with conditions`, `simulation rework required`, `simulation no-go`, or `findings only - no sign-off authority in packet`.
 
 ## 8.1 Required subagents and capability definitions
 

@@ -14,10 +14,10 @@ This is a simulation repository. It records controls, gaps and risks. It does no
 
 | Item | Current position |
 |---|---|
-| Last completed stage | Stage 28A: Bristol live public-source coverage controls. |
-| What Stage 28A controls | It checks that the three user-provided Bristol WPL public links are mapped to source IDs, source types, access states, source-note status and claim-use limits. |
-| What Stage 28A cannot do | It does not prove source truth, source currentness, content completeness, media accuracy, formal decision status, legal correctness, professional review, blocker completeness, risk adequacy or WPL readiness. |
-| Main live blockers | `ISS-0001`, `ISS-0002`, `ISS-0003`, `ISS-0004`, `ISS-0005`, `ISS-0008`, `ISS-0011`, `ISS-0012`, `ISS-0015`, `ISS-0016`, `ISS-0025`, `ISS-0026`, `ISS-0027`, `ISS-0028`, `ISS-0029`, `ISS-0030`, `ISS-0031`, `ISS-0032`, `ISS-0033`, `ISS-0034`, `ISS-0035`, `ISS-0036`, `ISS-0037`, `ISS-0038`, `EG-0008`, `EG-0014`, `EG-0045`, `EG-0046`, `EG-0047`, `EG-0048`, `EG-0049`, `EG-0050`, `EG-0051`, `EG-0052`, `EG-0053`, `EG-0054`, `EG-0055`, `EG-0056`. |
+| Last completed stage | Stage 29A: subagent context-control hardening. |
+| What Stage 29A controls | It checks instruction/template presence for bounded subagent packets, mandatory review lanes, durable handover storage, severity criteria and no-overclaim wording. |
+| What Stage 29A cannot do | It does not prove future agents obey instructions, future prompt fidelity, actual context isolation, reasoning quality, evidence truth, legal correctness, professional review, blocker completeness, risk adequacy or WPL readiness. |
+| Main live blockers | `ISS-0001`, `ISS-0002`, `ISS-0003`, `ISS-0004`, `ISS-0005`, `ISS-0008`, `ISS-0011`, `ISS-0012`, `ISS-0015`, `ISS-0016`, `ISS-0025`, `ISS-0026`, `ISS-0027`, `ISS-0028`, `ISS-0029`, `ISS-0030`, `ISS-0031`, `ISS-0032`, `ISS-0033`, `ISS-0034`, `ISS-0035`, `ISS-0036`, `ISS-0037`, `ISS-0038`, `ISS-0039`, `EG-0008`, `EG-0014`, `EG-0045`, `EG-0046`, `EG-0047`, `EG-0048`, `EG-0049`, `EG-0050`, `EG-0051`, `EG-0052`, `EG-0053`, `EG-0054`, `EG-0055`, `EG-0056`, `EG-0057`. |
 
 ## Current No-Go Position
 
@@ -40,6 +40,7 @@ The blockers are not cosmetic:
 - Validation evidence logs are explanatory only. They do not prove evidence truth, legal correctness, source currentness, professional assurance, substantive gate correctness, public-authority approval or WPL readiness.
 - Stage 27A validation evidence coverage controls are explanatory only. They do not prove command authenticity, command sufficiency, evidence truth, legal correctness, source currentness, professional assurance, substantive gate correctness, public-authority approval or WPL readiness.
 - Bristol live public-source coverage checks are explanatory only. `SRC-BCC-0001` and `SRC-BCC-0002` are official public-body sources with claim limits; `SRC-BCC-0020` is media context only. Stage 28A does not prove source truth, source currentness, media accuracy, formal decision status, legal correctness, public-authority approval or WPL readiness.
+- Subagent context-control hardening is explanatory only. Stage 29A does not prove future agents obey instructions, prompt fidelity, actual context isolation, reasoning quality, evidence truth, legal correctness, professional assurance, substantive gate correctness or WPL readiness.
 
 ## Risk Recording
 
@@ -84,10 +85,12 @@ Editable authoring outputs are working files only. They help future drafters ass
 | Source-link QA maintainer | `scripts/validate_external_liveness.py` | Offline validation of recorded source-link reachability metadata. |
 | Bristol public-source reviewer | `docs/public/bristol-live-public-source-status.md` | Status and claim limits for `SRC-BCC-0001`, `SRC-BCC-0002` and `SRC-BCC-0020`; Bristol Post is media context only. |
 | Bristol public-source QA maintainer | `scripts/validate_bristol_public_sources.py` | Checks the selected Bristol source-status rows and no-overclaim wording; does not prove source truth, currentness or WPL readiness. |
+| Agent/context-control maintainer | `docs/agents/subagent-stage-packet-template.md` | Reusable bounded packet template for future subagents; instruction/template presence only. |
+| Agent/context-control QA maintainer | `scripts/validate_subagent_context_control.py` | Checks Stage 29A bounded-context instructions and template wording; does not prove future agents obey instructions. |
 | Register integrity reviewer | `scripts/validate_register_references.py` | Cross-register ID and selected control-path integrity checks. |
 | Dashboard consistency reviewer | `scripts/validate_dashboard_consistency.py` | README and officer-dashboard blocker surfacing checks. |
 | Stage-gate report reviewer | `scripts/validate_stage_gate_reports.py` | Recent gate-report structure and validation-command reference checks. |
-| Latest gate report | `review/stage_gate_reports/stage-28a-bristol-live-public-source-coverage-report.md` | Stage 28A Bristol public-source coverage gate report. |
+| Latest gate report | `review/stage_gate_reports/stage-29a-subagent-context-control-hardening-report.md` | Stage 29A subagent context-control hardening gate report. |
 | Validation evidence reviewer | `evidence/validation/README.md` | Command-run evidence logs and their process-only limits. |
 | Validation evidence QA maintainer | `scripts/validate_validation_evidence_log.py` | Validation-log structure, command-row and scope-limit checks. |
 | Validation coverage QA maintainer | `scripts/validate_validation_coverage.py` | Lag-one validation evidence coverage checks for Stage 26A. |
@@ -109,7 +112,7 @@ Editable authoring outputs are working files only. They help future drafters ass
 
 ## Visual Stage And Risk Maps
 
-The current workflow map is in `docs/visuals/stage-gate-map.mmd`. The public/cabinet risk-control map is in `docs/visuals/risk-control-atlas.mmd`. Stage 9A is the public/officer assurance layer. Stage 7 OBC, Stage 8 consultation launch and Stage 11 FBC/statutory gates remain blocked. Stage 10A is only a control layer for a future statutory dossier; Stage 11A is only a control layer for the final FBC/statutory gate. Stage 12A records the public repository release controls. Stage 13A records the critical-path handover controls; the critical path is not approval. Stage 14A creates a source-note pilot. Stage 14B records public-repo secret-scanning remediation after a GitGuardian detector collision. Stage 14C dry-runs the history-rewrite option. Stage 14D records the approved live history rewrite. Stage 14E records repository-side hosted-alert checks; GitGuardian disposition remains external. Stage 15A expands legal/governance source-note coverage. Stage 15B completes downloaded priority-1 source-note coverage only. Stage 16A creates current-claim-matrix claim summaries only. Stage 17A creates editable authoring guardrails only. Stage 18A strengthens Nottingham and comparator transferability controls only. Stage 19A adds public/cabinet comprehension controls only. Stage 20A adds static visual/accessibility QA controls only. Stage 21A adds repo-local link and navigation integrity controls only. Stage 22A exposes source-link/freshness navigation only. Stage 23A validates scoped register-ID and control-path references only. Stage 24A validates dashboard blocker surfacing only. Stage 25A validates recent stage-gate report structure only. Stage 26A records validation evidence logs only. Stage 27A checks lag-one validation coverage for Stage 26A only. Stage 28A validates selected Bristol live public-source coverage only for `SRC-BCC-0001`, `SRC-BCC-0002` and media context `SRC-BCC-0020`; it does not prove source truth, source currentness, media accuracy, formal decision status, legal correctness, professional assurance or WPL readiness.
+The current workflow map is in `docs/visuals/stage-gate-map.mmd`. The public/cabinet risk-control map is in `docs/visuals/risk-control-atlas.mmd`. Stage 9A is the public/officer assurance layer. Stage 7 OBC, Stage 8 consultation launch and Stage 11 FBC/statutory gates remain blocked. Stage 10A is only a control layer for a future statutory dossier; Stage 11A is only a control layer for the final FBC/statutory gate. Stage 12A records the public repository release controls. Stage 13A records the critical-path handover controls; the critical path is not approval. Stage 14A creates a source-note pilot. Stage 14B records public-repo secret-scanning remediation after a GitGuardian detector collision. Stage 14C dry-runs the history-rewrite option. Stage 14D records the approved live history rewrite. Stage 14E records repository-side hosted-alert checks; GitGuardian disposition remains external. Stage 15A expands legal/governance source-note coverage. Stage 15B completes downloaded priority-1 source-note coverage only. Stage 16A creates current-claim-matrix claim summaries only. Stage 17A creates editable authoring guardrails only. Stage 18A strengthens Nottingham and comparator transferability controls only. Stage 19A adds public/cabinet comprehension controls only. Stage 20A adds static visual/accessibility QA controls only. Stage 21A adds repo-local link and navigation integrity controls only. Stage 22A exposes source-link/freshness navigation only. Stage 23A validates scoped register-ID and control-path references only. Stage 24A validates dashboard blocker surfacing only. Stage 25A validates recent stage-gate report structure only. Stage 26A records validation evidence logs only. Stage 27A checks lag-one validation coverage for Stage 26A only. Stage 28A validates selected Bristol live public-source coverage only. Stage 29A validates instruction/template presence for bounded subagent context control only; it does not prove future agents obey instructions, evidence truth, legal correctness, professional assurance, substantive gate correctness or WPL readiness.
 
 ```mermaid
 flowchart LR
@@ -148,6 +151,7 @@ flowchart LR
     S25A --> S26A["Stage 26A<br/>Validation evidence log controls"]
     S26A --> S27A["Stage 27A<br/>Validation evidence coverage controls"]
     S27A --> S28A["Stage 28A<br/>Bristol live public-source coverage controls"]
+    S28A --> S29A["Stage 29A<br/>Subagent context-control hardening"]
 ```
 
 ## Stage 9A Status
@@ -207,6 +211,7 @@ The stage-by-stage workflow narrative is maintained in `docs/stages/`:
 - `docs/stages/stage-26a-validation-evidence-log-controls.md`
 - `docs/stages/stage-27a-validation-evidence-coverage.md`
 - `docs/stages/stage-28a-bristol-live-public-source-coverage.md`
+- `docs/stages/stage-29a-subagent-context-control-hardening.md`
 
 Each completed stage package should be committed and pushed before the next stage begins. Detailed discoveries, data points and unresolved issues live in the stage docs and controlled registers.
 
@@ -225,6 +230,7 @@ Each completed stage package should be committed and pushed before the next stag
 - `evidence/validation/validation-run-register.csv` records bounded command-run evidence rows for validation checks. It is process evidence only and does not prove evidence truth or WPL readiness.
 - `evidence/validation/stage-26a-validation-run-log.md` records Stage 26A validation evidence and is checked by Stage 27A coverage controls. It is not raw transcript proof or readiness assurance.
 - `evidence/bristol_public_source_status.csv` records Stage 28A status for `SRC-BCC-0001`, `SRC-BCC-0002` and `SRC-BCC-0020`. It is selected-source coverage only and does not prove source truth, currentness, media accuracy, legal correctness or WPL readiness.
+- `docs/agents/subagent-stage-packet-template.md` records Stage 29A bounded context-control packet expectations. It is instruction/template presence only and does not prove future-stage compliance.
 
 ## Controlled Gate Reports
 
@@ -262,6 +268,8 @@ Current gate reports live under `review/stage_gate_reports/`. Key current report
 - `review/stage_gate_reports/stage-25a-stage-gate-report-evidence-consistency-report.md`
 - `review/stage_gate_reports/stage-26a-validation-evidence-log-controls-report.md`
 - `review/stage_gate_reports/stage-27a-validation-evidence-coverage-report.md`
+- `review/stage_gate_reports/stage-28a-bristol-live-public-source-coverage-report.md`
+- `review/stage_gate_reports/stage-29a-subagent-context-control-hardening-report.md`
 
 ## Context Discipline
 
@@ -308,6 +316,7 @@ make dashboard-consistency-qa
 make stage-gate-reports-qa
 make validation-evidence-qa
 make validation-coverage-qa
+make subagent-context-control-qa
 make refresh-external-liveness
 make red-team
 python3 scripts/acquire_sources.py --priority 1_must

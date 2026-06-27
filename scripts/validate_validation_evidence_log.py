@@ -56,6 +56,7 @@ REQUIRED_LIMIT_TERMS = [
 STAGE_LINKS = {
     "Stage 25A": ("ISS-0035", "EG-0053"),
     "Stage 26A": ("ISS-0036", "EG-0054"),
+    "Stage 29A": ("ISS-0039", "EG-0057"),
 }
 
 

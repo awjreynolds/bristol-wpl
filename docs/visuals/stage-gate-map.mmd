@@ -38,6 +38,7 @@ flowchart TD
     AD --> AE["Stage 26A: Validation evidence logging<br/>Logged QA evidence only"]
     AE --> AF["Stage 27A: Latest-stage validation coverage controls<br/>Coverage route only; no readiness proof"]
     AF --> AG["Stage 28A: Bristol live public-source coverage<br/>SRC-BCC-0001 SRC-BCC-0002 media context SRC-BCC-0020<br/>does not prove source truth currentness or WPL readiness"]
+    AG --> AH["Stage 29A: Subagent context-control hardening<br/>Instruction/template presence only<br/>does not prove future agents obey instructions or WPL readiness"]
 
     B -. "P0: Bristol route and WECA/MCA role" .-> G
     D -. "P0: boundary and inventory" .-> G
@@ -80,11 +81,12 @@ flowchart TD
     AE -. "Logged command evidence does not prove evidence truth source currentness professional assurance or readiness" .-> K2
     AF -. "Coverage controls do not prove evidence truth source currentness professional assurance or readiness" .-> K2
     AG -. "Public-source coverage does not prove media accuracy formal decision status legal correctness or WPL readiness" .-> K2
+    AH -. "Context-control hardening does not prove future compliance evidence truth legal correctness professional assurance or WPL readiness" .-> K2
 
     classDef blocked fill:#ffdddd,stroke:#990000,color:#111111;
     classDef control fill:#fff4cc,stroke:#996600,color:#111111;
     classDef current fill:#ddf4ff,stroke:#005f99,color:#111111;
 
     class G,I,K blocked;
-    class A,B,C,D,E,F,F2,H,J,J2,K2,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z,AA,AB,AC,AD,AE,AF,Caption,Legend control;
-    class AG current;
+    class A,B,C,D,E,F,F2,H,J,J2,K2,L,M,N,O,P,Q,R,S,T,U,V,W,X,Y,Z,AA,AB,AC,AD,AE,AF,AG,Caption,Legend control;
+    class AH current;

@@ -31,6 +31,7 @@ The simulation has mostly completed control architecture, not substantive case e
 | Treating editable authoring scaffolds as assembled decision papers | Stage 17A | Premature OBC/FBC, statutory, consultation, officer-review or PDF distribution claims | Authoring output register, blocked assembly scripts and `python3 scripts/validate_authoring_guardrails.py` |
 | Treating Nottingham lessons as Bristol forecasts or ready parking mitigation | Stage 18A | Unsupported displacement, CPZ/RPZ, congestion, revenue, mode-shift, acceptability or employer-behaviour claims | Transferability matrix, displacement checklist and `python3 scripts/validate_nottingham_transferability.py` |
 | Treating public pages, press releases and media articles as equivalent evidence | Stage 28A | Unsupported source-truth, media-accuracy, formal-decision, legal-route or WPL-readiness claims | Bristol live public-source coverage table, `SRC-BCC-0001`, `SRC-BCC-0002`, media context `SRC-BCC-0020` and `python3 scripts/validate_bristol_public_sources.py`; does not prove source truth, currentness or WPL readiness |
+| Treating bounded subagent packets as proof of future compliance or assurance | Stage 29A | False confidence that future agents will avoid hallucination, have complete context or provide professional review | `docs/agents/subagent-stage-packet-template.md` and `python3 scripts/validate_subagent_context_control.py`; does not prove future agents obey instructions, evidence truth, legal correctness, professional assurance or WPL readiness |
 
 ## Risk Registers
 

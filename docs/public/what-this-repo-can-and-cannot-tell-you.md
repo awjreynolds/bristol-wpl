@@ -19,6 +19,7 @@ It cannot tell you that Bristol has approved, launched or submitted a Workplace 
 | Editable authoring guardrails exist. | Future outputs should remain editable and evidence-linked. | OBC, FBC, consultation, statutory and officer-review outputs are not assembled. | Editable templates are ready decision papers or authored officer-distribution PDFs. |
 | Nottingham displacement and CPZ/RPZ risks are recorded. | Parking controls could be considered as possible future mitigation. | Boundary, parking inventory, residential baseline, option maps, costs, enforcement capacity and consultation evidence are absent. | CPZ/RPZ mitigation is selected, costed, consulted on or ready. |
 | Stage 28A records Bristol live public-source coverage for `SRC-BCC-0001`, `SRC-BCC-0002` and media context `SRC-BCC-0020`. | The three user-provided Bristol links are source-typed and claim-limited. | Source truth, currentness, media accuracy, formal decision status, legal correctness and professional assurance remain open. | The selected public sources prove WPL readiness. |
+| Stage 29A records subagent context-control hardening. | Future-stage bounded task-packet instructions and a template exist. | Future agent compliance, prompt fidelity, context isolation, reasoning quality and substantive assurance remain open. | The template proves future agents will obey instructions or avoid hallucination. |
 
 ## Reader Safeguard
 

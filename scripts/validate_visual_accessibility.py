@@ -70,6 +70,8 @@ REQUIRED_MERMAID_PHRASES = {
         "Stage 27A",
         "Stage 28A",
         "Bristol live public-source coverage",
+        "Stage 29A",
+        "Subagent context-control hardening",
     ],
     "docs/visuals/risk-control-atlas.mmd": [
         "flowchart",
@@ -85,6 +87,7 @@ REQUIRED_MERMAID_PHRASES = {
         "Validation evidence log",
         "Latest-stage validation coverage",
         "Bristol live public-source coverage",
+        "Subagent context-control hardening",
         "Legend",
     ],
 }

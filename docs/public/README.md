@@ -30,6 +30,8 @@ Some source pages change or disappear. A source-link/freshness check records wha
 
 Stage 28A adds Bristol live public-source coverage for `SRC-BCC-0001`, `SRC-BCC-0002` and `SRC-BCC-0020`. The first two are official public-body sources with strict claim limits. `SRC-BCC-0020` is Bristol Post media context only. This coverage does not prove source truth, currentness, media accuracy, formal decision status or WPL readiness.
 
+Stage 29A adds subagent context-control hardening for future stages. It provides a bounded packet template and instruction checks. It does not prove future agents obey instructions, evidence truth, legal correctness, professional assurance, substantive gate correctness or WPL readiness.
+
 ## What This Repo Is
 
 - An auditable simulation workspace.
@@ -65,6 +67,7 @@ The simulation currently says:
 - validation evidence logs exist, but they do not prove evidence truth, source currentness, legal correctness, professional assurance or readiness;
 - validation evidence coverage checks exist, but they do not prove command authenticity, command sufficiency, evidence truth, source currentness, legal correctness, professional assurance or readiness;
 - Bristol live public-source coverage exists, but it does not prove source truth, currentness, media accuracy, formal decision status, legal correctness, professional assurance or readiness;
+- subagent context-control hardening exists, but it does not prove future agents obey instructions, prompt fidelity, actual context isolation, reasoning quality, professional assurance or readiness;
 - Nottingham lessons cannot be copied to Bristol without transferability evidence.
 
 ## Where To Start
@@ -83,6 +86,8 @@ The simulation currently says:
 | Source-link QA maintainer | `scripts/validate_external_liveness.py` | Offline validation of recorded source-link reachability metadata |
 | Checking the three Bristol public links | `docs/public/bristol-live-public-source-status.md` | Stage 28A Bristol live public-source coverage for `SRC-BCC-0001`, `SRC-BCC-0002` and media context `SRC-BCC-0020` |
 | Bristol public-source QA maintainer | `scripts/validate_bristol_public_sources.py` | Checks source-status rows and no-overclaim wording; does not prove source truth, currentness or WPL readiness |
+| Future-stage agent/context maintainer | `docs/agents/subagent-stage-packet-template.md` | Bounded subagent packet template; instruction/template presence only |
+| Subagent context-control QA maintainer | `scripts/validate_subagent_context_control.py` | Checks Stage 29A context-control wording; does not prove future agents obey instructions |
 | Register integrity reviewer | `scripts/validate_register_references.py` | Cross-register ID and selected control-path checks |
 | Dashboard consistency reviewer | `scripts/validate_dashboard_consistency.py` | README and officer-dashboard blocker surfacing checks |
 | Stage-gate report reviewer | `scripts/validate_stage_gate_reports.py` | Recent gate-report structure checks; not evidence truth, source currentness or readiness |
@@ -101,4 +106,4 @@ The simulation currently says:
 
 ## Visual Map
 
-See `docs/visuals/stage-gate-map.mmd` for the current stage-gate flow, `docs/visuals/risk-control-atlas.mmd` for the simplified risk-control flow, `docs/visuals/visual-accessibility-qa-register.csv` for static visual QA and text fallback controls, `docs/public/source-link-and-freshness-status.md` for source-link/freshness status, `docs/public/bristol-live-public-source-status.md` for Bristol live public-source coverage, and `evidence/validation/README.md` for logged validation evidence and coverage limits.
+See `docs/visuals/stage-gate-map.mmd` for the current stage-gate flow, `docs/visuals/risk-control-atlas.mmd` for the simplified risk-control flow, `docs/visuals/visual-accessibility-qa-register.csv` for static visual QA and text fallback controls, `docs/public/source-link-and-freshness-status.md` for source-link/freshness status, `docs/public/bristol-live-public-source-status.md` for Bristol live public-source coverage, `docs/agents/subagent-stage-packet-template.md` for future-stage bounded subagent packets, and `evidence/validation/README.md` for logged validation evidence and coverage limits.
