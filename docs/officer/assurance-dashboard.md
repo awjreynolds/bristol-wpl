@@ -5,7 +5,7 @@ Date: 2026-06-26.
 
 ## One-Line Position
 
-This is a controlled simulation. It is not an approved Bristol WPL scheme, not an OBC/FBC, not consultation-ready and not statutory-submission-ready.
+This is a controlled simulation. It includes a shipped editable OBC simulation release, but it is not an approved Bristol WPL scheme, not an approved OBC/FBC, not consultation-ready and not statutory-submission-ready.
 
 ## Simulation Control Dashboard
 
@@ -40,6 +40,7 @@ RAG colours describe repository control status, not real-world WPL readiness. `G
 | Stage 29A validation coverage | Stage 29A validation rows and log are checked by the lagged coverage validator | GREEN for lagged coverage only / AMBER for reliance | Stage 30A records validation coverage for Stage 29A. `ISS-0040`, `EG-0058` and `RISK-0043` remain open controls; the check does not prove command sufficiency command authenticity future agent compliance evidence truth legal correctness professional assurance substantive gate correctness or WPL readiness. | Use `scripts/validate_validation_coverage.py`; obtain separate command sufficiency evidence substantive source legal appraisal consultation statutory and professional review before reliance |
 | Stage 30A validation evidence logging | Stage 30A validation commands are recorded in the validation register and log | GREEN for validation-log control only / AMBER for reliance | Stage 31A records validation evidence for Stage 30A. `ISS-0041`, `EG-0059` and `RISK-0044` remain open controls; the check does not prove command sufficiency command authenticity evidence truth source currentness legal correctness professional assurance substantive gate correctness or WPL readiness. | Use `evidence/validation/stage-30a-validation-run-log.md` and `scripts/validate_validation_evidence_log.py`; obtain separate command sufficiency evidence source currentness substantive and professional review before reliance |
 | WECA-style simulated OBC | Full WPL-focused working draft exists for simulation learning only | GREEN for drafting-control only / RED for reliance | Stage 32A records a WECA-style exemplar corpus and simulated Bristol WPL OBC draft. `ISS-0042`, `EG-0060` and `RISK-0045` remain open controls; the draft is not a real Bristol OBC, not a generic procurement engine, not WECA/MCA endorsed, not officer advice and not WPL readiness evidence. | Use `business_case/obc/simulated-working-draft/bristol-wpl-simulated-weca-style-obc.md`, `analysis/weca-obc-fbc-exemplars/stage-32a-weca-obc-fbc-exemplar-corpus.md` and `scripts/validate_obc.py`; obtain real source refresh legal finance modelling equalities consultation data commercial statutory and public-authority review before reliance |
+| OBC simulation release | Complete editable OBC simulation is shipped for reading and critique | GREEN for simulation-release control only / RED for reliance | Stage 33A records the shipped OBC simulation release. `ISS-0043`, `EG-0061` and `RISK-0046` remain open controls; the release is not an approved Bristol OBC, not officer advice, not procurement authority, not consultation-ready and not statutory-ready. | Use `business_case/obc/simulation-release/bristol-wpl-outline-business-case-simulation-release.md` and `review/stage_gate_reports/stage-33a-obc-simulation-release-report.md`; obtain real public-authority ownership and professional review before reliance |
 | Data protection and operations | Not ready | AMBER | ISS-0006 and RISK-0007 remain open | DPIA, lawful basis, PCN, appeals, recovery and service controls |
 | Nottingham transfer | Not transferable to Bristol yet | RED for reliance / AMBER for lessons control | EG-0004, EG-0008, EG-0046, ISS-0005, RISK-0006 and RISK-0009 remain open; no Bristol outcome, mitigation package or CPZ/RPZ readiness follows from comparator evidence | Refreshed Nottingham evidence, Bristol transferability assessment and mitigation options to assess, not selected mitigation |
 
@@ -72,6 +73,7 @@ RAG colours describe repository control status, not real-world WPL readiness. `G
 | Stage 30A records validation coverage for Stage 29A. | That Stage 29A commands were sufficient, independently authenticated, or prove future agent compliance, evidence truth, professional assurance or WPL readiness. |
 | Stage 31A records validation evidence for Stage 30A. | That Stage 30A commands were sufficient, independently authenticated, or prove evidence truth, professional assurance or WPL readiness. |
 | Stage 32A records a WECA-style WPL OBC simulation. | That a real Bristol OBC exists, that WECA/MCA endorsed it, that procurement authority exists, or that consultation, statutory or WPL readiness has changed. |
+| Stage 33A records a shipped editable OBC simulation release. | Not that a real Bristol OBC has been approved, officer advice exists, procurement authority exists, consultation can launch, statutory submission is ready or WPL readiness has changed. |
 | Stage 14B-E record public-repository security controls. | That GitGuardian has closed its alert or that WPL readiness has changed. |
 | Nottingham can inform lessons. | That Nottingham impacts transfer to Bristol. |
 
@@ -99,7 +101,9 @@ RAG colours describe repository control status, not real-world WPL readiness. `G
 - Subagent context-control QA: `scripts/validate_subagent_context_control.py`
 - Stage 29A validation coverage: `review/stage_gate_reports/stage-30a-validation-coverage-for-stage-29a-report.md`
 - Stage 30A validation evidence log: `evidence/validation/stage-30a-validation-run-log.md`
+- Stage 33A OBC simulation release: `business_case/obc/simulation-release/bristol-wpl-outline-business-case-simulation-release.md`
 - Stage 32A simulated OBC: `business_case/obc/simulated-working-draft/bristol-wpl-simulated-weca-style-obc.md`
+- Stage 33A release gate report: `review/stage_gate_reports/stage-33a-obc-simulation-release-report.md`
 - Stage 32A WECA exemplar corpus: `analysis/weca-obc-fbc-exemplars/stage-32a-weca-obc-fbc-exemplar-corpus.md`
 - Next steps: `docs/officer/next-steps-critical-path.md`
 - Source notes: `evidence/source_notes/README.md`

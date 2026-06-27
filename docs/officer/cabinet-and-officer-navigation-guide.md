@@ -33,6 +33,7 @@ The repo records a simulation workflow: evidence gathered, risks found, controls
 | Stage 29A validation coverage | Controlled only | Stage 29A validation rows and log are covered by `scripts/validate_validation_coverage.py`; this does not prove command sufficiency, command authenticity, future agent compliance, evidence truth, legal correctness, professional assurance or WPL readiness. |
 | Stage 30A validation evidence log | Controlled only | Stage 30A validation commands are recorded in `evidence/validation/stage-30a-validation-run-log.md`; this does not prove command sufficiency, command authenticity, evidence truth, legal correctness, professional assurance or WPL readiness. |
 | WECA-style simulated OBC | Controlled only | Stage 32A creates a full editable WPL-focused draft and exemplar corpus; this is not a real Bristol OBC, not WECA/MCA endorsed, not a procurement authority and not WPL readiness evidence. |
+| OBC simulation release | Controlled only | Stage 33A ships the editable OBC simulation for reading and critique; this is not an approved Bristol OBC, not officer advice, not procurement authority and not WPL readiness evidence. |
 
 ## Top Blockers In Plain English
 
@@ -57,6 +58,7 @@ The repo records a simulation workflow: evidence gathered, risks found, controls
 | How should future stages use subagents without context bloat? | `docs/agents/subagent-stage-packet-template.md` | `instructions/20-stage-continuation-and-context-control.md` and `scripts/validate_subagent_context_control.py` |
 | Is Stage 29A validation coverage tracked? | `review/stage_gate_reports/stage-30a-validation-coverage-for-stage-29a-report.md` | `scripts/validate_validation_coverage.py` and `tests/test_validation_coverage.py` |
 | Is Stage 30A validation evidence logged? | `evidence/validation/stage-30a-validation-run-log.md` | `scripts/validate_validation_evidence_log.py` and `tests/test_validation_evidence_log.py` |
+| Where is the shipped OBC simulation? | `business_case/obc/simulation-release/bristol-wpl-outline-business-case-simulation-release.md` | `review/stage_gate_reports/stage-33a-obc-simulation-release-report.md` |
 | Where is the simulated WECA-style OBC? | `business_case/obc/simulated-working-draft/bristol-wpl-simulated-weca-style-obc.md` | `analysis/weca-obc-fbc-exemplars/stage-32a-weca-obc-fbc-exemplar-corpus.md` and `review/stage_gate_reports/stage-32a-weca-obc-fbc-exemplar-corpus-report.md` |
 | What documents exist? | `docs/officer/document-map.md` | `docs/authoring/README.md` |
 

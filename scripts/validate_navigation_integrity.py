@@ -51,6 +51,9 @@ REQUIRED_NAV_REFERENCES = {
         "review/stage_gate_reports/stage-32a-weca-obc-fbc-exemplar-corpus-report.md",
         "business_case/obc/simulated-working-draft/bristol-wpl-simulated-weca-style-obc.md",
         "analysis/weca-obc-fbc-exemplars/stage-32a-weca-obc-fbc-exemplar-corpus.md",
+        "business_case/obc/simulation-release/bristol-wpl-outline-business-case-simulation-release.md",
+        "business_case/obc/simulation-release/README.md",
+        "review/stage_gate_reports/stage-33a-obc-simulation-release-report.md",
     ],
     "docs/public/README.md": [
         "docs/public/how-to-read-this-repo.md",
@@ -95,6 +98,8 @@ REQUIRED_NAV_REFERENCES = {
         "review/stage_gate_reports/stage-31a-validation-evidence-log-for-stage-30a-report.md",
         "stage-32a-weca-obc-fbc-exemplar-corpus.md",
         "review/stage_gate_reports/stage-32a-weca-obc-fbc-exemplar-corpus-report.md",
+        "stage-33a-obc-simulation-release.md",
+        "review/stage_gate_reports/stage-33a-obc-simulation-release-report.md",
     ],
 }
 
@@ -114,6 +119,7 @@ REQUIRED_STAGE_REPORTS = [
     "review/stage_gate_reports/stage-30a-validation-coverage-for-stage-29a-report.md",
     "review/stage_gate_reports/stage-31a-validation-evidence-log-for-stage-30a-report.md",
     "review/stage_gate_reports/stage-32a-weca-obc-fbc-exemplar-corpus-report.md",
+    "review/stage_gate_reports/stage-33a-obc-simulation-release-report.md",
 ]
 
 LINK_PATTERN = re.compile(r"\[[^\]]+\]\(([^)]+)\)")
@@ -201,10 +207,10 @@ def check_required_nav_references() -> list[str]:
 def check_latest_stage_alignment() -> list[str]:
     errors = []
     expectations = {
-        "README.md": "Stage 32A",
-        "docs/stages/README.md": "Stage 32A",
-        "docs/visuals/stage-gate-map.mmd": "Stage 32A",
-        "docs/visuals/risk-control-atlas.mmd": "Stage 32A: WECA-style WPL OBC simulation",
+        "README.md": "Stage 33A",
+        "docs/stages/README.md": "Stage 33A",
+        "docs/visuals/stage-gate-map.mmd": "Stage 33A",
+        "docs/visuals/risk-control-atlas.mmd": "Stage 33A: OBC simulation release",
     }
     for rel, phrase in expectations.items():
         path = ROOT / rel

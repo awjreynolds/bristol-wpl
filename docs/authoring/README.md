@@ -20,12 +20,13 @@ Treat editable outputs as controlled inputs for future assurance, not distributa
 - Editable source-level controls: `evidence/source_notes/`
 - Editable claim-level controls: `evidence/claim_summaries/`
 - Editable OBC and FBC section templates: `business_case/obc/` and `business_case/fbc/`
+- Editable OBC simulation release: `business_case/obc/simulation-release/bristol-wpl-outline-business-case-simulation-release.md`
 - Blocked statutory dossier control placeholders: `statutory_dossier/`
 - Officer/public navigation files: `docs/officer/` and `docs/public/`
 
 ## What Does Not Exist
 
-- No assembled OBC.
+- No real assembled OBC in the blocked `business_case/obc/assembled/` path.
 - No assembled FBC.
 - No officer-review DOCX.
 - No consultation launch pack.

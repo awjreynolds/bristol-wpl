@@ -32,6 +32,7 @@ For example:
 - green Stage 29A validation coverage means the Stage 29A validation rows and log are covered by a lagged check.
 - green Stage 30A validation evidence logging means the Stage 30A commands are recorded in a validation log.
 - green Stage 32A WECA-style OBC simulation means a full editable WPL-focused draft exists for learning and control only.
+- green Stage 33A OBC simulation release means the editable simulation OBC has been shipped for reading and critique only.
 
 None of those green controls approve a charge, boundary, consultation, OBC, FBC or statutory submission.
 
@@ -40,6 +41,7 @@ Stage 29A subagent context-control hardening does not prove future agents obey i
 Stage 30A validation coverage for Stage 29A does not prove command sufficiency, command authenticity, future agent compliance, evidence truth, legal correctness, professional assurance, substantive gate correctness or WPL readiness.
 Stage 31A validation evidence logging for Stage 30A does not prove command sufficiency, command authenticity, evidence truth, source currentness, legal correctness, professional assurance, substantive gate correctness or WPL readiness.
 Stage 32A WECA-style OBC simulation does not prove a real Bristol OBC exists, does not prove WECA/MCA endorsement, and does not create procurement authority, consultation readiness, statutory readiness, professional assurance or WPL readiness.
+Stage 33A OBC simulation release does not prove a real Bristol OBC has been approved, does not create officer advice, and does not create procurement authority, consultation readiness, statutory readiness, professional assurance or WPL readiness.
 
 ## What Red Means
 
@@ -67,6 +69,7 @@ The most important red blockers are:
 | How should future agents avoid context bloat? | `docs/agents/subagent-stage-packet-template.md` |
 | Was Stage 29A validation evidence covered by the lagged check? | `review/stage_gate_reports/stage-30a-validation-coverage-for-stage-29a-report.md` |
 | Was Stage 30A validation evidence logged? | `evidence/validation/stage-30a-validation-run-log.md` |
+| Where is the shipped OBC simulation? | `business_case/obc/simulation-release/bristol-wpl-outline-business-case-simulation-release.md` |
 | Where is the simulated WECA-style OBC? | `business_case/obc/simulated-working-draft/bristol-wpl-simulated-weca-style-obc.md` |
 | What WECA examples shaped the OBC style? | `analysis/weca-obc-fbc-exemplars/stage-32a-weca-obc-fbc-exemplar-corpus.md` |
 | What can be learned from Nottingham? | `docs/officer/nottingham-and-comparator-lessons.md` |

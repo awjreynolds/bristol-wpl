@@ -23,6 +23,11 @@ REQUIRED_FILES = [
     "business_case/obc/controls/no-go-claim-register.csv",
     "business_case/obc/controls/obc-assurance-review-plan.md",
     "business_case/obc/simulated-working-draft/bristol-wpl-simulated-weca-style-obc.md",
+    "business_case/obc/simulation-release/README.md",
+    "business_case/obc/simulation-release/bristol-wpl-outline-business-case-simulation-release.md",
+    "analysis/context/stage-33a-obc-simulation-release/stage-context.md",
+    "docs/stages/stage-33a-obc-simulation-release.md",
+    "review/stage_gate_reports/stage-33a-obc-simulation-release-report.md",
     "business_case/shared/assembly_manifest.md",
     "scripts/assemble_obc.py",
 ]
@@ -128,6 +133,12 @@ STAGE_32A_STATUS_PHRASE = (
     "not Secretary of State confirmed and not for real-world reliance."
 )
 
+STAGE_33A_STATUS_PHRASE = (
+    "Stage 33A simulated OBC release package. Not an approved Bristol OBC, "
+    "not officer advice, not a consultation document, not WECA/MCA/DfT endorsed, "
+    "not Secretary of State confirmed, not procurement authority and not for real-world reliance."
+)
+
 REQUIRED_PHRASES = {
     "analysis/obc/stage-6a-obc-readiness-control-package.md": [
         "does not assemble an OBC",
@@ -153,6 +164,27 @@ REQUIRED_PHRASES = {
         "Stage 32A promotes WECA-facing OBC/FBC examples",
         "simulation-only",
         "not impersonate an approved Bristol City Council, WECA/MCA, DfT or Secretary of State document",
+    ],
+    "business_case/obc/simulation-release/bristol-wpl-outline-business-case-simulation-release.md": [
+        STAGE_33A_STATUS_PHRASE,
+        "Stage 7 OBC gate remains blocked",
+        "not procurement authority",
+        "not for real-world reliance",
+    ],
+    "business_case/obc/simulation-release/README.md": [
+        "Stage 33A simulation release package",
+        "not an approved Bristol OBC",
+        "The real OBC assembly gate remains blocked",
+    ],
+    "analysis/context/stage-33a-obc-simulation-release/stage-context.md": [
+        "Stage 33A ships the editable Bristol WPL OBC simulation",
+        "It does not create a real assembled OBC",
+        "Stage 33A simulated OBC release package",
+    ],
+    "review/stage_gate_reports/stage-33a-obc-simulation-release-report.md": [
+        "accepted for simulation-release use only",
+        "not a real assembled OBC",
+        "does not prove evidence truth",
     ],
 }
 
@@ -386,6 +418,27 @@ def check_stage32a_simulation_status() -> list[str]:
     return errors
 
 
+def check_stage33a_simulation_release() -> list[str]:
+    errors = []
+    rel = "business_case/obc/simulation-release/bristol-wpl-outline-business-case-simulation-release.md"
+    path = ROOT / rel
+    if not path.exists():
+        return [f"missing Stage 33A OBC simulation release file: {rel}"]
+    text = path.read_text(encoding="utf-8")
+    for phrase in [
+        STAGE_33A_STATUS_PHRASE,
+        "Stage 7 OBC gate remains blocked",
+        "Stage 33A ships an editable simulation artefact",
+        "not procurement authority",
+        "not for real-world reliance",
+    ]:
+        if phrase not in text:
+            errors.append(f"{rel} missing Stage 33A simulation-release phrase: {phrase}")
+    if "business_case/obc/assembled/" not in (ROOT / "business_case/obc/simulation-release/README.md").read_text(encoding="utf-8"):
+        errors.append("business_case/obc/simulation-release/README.md must identify the blocked assembled path")
+    return errors
+
+
 def check_stage32a_exemplar_corpus() -> list[str]:
     errors = []
     exemplar_rows = read_rows("analysis/weca-obc-fbc-exemplars/exemplar-register.csv")
@@ -510,6 +563,7 @@ def check_no_go_claims() -> list[str]:
         "minutes report packs or programme lines are full OBC FBC exemplars",
         "simulation sign-off replaces officer legal Monitoring Officer Section 151 finance modelling data consultation or professional review",
         "Stage 32A draft may be distributed as an officer report committee report WECA submission or consultation document",
+        "Stage 33A simulation release is an approved Bristol OBC officer advice procurement authority consultation pack or statutory submission",
     }
     present = {row.get("prohibited_claim", "") for row in rows}
     for claim in required:
@@ -556,6 +610,9 @@ def check_positive_claims() -> list[str]:
         "analysis/weca-obc-fbc-exemplars/weca-style-obc-authoring-standard.md",
         *OBC_SECTION_FILES,
         "business_case/obc/simulated-working-draft/bristol-wpl-simulated-weca-style-obc.md",
+        "business_case/obc/simulation-release/README.md",
+        "business_case/obc/simulation-release/bristol-wpl-outline-business-case-simulation-release.md",
+        "review/stage_gate_reports/stage-33a-obc-simulation-release-report.md",
     ]
     for rel in paths:
         path = ROOT / rel
@@ -608,6 +665,7 @@ def collect_control_errors() -> list[str]:
     errors.extend(check_required_phrases())
     errors.extend(check_section_control_notes())
     errors.extend(check_stage32a_simulation_status())
+    errors.extend(check_stage33a_simulation_release())
     errors.extend(check_obc_output_roots_empty())
     errors.extend(check_dependency_matrix_blocks())
     errors.extend(check_claim_dependency_register())

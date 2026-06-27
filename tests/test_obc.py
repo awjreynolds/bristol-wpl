@@ -7,6 +7,7 @@ import csv
 from scripts.validate_obc import (
     OBC_SECTION_FILES,
     STAGE_32A_STATUS_PHRASE,
+    STAGE_33A_STATUS_PHRASE,
     check_positive_claims,
     check_obc_output_roots_empty,
     collect_readiness_blockers,
@@ -35,6 +36,15 @@ class ObcControlTest(unittest.TestCase):
         text = draft.read_text(encoding="utf-8")
         self.assertIn(STAGE_32A_STATUS_PHRASE, text)
         self.assertIn("Stage 7 OBC gate remains blocked", text)
+        self.assertIn("not for real-world reliance", text)
+
+    def test_stage33a_simulation_release_is_allowed_only_with_status_formula(self):
+        release = ROOT / "business_case/obc/simulation-release/bristol-wpl-outline-business-case-simulation-release.md"
+        self.assertTrue(release.exists())
+        text = release.read_text(encoding="utf-8")
+        self.assertIn(STAGE_33A_STATUS_PHRASE, text)
+        self.assertIn("Stage 7 OBC gate remains blocked", text)
+        self.assertIn("not procurement authority", text)
         self.assertIn("not for real-world reliance", text)
 
     def test_assemble_obc_blocks_output(self):

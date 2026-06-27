@@ -25,11 +25,13 @@ OPEN_STATUSES = {
 REQUIRED_README_IDS = {
     "ISS-0041",
     "ISS-0042",
+    "ISS-0043",
     "EG-0059",
     "EG-0060",
+    "EG-0061",
 }
 
-REQUIRED_DASHBOARD_IDS = REQUIRED_README_IDS | {"RISK-0044", "RISK-0045"}
+REQUIRED_DASHBOARD_IDS = REQUIRED_README_IDS | {"RISK-0044", "RISK-0045", "RISK-0046"}
 
 REQUIRED_PUBLIC_PHRASES = {
     "README.md": [
@@ -49,6 +51,10 @@ REQUIRED_PUBLIC_PHRASES = {
         "WECA OBC/FBC exemplar corpus",
         "ISS-0042",
         "EG-0060",
+        "Stage 33A",
+        "OBC simulation release package",
+        "ISS-0043",
+        "EG-0061",
     ],
     "docs/officer/assurance-dashboard.md": [
         "Validation evidence coverage",
@@ -69,6 +75,9 @@ REQUIRED_PUBLIC_PHRASES = {
         "WECA-style simulated OBC",
         "Stage 32A records a WECA-style exemplar corpus",
         "scripts/validate_obc.py",
+        "OBC simulation release",
+        "Stage 33A records the shipped OBC simulation release.",
+        "business_case/obc/simulation-release/bristol-wpl-outline-business-case-simulation-release.md",
     ],
     "docs/stages/README.md": [
         "Stage 27A",
@@ -83,6 +92,8 @@ REQUIRED_PUBLIC_PHRASES = {
         "validation evidence log for Stage 30A",
         "Stage 32A",
         "WECA OBC/FBC exemplar corpus",
+        "Stage 33A",
+        "OBC simulation release package",
     ],
     "docs/visuals/stage-gate-map.mmd": [
         "Stage 29A",
@@ -93,6 +104,8 @@ REQUIRED_PUBLIC_PHRASES = {
         "Validation evidence log for Stage 30A",
         "Stage 32A",
         "WECA-style WPL OBC simulation",
+        "Stage 33A",
+        "OBC simulation release",
     ],
     "docs/visuals/risk-control-atlas.mmd": [
         "Subagent context-control hardening",
@@ -103,6 +116,8 @@ REQUIRED_PUBLIC_PHRASES = {
         "ISS-0041 EG-0059 RISK-0044",
         "Stage 32A: WECA-style WPL OBC simulation",
         "ISS-0042 EG-0060 RISK-0045",
+        "Stage 33A: OBC simulation release",
+        "ISS-0043 EG-0061 RISK-0046",
     ],
 }
 
@@ -257,6 +272,15 @@ def check_latest_stage_register_rows() -> list[str]:
         ("governance/decision_log.csv", "decision_id", "DEC-0046"),
         ("governance/approvals_register.csv", "approval_id", "APP-0051"),
         ("governance/simulation_signoff_register.csv", "signoff_id", "SSO-0113"),
+        ("governance/issues_register.csv", "issue_id", "ISS-0043"),
+        ("governance/risk_register.csv", "risk_id", "RISK-0046"),
+        ("governance/pitfalls_register.csv", "pitfall_id", "PIT-0040"),
+        ("evidence/evidence_gap_register.csv", "gap_id", "EG-0061"),
+        ("governance/requirements_register.csv", "requirement_id", "REQ-0054"),
+        ("governance/checks_and_balances_register.csv", "control_id", "CB-0040"),
+        ("governance/decision_log.csv", "decision_id", "DEC-0047"),
+        ("governance/approvals_register.csv", "approval_id", "APP-0052"),
+        ("governance/simulation_signoff_register.csv", "signoff_id", "SSO-0115"),
     ]
     errors: list[str] = []
     for rel, column, row_id in expected:

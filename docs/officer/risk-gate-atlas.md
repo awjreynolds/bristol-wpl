@@ -26,6 +26,7 @@ This atlas explains where the main risks sit in the simulated workflow. It is a 
 | Stage 29A validation coverage | Controlled but not command sufficiency proof | Lagged coverage mistaken for proof that Stage 29A commands were sufficient or that future agents comply | `ISS-0040`; `RISK-0043`; `PIT-0037`; `EG-0058` | Separate command sufficiency evidence, substantive source review and professional review before reliance |
 | Stage 30A validation evidence log | Controlled but not command sufficiency proof | Command-run logs mistaken for proof that commands were sufficient, authentic or assurance-grade | `ISS-0041`; `RISK-0044`; `PIT-0038`; `EG-0059` | Separate command sufficiency evidence, source currentness review, substantive review and professional review before reliance |
 | WECA-style simulated OBC | Controlled but not real OBC or procurement authority | Professional form mistaken for Bristol officer advice, WECA/MCA endorsement, consultation readiness, statutory readiness or WPL readiness | `ISS-0042`; `RISK-0045`; `PIT-0039`; `EG-0060` | Source refresh, legal, finance, modelling, equalities, consultation, data, commercial, statutory and public-authority review before reliance |
+| OBC simulation release | Controlled but not approved OBC or officer advice | Shipped simulation release mistaken for real OBC approval, procurement authority, consultation readiness, statutory readiness or WPL readiness | `ISS-0043`; `RISK-0046`; `PIT-0040`; `EG-0061` | Real public-authority ownership, source refresh, professional review and formal gate approval before reliance |
 
 ## How To Use This Atlas
 
@@ -50,3 +51,4 @@ Stage 29A subagent context-control hardening does not prove future agents obey i
 Stage 30A validation coverage for Stage 29A does not prove command sufficiency, command authenticity, future agent compliance, evidence truth, legal correctness, professional assurance or WPL readiness.
 Stage 31A validation evidence logging for Stage 30A does not prove command sufficiency, command authenticity, evidence truth, source currentness, legal correctness, professional assurance or WPL readiness.
 Stage 32A WECA-style OBC simulation does not prove real OBC status, WECA/MCA endorsement, procurement authority, consultation readiness, statutory readiness, professional assurance or WPL readiness.
+Stage 33A OBC simulation release does not prove real OBC approval, officer advice, procurement authority, consultation readiness, statutory readiness, professional assurance or WPL readiness.

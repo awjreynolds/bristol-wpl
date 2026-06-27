@@ -135,6 +135,22 @@ REPORTS = {
             "substantive gate correctness",
         ],
     },
+    "review/stage_gate_reports/stage-33a-obc-simulation-release-report.md": {
+        "stage": "Stage 33A",
+        "focused_commands": [
+            "python3 scripts/validate_obc.py",
+            "python3 -m unittest tests.test_obc",
+            "python3 scripts/validate_navigation_integrity.py",
+            "python3 scripts/validate_dashboard_consistency.py",
+        ],
+        "extra_limit_terms": [
+            "source currentness",
+            "legal correctness",
+            "procurement authority",
+            "consultation readiness",
+            "substantive gate correctness",
+        ],
+    },
 }
 
 COMMON_COMMANDS = [
