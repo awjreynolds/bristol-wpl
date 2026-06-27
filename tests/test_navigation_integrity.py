@@ -21,7 +21,7 @@ class NavigationIntegrityTest(unittest.TestCase):
 
     def test_latest_stage_navigation_is_present(self):
         for rel in ["README.md", "docs/stages/README.md", "docs/visuals/stage-gate-map.mmd"]:
-            self.assertIn("Stage 26A", (ROOT / rel).read_text(encoding="utf-8"))
+            self.assertIn("Stage 27A", (ROOT / rel).read_text(encoding="utf-8"))
 
     def test_recent_stage_reports_are_linked_from_readme(self):
         readme = (ROOT / "README.md").read_text(encoding="utf-8")
@@ -35,6 +35,7 @@ class NavigationIntegrityTest(unittest.TestCase):
             "review/stage_gate_reports/stage-24a-dashboard-blocker-consistency-report.md",
             "review/stage_gate_reports/stage-25a-stage-gate-report-evidence-consistency-report.md",
             "review/stage_gate_reports/stage-26a-validation-evidence-log-controls-report.md",
+            "review/stage_gate_reports/stage-27a-validation-evidence-coverage-report.md",
         ]:
             self.assertIn(report, readme)
             self.assertTrue((ROOT / report).exists())

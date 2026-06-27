@@ -28,8 +28,8 @@ REQUIRED_FILES = [
 REQUIRED_PHRASES = {
     "README.md": [
         "Current Reader Answer",
-        "Stage 26A",
-        "validation evidence log controls",
+        "Stage 27A",
+        "validation evidence coverage controls",
         "It does not approve, launch, fund, procure or submit a Bristol Workplace Parking Levy.",
         "docs/public/how-to-read-this-repo.md",
         "docs/public/source-link-and-freshness-status.md",
@@ -37,6 +37,7 @@ REQUIRED_PHRASES = {
         "scripts/validate_dashboard_consistency.py",
         "scripts/validate_stage_gate_reports.py",
         "scripts/validate_validation_evidence_log.py",
+        "scripts/validate_validation_coverage.py",
         "evidence/validation/README.md",
         "docs/officer/risk-gate-atlas.md",
         "docs/visuals/risk-control-atlas.mmd",
@@ -51,6 +52,7 @@ REQUIRED_PHRASES = {
         "scripts/validate_dashboard_consistency.py",
         "scripts/validate_stage_gate_reports.py",
         "scripts/validate_validation_evidence_log.py",
+        "scripts/validate_validation_coverage.py",
         "evidence/validation/README.md",
         "docs/officer/cabinet-and-officer-navigation-guide.md",
     ],
@@ -61,12 +63,14 @@ REQUIRED_PHRASES = {
         "Stage 19A records public and cabinet comprehension controls.",
         "Stage 25A records stage-gate report structure checks.",
         "Stage 26A records validation evidence logs.",
+        "Stage 27A records validation evidence coverage checks.",
     ],
     "docs/stages/README.md": [
         "Gate Taxonomy",
         "Stage 19A",
         "Stage 25A",
         "Stage 26A",
+        "Stage 27A",
         "not evidence that readers understand the repo",
         "does not pass a readiness gate",
     ],
@@ -129,6 +133,7 @@ REQUIRED_CROSSWALK_STAGES = {
     "Stage 24A",
     "Stage 25A",
     "Stage 26A",
+    "Stage 27A",
 }
 
 REQUIRED_REGISTER_ROWS = [
@@ -272,7 +277,7 @@ def check_visual_language() -> list[str]:
         text = stage_map.read_text(encoding="utf-8")
         if "Complete" in text:
             errors.append("docs/visuals/stage-gate-map.mmd must not use standalone Complete labels")
-        for phrase in ["Stage 19A", "Navigation only; no tested comprehension", "Stage 20A", "Stage 21A", "Stage 22A", "Stage 23A", "Stage 24A", "Stage 25A", "Stage 26A"]:
+        for phrase in ["Stage 19A", "Navigation only; no tested comprehension", "Stage 20A", "Stage 21A", "Stage 22A", "Stage 23A", "Stage 24A", "Stage 25A", "Stage 26A", "Stage 27A"]:
             if phrase not in text:
                 errors.append(f"docs/visuals/stage-gate-map.mmd missing phrase: {phrase}")
     risk_map = ROOT / "docs/visuals/risk-control-atlas.mmd"
@@ -280,7 +285,7 @@ def check_visual_language() -> list[str]:
         errors.append("missing docs/visuals/risk-control-atlas.mmd")
     else:
         text = risk_map.read_text(encoding="utf-8")
-        for phrase in ["No-go for approval", "Future real-world proof", "Public/cabinet comprehension", "Source-link/freshness status", "Register reference integrity", "Dashboard blocker consistency", "Stage-gate report structure consistency", "Validation evidence log"]:
+        for phrase in ["No-go for approval", "Future real-world proof", "Public/cabinet comprehension", "Source-link/freshness status", "Register reference integrity", "Dashboard blocker consistency", "Stage-gate report structure consistency", "Validation evidence log", "Latest-stage validation coverage"]:
             if phrase not in text:
                 errors.append(f"docs/visuals/risk-control-atlas.mmd missing phrase: {phrase}")
     return errors

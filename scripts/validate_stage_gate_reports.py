@@ -58,6 +58,18 @@ REPORTS = {
             "substantive gate",
         ],
     },
+    "review/stage_gate_reports/stage-27a-validation-evidence-coverage-report.md": {
+        "stage": "Stage 27A",
+        "focused_commands": [
+            "python3 scripts/validate_validation_coverage.py",
+            "python3 -m unittest tests.test_validation_coverage",
+        ],
+        "extra_limit_terms": [
+            "command sufficiency",
+            "source currentness",
+            "substantive gate",
+        ],
+    },
 }
 
 COMMON_COMMANDS = [

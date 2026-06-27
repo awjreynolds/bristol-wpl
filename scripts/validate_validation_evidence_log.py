@@ -53,6 +53,11 @@ REQUIRED_LIMIT_TERMS = [
     "WPL readiness",
 ]
 
+STAGE_LINKS = {
+    "Stage 25A": ("ISS-0035", "EG-0053"),
+    "Stage 26A": ("ISS-0036", "EG-0054"),
+}
+
 
 def read_rows(rel: str) -> list[dict[str, str]]:
     with (ROOT / rel).open(newline="", encoding="utf-8") as handle:
@@ -97,10 +102,15 @@ def check_register() -> list[str]:
         for term in REQUIRED_LIMIT_TERMS:
             if term.lower() not in scope_limit.lower():
                 errors.append(f"{REGISTER}:{row_number} {row_id} scope_limit missing {term}")
-        if "ISS-0035" not in row.get("related_issue_ids", ""):
-            errors.append(f"{REGISTER}:{row_number} {row_id} missing related issue ISS-0035")
-        if "EG-0053" not in row.get("related_gap_ids", ""):
-            errors.append(f"{REGISTER}:{row_number} {row_id} missing related gap EG-0053")
+        stage = row.get("stage", "")
+        if stage not in STAGE_LINKS:
+            errors.append(f"{REGISTER}:{row_number} {row_id} has unsupported validation evidence stage {stage}")
+        else:
+            expected_issue, expected_gap = STAGE_LINKS[stage]
+            if expected_issue not in row.get("related_issue_ids", ""):
+                errors.append(f"{REGISTER}:{row_number} {row_id} missing related issue {expected_issue}")
+            if expected_gap not in row.get("related_gap_ids", ""):
+                errors.append(f"{REGISTER}:{row_number} {row_id} missing related gap {expected_gap}")
     return errors
 
 

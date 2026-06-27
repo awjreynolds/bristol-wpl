@@ -38,8 +38,9 @@ REQUIRED_NAV_REFERENCES = {
         "scripts/validate_dashboard_consistency.py",
         "scripts/validate_stage_gate_reports.py",
         "scripts/validate_validation_evidence_log.py",
+        "scripts/validate_validation_coverage.py",
         "evidence/validation/README.md",
-        "review/stage_gate_reports/stage-26a-validation-evidence-log-controls-report.md",
+        "review/stage_gate_reports/stage-27a-validation-evidence-coverage-report.md",
     ],
     "docs/public/README.md": [
         "docs/public/how-to-read-this-repo.md",
@@ -53,6 +54,7 @@ REQUIRED_NAV_REFERENCES = {
         "scripts/validate_dashboard_consistency.py",
         "scripts/validate_stage_gate_reports.py",
         "scripts/validate_validation_evidence_log.py",
+        "scripts/validate_validation_coverage.py",
         "evidence/validation/README.md",
     ],
     "docs/officer/document-map.md": [
@@ -61,13 +63,14 @@ REQUIRED_NAV_REFERENCES = {
         "scripts/validate_dashboard_consistency.py",
         "scripts/validate_stage_gate_reports.py",
         "scripts/validate_validation_evidence_log.py",
+        "scripts/validate_validation_coverage.py",
         "evidence/validation/README.md",
         "docs/officer/risk-control-crosswalk.csv",
         "docs/visuals/visual-accessibility-qa-register.csv",
     ],
     "docs/stages/README.md": [
-        "stage-26a-validation-evidence-log-controls.md",
-        "review/stage_gate_reports/stage-26a-validation-evidence-log-controls-report.md",
+        "stage-27a-validation-evidence-coverage.md",
+        "review/stage_gate_reports/stage-27a-validation-evidence-coverage-report.md",
     ],
 }
 
@@ -81,6 +84,7 @@ REQUIRED_STAGE_REPORTS = [
     "review/stage_gate_reports/stage-24a-dashboard-blocker-consistency-report.md",
     "review/stage_gate_reports/stage-25a-stage-gate-report-evidence-consistency-report.md",
     "review/stage_gate_reports/stage-26a-validation-evidence-log-controls-report.md",
+    "review/stage_gate_reports/stage-27a-validation-evidence-coverage-report.md",
 ]
 
 LINK_PATTERN = re.compile(r"\[[^\]]+\]\(([^)]+)\)")
@@ -168,10 +172,10 @@ def check_required_nav_references() -> list[str]:
 def check_latest_stage_alignment() -> list[str]:
     errors = []
     expectations = {
-        "README.md": "Stage 26A",
-        "docs/stages/README.md": "Stage 26A",
-        "docs/visuals/stage-gate-map.mmd": "Stage 26A",
-        "docs/visuals/risk-control-atlas.mmd": "Validation evidence log",
+        "README.md": "Stage 27A",
+        "docs/stages/README.md": "Stage 27A",
+        "docs/visuals/stage-gate-map.mmd": "Stage 27A",
+        "docs/visuals/risk-control-atlas.mmd": "Latest-stage validation coverage",
     }
     for rel, phrase in expectations.items():
         path = ROOT / rel

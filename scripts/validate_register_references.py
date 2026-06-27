@@ -171,6 +171,15 @@ def check_latest_stage_register_rows(known: dict[str, set[str]]) -> list[str]:
         "DEC-0040",
         "APP-0045",
         "SSO-0101",
+        "ISS-0037",
+        "RISK-0040",
+        "PIT-0034",
+        "EG-0055",
+        "REQ-0048",
+        "CB-0034",
+        "DEC-0041",
+        "APP-0046",
+        "SSO-0103",
     }
     errors = []
     flat_known = set().union(*known.values())
