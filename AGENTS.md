@@ -9,8 +9,7 @@ Non-negotiables:
 - Every material claim must be cited, labelled as an assumption/inference/proposal, or recorded as a gap.
 - Agent sign-offs are simulation sign-offs only and have no real-world legal, statutory, financial or professional effect.
 
-Detailed operating instructions live in `instructions/`.
-Start with `instructions/00-operating-model.md`, `instructions/10-stage-gates.md` and `instructions/20-stage-continuation-and-context-control.md`.
+For simulation delivery work, read `instructions/00-operating-model.md`. For stage execution, sign-off or continuation, also read `instructions/10-stage-gates.md` and `instructions/20-stage-continuation-and-context-control.md`. Local edits use the affected section's guidance.
 
 For main-agent legal, governance, statutory, OBC/FBC, DfT, WECA/MCA, order-change or consultation work after Stage 2L, start with `analysis/legal/post-stage-2-legal-governance-context-packet.md` before loading long reports or raw evidence. Subagents should receive bounded task packets rather than the whole context set.
 
